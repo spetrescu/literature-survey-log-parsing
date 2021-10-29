@@ -4,5 +4,5 @@ This repository contains the survey methodology for the paper 'Analysing the cur
 Below, for each keyword present in the list, you will find the selected papers used for conducting the literature survey. 
 
 ## Keywords
-- log parsing
-- log parsing survey
+- [log parsing](https://github.com/spetrescu/survey-automated-log-analysis/tree/keywords/log-parsing)
+- [log parsing survey](https://github.com/spetrescu/survey-automated-log-analysis/tree/keywords/log-parsing-survey)
