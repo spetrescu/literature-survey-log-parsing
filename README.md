@@ -8,7 +8,7 @@ Below, for each keyword present in the list, you will find the selected papers u
 - [log parsing](https://github.com/spetrescu/survey-automated-log-analysis/tree/keywords/log-parsing)
 - [log parsing survey](https://github.com/spetrescu/survey-automated-log-analysis/tree/keywords/log-parsing-survey)
 - [log mining nlp](https://github.com/spetrescu/survey-automated-log-analysis/tree/keywords/log-mining-nlp)
-- [log event labelling](https://github.com/spetrescu/survey-automated-log-analysis/tree/keywords/log-event-labelling)
+- [log event labeling](https://github.com/spetrescu/survey-automated-log-analysis/tree/keywords/log-event-labeling)
 - [event labeling logs](https://github.com/spetrescu/survey-automated-log-analysis/tree/keywords/event-labeling-logs)
 - [log clustering](https://github.com/spetrescu/survey-automated-log-analysis/tree/keywords/log-clustering)
 - [failure prediction logs](https://github.com/spetrescu/survey-automated-log-analysis/tree/keywords/failure-prediction-logs)
