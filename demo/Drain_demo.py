@@ -83,10 +83,6 @@ import os
 import tracemalloc
 import csv
 
-input_dir = '../logs/'  # The input directory of log file
-output_dir = 'Drain_result/'  # The output directory of parsing results
-
-
 n = len(sys.argv)
 print("Running ", sys.argv[0])
 print("Arguments passed:", end=" ")
@@ -96,6 +92,7 @@ print()
 DATASET = str(sys.argv[1])
 SIZE = str(sys.argv[2])
 RUN_NO = str(sys.argv[3])
+METHOD = str(sys.argv[4])
 #AUGMENT_TIMES = int(sys.argv[1])
 
 
@@ -231,9 +228,8 @@ benchmark_settings = {
 #
 input_dir  = '../data/augmented_data/'
 LOG_FILE = f"{DATASET}_augmented_{SIZE}k.log"
-output_dir = 'Drain_result/'  # The output directory of parsing results
+output_dir = f'{METHOD}_result/'  # The output directory of parsing results
 
-bechmark_result = []
 for dataset, setting in benchmark_settings.items():
     if DATASET == dataset:
         print('\n=== Evaluation on %s ===' % dataset)
@@ -242,7 +238,7 @@ for dataset, setting in benchmark_settings.items():
         #indir = os.path.join(input_dir, os.path.dirname(setting['log_file']))
         #print("os.path.dirname(setting['log_file'])", os.path.dirname(setting['log_file']))
         #print("indir", indir)
-        log_file = os.path.basename(setting['log_file'])
+        #log_file = os.path.basename(setting['log_file'])
         log_file = LOG_FILE
         print("log_file", log_file)
 
@@ -255,7 +251,10 @@ for dataset, setting in benchmark_settings.items():
         print(f"Current memory usage is {current / 10 ** 6}MB; Peak was {peak_mb}MB")
         tracemalloc.stop()
 
-        row_list = [["Drain", f"{DATASET}", f"{SIZE}", f"{time_taken}", f"{peak / 10 ** 6}",  f"{RUN_NO}"]]
-        with open(f'Drain_results/{DATASET}/Drain_{DATASET}_results.csv', 'a', newline='') as file:
+        row_list = [[f"{METHOD}", f"{DATASET}", f"{SIZE}", f"{time_taken}", f"{peak / 10 ** 6}",  f"{RUN_NO}"]]
+        with open(f'{METHOD}_results/{DATASET}/{METHOD}_{DATASET}_results.csv', 'a', newline='') as file:
             writer = csv.writer(file)
             writer.writerows(row_list)
+
+# have access to vim
+# ModuleNotFoundError: No module named 'regex'
