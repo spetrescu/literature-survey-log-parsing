@@ -96,18 +96,17 @@ cd demo/
 #declare -a StringArray=("AEL" "Drain" "IPLoM" "LenMa" "LFA" "LKE" "LogCluster" "logmatch" "LogMine" "LogSig" "MoLFI" "SHISO" "SLCT" "Spell")
 declare -a StringArray=("Drain")
 
-for value in ${StringArray[@]}
-  do
-  for i in 2 4
-  do
-      echo $value
-      for j in 1 2 3 4 5
-      do
-          echo "\nRun $j for $method parsing "$i"k logs\n"
-          python3.7 "$method"_demo.py $dataset $i $j $method
-      done
-  done
-done
+python3.7 "$method"_demo.py $dataset 2 1 $method
+
+#for i in 2 4
+#do
+#    echo $value
+#    for j in 1 2 3 4 5
+#    do
+#        echo "\nRun $j for $method parsing "$i"k logs\n"
+#        python3.7 "$method"_demo.py $dataset $i $j $method
+#    done
+#done
 
 #for i in 2 4 10
 #do
