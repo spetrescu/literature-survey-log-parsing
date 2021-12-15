@@ -42,7 +42,7 @@ def HDFS():
             f.write(line + '\n')
             # print(line)
             for _ in range(AUGMENT_TIMES):
-                augmented_line = augment_line(line)
+                augmented_line = HDFS_augment_line(line)
                 f.write(augmented_line + '\n')
     print(f"Finished creating /data/augmented_data/{DATASET}/{DATASET}_augmented_{AUGMENT_TIMES * 2 + 2}k_augmented.log\n")
 
@@ -114,7 +114,7 @@ options = {"Android": Android,
            "Zookeeper": Zookeeper
            }
 
-def augment_line(line):
+def HDFS_augment_line(line):
     counter = 1
     newstring = ''
     start = 0

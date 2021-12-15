@@ -169,8 +169,8 @@ benchmark_settings = {
         'depth': 6
     },
 
-    'Andriod': {
-        'log_file': 'Andriod/Andriod_2k.log',
+    'Android': {
+        'log_file': 'Android/Andriod_2k.log',
         'log_format': '<Date> <Time>  <Pid>  <Tid> <Level> <Component>: <Content>',
         'regex': [r'(/[\w-]+)+', r'([\w-]+\.){2,}[\w-]+', r'\b(\-?\+?\d+)\b|\b0[Xx][a-fA-F\d]+\b|\b[a-fA-F\d]{4,}\b'],
         'st': 0.2,
@@ -201,7 +201,7 @@ benchmark_settings = {
         'depth': 3
     },
 
-    'OpenSSH': {
+    'SSH': {
         'log_file': 'OpenSSH/OpenSSH_2k.log',
         'log_format': '<Date> <Day> <Time> <Component> sshd\[<Pid>\]: <Content>',
         'regex': [r'(\d+\.){3}\d+', r'([\w-]+\.){2,}[\w-]+'],
@@ -226,8 +226,8 @@ benchmark_settings = {
     },
 }
 #
-input_dir  = '../data/augmented_data/'
-LOG_FILE = f"{DATASET}_augmented_{SIZE}k.log"
+input_dir  = '../log_data/'
+LOG_FILE = f"{DATASET}_{SIZE}k.log"
 output_dir = f'{METHOD}_result/'  # The output directory of parsing results
 
 for dataset, setting in benchmark_settings.items():
