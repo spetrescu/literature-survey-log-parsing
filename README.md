@@ -3,7 +3,7 @@
 # Method
 
 This document contains detalied information regarding the Method section of [Log Parsing Literature Survey](). <br>
-The queries used for the survey can be found under [Queries](). <br>
+The queries used for the survey can be found under [Queries](#queries). <br>
 Overall statistics can be found below.
 
 ```
@@ -25,7 +25,7 @@ Total references checked while snowballing: 2051
 Total number of papers selected for survey: 93
 ```
 
-# Queries
+# <a name="queries"></a>Queries
 
 ### Google Scholar
 <details>
