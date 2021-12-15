@@ -1,155 +1,724 @@
 EventId,EventTemplate,Occurrences
-513018c0,"printFreezingDisplayLogsopening app wtoken = AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}}, allDrawn= false, startingDisplayed = false, startingMoved = false, isRelaunching = false",1
-6d75b0da,"acquire lock=<*>, flags=0x1, tag=""View Lock"", name=com.android.systemui, ws=null, uid=<*>, pid=<*>",1
-f2eb9306,"ready=true,policy=<*>,wakefulness=<*>,wksummary=0x23,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=<*>,adj=<*>.0userId=<*>",3
-3adeb30a,Skipping <*> <*> <*> u0 <*> t761}}} -- going to hide,4
-ae0e6d6d,visible is <*>,3
-168e62e2,mVisiblity.getValue is false,5
-9042ff8a,visible is <*> gt <*>,2
-9486be24,"release:lock=<*>, flg=0x0, tag=""View Lock"", name=com.android.systemui"", ws=null, uid=<*>, pid=<*>",1
-86870f3b,"updateClipping <*> getTopPadding=<*>.<*>, Translation=<*>.<*>",65
-d6169692,updateDimmedActivatedHideSensitive <*>,65
-7bf44fc6,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output,81
-c2f45aa5,"release:lock=<*>, flg=0x0, <*> <*> <*> uid=<*>, pid=<*>",25
-16d71e57,"setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)",200
-3c2ee2af,cancelAutohide,15
-efe402c7,<*> SystemUiVisibility=0x<*>,16
-3121505a,Destroying surface Surface(name=SurfaceView - com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroyDeferredSurfaceLocked:<*> com.android.server.wm.WindowManagerService.performDeferredDestroyWindow:<*> com.android.server.wm.Session.performDeferredDestroy:<*> android.view.IWindowSession$Stub.onTransact:<*> com.android.server.wm.Session.onTransact:<*> android.os.Binder.execTransact:<*> <bottom of call stack> <bottom of call stack>,1
-db5098bd,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:<*> com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:<*> com.android.server.wm.WindowState.destroyOrSaveSurface:<*> <*> <*> <*> <*> <*>,10
-9f91cc67,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, <*> uid=<*>",69
-5cb1a72a,"ready=true,policy=<*>,wakefulness=<*>,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=<*>,adj=<*>.0userId=<*>",100
-748b2271,"orientation change is complete, call stopFreezingDisplayLocked",1
-fd69041a,Screen frozen for +1s0ms due to Window{ca98d5 u0 com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity},1
-fc3ab7b2,startAnimation <*>,2
-ec22a815,<*> <*> <*> broadcastIntent}}) changed bounds; rebatching,2
-dff63344,"rotationForOrientationLw(orient=<*>, last=<*>); user=<*> USER_ROTATION_LOCKED",3
-e9fc9238,"Application requested orientation <*>, got rotation <*> which has compatible metrics",3
-85ee7ba2,"acquire lock=<*>, flags=0x1, <*> <*> <*> uid=<*>, pid=<*>",25
-78791997,shouldBlockLocation running ...,37
-37b6a779,shouldBlockLocation <*>,37
-8e08c680,getNeighboringCellInfo calling app is com.amap.android.ams,5
-0cc0841c,"ready=true,policy=<*>,wakefulness=<*>,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=<*>,auto=<*>,adj=<*>.0userId=<*>",96
-bcab3745,"Releasing suspend blocker ""PowerManagerService.WakeLocks"".",33
-7d72c8fc,HBM <*> =<*>,170
-1b7a0525,"Animating brightness: target=<*>, rate=<*>",85
-482e1e93,suspendAutohide,23
-614d755e,interceptKeyTq keycode=<*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false,14
-4f0e8a73,"interceptKeyBeforeQueueing: key <*> , result : <*>",14
-8d7445f8,resumeSuspendedAutohide,10
-eeec1449,querySoundEffectsEnabled...,17
-86d02085,"Acquiring suspend blocker ""PowerManagerService.WakeLocks"".",33
-b0ff58e2,Bad activity token: android.os.BinderProxy@2bd79ce,1
-4b0857ec,java.lang.ClassCastException: android.os.BinderProxy cannot be cast to com.android.server.am.ActivityRecord$Token,1
-39397668,"onTouchEvent::<*>, x=<*>.<*>, y=<*>.<*>",2
-ade15b9a,schedulePeek,1
-33c7b245,getRingtonePlayer...,2
-095d7dbe,disable: < expand <*> alerts <*> back home recent clock navigationbar search quick_settings >,6
-3595b144,"updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>",6
-942f09c2,"updateLightsLocked,turn off notificationLight",6
-adabee7c,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>",13
-ab5ae1b3,"state.clipTopAmount:<*>, i:<*>",13
-f02115d0,onExpandingStarted,2
-cd7563b4,onTrackingStarted,1
-033c96ee,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:<*> com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:<*> com.android.server.wm.WindowState.removeLocked:<*> com.android.server.wm.WindowManagerService.removeWindowInnerLocked:<*> com.android.server.wm.WindowManagerService.removeWindowInnerLocked:<*> com.android.server.wm.WindowManagerService.removeWindowLocked:<*> com.android.server.wm.WindowManagerService.removeWindowLocked:<*> com.android.server.wm.WindowManagerService.removeWindow:<*>,14
-522cc439,cancelPeek: false,20
-37dc4215,"flingToHeight: vel=<*>.<*>, <*> target=<*>.<*>, collapseSpeedUpFactor=<*>.<*>, expandBecauseOfFalsing=false",2
-263f405d,onTrackingStopped: true,1
-b5721111,onExpandingFinished,2
-9139f39e,Sending non-protected broadcast com.android.systemui.statusbar.visible.change from system <*>:com.android.systemui/u0a37 pkg com.android.systemui,2
-8cf89ab7,logNotificationVisibilityChanges runInThread <*>,12
-fbd5de68,onNotificationVisibilityChanged called,6
-6ed37c98,isSimPinSecure mSimDatas is null or empty,1
-2f983de0,registerCallback not in UI.,3
-28509391,android.util.AndroidRuntimeException: Must execute in UI,3
-955993f6,*** <*> callback for <*>,3
-23051d9f,[PhoneIntfMgr] getDataEnabled: subId=<*> <*>,2
-ebb9f902,"onInterceptTouchEvent MotionEvent { <*> actionButton=<*>, id[<*>]=<*>, x[<*>]=<*>.<*>, y[<*>]=<*>.<*>, toolType[<*>]=TOOL_TYPE_FINGER, buttonState=<*>, metaState=<*>, flags=0x0, edgeFlags=0x0, pointerCount=<*>, historySize=<*>, eventTime=<*>, downTime=<*>, deviceId=<*>, source=0x1002 }, mBlockTouches=false",4
-db28c715,playSoundEffect effectType: <*>,10
-2f355ac4,"animateCollapsePanels:flags=<*>, <*> <*> mExpandedVisible=true",3
-a8644ede,START u0 {act=com.tencent.mobileqq.action.MAINACTIVITY flg=0x14000000 cmp=com.tencent.mobileqq/.activity.SplashActivity (has extras)} from uid <*> on display <*>,1
-6157e0b1,ActivityRecord info: <*> <*> euid: <*>,4
-06c4f169,onNotificationClick called,2
-ef908799,"cancelNotification,index:<*>",3
-beda30e4,"cancelNotification,cancelNotificationLocked,callingUid = <*>,callingPid = <*>",2
-8a999a7a,"cancelNotificationLocked called,tell the app,reason = <*>",2
-1f8fd5d4,cancelNotificationLocked:<*>|com.tencent.mobileqq|<*>|null|<*>,2
-0dbecfbf,"cancelNotificationLocked,remove =com.tencent.mobileqq",2
-236d8210,applyOptionsLocked: Unknown animationType=<*>,2
-9c3cf8da,"Taking screenshot from Surface with crop:[Rect(<*>, <*> - <*>, <*>)], width:[<*>], height:[<*>], minLayer:[<*>], maxLayer:[<*>], inRotation:[false], rot:[<*>]",4
-43082f96,removeNotification:<*>|com.tencent.mobileqq|<*>|null|<*>,2
-d94e53a6,"updateNotificationShade: total=<*>, active=<*>",13
-e330da66,The change in focus caused us to need to do a layout <*>,12
-b4f3261c,setLightsOn(true),181
-99e75217,removeNotificationChildren,12
-8981991b,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[<*>,<*>][<*>,<*>] }",14
-effb37ae,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }",14
-a05b66fd,"Skipping, withExcluded: false, tr.intent:Intent { <*> <*> (has extras) }",21
-4b5f9048,"Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }",7
-a56cc89a,"Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/<*>/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }",7
-de9aca52,getRecentTasks: <*>,28
-73b3b979,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =com.tencent.mobileqq,id =<*>",20
-31252fc1,"cancelNotification,index:-<*>",20
-e075ddbf,makeExpandedInvisible: <*>,4
-fbb3c9bb,closeQs,12
-18084d2f,instantCollapse,9
-fc6b3dda,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output,37
-a6b9ef39,isMusicActive...,12
-041ebeaa,"Start dump, calling from : pid=<*>, uid=<*>",1
-9e34a535,setWiredDeviceConnectionState type: <*> state: <*>,2
-7e911563,"ActivityManagerService,attachApplication,callingPid = <*>",4
-219ced65,isBluetoothA2dpOn...,1
-ce34163a,isBluetoothScoOn...,1
-ae38694d,getLastAudibleStreamVolume treamType: <*>,9
-d9dee4cc,getDevicesForStream streamType: <*>,2
-369d5eff,cleanUpApplicationRecord -- <*>,6
-71d4237b,"cleanUpApplicationRecordLocked, pid: <*>, restart: false",6
-f4cc530d,"cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>",6
-cb8e09e6,stopWifiDisplayScanLocked <*>,12
-eadc277d,getMode...,1
-f501a17e,setSpeakerphoneOn on: true,1
-f9bf5b1a,setSpeakerphoneOn on:true,1
-ac0fa351,"sending alarm <*> type <*> when <*> <*> <*> <*> broadcastIntent}}},repeatInterval = <*>,listenerTag <*>",5
-b0fb9415,Received TIME_TICK alarm; rescheduling,3
-215c579a,scheduleTimeTickEvent triggerAtTime = <*>,3
-7233f052,received broadcast <*>,4
-3e03b5e1,handleTimeUpdate,3
-5168e36f,Killing <*>:com.android.calendar/u0a13 (adj <*>): empty for 1810s,1
-754a5418,Unable to start service Intent { act=com.tencent.android.tpush.action.keepalive cmp=com.qqgame.hlddz/com.tencent.android.tpush.service.XGPushService } U=<*>: not found,1
-13d3f523,unregisterAudioFocusListener...,1
-504c331a,abandonAudioFocus,1
-a4e9f81f,"[HSM] stayAwake false uid: <*>, pid: <*>",1
-61648887,Pid:<*> MediaPlayer destructor,1
-4e4ce786,Process com.tencent.mobileqq:qzone (pid <*>) has died,1
-2fee145e,Scheduling restart of crashed service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService in 1000ms,1
-53710bdb,"new Process app=ProcessRecord{6eaaf00 <*>:com.tencent.mobileqq:qzone/u0a111}, name: com.tencent.mobileqq:qzone, euid: <*>",1
-2b043ebb,Start proc <*>:com.tencent.mobileqq:qzone/u0a111 for service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService,1
-6d6ce631,"animateCollapsePanels:flags=<*>, force=false, delayed=false, mExpandedVisible=false",5
-6df4ec65,"notifyUiVisibilityChanged:vis=0xc0000700, SystemUiVisibility=0xc<*>",3
-8e4002d1,enqueueNotificationInternal: pkg=com.tencent.mobileqq id=<*> notification=Notification(pri=<*> contentView=null vibrate=[<*>] sound=null tick defaults=0x0 flags=0x11 color=0x00000000 vis=PRIVATE),1
-f2507745,enqueueNotificationInternal: n.getKey = <*>,2
-99718fbd,getRingerMode...,3
-e042e5ea,addNotification <*>,2
-3a97dc6f,mHeadsUpExistenceChangedRunnable,4
-a63645e4,Marking notification as seen <*>,2
-36dc96c6,onNotificationExpansionChanged called,2
-e4e963f1,"START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 <*> bnds=[<*>,<*>][<*>,<*>]} from uid <*> on display <*>",2
-538c8f21,"ACTIVITY check resid: com.example.android.notepad, size=<*>",2
-1ecb8dd4,getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq,3
-96658704,getCellLocation is blocked by permission manager uid:<*> pid:<*>,1
-d639dd08,isWiredHeadsetOn...,1
-0c87ac07,"setDataSource(<*>, <*>, <*>)",1
-fdd7deac,getStreamVolume treamType: <*>,1
-b2a3188b,"updateIsPoweredLocked: wasPowered=false, mIsPowered=false, oldPlugType=<*>, mPlugType=<*>, mBatteryLevel=<*>",1
-f1cf316c,ACTION_BATTERY_CHANGED AMP: <*>; Volt: <*>,1
-f9e8e96e,updateChargingLocked: charging=false,1
-3783336f,"onReceive, action:android.intent.action.BATTERY_CHANGED",1
-5185f06d,ACTION_BATTERY_CHANGED pluggedType: <*>,1
-f790bcce,ApStaDisabledState what=<*>,1
-96d275e9,DefaultState what=<*>,1
-f360e1f9,battery changed pluggedType: <*>,1
-1d75714a,RefreshBatteryInfo isBatteryLow: <*>,2
-c9c0695e,ChargingSpeed Wattage: <*> ST: <*> --> <*>,1
-e23c2601,handleBatteryUpdate,1
-221c2580,enqueueNotificationInternal: pkg=com.tencent.mm id=<*> notification=Notification(pri=<*> contentView=null vibrate=[] sound=null tick defaults=0x0 flags=0x101 color=0x00000000 category=msg vis=PRIVATE),1
-7cea1f47,START u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid <*> on display <*>,1
-bca61fe5,startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras) },1
+b72a0c97,DisplayPowerStatesetColorFadeLevel: level=<*>.<*>,4
+e55c594d,"action:<*>, mPermissionType:<*>",14
+1b7a0525,"Animating brightness: target=<*>, rate=<*>",15
+0df25095,"DisplayPowerController updatePowerState mPendingRequestLocked=policy=BRIGHT, useProximitySensor=true, useProximitySensorbyPhone=true, screenBrightness=<*>, screenAutoBrightnessAdjustment=<*>.<*>, brightnessSetByUser=true, useAutoBrightness=true, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-<*>, dozeScreenState=UNKNOWN, useTwilight=false, useSmartBacklight=true, brightnessWaitMode=false, brightnessWaitRet=true, screenAutoBrightness=-<*>, userId=<*>",8
+3e42a09f,DisplayPowerState Updating screen state: <*> backlight=<*>,7
+3f269dfa,back light level before map = <*>,4
+a0c3dfa8,onScreenTurnedOn(),4
+a13696e2,Display ready!,4
+cd1c1993,Finished business...,4
+8bd6e539,Caller checkPermission fail,7
+35cd872e,KGSvcCall onScreenTurnedOn.,2
+9d671f2e,notifyScreenTurnedOn,2
+4365b7b7,handleNotifyScreenTurnedOn,2
+468e6ee8,onScreenTurnedOn,2
+9cc510ac,getNextIndex: <*>; from <*> to <*>; size: <*>,2
+2f4476c6,report msg is :{picture: <*>},2
+21be4fb5,"report result = falsereport type:<*> msg:{picture: <*>, channelId: <*>}",2
+6a13b071,Screen already turned on at: <*>,2
+b1ffc7b2,Split enqueueing broadcast [callerApp]:ProcessRecord{<*> <*>,12
+c5afc1ed,EventCenter Get :<*>,3
+a797a27a,Get no-perm notification callback <*>,4
+61e46442,ScreenState present,2
+f4aaa700,<*>|upDateHealthNotification()|<*>|<*>.<*>|<*>,3
+434f4f20,ITrafficInfo:ITrafficInfo create 301updateBytes = <*>,4
+29cf7af1,<*>|rebuild notification,3
+afa3e515,ContentChange for slot: <*>,8
+cff1c62f,onChange selfChange:false uri.toString():content:/<*> mIsObserveAutoBrightnessChange:true,4
+661fcf50,"case xxx, not a fingerprint unlock",2
+2bd0bdb0,"ready=true,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=true,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>",22
+b8ad1fcd,"PowerManagerNotifier onWakefulnessChangeFinished mInteractiveChanging=true, <*>",4
+3130d210,"APS brightness=<*>.<*>,ConvertToPercentage=<*>.<*>",2
+b38592a8,getSeekBarProgress isAutoMode:true current brightness:<*> <*>,4
+f54b641a,updateSlider1 seekBarProgress:<*>,4
+d781f074,updateSlider2 seekBarProgress:<*>,4
+21a28837,mSeekListener onProgressChanged progress:<*> fromUser:false,8
+af1a6af9,msg = <*> received,4
+ea42efea,enqueueNotificationInternal: pkg=<*> id=<*> notification=Notification(pri=<*> contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> vis=PRIVATE),3
+a69523ee,enqueueNotificationInternal: n.getKey = <*>|<*>|<*>|null|<*>,5
+d4b8d889,"presently, hw_update_color_temp_for_rg_led interface not achieved.",4
+b433dc0c,DialpadFragment mBroadcastReceiver action:<*>,4
+cf0e8cca,InCallActivity - mScreenOnReceiver mCallEndOptionsDialog = null,2
+f96ce7bc,disableEffects=null canInterrupt=false once update: false,5
+861c9a3c,"onNotificationPosted: StatusBarNotification(pkg=<*> user=UserHandle{<*>} id=<*> tag=null key=<*>|<*>|<*>|null|<*>: Notification(pri=<*> contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> vis=PRIVATE)) important=<*>, post=<*>, when=<*>, vis=<*>, userid=<*>",3
+4933f370,updateNotification(StatusBarNotification(pkg=<*> user=UserHandle{<*>} id=<*> tag=null key=<*>|<*>|<*>|null|<*>: Notification(pri=<*> contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> vis=PRIVATE))),3
+02c4d19b,Create obj success use class <*>,24
+04bbd147,updateTint: tint=<*>,12
+738eb9b7,No peeking: unimportant notification: <*>|<*>|<*>|null|<*>,5
+220146c6,applyInPlace=true shouldPeek=false alertAgain=true,3
+a13c983e,onEntryUpdated:<*>|<*>|<*>|null|<*>,3
+ff7c1265,"onEntryAdded:<*>|<*>|<*>|null|<*>, group=<*>|<*>|<*>|null|<*>",5
+d2994755,reusing notification for key: <*>|<*>|<*>|null|<*>,3
+4d6d94b7,RetryTaskController:mTaskList is null,2
+06327cf8,updateNotificationShade,12
+99e75217,removeNotificationChildren,6
+b4f7e619,showNotificationAll,6
+95b24769,main{<*>} PushService.onStartCommand(PushService.java:<*>) Push Service Start by userEvent,2
+256a6cba,uid:<*> pid:<*> PhoneStateListener.LISTEN_CELL_LOCATION:<*> events:<*>,4
+49908fb9,LISTEN_CELL_LOCATION uid:<*>,2
+1bb149e2,WatchThread{<*>} TcpCirChannel.shutdown(TcpCirChannel.java:<*>) Login_By_Step-> shut down now connect,2
+f2bee63d,WatchThread{<*>} TcpClient.clearAll(TcpClient.java:<*>) ==================== TCP CLIENT CLEAR ALL ====================,4
+35c7a856,WatchThread{<*>} TcpClient.disconnect_i(TcpClient.java:<*>) ==================== TCP CLIENT DISCONNECT ====================,2
+76e26663,"[Thermal_Hw] temperature_valid, battery : temperature is invalid, invalid temperatrue is <*>",1
+dd89ff5c,"[Thermal_Hw] temperature_filter: get invalid temperature, use old temp",1
+595fa32b,transferRemoteInputFocus: <*>,12
+958de38b,updateClipping isOverlap:false,4
+b794132a,updateDimmedActivatedHideSensitive overlap:false,4
+6fea91f2,[ACC]processReportInd: X: <*>.<*> Y: <*>.<*> Z: <*> x_offset:<*>.<*> y_offset:<*>.<*> z_offset:<*>.<*>,26
+d8d19c23,remove(PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}) changed bounds; rebatching,5
+57d9dc28,set(PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}) : type=<*> triggerAtTime=<*> win=<*> tElapsed=<*> maxElapsed=<*> interval=<*> flags=<*>,8
+b7939ac8,"GetAddrInfoHandler addr: <*> {<*>, <*>, <*>} <*>",2
+71677a08,WatchThread{<*>} TcpClientThread.disconnectSocket(TcpClientThread.java:<*>) disconnecting to <*>:<*>,2
+2fc4c44a,WatchThread{<*>} TcpSocket.close(TcpSocket.java:<*>) shutdown <*> <*>: Socket is closed,4
+931cb22e,tcp.recv{<*>} TcpSocket.read(TcpSocket.java:<*>) <<< WARN(<*>) >>> <*>: Socket closed,1
+3c3acfb9,WatchThread{<*>} TcpClientThread.closeSocket(TcpClientThread.java:<*>) closed socket.,2
+017a9c5d,"release:lock=<*>, flg=<*>, tag=""RILJ_ACK_WL"", name=<*>"", ws=null, uid=<*>, pid=<*>",2
+34538193,MagicLink2-BroadcastReceiver:====>ACTION_SCREEN_ON,2
+dd5f547a,Releasing suspend blocker <*>,14
+14b4b9b1,tcp.recv{<*>} TcpClientThread.readSocket(TcpClientThread.java:<*>) <<< ERROR(<*>) >>> socket read length failure -<*>,2
+b2770f27,tcp.recv{<*>} TcpClientThread.onReceiverWork(TcpClientThread.java:<*>) disconnected,2
+78791997,shouldBlockLocation running ...,3
+324966b5,shouldBlockLocation ret:false,3
+88bf4cb8,"WatchThread{<*>} TcpCirChannel.connect(TcpCirChannel.java:<*>) Connect to server address = [<*>,] port = <*>",2
+01192297,connect :true,2
+855550a1,WatchThread{<*>} TcpClient.connect(TcpClient.java:<*>) ==================== TCP CLIENT CONNECT [<*>] ====================,2
+79badcd3,WatchThread{<*>} TcpClientThread.connect(TcpClientThread.java:<*>) will connect to <*>:<*>,2
+5ea80552,tcp.conn{<*>} TcpClientThread.connectSocket(TcpClientThread.java:<*>) connecting max 30000ms to <*>:<*>,2
+29ef6e19,tcp.conn{<*>} TcpSocket.connect_i(TcpSocket.java:<*>) connecting to ip address <*><*>.<*>,2
+8c467c2d,MemCPUMonitor:startTimerMonitor isCompleted = true,2
+6ffd5a15,tcp.recv{<*>} TcpClientThread.onReceiverWork(TcpClientThread.java:<*>) connected,2
+c629acc1,tcp.conn{<*>} TcpClientThread.connectSocket(TcpClientThread.java:<*>) notify user tcp connected successully at <*> to <*>:<*>,2
+31bfa45f,tcp.conn{<*>} TcpClientThread.onRecv(TcpClientThread.java:<*>) tcp connection event TCP_CONNECTED,2
+4af0b1dc,BtChrStatisticsManager:sendScreenOnEvent enter.,2
+794f6a9f,BtChrStatisticsManager:msg Loop is running.,2
+1ae44650,tcp.conn{<*>} ServiceC.connectedNotify(ServiceC.java:<*>) <*>,2
+e08370bc,tcp.conn{<*>} XmlMsg.encodeBuf(XmlMsg.java:<*>) SEND <*> bytes <*> cmdCode(CC_PCheckVersion.<*>)msgType(MT_ARG.<*>)msgClass(MC_Push.<*>)sender(ST_Mobile.<*>)crypted(false)zipped(false)nobase64(true)length(<*>)version(<*>)sno(<*>),2
+32da7760,earliestValidTime + POWER_ON_BRIGHTENING_LIGHT_DEBOUNCE,8
+f5da26ea,earliestValidTime + POWER_ON_DARKENING_LIGHT_DEBOUNCE,8
+2b52fbf8,tcp.recv{<*>} TcpClientThread.onReceiverWork(TcpClientThread.java:<*>) get tcp message <*>,2
+7bf44fc6,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output,6
+05a2c5d1,read Events lux: <*>.<*>,6
+5df795cc,"ambient lux=<*>.<*>,timeStamp =<*>",6
+c714f956,"ProximitySensor - ProximitySensor{keybrd=<*>, dpad=<*>, offhook=<*>, hor=<*>, ui=<*>, aud=EARPIECE}",5
+b801a3c1,ProximitySensor - Turning on proximity sensor,5
+6386d963,ProximitySensor - Proximity wake lock already acquired,5
+8862cae3,"ProximitySensor: <*> is far event,<*> is close event,value = <*>.<*>",3
+5bcba428,"readEvents:<*>: ProximitySensor: getTimestamp,mPendingEvent.timestamp <*>",3
+8162a0a1,handleProximitySensorEvent positive:true,2
+0193001d,"PowerManagerService goToSleepNoUpdateLocked: eventTime=<*>, reason=<*>, flags=<*>, uid=<*>",2
+89361257,Going to sleep due to proximity...,2
+4a5d7581,"PowerManagerNotifier onWakefulnessChangeStarted: wakefulness=<*>, reason=<*>, <*> <*> <*>",5
+a1c14c9a,PowerManagerServiceonProximityPositivebyPhone -> updatePowerStateLocked,2
+31c8c8aa,startDreaming = true,2
+c677aa2b,"reallyGoToSleepNoUpdateLocked: eventTime=<*>, uid=<*>",2
+ec266f92,Sleeping (uid <*>)...,2
+29de50f6,"ready=false,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=true,manual=<*>,auto=-<*>,adj=<*>.0userId=<*>",21
+b0aa6d25,"DisplayPowerController updatePowerState mPendingRequestLocked=policy=OFF, useProximitySensor=true, useProximitySensorbyPhone=true, screenBrightness=<*>, screenAutoBrightnessAdjustment=<*>.<*>, brightnessSetByUser=true, useAutoBrightness=true, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-<*>, dozeScreenState=UNKNOWN, useTwilight=false, useSmartBacklight=true, brightnessWaitMode=false, brightnessWaitRet=true, screenAutoBrightness=-<*>, userId=<*>",9
+3049a2d2,preparePoriximityView addView,1
+03b77cb0,do not support AFT because of no config,1
+20ae5dda,"ACTIVITY check resid: android, size=<*>",1
+6d0692d7,performPollAndLog:,1
+5bbdcd5a,updateSystemUiColorLw window=Window{<*> u0 <*> <*>,2
+ff45ff53,oldFocusWindow: Window{<*> u0 <*> currentFocusWindow: Window{<*> u0 <*> currentFocusApp: AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*>/.InCallActivity t310}}},2
+7aadaf7b,Transact:setSystemUIColor to status bar service,2
+93542be6,updateBarBgColor,2
+89c568e0,"CommandQueue, setBarBackgroundColor",2
+d0f70a6b,"updateBarBgColor:emuiStyle=<*>,statusBarColor=#<*>,navigationBarColor=#<*>, isEmuiLight=-<*>",1
+8a927aa3,"restoreBackgroundColor:new=-<*>, old=<*>",1
+026bd0be,"restoreBackgroundColor:new=<*>, old=<*>",1
+088abafb,"total<*>,<*><*>,unknown:<*><*>",1
+b1ca38cf,"statusBarIconTint=#<*>,navigationBarIconTint=#<*>",2
+eec0b270,WebMonitor [mNetWorkIsSuck=<*> mUIDIsSuck=] WebSpeed [WEBSENDSEGS=<*> WEBRESENDSEGS=<*> WEBRECVSEGS=<*> WEBERRSEGS=<*> WEBOUTRSTS=<*> WEBESTABLISRST=<*> WEBRTTDURATION=<*> WEBRTTSEGS=<*> WEBSRTT=<*> WEBSNDDUPACKS=<*> SENDSEGS=<*> RESENDSEGS=<*> RECVSEGS=<*> ERRSEGS=<*> OUTRSTS=<*> ESTABLISRST=<*> RTTDURATION=<*> RTTSEGS=<*> SNDDUPACKS=<*> suckTimes=<*> recovage_times=<*>],1
+74e3486d,"updateTcpSummery mRSSI:-<*> HwCHRWifiRSSIGroup [rssi_index=<*>, rtt_tcp_packets=<*>, rtt_tcp_duration=<*>, rtt_lan_duration=<*>, rtt_lan_failures=<*>, rtt_lan_succ=<*>, rtt_lan_max=<*>, rtt_lan_min=<*>,same_area_frequency=<*>,adjacent_area_frequency=<*>]",1
+c99a4847,wifi_send_command: cmd:'IFNAME=wlan0 PKTCNT_POLL',2
+333b6e01,wlan0: Control interface command <*>,4
+cdb02ce8,"acquire lock=<*>, flags=<*>, <*> <*> ws=null, uid=<*>, pid=<*>",8
+0cce1ed8,Acquiring suspend blocker <*>,11
+68edc2d7,Start pausing: ActivityRecord{<*> u0 <*>/.InCallActivity t310},2
+f357c573,CTRL-DEBUG: global_ctrl_sock-sendto: sock=<*> sndbuf=<*> outq=<*> send_len=<*>,7
+bc891c1d,VideoCallFragment - onPause:,2
+ea4ce1ae,"VideoCallPresenter - isVideoCallWorking, state is: <*>",3
+a4042701,"VideoCallPresenter - pauseVideo: Error bad state mPrimaryCall=[Call_10, ACTIVE, [Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_CANNOT_DOWNGRADE_VIDEO_TO_AUDIO], children:[], parent:null, conferenceable:[], videoState:Audio Only, mSessionModificationState:<*>, VideoSettings:(CameraDir:-<*>)] mVideoCall=null",2
+2194428e,InCallActivity - onPause()...,2
+be53de64,DialpadFragment - Notifying dtmf key up.,2
+097119b5,"HwCHRWifiPacketCnt [mTXGood=<*>, mTXbad=<*>, mRXGood=<*>] rssi=-<*>",1
+b4166dde,ContactInfoCache - Contact lookup. In memory cache hit; lookup complete,2
+ccc838ec,running processName=<*>,1
+9ee82f13,HwCHRWifiUIDWebSpeed [appName=<*> UID=<*> WEBSENDSEGS=<*> WEBRESENDSEGS=<*> WEBRECVSEGS=<*> WEBERRSEGS=<*> WEBOUTRSTS=<*> WEBESTABLISRST=<*> WEBRTTDURATION=<*> WEBRTTSEGS=<*> WEBSNDDUPACKS=<*> suckTimes=<*> recovage_times=<*>],1
+58765b6e,doCheckAccessInternet,1
+61452cca,StatusBarNotifier - Showing notification for first time.,2
+34fd6576,StatusBarNotifier - Data changed. Showing notification,2
+b95d2703,StatusBarNotifier - contactsentry_photo is null,2
+ccf6ca4f,"mAccessWebStatus : rx = <*>, tx = <*>",1
+4adb93ed,"getDNSFailedCntDiff dnsNewFailCnt = <*>, aws.getOldDnsFailedCnt() = <*>, dnsDiff = <*>",1
+6fdffdb1,StatusBarNotifier - getNotificationBuilder,2
+3276dc5a,"StatusBarNotifier - Will show ""hang-up"" action in the ongoing active call Notification",2
+cb6f1d06,ret: <*>,5
+5bddc1ef,imeVis=false,3
+5cefca17,StatusBarNotifier - isTopIsFullscreen = <*>,2
+4f35069d,StatusBarNotifier - buildAndSendNotification state=<*> showHeadUpNotification=false mHeadupViewShow=false,2
+8896741a,StatusBarNotifier - isDreaming = false,2
+aee1e8af,StatusBarNotifier - Notifying IN_CALL_NOTIFICATION: Notification(pri=<*> contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> actions=<*> vis=PRIVATE publicVersion=Notification(pri=<*> contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> vis=PRIVATE)),2
+bfbb33f1,"checkPhoneWindowIsTop:pakcage name:<*>,ClassName name:<*>",2
+e03b377c,set brightness to DIM brightness:<*>,2
+1b99cefe,Unfinished business...,3
+00c4aab7,DisplayPowerStatesetScreenState: state=<*>,3
+cf67ce5f,DisplayPowerState :OFF,2
+516040fe,enqueueNotificationInternal: pkg=<*> id=<*> notification=Notification(pri=<*> contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> actions=<*> vis=PRIVATE publicVersion=Notification(pri=<*> contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> vis=PRIVATE)),2
+16f5540e,AnswerPresenter - onUiShowingfalse,2
+46e6a4a5,GlowPadAnswerFragment - Show answer UI: false,2
+ea05e4c3,GlowPadWrapper - stopPing,2
+773fd0bd,GlowPadAnswerFragment - showVideoAnswerButtonfalsefalse,2
+73d139b4,Moving to PAUSED: ActivityRecord{<*> u0 <*>/.InCallActivity t310} (pause complete),2
+9ca9b637,clear buffer data and algo flags,2
+f598331e,[<*>.<*><*>],1
+cc313b57,activate called handle:<*> enable:<*>,3
+eacb37bb,bh1745-light calling driver <*>,3
+9b16a5ca,"LightSensor, enable, <*>: <*>",9
+9fa1b33f,"LightSensor disable, event occur num: <*>",2
+13c78b72,Disable LightSensor at time:<*>,2
+c4e5e0d3,mode change : <*>,3
+a81175f2,"Set power mode=<*>, type=<*> flinger=<*>",3
+6bb43b5d,"HWCDisplay::SetPowerMode: display = <*>, mode = <*>",3
+7ac49e6d,"DisplayBase::SetDisplayState: Set state = <*>, display <*>",3
+751a34a0,check dependency pid: <*> is depended by pid: <*>,1
+0c4100f1,"Application <*> is depended by other app, delay to H!",1
+e15daecc,Excessive delay in setPowerMode(): <*>,3
+30d46b25,Setting HAL interactive mode to <*>,3
+254296d0,Got set_interactive hint,3
+310cde75,AbaSuspend skips CABL deactivate: state was <*>,2
+369539c7,"Invalid profile no. <*>, total profiles <*> only",3
+d2ee58b7,Calling fingersense_on_pause(),2
+4b336820,fingersense_on_pause() finished,2
+d0d24f4a,Setting HAL auto-suspend mode to <*>,3
+66a275ec,Sending SAM_DISABLE to fs_data,2
+27ddf5db,"Got DISABLE response, status = <*>, id = <*>",2
+57e35f03,"Access denied finding property ""<*>""",4
+bd51c47c,setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*>,4
+e770cf57,"notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>",4
+9f01ff4a,collapsePanel:false,1
+fbb3c9bb,closeQs,1
+836b1060,updateQsState:false,2
+906664b2,setScrollingEnabled: true,1
+18084d2f,instantCollapse,1
+c482f444,collapsePanel2,1
+0d2c7bca,"Display device changed state: ""内置屏幕"", <*>",3
+c8a3f8e3,VideoCallFragment - onStop:,2
+c4a971f1,InCallActivity - onStop()...,2
+c13d989f,InCallPresenter - onActivityStopped,2
+9e628db4,InCallPresenter - notifyVideoPauseController,3
+9841bddb,VideoPauseController: - VideoPauseController:onPause,2
+961d1d1a,"VideoPauseController: - VideoPauseController:onPause, Ignoring...",2
+02fe7590,InCallPresenter - updateStatusBar: state = <*>,2
+0c1bafa7,"Client requesting input be hidden, pid=<*>",2
+7b978a41,Unspecified window will hide input,1
+3dcf5e13,------------startInput--------------,1
+b36de9b8,manageDisableList userId=<*> what=<*> pkg=<*>,2
+13c187b1,hideSecSoftInput = false,1
+37709d23,InCallActivity - bgCallTwinkingSwitch is true inQuickExiting is false mIsForegroundActivity is false,2
+5480b10e,Reading a NULL string not supported here.,10
+0a53f6ce,show_incallscreen <*>,2
+f025149e,"transitionTo: mode=MODE_OPAQUE, animate=false",1
+21fc44d4,MODE_TRANSLUCENT -> MODE_OPAQUE animate=false,1
+26095f55,applyModeBackground oldMode=MODE_TRANSLUCENT newMode=MODE_OPAQUE animate=false,1
+49386579,"release:lock=<*>, flg=<*>, tag=""ActivityManager-Sleep"", name=android"", ws=null, uid=<*>, pid=<*>",2
+9457cc2f,"transitionTo: mode=MODE_TRANSLUCENT, animate=false",5
+4648bade,"transitionTo:mode=<*>, isEmuiStyle=false",2
+3c2ee2af,cancelAutohide,2
+2f60e939,Finished going to sleep... (why=<*>),2
+4bf1bf01,WindowOrientationListener disabled,2
+e9d7a146,"batch,<*>,handle <*>, timeout:<*> ,period_ns:<*>",5
+30f487cd,batch:sensor(<*>) handle:<*> flags:<*> period_ns <*>,5
+8b50a23f,"CallList - hasAnyLiveCall call = [Call_10, ACTIVE, [Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_CANNOT_DOWNGRADE_VIDEO_TO_AUDIO], children:[], parent:null, conferenceable:[], videoState:Audio Only, mSessionModificationState:<*>, VideoSettings:(CameraDir:-<*>)]",3
+fe2f7ef4,ProximitySensor - isDisplayOn: <*>,3
+6eb551d0,read from oem info: <*>,10
+15bee26a,"<*>, <*>, <*>, <*>",25
+c8f0c625,"read from oem info: x_offset=<*>.<*>, y_offset=<*>.<*>, z_offset=<*>.<*>",5
+689e712a,"Final value: x_offset=<*>.<*>, y_offset=<*>.<*>, z_offset=<*>.<*>",5
+6e3a4df3,batch:load_acc_oeminf_data x_offset:<*>.<*> y_offset:<*>.<*> z_offset:<*>.<*>,5
+2794c21f,batch:sensor(<*>) <*> report_rate_f=<*>.000000Hz curr sample rate:<*>.<*> cur rpt rate:<*> max:<*>.<*> min:<*>.<*>,5
+f7e61f73,onFinishedGoingToSleep(<*>),4
+703da551,PowerManagerNotifier Sending go to sleep broadcast.,2
+e9d4a3ea,KGSvcCall onFinishedGoingToSleep.,2
+22270aa3,notifyFinishedGoingToSleep,2
+273bcd8d,sendMessage <*>,3
+ab86306e,handleNotifyFinishedGoingToSleep,2
+c3ab5b1b,onFinishedGoingToSleep,2
+dd25a0f9,Enqueueing ordered broadcast[foreground] BroadcastRecord{<*> u<*> <*>}: prev had <*>,3
+4f0dca78,updateDisplayLocked: screenOn=false,2
+d4993c97,becomeInactiveIfAppropriateLocked(),2
+c2e078c9,Moved from STATE_ACTIVE to STATE_INACTIVE,2
+3cc36594,stopMonitoringMotionLocked(),3
+75c3eac7,"scheduleAlarmLocked(<*>, false)",2
+654cf7d4,"dispatch ordered broadcast [foreground] BroadcastRecord{<*> u<*> <*>}, has <*> receivers",3
+5d4545ca,set(null) : type=<*> triggerAtTime=<*> win=<*> tElapsed=<*> maxElapsed=<*> interval=<*> flags=<*>,5
+d5fc9aaf,Moved from LIGHT_STATE_ACTIVE to LIGHT_STATE_INACTIVE,2
+0f805f1b,scheduleLightAlarmLocked(<*>),2
+f8c7f914,Disable transport text marquee,2
+320f4b76,FingerStat Visible: false; Interactive: <*> Switching: false; Bouncer:false; GoingToSleep: false Occluded: false; dreaming: false; Authenticated: false,3
+dc7b1768,Dis-Feature : <*>,6
+6ed37c98,isSimPinSecure mSimDatas is null or empty,6
+f65ec975,FingerprintService getEnrolledFingerprints,2
+517d4774,KGSvcFp startListeningForFingerprint(),2
+1660f235,authenticate by <*> mode!,2
+2063d12d,FingerprintService authenticate,2
+b104eba5,Fingerprint RunningStateChanged. <*>,4
+b89ee38c,setLivenessSwitch:start,2
+dea990d0,checkNeedLivenessList:start,2
+c6d473f5,NEED_LIVENESS_AUTHENTICATION = <*>,2
+91eb478c,Handle message: <*>,3
+ef8f4a60,Cameralayout setVisibility. true false <*>,2
+6c3aaf35,resetPagerState,2
+fb02dfe7,"FingerprintDaemonProxyEx::onTransact, code:<*>",7
+e938abc4,fingerprintd,2
+e25a614f,FingerprintDaemonProxyEx::setLivenessSwitch,2
+5c3505dd,fingerprintdex--dev->need_liveness_authentication = false;,2
+3f7cf131,framework setLivenessSwitch is ok ---end,2
+78ff5889,fpc_get_authenticator_id,2
+f56a70a2,fpc poll irq interupt,3
+b3303a43,"wait_finger_down, took <*> ms",3
+8d589afa,begin,40
+397cf893,receive data len = <*>,40
+25093e1d,"batch: current sample rate, report rate & buffering are equal to requested (<*>.<*>,<*>.<*>,<*>)",2
+765af2cc,QSEECom_send_cmd return!,20
+a072ad60,qsc_send_cmd finish,20
+83e22df9,send data return = <*>,20
+9b7fc93a,qsc_decode end,20
+72e60a38,worker idle,5
+48edbc7b,"APS brightness=<*>.<*>,ConvertToPercentage=NaN",2
+96527e4b,fpc_get_authenticator_id id <*>,2
+66c45f30,startAuthentication(<*>),2
+360b5113,"starting client AuthenticationClient(<*>), initiatedByClient = true)",2
+1ad628dd,"authenticate(sid=<*>, gid=<*>)",2
+3930d5c4,"onNotificationPosted: StatusBarNotification(pkg=<*> user=UserHandle{<*>} id=<*> tag=null key=<*>|<*>|<*>|null|<*>: Notification(pri=<*> contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> actions=<*> vis=PRIVATE publicVersion=Notification(pri=<*> contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> vis=PRIVATE))) important=<*>, post=<*>, when=<*>, vis=<*>, userid=<*>",2
+7fdc600b,addNotification key=<*>|<*>|<*>|null|<*>,2
+b6e7615e,isCloneProcess = false,10
+dd786874,AwareMem_DMEServer: stop,2
+32f53b2d,workerFunction STATE_AUTHENTICATE,2
+1e2da579,client <*> is authenticating...,2
+f2b17d58,"onReceive, action:<*>",6
+2d64f8bc,InactiveState143467,2
+075552b7,Unhandled message when=<*> what=<*> arg1=<*> arg2=<*>,3
+07ca9f3c,P2pEnabledState when=<*> what=<*> arg1=<*> arg2=<*>,3
+adebc9b8,DefaultState{ <*> what=<*> target=<*>$SmHandler },3
+b0189672,SleepPolicy:<*>,2
+d2cb64be,"fpc_tac_send_get_indices_cmd indices:<*>, index_count:<*>",2
+a0ca20d7,"onCreateView : ClassNotFoundException, In this case we want to let the base class take a crack at it",48
+7f19a3be,ConnectedState !CMD_SCREEN_STATE_CHANGED rt=<*><*> <*> <*>,2
+8d951ab7,<*> !CMD_SCREEN_STATE_CHANGED rt=<*><*> <*> <*>,9
+9b5e16d6,mIntentReceiver begin,3
+5ac444fc,isLockScreenDisabled HwKeyguardManagerImpl result = false,6
+224e4304,"CtrlSocket Receiver,disable: false locked: true action: <*> mSmartKeyguardLevel: normal_level mStartPowerSaving: false",3
+407d0251,receive screen off intent!,2
+365b0102,wifi tethering: false,2
+a5214ac6,Usb tethering: false,2
+df5a42ae,bt tethering: false,2
+f41c510f,pluggedStatus: <*>,2
+2194d0e6,is charging: false,2
+2f1221d8,remove(null) changed bounds; rebatching,4
+566a6824,listener cannot be found,3
+dce7caca,ConnectedState CMD_ENABLE_RSSI_POLL rt=<*><*> <*> <*>,2
+fa5a115f,L2ConnectedState CMD_ENABLE_RSSI_POLL rt=<*><*> <*> <*>,2
+12ceea5b,ConnectedState CMD_SET_SUSPEND_OPT_ENABLED rt=<*><*> <*> <*>,2
+27fc804e,<*> CMD_SET_SUSPEND_OPT_ENABLED rt=<*><*> <*> <*>,6
+a05cdda4,wifi_send_command: cmd:'IFNAME=wlan0 DRIVER SETSUSPENDMODE <*>',3
+5163b1cf,wlan0: Control interface command 'DRIVER SETSUSPENDMODE <*>',3
+23051d9f,[PhoneIntfMgr] getDataEnabled: subId=<*> <*>,4
+ed9018c3,fpc_tac_begin_identify---need_liveness_authentication: <*>,2
+0f9afe97,CtrlSocket getMobileDataEnabled = false,2
+7c65378b,mIntentReceiver-ACTION_SCREEN_OFF,2
+27f9f99f,"updateLightsLocked,mInCall =true,mScreenOn = <*> == null?true",4
+942f09c2,"updateLightsLocked,turn off notificationLight",4
+8dcf4814,turn off notificationLight due to incall or screenon,4
+fe7f67cf,updateLight --> mIsNotificationExisting: false ledOnMS: <*> ledOffMS :<*>,4
+4ab813a7,"updateLightsLocked --> level:<*>, status:<*>",4
+c4dd3c6f,updateLightsLocked --> mBatteryLight.turnOff,4
+eadd0d3b,HDebug print the key screen_state,3
+353c5597,adev_set_parameters: enter: screen_state=off,2
+93e3d6a1,huawei_audio huawei_choose_HandsFree_device_incall_forHWtest: test Type =<*>,3
+73554402,huawei_audio huawei_choose_Handset_device_incall_forHWtest: test Type =<*>,3
+a82fffb3,"fpc_tac_send_set_arbitrary_data_cmd:ok, response:<*>",2
+cdcecfdf,get_spk_pa_type: pa is max98925,3
+abf649f5,huawei_common_set_parameters: exit with code(<*>),3
+8c24e988,onAcquired(<*>),2
+0c30e521,huawei_cust_set_parameters: exit with code(<*>),3
+33c02fa4,platform_set_parameters: enter: - <*>,3
+425a8035,platform_set_parameters: exit with code(<*>),3
+b284a9e6,audio_extn_set_anc_parameters: anc_enabled:<*>,3
+92666e0a,audio_extn_fbsp_set_parameters: Speaker protection disabled,3
+9088debc,adev_set_parameters: exit with code(<*>),3
+3c916f68,onAcquired <*>,4
+66ea9797,PFW.HwPFWService:mBroadcastReceiver action = <*>,3
+0f45ee4b,PFW.HwPFWService:handle PFW_MSG_SYSTEM,3
+44658595,PFW.HwPFWAppRestartPolicy:receive action = <*>,3
+d0509756,DeviceActiveState{ <*> what=<*> target=<*>$SmHandler },3
+58c9b51d,StaEnabledState what=<*>,3
+96d275e9,DefaultState what=<*>,3
+f34968f0,wifiSleepPolicy:<*>,2
+7e97c479,set idle timer: <*> ms,2
+167b04ed,DefaultState MSG_SCREEN_OFF mIsAutoOpenSearch = false,2
+8444868e,onReceive:screen off,2
+094451bb,"saveIOStatsAndLatestUids,the time interval is too shorter than the last screen off",2
+f306caa0,SND -> {<*> bandwidth gettetherstats},3
+2a838e25,RCV <- {<*> <*> Tethering stats list completed},6
+ec6951c2,AntiMalManager:receive Broadcast ACTION_SCREEN_OFF mOnTimeSum:<*> onTime:<*> isPowerConnected:false,2
+b9d118aa,AutoCleanReceiveServer:receive action:<*>,3
+4eabbf67,"wpa_driver_nl80211_driver_cmd SETSUSPENDMODE <*> len = <*>, <*>",3
+9e35d05b,"release:lock=<*>, flg=<*>, tag=""WifiSuspend"", name=android"", ws=null, uid=<*>, pid=<*>",2
+3498a28d,AutoCleanReceiveServer:telemamanger state isIdle:true,2
+3a501249,"AutoCleanReceiveServer:checkToStartCleanService,phone is use state,phone is use,need not start clean service",2
+3a5f71e8,mStatsXtProcUid: <*> does not exist!,3
+8ea27b42,mActiveIface: null,3
+524cd9f1,"release:lock=<*>, flg=<*>, tag=""NetworkStats"", name=android"", ws=null, uid=<*>, pid=<*>",3
+87fba9de,"receive broadcast intent, action: <*>",3
+0fa67cd1,"updateLowPowerMode,isPowerSaveMode:falseisInteractive:false",2
+4df2a8e7,disableGps:false isEnabled()=true,3
+685abf51,C onScreenOff,2
+c7e7d66b,[Timer rat:<*> level:<*>] suspend,2
+a7452eb9,[Timer serviceState:<*> simReady:true] suspend,2
+f1e2a14a,[Timer serviceState:<*> simReady:false] suspend,2
+d9f8fa5a,duration: <*> STATUS_REPORT_TIMESPAN: <*> / (<*> * <*> * <*> * <*>) day STATUS_REPORT_TIMESPAN_FOR_BETA: <*> / (<*> * <*> * <*> * <*>) day,2
+a38d24b3,"is Beta User, userType = <*>",2
+79bc0983,TrafficNotifyAfterLocked:mLockStartTraffic = <*>;mLockStartTrafficList = {},2
+2561f5e6,onDataActivity: direction=<*>,6
+d00e9730,"enter addToIdleMessage(type:<*>), mainloop is busy, add to idleMessage",3
+66cf74a6,SimCardMethod:<*>: imsi is null,3
+6eb2266c,NormalTrafficAnalysis:alert byte = <*> last alert byte = <*>,3
+55c48fcd,"NormalTrafficAnalysis:alert byte = <*>, so return",3
+d95819d7,[HME_JPEG_DEC_Delete](<*>): HME_JPEG_DEC_Delete: decoder_ctx=null,8
+7133a5f1,TafficState:default sub id = 0slotIndex = <*> subscriptionId = <*>,3
+e2111574,LeisureTrafficSetting:result is empty,3
+00264860,NatTrafficNotifyService:delta byte = <*> no traffic delta = 0Traffic state is <*>,3
+e34002f7,ExtraTrafficSetting:result is empty,3
+3ca74110,InCallPresenter - notifyInCallScreenIsForeground: <*>,3
+584cbe8b,"action:InCallScreenIsForegroundActivity, mPermissionType:<*>",3
+a8e02fd4,OverscanTimeout run,2
+66db1ada,"unclear notification ,notificationPkgName:<*> key:<*>|<*>|<*>|null|<*>",4
+5c3491ca,"generateAddAnimation:null, false",4
+36dc96c6,onNotificationExpansionChanged called,5
+22758f3e,e id:<*> type:{pkg:<*>},2
+bd5665b3,KGSvcFp onAuthenticationAcquired.<*>,2
+092a519f,VolumeDialogController.Callbacks onScreenOff,2
+d26abd28,onReceive intent:act:<*> flag:<*>,3
+1abb529f,"update:rxPkts:<*>,txPkts:<*>,rxBytes:<*>,txBytes:<*>",2
+db16eabd,start expired. level:-<*>,2
+e7b7d761,gettimer:interval=<*>,2
+fc314fdb,Change to single clock mode!,8
+9561dd6b,simCount:<*> phoneState:<*>,5
+4f70433c,"mCallingStatusReceiver:onReceive::action=InCallScreenIsForegroundActivity, isForegroundActivity=false, mPhoneState=<*>",2
+d427e24f,"updateCallLayout:isBackground=false, isInteractive=false",2
+14b27518,mNotifyStateChangedReceiver do nothing,2
+b4950b99,"mNotifyStateChangedReceiver::onReceive:action=InCallScreenIsForegroundActivity, mBackgroundState=false",3
+4ca0ad07,"overlapAmount:<*>.<*>, previousNotificationEnd:<*>.<*>, newYTranslation:-<*>.<*>, location:<*>, i:<*>, getTopPadding:<*>.<*>, getLocationOnScreen():-<*>",3
+637af044,updateClipping isOverlap:true,3
+643ab8b3,updateDimmedActivatedHideSensitive overlap:true,3
+aa1d0140,"setOverlap mOverlap:true, mDimmed:false",4
+ea5b0d5f,start wakelock monitor.,2
+8f2e60fa,call busy and not start clean apps.,2
+f6bec32e,ash->screen off,2
+f0795ed5,Default InputMethod : <*>,2
+cff0b3e0,"screen off inputmethod, delay to hibernation",2
+03bc9157,handle action thermal policy:<*>,3
+de64a334,I<*> :: OSOBSERVER :: Data Items In,3
+0f1b177d,I<*> :: Data Item Value: IS_SCREEN_ON: <*>,3
+92e3a8e0,Launcher receiver screen off broadcast sendmessage true,2
+3769b1e7,mSimSubId:<*> onDataActivity: direction=<*>,5
+b7cb0a71,MemoryRecoveryDMEPlugin: reportScene typeId = <*>,3
+d7361c4f,MemoryRecoveryDMEPlugin: receive sceen <*> event,3
+79a6e7c3,"enter into handleScrnOnOffTimeStats, scrnOn = <*> mIsPreScrnOn = <*> mScrnSwitchTime = <*>, occurTime = <*>, delta = <*>, mScrnOffAccTime = <*>, mScrnOnAccTime = <*>",3
+8abd809c,"left handleScrnOnOffTimeStats, mScrnOffAccTime = <*>, mScrnOffAccTime = <*>, mScrnOnAccTime = <*>",3
+b7341016,create: <*>,3
+1efa5f2f,send: <*>,3
+39c1db13,handle_exception_events enter,3
+06a5e9da,process buffer and get message,3
+f34979bb,MagicLink2-BroadcastReceiver:====>ACTION_SCREEN_OFF,2
+c71014dd,dropped event (cpu0),1
+37c88e73,setTracingEnabled:<*>,2
+aae93eaa,error writing to <*>: Bad file descriptor (<*>),1
+16420411,Systrace:: buffer is full and will reset.,1
+e4572ce5,msg.recv{<*>} TcpClientThread.onRecv(TcpClientThread.java:<*>) TCP Msg 659TCP_OK,2
+ae7c710a,msg.recv{<*>} XmlMsg.decodeBuf(XmlMsg.java:<*>) RECV <*> bytes <*> cmdCode(CC_PCheckVersion.<*>)msgType(MT_ACK.<*>)msgClass(MC_Push.<*>)sender(ST_Mobile.<*>)crypted(false)zipped(false)nobase64(true)length(<*>)version(<*>)sno(<*>),2
+a6b9ef39,isMusicActive...,2
+d639dd08,isWiredHeadsetOn...,2
+cb1dc376,Watch Thread{<*>} WatchThread.onLoop(WatchThread.java:<*>) watch thread onLoop...,1
+4e3fce06,Watch Thread{<*>} WatchThread.onLoop(WatchThread.java:<*>) watch thread onLoop...--》 iWatched.doWatch(),1
+5e76d5be,<*>|onStandStepChanged <*>,1
+aabbf6f3,<*>|compensate received,1
+61f14af8,<*>|getTodayTotalSteps <*>,3
+ef1802bf,<*>|before compensate: cache step_4180,1
+e1031707,<*>|compensate <*> <*>,1
+861b9a56,<*>|after compensate: cache step_4181,1
+147e02fb,<*>|REPORT : <*> <*> <*> <*>,2
+9b50b930,onStepCounterChange stepsNum:<*>,1
+e77a53c2,Cache monitor msg as screen_off,3
+bf552eaf,removeProximityView success vp <*>@<*>,1
+94c12de4,handleProximitySensorEvent positive:false,1
+62607d39,Screen turned off...,1
+00661099,onScreenTurnedOff(),2
+2ab4fb33,batch called handle:<*> sample_ns:<*> latency_ns:<*>,3
+1b6e8da5,<*> calling driver setDelay <*> ms,3
+f266121e,write <*> failed,2
+4f01a898,KGSvcCall onScreenTurnedOff.,1
+c7b2489b,notifyScreenTurnedOff,1
+2cbd0509,releaseLock: return because sensor listener is held = false,1
+eae63133,"set power status:mPowerStatus=true,powerStatus=false",1
+8fef324a,PowerManagerServiceonProximityNegative -> updatePowerStateLocked,1
+6b10d66f,handleNotifyScreenTurnedOff,1
+e9aa76e5,"userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>",2
+c0440256,"PowerManagerNotifier onUserActivity: event=<*>, uid=<*>",2
+40a51460,"PowerManagerService wakeUpNoUpdateLocked: eventTime=<*>, uid=<*>",1
+cce126f9,PowerManagerService Waking up from sleep (uid <*>)...,1
+6b731daf,"PowerManagerNotifier onWakeUp: event=<*>:POWER, reasonUid=<*> opPackageName=android opUid=<*>",1
+659cc59c,Destroying surface Surface(name=) called by <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*> <*>:<*>,1
+6c598573,PowerManagerServiceonProximityNegative by Phone,1
+a38ae789,setColorTemperatureAccordingToSetting,2
+0abd9468,isDisplayFeatureSupported feature:<*>,1
+8148e7d7,hw_get_smart_display_supported: start++,1
+00942174,hw_get_smart_display_supported: end--,1
+8d425952,Surport <*> dimension color temperature.,1
+95cb4596,setColorTemperatureAccordingToSetting new.,1
+52f4daca,ColorTemperature read from old setting:<*>,1
+018d16d4,setColorTemperature:<*>,1
+832a3a63,hw_set_colortemperature: start++,1
+968f7473,"Warning: hw_set_colortemperature is COLOR_TEMP_2_DIMENSION interface, not supported presently.",1
+0dad2109,hw_set_colortemperature: end--,1
+1439bfcf,DisplayPowerState :ON,1
+7581ef5a,Setting mDismissKeyguard true by win Window{<*> u0 <*><*>.<*>},16
+0015662e,DisplayPowerController Blocking screen on until initial contents have been drawn.,1
+f0e833de,Screen turned on for keyguard,1
+fc2eb35c,KeyguardServiceDelegate onScreenTurnedOn(showListener = <*>$<*>@<*>),1
+08728e4d,KGSvcCall onScreenTurningOn.,1
+d3d720b8,notifyScreenOn,1
+a4d19564,handleNotifyScreenTurningOn,1
+e988c331,onScreenTurningOn,1
+9d2d26b3,handleNotifyScreenTurnedOn End with : <*>,1
+5757c9f1,"set power status:mPowerStatus=false,powerStatus=true",1
+e18c02f4,**** SHOWN CALLED ****,1
+01c98187,<*>.,1
+f4912ffa,hideScrim(),1
+2a0427dd,finishKeyguardDrawn -> waitForAllWindowsDrawn,1
+e4644711,"Enable LightSensor at time:mLightSensorEnableTime=<*>,mLightSensorEnableElapsedTimeNanos=<*>",1
+22136d94,"mAmbientLuxValid= false,sensor is not ready",1
+d16f2983,"mWakeupFromSleep= true,currentTime=<*>,mLightSensorEnableTime=<*>",1
+6efac80d,"Animating brightness: target=-<*>, rate=<*>",1
+5bccb229,Calling fingersense_on_resume(),1
+bbb61e2a,fingersense_on_resume() finished,1
+00033694,Sending SAM_ENABLE to fs_data,1
+034b3523,"Got ENABLE response, status = <*>, id = <*>",1
+d67678fa,"mAmbientLuxValid=true,mWakeupFromSleep= false",1
+821410e0,"updateAmbientLux: Initializing: mAmbientLightRingBuffer=[<*>.<*> / 0ms], mAmbientLux=<*>.<*>",1
+da3b7562,"t=<*>,BT=<*>,DT=<*>,BT1=<*>,DT1=<*>,Bn=false,Dn=false,lx=[<*>.<*><*>],mLx=<*>.<*>,s=<*>.<*>,ss=<*>.<*>,AuIntervened=false,mProximityState=false,bLux=<*>.<*>,dLux=<*>.<*>,bLux1=<*>.<*>,dLux1=<*>.<*>",1
+12f4d4b3,need to update brightness: mAmbientLux=<*>.<*>,1
+e37e3671,"interpolate:mPosBrightness=<*>.0lux=<*>.<*>,mIsReboot=true,mIsUserChange=false,mDelta=<*>.<*>",1
+d9eb8f1c,"offsetBrightness=<*>.<*>,mOffsetBrightness_last16.<*>,lux=<*>.<*>,mPosBrightness=<*>.<*>,mIsUserChange=false,mDelta=<*>.<*>,defaultBrightness=<*>.<*>,mStartLuxDefaultBrightness=<*>.16mLastLuxDefaultBrightness=<*>.<*>",1
+029284a7,"write:userId=<*>,mPosBrightness =<*>.<*>,mOffsetBrightness_last=<*>.<*>,mIsUserChange=false,mDeltaNew=<*>.<*>,mStartLuxDefaultBrightness=<*>.16mLastLuxDefaultBrightness=<*>.<*>,mAmLux=<*>.<*>",1
+07154e2c,"updateAutoBrightness: mScreenAutoBrightness=<*>, newScreenAutoBrightness=<*>",1
+0a01f3ba,waitForAllWindowsDrawn cover is open or null,1
+0e453834,"completedResumed: ActivityRecord{<*> u0 <*>/.InCallActivity t310}, launchTrack: outofsleep resumeTopComplete",1
+5161eed9,Started waking up...,1
+b1b60d59,onStartedWakingUp(),1
+3f14e709,PowerManagerNotifier Sending wake up broadcast.,1
+55878978,KGSvcCall onStartedWakingUp.,1
+89bc1c12,report result = falsereport type:<*> msg:,1
+a5b4ee55,"onStartedWakingUp, seq = <*>",1
+cba8fb78,notifyStartedWakingUp,1
+491ee04c,handleNotifyWakingUp,1
+680625b1,onStartedWakingUp,1
+4a81a4c6,InCallActivity - onStart()...,1
+56a05b9d,KGSvcFp stopListeningForFingerprint(). <*>,1
+10212a8a,FingerprintService cancelAuthentication,1
+3df044ba,stop client <*>,1
+5f0a32a0,stopAuthentication(),1
+9baf74ab,fpc_cancel,1
+5268cb52,capture_image failed -<*>,1
+7d71335c,timeForContinueCapture id:<*>,1
+08a5c467,"getTimeTickInfo:[mMillisUntilFinished:<*>, mHour:<*>, mMinute:<*>, mSecond:<*>]",1
+778109b9,createLockScreenView when reset,1
+3936c259,loadMagazine,1
+a3956ef7,Incall is gone,1
+764e7e08,Enable transport text marquee,1
+409ac5a6,windowsGone(): ActivityRecord{<*> u0 <*>/.InCallActivity t310},1
+461b0aa6,setExcludeFromRecents:pkgName=null,1
+f7d6677d,expired arrive. level:-<*>,1
+60bfb25d,do_identify failed -<*>,1
+38ffe912,onError(<*>),1
+24e376b0,do_identify operation CANCELED,1
+d5f259bb,onError <*>,2
+dcaf3023,"do_identify took <*> ms, total:<*> wait:<*>",1
+ee12c513,MODE_OPAQUE -> MODE_TRANSLUCENT animate=false,1
+af7c06db,applyModeBackground oldMode=MODE_OPAQUE newMode=MODE_TRANSLUCENT animate=false,1
+625ee82a,InCallPresenter - onActivityStarted,1
+84fb174b,VideoPauseController: - VideoPauseController:onResume,1
+3c9f5dbe,VideoPauseController: - VideoPauseController:onResume. Ignoring...,1
+af4ca7eb,InCallActivity - doOrientationChanged prevOrientation=<*> newOrientation=<*>,1
+db30721b,InCallActivity - onStart()... end,1
+6f02edf5,"updateBarBgColor:emuiStyle=<*>,statusBarColor=#<*>,navigationBarColor=#<*>, isEmuiLight=<*>",1
+84422463,"setBackgroundColor:new=<*>, old=<*>",2
+e62d585f,InCallActivity - onResume()...,1
+8f91d767,InCallActivity - bgCallTwinkingSwitch is truemIsForegroundActivity is true,1
+c9b42832,MODE_TRANSLUCENT -> MODE_TRANSPARENT animate=false,1
+b4607bd7,applyModeBackground oldMode=MODE_TRANSLUCENT newMode=MODE_TRANSPARENT animate=false,1
+f097aea4,"transitionTo:mode=<*>, isEmuiStyle=true",1
+d206779e,StatusBarNotifier - cancelInCall()...,1
+6b5c361a,"cancelNotificationWithTag pid <*>,uid = <*>,tag = null,pkg =<*>,id =<*>",1
+b393a741,StatusBarNotifier - updateInCallNotification: timer cleared,1
+cdb59b9d,workerFunction STATE_CANCEL,1
+283d401e,client <*> is no longer authenticating,1
+ed0f8b46,ClientMonitor destroy,1
+d8e25a96,Done with client: <*>,1
+ba52f7fd,"handleError(client=<*>, error = <*>)",1
+84acd9ec,"during_ms:<*>,period_ms:<*>",1
+3724ff0f,"count:<*>,rx_sum:<*>,tx_sum:<*>,rxBytes:<*>,during_ms:<*>,rx_speed:<*>.<*>,tx_speed:<*>.<*>,rto:<*>.<*>",1
+bb53eb12,"speed: rxpkt:<*>, rxSpd:<*><*>, txpkt:<*>, txSpd:<*>",1
+bf5d4509,updateDisplayLocked: screenOn=true,3
+ed9a902a,"becomeActiveLocked, reason = screen",3
+a027acac,handleMessage(<*>),1
+581d8ffb,AnswerPresenter - onUiShowingtrue,1
+36e6b614,AnswerPresenter - onCallListChange callList=<*>@<*>,2
+398ef404,AwareMem_DMEServer: start,1
+ef908799,"cancelNotification,index:<*>",1
+beda30e4,"cancelNotification,cancelNotificationLocked,callingUid = <*>,callingPid = <*>",1
+8a999a7a,"cancelNotificationLocked called,tell the app,reason = <*>",1
+6ffb32a1,cancelNotificationLocked:<*>|<*>|<*>|null|<*>,1
+14be3b8a,"cancelNotificationLocked,remove =<*>",1
+616e28f8,AwareMem_EventTracker: <*> is abandoned for memory <*>,2
+f8a067e4,workerFunction STATE_NAVIGATION,1
+c7000260,InactiveState143466,1
+084c3fc2,cancel alarm.,1
+475af986,ConnectedState CMD_SCREEN_STATE_CHANGED rt=<*><*> <*> <*>,1
+1e016227,<*> CMD_SCREEN_STATE_CHANGED rt=<*><*> <*> <*>,4
+3c5a4dce,DefaultState CMD_SCREEN_STATE_CHANGED rt=<*><*> <*> <*>,1
+dfd19295,"mCallingStatusReceiver:onReceive::action=InCallScreenIsForegroundActivity, isForegroundActivity=true, mPhoneState=<*>",1
+247e0cc6,Unrecognized alarm listener <*>$<*>@<*>,1
+bf0d38ac,"updateCallLayout:isBackground=false, isInteractive=true",1
+f4baaf94,"handleScanCounterChanged,reason: <*>, mHwSingleScanCounter: <*>",1
+08854566,KGSvcFp onAuthenticationError.<*>,1
+a181318b,Apply window Height <*>,1
+e0a88b5d,apply skiped :<*>,1
+1dce6e04,ConnectedState !CMD_ENABLE_RSSI_POLL rt=<*><*> <*> <*>,1
+4ab206a5,L2ConnectedState !CMD_ENABLE_RSSI_POLL rt=<*><*> <*> <*>,1
+e8e4f6f2,wifi_send_command: cmd:'IFNAME=wlan0 SIGNAL_POLL',2
+9c82eca3,CtrlSocket receive screen on intent!,1
+36bfac61,CtrlSocket restoreScrOnStatus,1
+31e37612,"pid=<*>, cmd=<*>, param=<*>",1
+b42ad56c,"mFilterMsgFlag: <*>,msg.arg1: <*>",1
+b1884444,handleFilterMsg action: 3mFilterMsgFlag3,1
+6352550f,[tiger]setBastetFilterInfo action 3pid <*>,1
+b75c0d78,stopFilter m_filterIsStarted:false,1
+0dec0f0c,CtrlSocket processCtrlSocket pid = <*> cmd = <*> param = <*> ret = <*>,1
+55e7e8ea,CtrlSocket restoreScrOnStatus reset,1
+23e91dde,new ScenarioAction sPoolSize: <*>,1
+7c19ba50,onNotificationRemoved: StatusBarNotification(pkg=<*> user=UserHandle{<*>} id=<*> tag=null key=<*>|<*>|<*>|null|<*>: Notification(pri=<*> contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> actions=<*> vis=PRIVATE publicVersion=Notification(pri=<*> contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> vis=PRIVATE))),1
+cf257422,removeNotification:<*>|<*>|<*>|null|<*>,1
+76f2362d,removeNotificationViews:<*>|<*>|<*>|null|<*>,1
+e5a19090,onEntryRemoved:<*>|<*>|<*>|null|<*>,1
+d12f26e6,"onEntryRemovedInternal:<*>|<*>|<*>|null|<*>, group=<*>|<*>|<*>|null|<*>",1
+a00e8760,summary = null,1
+62cdf7bd,mIntentReceiver-ACTION_SCREEN_ON,1
+eb71e9cb,adev_set_parameters: enter: screen_state=on,1
+e22a492b,RSSI=-<*>;LINKSPEED=<*>;NOISE=<*>;FREQUENCY=<*>;,2
+2ea495d5,get AllImpl object = <*>@<*>,2
+b7276a80,"setOverlap mOverlap:false, mDimmed:false",1
+583a5079,"updateConfiguration freq=<*> BSSID=<*>:<*>:bc:<*>:<*>:c1 RSSI=-<*> ""Huawei-Employee""WPA_EAP",2
+b95d9ef1,ConnectedState !CMD_SET_SUSPEND_OPT_ENABLED rt=<*><*> <*> <*>,1
+a325e66e,<*> !CMD_SET_SUSPEND_OPT_ENABLED rt=<*><*> <*> <*>,3
+7253acdc,"Change in state from: connected=true,enabled=true,level=<*>,inetCondition=<*>,iconGroup=IconGroup(Wi-Fi <*> <*>:<*>:<*>,isChaged:false,wifiNoInternet=false,ssid=""Huawei-Employee""",2
+cfc1d77a,"to: connected=true,enabled=true,level=<*>,inetCondition=<*>,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-<*>,lastModified=<*><*> <*>:<*>:<*>,isChaged:false,wifiNoInternet=false,ssid=""Huawei-Employee""",1
+8e00abee,mWifiVisible is:truemWifiStrengthId is:2130839427mWifiDescription is:WLAN 信号强度满格。,4
+f14ebdce,mVSimCurCardType is -<*>,4
+9361d325,"apply hwPhoneState.mSubId:<*> anyMobileVisible:false mIsAirplaneMode:false, mobileGroupVisible=true",4
+22ba72b1,InCallActivity - onResume()... end,1
+87b44875,VideoCallFragment - onResume,1
+985465b2,"VideoCallFragment - onResume: Surface exist, resume videos",1
+4bad62e0,"VideoCallPresenter - resumeVideo: Error bad state mPrimaryCall=[Call_10, ACTIVE, [Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_CANNOT_DOWNGRADE_VIDEO_TO_AUDIO], children:[], parent:null, conferenceable:[], videoState:Audio Only, mSessionModificationState:<*>, VideoSettings:(CameraDir:-<*>)] mVideoCall=null",1
+fedc2e9e,VTCallButtonFragment - --- onResume ---,1
+ff5a2fd9,"Resuming ActivityRecord{<*> token=<*>@<*> {<*><*>.<*>}} with isForward=true,forwardBitChanged=true onlyLocalRequest=false",1
+9d5f2e37,"flush,<*>,handle <*>",3
+d8f0cf20,"flush,<*> handle <*>",2
+6b6a2f63,startWifiRouteCheck,1
+7c8d9f9a,applyIconTint ignore,2
+88b25bf1,sendScreenOnEvent enter.,1
+273a59be,msg Loop is running.,1
+fe5c5651,"device screen on,but isScreenOffMonitor is false",1
+83133e11,onReceive intent action = <*>,1
+f40e992a,SupplicantState = COMPLETED,1
+9e76493a,isPhoneAP = false,1
+8c9d4f89,getCurrentCellid type type = PHONE_TYPE_GSM,1
+6c197f81,getCurrentCellid type is PHONE_TYPE_GSM,1
+03b36de6,CallCardFragment - onGlobalLayout,1
+1d29059f,getCurrentCellid PHONE_TYPE_GSM cellidString = <*>,1
+aa15379c,updataApInfo cellid =<*>,1
+1f2ccac7,addCurrentApInfo cellid =<*>,1
+8d3c57b5,addCurrentApInfo info is already there,1
+3399b359,updateBssidTimer time = <*>,1
+100f7bfc,nl80211: Event message available,1
+70595150,nl80211: Drv Event <*> (NL80211_CMD_SET_REKEY_OFFLOAD) received for wlan0,1
+023608f1,nl80211: Rekey offload event for BSSID <*>:<*>:bc:<*>:<*>:c1,1
+d4acc09d,nl80211: Rekey offload - Replay Counter - hexdump(len=<*>): <*> <*> <*> <*> <*> <*> <*> <*>,1
+cfb06147,wlan0: Event DRIVER_GTK_REKEY (<*>) received,1
+2ce4fc95,inlineAddCurrentApInfo mInfos.size()=<*>,1
+a2088bd5,handledataswitchchanged,1
+27d20e4e,"updateLowPowerMode,isPowerSaveMode:falseisInteractive:true",1
+061d856b,TrafficNotifyAfterLocked:screen notification will not notify,1
+e61abefd,Reporting idle of ActivityRecord{<*> token=<*>@<*> {<*><*>.<*>}} finished=false,1
+2ca9ba8e,Returning system default Launcher,1
+d555f7cd,"screen off: 1s, awake: 1s wakeups: <*>, battery changed: <*>",1
+5e6a4da8,isInMultiWindowMode ret: <*>,1
+699a20a0,can't adjust backlight when app launch from other scene.,1
+7a9fb121,ash->screen on,1
+0f87aaed,I<*> ulp_msg_process_system_update(const UlpSystemEvent): systemEvent:<*>,1
+9a1c4d10,ash->screen unlock,1
+b3b3c98a,"MemoryRecoveryDMEPlugin: the message is still in the messagequeue, remove it",1
+d906578b,windowsVisibleLocked(): ActivityRecord{<*> u0 <*>/.InCallActivity t310} idle: true,1
+91fe359e,All windows ready for display!,1
+56c60484,WindowOrientationListener enabled,1
+62b66c4f,<*>|logicalDealBroadcastEvent : Intent { act=<*> flg=<*> },1
+06c99f08,<*>| ## MSG_DEAL_SYSTEM_EVENT <*>,1
+4312d976,<*>|flush sensor data,1
+3782acda,Finished screen turning on...,1
+54d0d09a,flush:sensor(<*>) handle:<*>,1
+b074af13,DisplayPowerController Unblocked screen on after <*> ms,1
+0418ca7e,tcp.recv{<*>} TcpSocket.read(TcpSocket.java:<*>) <<< WARN(<*>) >>> <*>: Socket operation on non-socket,1
+4fd8c873,Watch Thread{<*>} LoginC.doWatch(LoginC.java:<*>) Login_By_Step-> watch count = <*>,1
+c8f1aa27,"to: connected=true,enabled=true,level=<*>,inetCondition=<*>,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-<*>,lastModified=<*><*> <*>:<*>:<*>,isChaged:false,wifiNoInternet=false,ssid=""Huawei-Employee""",1
+3642b76d,"onSignal: mSubId=<*>,currDataSubID=<*>",2
+18e04965,received cell-signal:<*>,2
+52ec7f6b,"onSignalStrengthsChanged signalStrength=SignalStrength: -<*> <*> -<*> <*> -<*> <*> -<*> <*> <*> <*> <*> <*> <*> <*> <*> false gw|lte level=<*> isSuspend=false levelOld=<*>,mSignalStrength level=<*>",2
+c7b03d97,updateSignalStrength: signalStrength=SignalStrength: -<*> <*> -<*> <*> -<*> <*> -<*> <*> <*> <*> <*> <*> <*> <*> <*> false gw|lte,2
+1f8c50db,csr,2
+afc71d77,"t:false, fl: false, p: <*>, ce: true, we: true",2
+26e232ef,netmask =<*>,2
+a6eb6b4c,m1: false,2
+2630e619,subId:<*> phoneType:<*> networktype:<*> targetClass:<*> masterLevel:<*> slaveLevel:-<*>,2
+912e33bb,"m2: false, m3: false",2
+83145cdf,"c: true, w: true, t: false, l: false",2
+4ef4c932,"[<*>.<*><*>, <*>.<*><*>, <*>.<*><*>, <*>.<*><*>]",1
+3bee24b8,"Background partial concurrent mark sweep GC freed <*>(5MB) AllocSpace objects, <*>(772KB) LOS objects, <*>% free, 52MB<*>, paused <*>.901ms total <*>.523ms",1
+aecf7089,DefaultState !CMD_SCREEN_STATE_CHANGED rt=<*><*> <*> <*>,1
+1751db94,LM mrssi=-<*>,1
+18984f58,MSG_RETURN_AP_CURRY_RSSI rssi = -<*>,1
+88f43c71,"<*>:<*>:bc:<*>:<*>:c1 current loss[-<*>]=<*>%, volume=<*>",1
+108d3b1f,queryRtt: rtt_type = <*>,1
+08b2d1ae,######### GET RTT:<*> ########,1
+e796b97c,send_cmd_kernel: cmd=<*>,2
+a2632df5,"<*>:<*>:bc:<*>:<*>:c1 history loss[-<*>]=<*>.<*>%, volume=<*>",1
+3ab27eea,Received kernel message payload: event <*>,2
+0dee0547,"spd good count:<*>, add sc:<*>.<*>, rate:<*>.<*>",1
+bf63800e,current mHighDataFlowRate = <*>.<*>,1
+02333bff,"postEventFromNative: msg=<*>,arg1=<*>,arg2=<*>",2
+9b42afe8,"POta txb txg rxg:<*>, <*>, <*>. Lr =<*>% Totpkt=<*>",1
+4aee5212,poll before: g_monitor_fd =<*>,2
+9e17d7ac,setSampleRtt: unvalid rtt,1
+662f59ae,######### CMD_QUERY_PKTS ########,1
+0faa791c,"rtt=<*>,tcp_tx_pkts=<*>,tcp_rx_pkts=<*>",1
+d57c47d8,"QOS_level:<*>(<*>),DataDisable;use level<*>",1
+405a7758,"dumpTcpResult: len=<*>,rtt=<*>,rttPkt=<*>,rttWn=<*>,cgt=<*>,cgtWn=<*>",1
+7a7d0230,"PTcp RTT:<*>, rtt pkt=<*>, tcp_rx=<*>, tcp_tx=<*>, tcp_reTran=<*>, rtRate=<*>",1
+d3ec62c4,"mRssiBadCount =<*>, RSSI not bad.",1
+aed575b7,detectNetworkAvailable:<*> = <*>,1
+87bff672,"rs ota tcp lr rttvb bad: false, false, false, false, false; rsth:-<*>",1
+6ef35535,"GSC:<*>, GSR:<*>.<*>, RSR:<*>.<*>, RTH:-<*>",1
+0d149169,"bqeLevel = <*> rtt=<*>,rtt_pkts=<*> speed=<*> rssi=-<*>",1
+0d0c880c,"pkt chk not bad, reset sc to <*>.",1
+aa316dd4,### mPktChkBadCnt=<*>,1

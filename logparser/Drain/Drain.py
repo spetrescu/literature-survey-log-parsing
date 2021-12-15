@@ -253,7 +253,7 @@ class LogParser:
         logCluL = []
 
         cwd = os.getcwd()
-        print("cwd", cwd)
+        #print("cwd", cwd)
         self.load_data()
 
         count = 0

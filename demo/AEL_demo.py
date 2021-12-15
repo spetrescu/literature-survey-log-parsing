@@ -148,7 +148,9 @@ benchmark_settings = {
 
 input_dir  = '../data/augmented_data/'
 LOG_FILE = f"{DATASET}_augmented_{SIZE}k.log"
+LOG_FILE = "AEL_augmented_2k.log"
 output_dir = f'{METHOD}_result/'  # The output directory of parsing results
+output_dir = 'AEL_result/'
 
 for dataset, setting in benchmark_settings.items():
     if DATASET == dataset:
