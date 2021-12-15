@@ -1,8 +1,19 @@
 # literature-survey-log-parsing
 
-# Method
+## Experiments
+This section contains detalied information regarding the Experiments section of [Log Parsing Literature Survey](). <br>
+### Setup
+In order to reproduce the experiments, make sure to run the steps below.
+```
+Step 1:
+Step 2:
+...
+Step N:
+```
 
-This document contains detalied information regarding the Method section of [Log Parsing Literature Survey](). <br>
+## Method
+
+This section contains detalied information regarding the Method section of [Log Parsing Literature Survey](). <br>
 The queries used for the survey can be found under [Queries](#queries). <br>
 Overall statistics can be found below.
 
@@ -25,9 +36,9 @@ Total references checked while snowballing: 2051
 Total number of papers selected for survey: 93
 ```
 
-# <a name="queries"></a>Queries
-
-### Google Scholar
+### <a name="queries"></a>Queries
+Find below the queries used for the survey.
+#### Google Scholar
 <details>
   <summary>[QUERY 1] <code>log parsing</code></summary>
   
@@ -201,7 +212,7 @@ Total number of papers selected for survey: 93
   
 </details>
 
-### Scopus
+#### Scopus
 
 <details>
   <summary>[Query Scopus] <code>TITLE-ABS-KEY(log AND parsing) OR ((logs OR log OR logging OR events OR "event log" OR "event logs" OR "event logs templates" OR "event log signatures" ) AND (abstractionOR parsing))</code></summary>
