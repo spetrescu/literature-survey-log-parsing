@@ -5,8 +5,11 @@ This section contains detalied information regarding the Experiments section of 
 ### Setup
 In order to reproduce the experiments, make sure to run the steps below.
 ```
-Step 1:
-Step 2:
+Step 1: git clone https://github.com/spetrescu/literature-survey-log-parsing.git
+Step 2: cd literature-survey-log-parsing/
+Step 3: cd scripts/
+Step 4: sh fetch_data_for_experiments.sh
+Step 5: sh setup_experiments_py3.sh
 ...
 Step N:
 ```
