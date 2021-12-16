@@ -93,6 +93,7 @@ DATASET = str(sys.argv[1])
 SIZE = str(sys.argv[2])
 RUN_NO = str(sys.argv[3])
 METHOD = str(sys.argv[4])
+SCALABILITY_EXPERIMENTS_OUTPUT_PATH = str(sys.argv[5])
 #AUGMENT_TIMES = int(sys.argv[1])
 
 
@@ -225,23 +226,22 @@ benchmark_settings = {
         'depth': 6
     },
 }
-#
-input_dir  = '../log_data/'
+
+input_scalability_experiments = '../data/scalability/'
+input_accuracy_experiments = ''
+
+output_scalability_results_file = SCALABILITY_EXPERIMENTS_OUTPUT_PATH
+
+input_dir = input_scalability_experiments
 LOG_FILE = f"{DATASET}_{SIZE}k.log"
 output_dir = f'{METHOD}_result/'  # The output directory of parsing results
 
 for dataset, setting in benchmark_settings.items():
     if DATASET == dataset:
         print('\n=== Evaluation on %s ===' % dataset)
-        #indir = os.path.join(input_dir, log_file)
         indir = os.path.join(input_dir, DATASET)
-        #indir = os.path.join(input_dir, os.path.dirname(setting['log_file']))
-        #print("os.path.dirname(setting['log_file'])", os.path.dirname(setting['log_file']))
-        #print("indir", indir)
-        #log_file = os.path.basename(setting['log_file'])
         log_file = LOG_FILE
         print("log_file", log_file)
-
         tracemalloc.start()
         parser = Drain.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir, rex=setting['regex'],
                                  depth=setting['depth'], st=setting['st'])
@@ -252,9 +252,6 @@ for dataset, setting in benchmark_settings.items():
         tracemalloc.stop()
 
         row_list = [[f"{METHOD}", f"{DATASET}", f"{SIZE}", f"{time_taken}", f"{peak / 10 ** 6}",  f"{RUN_NO}"]]
-        with open(f'{METHOD}_results/{DATASET}/{METHOD}_{DATASET}_results.csv', 'a', newline='') as file:
+        with open(output_scalability_results_file, 'a', newline='') as file:
             writer = csv.writer(file)
             writer.writerows(row_list)
-
-# have access to vim
-# ModuleNotFoundError: No module named 'regex'

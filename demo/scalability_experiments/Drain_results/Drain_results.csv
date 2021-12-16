@@ -1,0 +1,13 @@
+method,dataset,log_size,elapsed_time,peak_memory,iteration_no
+Drain,Android,1,0:00:00.560403,6.482177,1
+Drain,Android,1,0:00:00.555479,6.482875,2
+Drain,HDFS,1,0:00:00.312956,1.955811,1
+Drain,HDFS,1,0:00:00.311180,1.955801,2
+Drain,Thunderbird,1,0:00:00.332756,2.804445,1
+Drain,Thunderbird,1,0:00:00.362910,2.804072,2
+Drain,Windows,1,0:00:00.344710,1.905777,1
+Drain,Windows,1,0:00:00.296424,1.905598,2
+Drain,SSH,1,0:00:00.310930,1.946753,1
+Drain,SSH,1,0:00:00.301626,1.946627,2
+Drain,BGL,1,0:00:00.231583,1.795674,1
+Drain,BGL,1,0:00:00.234630,1.79593,2
