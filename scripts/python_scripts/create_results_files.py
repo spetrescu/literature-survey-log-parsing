@@ -12,9 +12,9 @@ for i in range(1, n):
 print()
 
 METHOD = str(sys.argv[1])
-DATASET = str(sys.argv[2])
+SCALABILITY_EXPERIMENTS_OUTPUT_PATH = str(sys.argv[2])
 
-save_path = f"{METHOD}_results/{DATASET}/"
+save_path = SCALABILITY_EXPERIMENTS_OUTPUT_PATH
 cwd = os.getcwd()
 os.chdir('..')
 print(os.getcwd())
@@ -26,7 +26,7 @@ if not os.path.exists(save_path):
 # method, dataset, current_run, size, elapsed_time, peak_memory
 
 row_list = [["method", "dataset", "log_size", "elapsed_time", "peak_memory", "iteration_no"]]
-with open(f'{save_path}{METHOD}_{DATASET}_results.csv', 'w', newline='') as file:
+with open(f'{save_path}{METHOD}_results.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerows(row_list)
 
