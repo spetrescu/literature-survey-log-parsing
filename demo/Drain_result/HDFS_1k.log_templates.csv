@@ -1,0 +1,13 @@
+EventId,EventTemplate,Occurrences
+bbb51b95,Receiving block <*> src: /<*> dest: /<*>,455
+3d91fa85,BLOCK* NameSystem.allocateBlock: <*> <*>,177
+dc2c74b7,PacketResponder <*> for block <*> terminating,12
+46003790,Received block <*> of size <*> from /<*>,12
+5d5de21c,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>,19
+fcebd192,Received block <*> src: /<*> dest: /<*> of size 91178,7
+9c784e29,<*>:Transmitted block <*> to /<*>,4
+75627efd,"<*> Starting thread to transfer block <*> to <*>, <*>",3
+54e5f6b4,BLOCK* ask <*> to replicate <*> to datanode(s) <*> <*>,3
+4dec0816,<*> Served block <*> to /<*>,306
+728076ac,BLOCK* ask <*> to replicate <*> to datanode(s) <*>,1
+40651754,<*> Starting thread to transfer block <*> to <*>,1

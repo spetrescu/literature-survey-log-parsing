@@ -85,10 +85,12 @@ cd demo/
 
 for d in Android HDFS Thunderbird Windows
 do
-  for i in 1 2 4 10 20 50 100 200 300 500 1000
+  #for i in 1 2 4 10 20 50 100 200 300 500 1000
+  for i in 1
   do
       echo $value
-      for j in 1 2 3 4 5 6 7 8 9 10
+      #for j in 1 2 3 4 5 6 7 8 9 10
+      for j in 1 2
       do
           echo "\nRun $j for $method parsing "$i"k logs\n"
           python "$method"_demo.py $d $i $j $method "scalability_experiments/${method}_results/${method}_results.csv"
@@ -98,10 +100,12 @@ done
 
 for d in SSH
 do
-  for i in 1 2 10 20 50 100 200 300 500
+  #for i in 1 2 10 20 50 100 200 300 500
+  for i in 1
   do
       echo $value
-      for j in 1 2 3 4 5 6 7 8 9 10
+      #for j in 1 2 3 4 5 6 7 8 9 10
+      for j in 1 2
       do
           echo "\nRun $j for $method parsing "$i"k logs\n"
           python "$method"_demo.py $d $i $j $method "scalability_experiments/${method}_results/${method}_results.csv"
@@ -111,10 +115,12 @@ done
 
 for d in BGL
 do
-  for i in 1 2 10 20 50 100 200 300
+  #for i in 1 2 10 20 50 100 200 300
+  for i in 1
   do
       echo $value
-      for j in 1 2 3 4 5 6 7 8 9 10
+      #for j in 1 2 3 4 5 6 7 8 9 10
+      for j in 1 2
       do
           echo "\nRun $j for $method parsing "$i"k logs\n"
           python "$method"_demo.py $d $i $j $method "scalability_experiments/${method}_results/${method}_results.csv"
