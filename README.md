@@ -11,6 +11,8 @@ In order to reproduce the experiments, make sure to run the steps below.
 3. cd scripts/
 4. sh fetch_data_for_experiments.sh
 5. sh setup_experiments_py3.sh
+6. sh test/test_scalability_experiments_py3.sh
+7. sh scalability_experiments_py3.sh
 ...
 Step N:
 ```
