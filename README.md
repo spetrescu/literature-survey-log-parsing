@@ -2,14 +2,15 @@
 
 ## Experiments
 This section contains detalied information regarding the Experiments section of [Log Parsing Literature Survey](). <br>
-### Setup
+### Setup py3
 In order to reproduce the experiments, make sure to run the steps below.
 ```
-Step 1: git clone https://github.com/spetrescu/literature-survey-log-parsing.git
-Step 2: cd literature-survey-log-parsing/
-Step 3: cd scripts/
-Step 4: sh fetch_data_for_experiments.sh
-Step 5: sh setup_experiments_py3.sh
+0. mkdir logparser && docker run --name logparser_py3 -it -v logparser:/logparser logpai/logparser:py3 bash
+1. git clone https://github.com/spetrescu/literature-survey-log-parsing.git
+2. cd literature-survey-log-parsing/
+3. cd scripts/
+4. sh fetch_data_for_experiments.sh
+5. sh setup_experiments_py3.sh
 ...
 Step N:
 ```
