@@ -56,8 +56,10 @@ class LogParser():
                 for cluster in clusters:
                     cluster.patterns = [self.sequential_merge(cluster.patterns)]
                 self.level_clusters[lev] = clusters
-        self.dump()
+        #self.dump()
+        time_taken = datetime.now() - starttime
         print('Parsing done. [Time taken: {!s}]'.format(datetime.now() - starttime))
+        return time_taken
 
     def dump(self):
         if not os.path.isdir(self.savePath):
