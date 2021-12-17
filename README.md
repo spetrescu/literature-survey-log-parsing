@@ -32,7 +32,7 @@ Based on the method that you would like to experiment with, please follow the ap
 </details>
 
 
-### Setup py2
+### Setup Python 2
 In order to reproduce the experiments, make sure to run the steps below.
 ```
 1. mkdir logparser && docker run --name logparser_py2 -it -v logparser:/logparser logpai/logparser:py2 bash
@@ -46,7 +46,7 @@ In order to reproduce the experiments, make sure to run the steps below.
 9. sh scalability_experiments_py3.sh
 ```
 
-### Setup py3
+### Setup Python 3
 In order to reproduce the experiments, make sure to run the steps below.
 ```
 1. mkdir logparser && docker run --name logparser_py3 -it -v logparser:/logparser logpai/logparser:py3 bash
