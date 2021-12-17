@@ -2,6 +2,24 @@
 
 ## Experiments
 This section contains detalied information regarding the Experiments section of [Log Parsing Literature Survey](). <br>
+### Setup py2
+In order to reproduce the experiments, make sure to run the steps below.
+```
+0. mkdir logparser && docker run --name logparser_py2 -it -v logparser:/logparser logpai/logparser:py2 bash
+
+0. pip install memory_profiler
+
+1. git clone https://github.com/spetrescu/literature-survey-log-parsing.git
+2. cd literature-survey-log-parsing/
+3. cd scripts/
+4. sh fetch_data_for_experiments.sh
+5. sh setup_experiments_py3.sh
+6. sh test/test_scalability_experiments_py3.sh
+7. sh scalability_experiments_py3.sh
+...
+Step N:
+```
+
 ### Setup py3
 In order to reproduce the experiments, make sure to run the steps below.
 ```
