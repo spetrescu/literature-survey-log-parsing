@@ -2,6 +2,36 @@
 
 ## Experiments
 This section contains detalied information regarding the Experiments section of [Log Parsing Literature Survey](). <br>
+There are two environments available for running the experiments, namely Python 2 and Python 3. 
+Based on the method that you would like to experiment with, please follow the appropriate setup.
+
+<details>
+  <summary><code>Python 2 methods</code></summary>
+  
+- Spell
+- LogMine
+- AEL
+- IPLoM
+- LenMa
+- LFA
+- LKE
+- LogCluster
+- logmatch
+- LogMine
+- LogSig
+- SHISO
+- SLCT
+- Spell
+</details>
+
+<details>
+  <summary><code>Python 3 methods</code></summary>
+  
+- Drain
+- MoLFI
+</details>
+
+
 ### Setup py2
 In order to reproduce the experiments, make sure to run the steps below.
 ```
@@ -14,8 +44,6 @@ In order to reproduce the experiments, make sure to run the steps below.
 7. sh setup_experiments_py2.sh
 8. sh test/test_scalability_experiments_py2.sh
 9. sh scalability_experiments_py3.sh
-...
-Step N:
 ```
 
 ### Setup py3
@@ -30,8 +58,6 @@ In order to reproduce the experiments, make sure to run the steps below.
 7. sh setup_experiments_py3.sh
 8. sh test/test_scalability_experiments_py3.sh
 9. sh scalability_experiments_py3.sh
-...
-Step N:
 ```
 
 ## Method
