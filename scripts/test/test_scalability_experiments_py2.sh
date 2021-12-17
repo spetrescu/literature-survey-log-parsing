@@ -33,7 +33,7 @@ shift $((OPTIND - 1))
 echo "$method"
 echo "$dataset"
 
-python python_scripts/create_results_files.py $method "scalability_experiments/${method}_results/"
+python python_scripts/create_results_files_py2.py $method "scalability_experiments/${method}_results/"
 
 cd ..
 cd demo/
