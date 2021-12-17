@@ -5,7 +5,7 @@ sys.path.append('../')
 from logparser import Spell
 import os
 import csv
-from memory_profiler import memory_usage, profile
+from memory_profiler import memory_usage
 import pandas as pd
 
 n = len(sys.argv)
@@ -150,19 +150,19 @@ def parsing_logs(setting, indir, output_dir, log_file):
     time_taken = parser.parse(log_file)
 
     row_list = [[str(METHOD), str(DATASET), str(SIZE), str(time_taken), str(0), str(RUN_NO)]]
-    print("row_list", row_list)
     with open(output_scalability_results_file, 'a') as file:
         writer = csv.writer(file)
         writer.writerows(row_list)
     return
-
 
 for dataset, setting in benchmark_settings.iteritems():
     if DATASET == dataset:
         print('\n=== Evaluation on %s ===' % dataset)
         setting_dataset = setting
         mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+        print('Peak memory: {!s}'.format(mem))
         df = pd.read_csv(output_scalability_results_file)
+
         ##method,dataset,log_size,elapsed_time,peak_memory,iteration_no
         print(df.iloc[-1]['elapsed_time'])
         met = df.iloc[-1]['method']

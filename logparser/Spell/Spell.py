@@ -270,7 +270,9 @@ class LogParser:
             os.makedirs(self.savePath)
 
         self.outputResult(logCluL)
+        time_taken = datetime.now() - starttime
         print('Parsing done. [Time taken: {!s}]'.format(datetime.now() - starttime))
+        return time_taken
 
     def load_data(self):
         headers, regex = self.generate_logformat_regex(self.logformat)

@@ -38,24 +38,9 @@ python python_scripts/create_results_files.py $method "scalability_experiments/$
 cd ..
 cd demo/
 
-#python Spell_demo.py Android 1 99 Spell "scalability_experiments/Spell_results/Spell_results.csv"
-
-# for d in Android HDFS Thunderbird Windows
-# do
-#   for i in 1 2
-#   do
-#       echo $value
-#       for j in 1
-#       do
-#           echo "\nRun $j for $method parsing "$i"k logs\n"
-#           python "$method"_demo.py $d $i $j $method "scalability_experiments/${method}_results/${method}_results.csv"
-#       done
-#   done
-# done
-
-for d in SSH
+for d in Android HDFS Thunderbird Windows BGL SSH
 do
-  for i in 2
+  for i in 1
   do
       echo $value
       for j in 1

@@ -5,7 +5,7 @@ while getopts ':h:m:d:' option; do
     h) echo "$usage"
        exit
        ;;
-    m) if [ "$OPTARG" != "AEL" ] && [ "$OPTARG" != "Drain" ] ; then
+    m) if [ "$OPTARG" != "Spell" ] && [ "$OPTARG" != "Drain" ] ; then
        #if [ "$OPTARG" != "Android" ] && [ "$OPTARG" != "Apache" ] && [ "$OPTARG" != "BGL" ] && [ "$OPTARG" != "Hadoop" ] && [ "$OPTARG" != "HDFS" ] && [ "$OPTARG" != "HealthApp" ] && [ "$OPTARG" != "HPC" ] && [ "$OPTARG" != "Linux" ] && [ "$OPTARG" != "Mac" ] && [ "$OPTARG" != "OpenSSH" ] && [ "$OPTARG" != "OpenStack" ] && [ "$OPTARG" != "Proxifier" ] && [ "$OPTARG" != "Spark" ] && [ "$OPTARG" != "Thunderbird" ] && [ "$OPTARG" != "Windows" ] && [ "$OPTARG" != "Zookeeper" ] ; then
         printf "The argument \"$OPTARG\" is invalid. Please change it to a method present in the list.\n\nAllowed methods: \n AEL\n Drain\n IPLoM\n LenMa\n LFA\n LKE\n LogCluster\n logmatch\n LogMine\n LogSig\n MoLFI\n SHISO\n SLCT\n Spell\n"
         exit
@@ -33,17 +33,43 @@ shift $((OPTIND - 1))
 echo "$method"
 echo "$dataset"
 
-python python_scripts/create_results_files.py $method "scalability_experiments/${method}_results/"
+python python_scripts/create_results_files_py2.py $method "scalability_experiments/${method}_results/"
 
 cd ..
 cd demo/
 
-for d in SSH
+for d in Android HDFS Thunderbird Windows SSH
 do
-  for i in 1
+  for i in 1 2 4 10 20 50 100 200 300 500
   do
       echo $value
-      for j in 1
+      for j in 1 2 3 4 5 6 7 8 9 10
+      do
+          echo "\nRun $j for $method parsing "$i"k logs\n"
+          python "$method"_demo.py $d $i $j $method "scalability_experiments/${method}_results/${method}_results.csv"
+      done
+  done
+done
+
+for d in BGL
+do
+  for i in 1 2 10 20 50 100 200 300
+  do
+      echo $value
+      for j in 1 2 3 4 5 6 7 8 9 10
+      do
+          echo "\nRun $j for $method parsing "$i"k logs\n"
+          python "$method"_demo.py $d $i $j $method "scalability_experiments/${method}_results/${method}_results.csv"
+      done
+  done
+done
+
+for d in Android HDFS Thunderbird Windows
+do
+  for i in 1000
+  do
+      echo $value
+      for j in 1 2 3 4 5 6 7 8 9 10
       do
           echo "\nRun $j for $method parsing "$i"k logs\n"
           python "$method"_demo.py $d $i $j $method "scalability_experiments/${method}_results/${method}_results.csv"
