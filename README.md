@@ -133,7 +133,7 @@ Find below the queries used for the survey.
   
      1. [Learning Latent Events from Network Message Logs](https://arxiv.org/abs/1804.03346)
      </details>
-  9. [Improving Performances of Log Mining for Anomaly Prediction Through NLP-Based Log Parsing](https://arxiv.org/abs/2003.07905) **(19)**
+  9. [Improving Performances of Log Mining for Anomaly Prediction Through NLP-Based Log Parsing](https://ieeexplore.ieee.org/document/8526889) **(19)**
   1. <details>
      <summary><a href="https://ieeexplore.ieee.org/document/7837916">Spell: Streaming Parsing of System Event Logs</a> <b>(18)</b></summary>
   
