@@ -7,28 +7,30 @@ Based on the method that you would like to experiment with, please follow the ap
 
 <details>
   <summary><code>Python 2 methods</code></summary>
+
+- [ ] AEL
+- [ ] Drain
+- [X] IPLoM*
+- [ ] LenMa
+- [ ] LFA
+- [ ] LKE
+- [ ] LogCluster
+- [ ] logmatch
+- [X] LogMine
+- [ ] LogSig
+- [ ] MoLFI
+- [ ] SHISO
+- [ ] SLCT
+- [X] Spell
   
-- Spell
-- LogMine
-- AEL
-- IPLoM
-- LenMa
-- LFA
-- LKE
-- LogCluster
-- logmatch
-- LogMine
-- LogSig
-- SHISO
-- SLCT
-- Spell
+Although implemented, methods with * weren't successfully run.
 </details>
 
 <details>
   <summary><code>Python 3 methods</code></summary>
   
-- Drain
-- MoLFI
+- [X] Drain
+- [ ] MoLFI
 </details>
 
 
