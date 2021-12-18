@@ -30,7 +30,10 @@ class LogParser(object):
 
     def parse(self, logname):
         self.para['dataName'] = logname
-        SLCT(self.para, self.log_format, self.rex)
+        print("ZZZ")
+        time_taken = SLCT(self.para, self.log_format, self.rex)
+        print("ZZZ")
+        return time_taken
 
 
 def SLCT(para, log_format, rex):
@@ -42,7 +45,7 @@ def SLCT(para, log_format, rex):
     if not os.path.isfile('../SLCT/slct'):
         try:
             print('Compile SLCT...\n>> gcc -o ../logparser/SLCT/slct -O2 ../logparser/SLCT/cslct.c')
-            subprocess.check_output('gcc -o ../logparser/SLCT/slct -O2 ../logparser/SLCT/cslct.c', 
+            subprocess.check_output('gcc -o ../logparser/SLCT/slct -O2 ../logparser/SLCT/cslct.c',
                 stderr=subprocess.STDOUT, shell=True)
         except:
             print("Compile error! Please check GCC installed.\n")
@@ -95,7 +98,10 @@ def SLCT(para, log_format, rex):
 
     df_event.to_csv(os.path.join(para['savePath'], para['dataName'] + "_templates.csv"), index=False, columns=["EventId", "EventTemplate", "Occurrences"])
     matched_df.to_csv(os.path.join(para['savePath'], para['dataName'] + "_structured.csv"), index=False)
-    print('Parsing done. [Time: {!s}]'.format(datetime.now() - startTime))
+    time_taken = datetime.now() - startTime
+    print('Parsing done. [Time: {!s}]'.format(time_taken))
+    print(time_taken)
+    return time_taken
 
 def extract_command(para, logname):
     support = para['support']
