@@ -1,9 +1,69 @@
 # literature-survey-log-parsing
 
-# Method
+## Experiments
+This section contains detalied information regarding the Experiments section of [Log Parsing Literature Survey](). <br>
+There are two environments available for running the experiments, namely Python 2 and Python 3. 
+Based on the method that you would like to experiment with, please follow the appropriate setup.
 
-This document contains detalied information regarding the Method section of [Log Parsing Literature Survey](). <br>
-The queries used for the survey can be found under [Queries](). <br>
+<details>
+  <summary><code>Python 2 methods</code></summary>
+  
+- Spell
+- LogMine
+- AEL
+- IPLoM
+- LenMa
+- LFA
+- LKE
+- LogCluster
+- logmatch
+- LogMine
+- LogSig
+- SHISO
+- SLCT
+- Spell
+</details>
+
+<details>
+  <summary><code>Python 3 methods</code></summary>
+  
+- Drain
+- MoLFI
+</details>
+
+
+### Setup Python 2
+In order to reproduce the experiments, make sure to run the steps below.
+```
+1. mkdir logparser && docker run --name logparser_py2 -it -v logparser:/logparser logpai/logparser:py2 bash
+2. cd ~
+3. git clone https://github.com/spetrescu/literature-survey-log-parsing.git
+4. cd literature-survey-log-parsing/
+5. cd scripts/
+6. sh fetch_data_for_experiments.sh
+7. sh setup_experiments_py2.sh
+8. sh test/test_scalability_experiments_py2.sh
+9. sh scalability_experiments_py3.sh
+```
+
+### Setup Python 3
+In order to reproduce the experiments, make sure to run the steps below.
+```
+1. mkdir logparser && docker run --name logparser_py3 -it -v logparser:/logparser logpai/logparser:py3 bash
+2. cd ~
+3. git clone https://github.com/spetrescu/literature-survey-log-parsing.git
+4. cd literature-survey-log-parsing/
+5. cd scripts/
+6. sh fetch_data_for_experiments.sh
+7. sh setup_experiments_py3.sh
+8. sh test/test_scalability_experiments_py3.sh
+9. sh scalability_experiments_py3.sh
+```
+
+## Method
+
+This section contains detalied information regarding the Method section of [Log Parsing Literature Survey](). <br>
+The queries used for the survey can be found under [Queries](#queries). <br>
 Overall statistics can be found below.
 
 ```
@@ -25,9 +85,9 @@ Total references checked while snowballing: 2051
 Total number of papers selected for survey: 93
 ```
 
-# Queries
-
-### Google Scholar
+### <a name="queries"></a>Queries
+Find below the queries used for the survey.
+#### Google Scholar
 <details>
   <summary>[QUERY 1] <code>log parsing</code></summary>
   
@@ -73,7 +133,7 @@ Total number of papers selected for survey: 93
   
      1. [Learning Latent Events from Network Message Logs](https://arxiv.org/abs/1804.03346)
      </details>
-  9. [Improving Performances of Log Mining for Anomaly Prediction Through NLP-Based Log Parsing](https://arxiv.org/abs/2003.07905) **(19)**
+  9. [Improving Performances of Log Mining for Anomaly Prediction Through NLP-Based Log Parsing](https://ieeexplore.ieee.org/document/8526889) **(19)**
   1. <details>
      <summary><a href="https://ieeexplore.ieee.org/document/7837916">Spell: Streaming Parsing of System Event Logs</a> <b>(18)</b></summary>
   
@@ -201,7 +261,7 @@ Total number of papers selected for survey: 93
   
 </details>
 
-### Scopus
+#### Scopus
 
 <details>
   <summary>[Query Scopus] <code>TITLE-ABS-KEY(log AND parsing) OR ((logs OR log OR logging OR events OR "event log" OR "event logs" OR "event logs templates" OR "event log signatures" ) AND (abstractionOR parsing))</code></summary>
