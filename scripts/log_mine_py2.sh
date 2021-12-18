@@ -40,7 +40,7 @@ cd demo/
 
 for d in Android HDFS Thunderbird Windows BGL SSH
 do
-  for i in 1 2 4 10
+  for i in 50 100
   do
       echo $value
       for j in 1 2 3 4 5 6 7 8 9 10
