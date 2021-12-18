@@ -90,7 +90,9 @@ class LogParser:
         self.Step4()
         self.getOutput()
         self.WriteEventToFile()
+        time_taken = datetime.now() - starttime
         print('Parsing done. [Time taken: {!s}]'.format(datetime.now() - starttime))
+        return time_taken
 
     def Step1(self):
         headers, regex = self.generate_logformat_regex(self.para.logformat)
