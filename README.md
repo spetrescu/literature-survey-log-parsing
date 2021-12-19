@@ -31,7 +31,7 @@ cd logparser/
 - [ ] LKE
 - [ ] LogCluster
 - [ ] logmatch
-- [ ] LogMine
+- [X] LogMine
 - [X] LogSig
 - [ ] MoLFI
 - [X] SHISO
