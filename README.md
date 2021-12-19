@@ -23,22 +23,22 @@ cd logparser/
 <details>
   <summary><code>Python 2 methods</code></summary>
 
-- [ ] AEL
+- [X] AEL*
 - [ ] Drain
-- [X] IPLoM*
+- [ ] IPLoM
 - [ ] LenMa
 - [ ] LFA
 - [ ] LKE
 - [ ] LogCluster
 - [ ] logmatch
-- [X] LogMine
+- [ ] LogMine
 - [ ] LogSig
 - [ ] MoLFI
 - [ ] SHISO
 - [ ] SLCT
-- [X] Spell
+- [ ] Spell
   
-Although implemented, methods with * weren't successfully run.
+Although implemented, methods with * are not scalable.
 </details>
 
 <details>
