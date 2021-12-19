@@ -34,8 +34,8 @@ cd logparser/
 - [X] LogSig
 - [ ] MoLFI
 - [X] SHISO
-- [X] SLCT
-- [X] Spell ✅
+- [X] SLCT (no Android)
+- [X] Spell ✅ (no Windows >= 50k; no Android >= 50k)
   
 Although implemented, methods with * are not scalable.
 </details>
