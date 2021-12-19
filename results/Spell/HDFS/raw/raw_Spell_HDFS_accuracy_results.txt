@@ -1,0 +1,150 @@
+Dataset HDFS size 2 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.372723]
+Used memory
+89.6015625
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.373456]
+Used memory
+89.91796875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.374279]
+Used memory
+89.59375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.375770]
+Used memory
+89.7109375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.376878]
+Used memory
+89.94921875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.372778]
+Used memory
+89.65234375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.376723]
+Used memory
+89.98828125
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.376959]
+Used memory
+89.5
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.379016]
+Used memory
+89.9765625
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.377650]
+Used memory
+89.76171875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
