@@ -1,4 +1,4 @@
-pip install uni2ascii
+apt-get install uni2ascii
 
 pip install gdown
 gdown https://drive.google.com/uc?id=1zVaXpR7lOy3p1VwCLouHMDP6vtx69kLC

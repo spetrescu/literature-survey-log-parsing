@@ -5,6 +5,7 @@ sys.path.append('../')
 from logparser import AEL, evaluator
 import os
 import pandas as pd
+from memory_profiler import memory_usage
 
 
 n = len(sys.argv)
@@ -144,6 +145,12 @@ benchmark_settings = {
         }
 }
 
+def parsing_logs(setting, indir, output_dir, log_file):
+    parser = AEL.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir,
+                           minEventCount=setting['minEventCount'], merge_percent=setting['merge_percent'],
+                           rex=setting['regex'])
+    parser.parse(log_file)
+
 bechmark_result = []
 for dataset, setting in benchmark_settings.iteritems():
     if dataset == DATASET:
@@ -152,10 +159,9 @@ for dataset, setting in benchmark_settings.iteritems():
         indir = os.path.join(input_dir, os.path.dirname(logfile))
         log_file = os.path.basename(logfile)
 
-        parser = AEL.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir,
-                                 minEventCount=setting['minEventCount'], merge_percent=setting['merge_percent'], rex=setting['regex'])
-        parser.parse(log_file)
-
+        mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+        print("Used memory")
+        print(mem)
         if SIZE == "2":
             F1_measure, accuracy = evaluator.evaluate(
                 groundtruth=os.path.join(indir, log_file + '_structured.csv'),
