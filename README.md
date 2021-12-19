@@ -30,7 +30,6 @@ cd logparser/
 - [X] LFA
 - [X] LKE (prblms w Android & BGL)
 - [X] LogCluster (prblms w Android)
-- [ ] logmatch
 - [X] LogMine
 - [X] LogSig
 - [ ] MoLFI
