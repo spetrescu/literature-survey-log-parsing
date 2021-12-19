@@ -1,0 +1,640 @@
+Dataset BGL size 1 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.106428]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.080710]
+Used memory
+88.84765625
+Dataset BGL size 1 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.098460]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.078700]
+Used memory
+89.03515625
+Dataset BGL size 1 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.100910]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.082507]
+Used memory
+89.32421875
+Dataset BGL size 1 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.100290]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.080771]
+Used memory
+89.3359375
+Dataset BGL size 1 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.106456]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.085717]
+Used memory
+89.0234375
+Dataset BGL size 1 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.098703]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.080531]
+Used memory
+88.81640625
+Dataset BGL size 1 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.107729]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.085469]
+Used memory
+88.7890625
+Dataset BGL size 1 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.105136]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.080498]
+Used memory
+89.171875
+Dataset BGL size 1 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.100788]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.082507]
+Used memory
+89.3671875
+Dataset BGL size 1 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.103623]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.081221]
+Used memory
+89.32421875
+Dataset BGL size 2 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.261284]
+Used memory
+90.90234375
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.264249]
+Used memory
+90.59375
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.262358]
+Used memory
+90.80859375
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.262342]
+Used memory
+90.83203125
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.268391]
+Used memory
+90.83984375
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.266052]
+Used memory
+90.703125
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.263601]
+Used memory
+90.734375
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.263866]
+Used memory
+91.0625
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.255519]
+Used memory
+90.69921875
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.268298]
+Used memory
+90.890625
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 4 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.293859]
+Used memory
+92.0234375
+Dataset BGL size 4 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.296261]
+Used memory
+92.21484375
+Dataset BGL size 4 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.299114]
+Used memory
+92.2578125
+Dataset BGL size 4 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.326379]
+Used memory
+91.875
+Dataset BGL size 4 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.296007]
+Used memory
+92.12890625
+Dataset BGL size 4 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.297099]
+Used memory
+91.890625
+Dataset BGL size 4 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.298931]
+Used memory
+92.3125
+Dataset BGL size 4 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.296154]
+Used memory
+92.1640625
+Dataset BGL size 4 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.296598]
+Used memory
+92.30078125
+Dataset BGL size 4 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.299459]
+Used memory
+91.6796875
+Dataset BGL size 20 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.144769]
+Used memory
+113.03125
+Dataset BGL size 20 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.148510]
+Used memory
+113.1640625
+Dataset BGL size 20 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.144619]
+Used memory
+112.703125
+Dataset BGL size 20 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.140478]
+Used memory
+112.82421875
+Dataset BGL size 20 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.151579]
+Used memory
+112.625
+Dataset BGL size 20 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.141960]
+Used memory
+112.7734375
+Dataset BGL size 20 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.157303]
+Used memory
+112.41796875
+Dataset BGL size 20 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.134819]
+Used memory
+112.2890625
+Dataset BGL size 20 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.142605]
+Used memory
+113.109375
+Dataset BGL size 20 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.129600]
+Used memory
+112.59375
+Dataset BGL size 50 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.837230]
+Used memory
+144.296875
+Dataset BGL size 50 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.900699]
+Used memory
+144.33203125
+Dataset BGL size 50 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.874246]
+Used memory
+144.42578125
+Dataset BGL size 50 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.867070]
+Used memory
+144.26171875
+Dataset BGL size 50 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.895538]
+Used memory
+144.10546875
+Dataset BGL size 50 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.883936]
+Used memory
+144.19140625
+Dataset BGL size 50 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.925877]
+Used memory
+144.5390625
+Dataset BGL size 50 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.925914]
+Used memory
+144.015625
+Dataset BGL size 50 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.905531]
+Used memory
+144.1640625
+Dataset BGL size 50 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.957033]
+Used memory
+144.41796875
+Dataset BGL size 100 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.627068]
+Used memory
+200.734375
+Dataset BGL size 100 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.617514]
+Used memory
+200.3046875
+Dataset BGL size 100 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.580951]
+Used memory
+200.30078125
+Dataset BGL size 100 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.514247]
+Used memory
+192.84375
+Dataset BGL size 100 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.640526]
+Used memory
+192.66796875
+Dataset BGL size 100 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.550662]
+Used memory
+192.62890625
+Dataset BGL size 100 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.736558]
+Used memory
+200.2109375
+Dataset BGL size 100 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.595959]
+Used memory
+200.30078125
+Dataset BGL size 100 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.570438]
+Used memory
+200.1953125
+Dataset BGL size 100 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.633034]
+Used memory
+192.71484375
+Dataset BGL size 200 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.856158]
+Used memory
+312.0390625
+Dataset BGL size 200 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.743993]
+Used memory
+312.2421875
+Dataset BGL size 200 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.838237]
+Used memory
+312.171875
+Dataset BGL size 200 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:19.201467]
+Used memory
+312.56640625
+Dataset BGL size 200 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.725017]
+Used memory
+312.44921875
+Dataset BGL size 200 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.882708]
+Used memory
+311.63671875
+Dataset BGL size 200 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.845309]
+Used memory
+311.5234375
+Dataset BGL size 200 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.816840]
+Used memory
+311.80859375
+Dataset BGL size 200 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.859158]
+Used memory
+311.625
+Dataset BGL size 200 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.856195]
+Used memory
+311.8046875
+Dataset BGL size 300 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.309729]
+Used memory
+397.72265625
+Dataset BGL size 300 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.614017]
+Used memory
+397.6640625
+Dataset BGL size 300 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.364218]
+Used memory
+398.125
+Dataset BGL size 300 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.303935]
+Used memory
+398.16015625
+Dataset BGL size 300 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.418629]
+Used memory
+397.81640625
+Dataset BGL size 300 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.595225]
+Used memory
+397.53125
+Dataset BGL size 300 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.489413]
+Used memory
+398.015625
+Dataset BGL size 300 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.613346]
+Used memory
+397.796875
+Dataset BGL size 300 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.380121]
+Used memory
+398.07421875
+Dataset BGL size 300 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.813200]
+Used memory
+397.8203125

@@ -1,0 +1,5612 @@
+root@126b9378c884:~/literature-survey-log-parsing/experiments/python2/logparser/benchmark# sh AEL.sh
+Dataset Andriod size 1 run no 1
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_1k.log
+Parsing done. [Time taken: 0:00:00.306105]
+Used memory
+89.54296875
+Dataset Andriod size 1 run no 2
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_1k.log
+Parsing done. [Time taken: 0:00:00.305099]
+Used memory
+89.44140625
+Dataset Andriod size 1 run no 3
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_1k.log
+Parsing done. [Time taken: 0:00:00.305372]
+Used memory
+89.3828125
+Dataset Andriod size 1 run no 4
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_1k.log
+Parsing done. [Time taken: 0:00:00.305704]
+Used memory
+89.171875
+Dataset Andriod size 1 run no 5
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_1k.log
+Parsing done. [Time taken: 0:00:00.309410]
+Used memory
+89.09375
+Dataset Andriod size 1 run no 6
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_1k.log
+Parsing done. [Time taken: 0:00:00.307513]
+Used memory
+89.33203125
+Dataset Andriod size 1 run no 7
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_1k.log
+Parsing done. [Time taken: 0:00:00.311992]
+Used memory
+89.3828125
+Dataset Andriod size 1 run no 8
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_1k.log
+Parsing done. [Time taken: 0:00:00.303596]
+Used memory
+89.703125
+Dataset Andriod size 1 run no 9
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_1k.log
+Parsing done. [Time taken: 0:00:00.306471]
+Used memory
+89.45703125
+Dataset Andriod size 1 run no 10
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_1k.log
+Parsing done. [Time taken: 0:00:00.304991]
+Used memory
+89.15234375
+Dataset Andriod size 2 run no 1
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_2k.log
+Parsing done. [Time taken: 0:00:00.352563]
+Used memory
+90.25390625
+Precision: 0.8888, Recall: 0.9983, F1_measure: 0.9404, Parsing_Accuracy: 0.6815
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Andriod    0.940411    0.6815
+Dataset Andriod size 2 run no 2
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_2k.log
+Parsing done. [Time taken: 0:00:00.359618]
+Used memory
+90.1015625
+Precision: 0.8888, Recall: 0.9983, F1_measure: 0.9404, Parsing_Accuracy: 0.6815
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Andriod    0.940411    0.6815
+Dataset Andriod size 2 run no 3
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_2k.log
+Parsing done. [Time taken: 0:00:00.353806]
+Used memory
+89.8125
+Precision: 0.8888, Recall: 0.9983, F1_measure: 0.9404, Parsing_Accuracy: 0.6815
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Andriod    0.940411    0.6815
+Dataset Andriod size 2 run no 4
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_2k.log
+Parsing done. [Time taken: 0:00:00.353104]
+Used memory
+89.9765625
+Precision: 0.8888, Recall: 0.9983, F1_measure: 0.9404, Parsing_Accuracy: 0.6815
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Andriod    0.940411    0.6815
+Dataset Andriod size 2 run no 5
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_2k.log
+Parsing done. [Time taken: 0:00:00.357176]
+Used memory
+89.82421875
+Precision: 0.8888, Recall: 0.9983, F1_measure: 0.9404, Parsing_Accuracy: 0.6815
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Andriod    0.940411    0.6815
+Dataset Andriod size 2 run no 6
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_2k.log
+Parsing done. [Time taken: 0:00:00.365345]
+Used memory
+89.87109375
+Precision: 0.8888, Recall: 0.9983, F1_measure: 0.9404, Parsing_Accuracy: 0.6815
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Andriod    0.940411    0.6815
+Dataset Andriod size 2 run no 7
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_2k.log
+Parsing done. [Time taken: 0:00:00.356137]
+Used memory
+89.8203125
+Precision: 0.8888, Recall: 0.9983, F1_measure: 0.9404, Parsing_Accuracy: 0.6815
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Andriod    0.940411    0.6815
+Dataset Andriod size 2 run no 8
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_2k.log
+Parsing done. [Time taken: 0:00:00.362911]
+Used memory
+89.83203125
+Precision: 0.8888, Recall: 0.9983, F1_measure: 0.9404, Parsing_Accuracy: 0.6815
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Andriod    0.940411    0.6815
+Dataset Andriod size 2 run no 9
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_2k.log
+Parsing done. [Time taken: 0:00:00.364654]
+Used memory
+89.79296875
+Precision: 0.8888, Recall: 0.9983, F1_measure: 0.9404, Parsing_Accuracy: 0.6815
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Andriod    0.940411    0.6815
+Dataset Andriod size 2 run no 10
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_2k.log
+Parsing done. [Time taken: 0:00:00.353904]
+Used memory
+90.25
+Precision: 0.8888, Recall: 0.9983, F1_measure: 0.9404, Parsing_Accuracy: 0.6815
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Andriod    0.940411    0.6815
+Dataset Andriod size 4 run no 1
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_4k.log
+Parsing done. [Time taken: 0:00:01.086239]
+Used memory
+92.50390625
+Dataset Andriod size 4 run no 2
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_4k.log
+Parsing done. [Time taken: 0:00:01.076120]
+Used memory
+92.84375
+Dataset Andriod size 4 run no 3
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_4k.log
+Parsing done. [Time taken: 0:00:01.081862]
+Used memory
+92.51171875
+Dataset Andriod size 4 run no 4
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_4k.log
+Parsing done. [Time taken: 0:00:01.086907]
+Used memory
+92.4765625
+Dataset Andriod size 4 run no 5
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_4k.log
+Parsing done. [Time taken: 0:00:01.086597]
+Used memory
+92.3984375
+Dataset Andriod size 4 run no 6
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_4k.log
+Parsing done. [Time taken: 0:00:01.086479]
+Used memory
+92.58203125
+Dataset Andriod size 4 run no 7
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_4k.log
+Parsing done. [Time taken: 0:00:01.071699]
+Used memory
+92.63671875
+Dataset Andriod size 4 run no 8
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_4k.log
+Parsing done. [Time taken: 0:00:01.086407]
+Used memory
+92.58984375
+Dataset Andriod size 4 run no 9
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_4k.log
+Parsing done. [Time taken: 0:00:01.082797]
+Used memory
+92.5
+Dataset Andriod size 4 run no 10
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_4k.log
+Parsing done. [Time taken: 0:00:01.085790]
+Used memory
+92.8359375
+Dataset Andriod size 10 run no 1
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_10k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 49, in parse
+    self.categorize()
+  File "../logparser/AEL/AEL.py", line 90, in categorize
+    abin['Events'].append(Event(logidx, log))
+  File "../logparser/AEL/AEL.py", line 18, in __init__
+    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
+Dataset Andriod size 10 run no 2
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_10k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 49, in parse
+    self.categorize()
+  File "../logparser/AEL/AEL.py", line 90, in categorize
+    abin['Events'].append(Event(logidx, log))
+  File "../logparser/AEL/AEL.py", line 18, in __init__
+    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
+Dataset Andriod size 10 run no 3
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_10k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 49, in parse
+    self.categorize()
+  File "../logparser/AEL/AEL.py", line 90, in categorize
+    abin['Events'].append(Event(logidx, log))
+  File "../logparser/AEL/AEL.py", line 18, in __init__
+    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
+Dataset Andriod size 10 run no 4
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_10k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 49, in parse
+    self.categorize()
+  File "../logparser/AEL/AEL.py", line 90, in categorize
+    abin['Events'].append(Event(logidx, log))
+  File "../logparser/AEL/AEL.py", line 18, in __init__
+    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
+Dataset Andriod size 10 run no 5
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_10k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 49, in parse
+    self.categorize()
+  File "../logparser/AEL/AEL.py", line 90, in categorize
+    abin['Events'].append(Event(logidx, log))
+  File "../logparser/AEL/AEL.py", line 18, in __init__
+    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
+Dataset Andriod size 10 run no 6
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_10k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 49, in parse
+    self.categorize()
+  File "../logparser/AEL/AEL.py", line 90, in categorize
+    abin['Events'].append(Event(logidx, log))
+  File "../logparser/AEL/AEL.py", line 18, in __init__
+    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
+Dataset Andriod size 10 run no 7
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_10k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 49, in parse
+    self.categorize()
+  File "../logparser/AEL/AEL.py", line 90, in categorize
+    abin['Events'].append(Event(logidx, log))
+  File "../logparser/AEL/AEL.py", line 18, in __init__
+    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
+Dataset Andriod size 10 run no 8
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_10k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 49, in parse
+    self.categorize()
+  File "../logparser/AEL/AEL.py", line 90, in categorize
+    abin['Events'].append(Event(logidx, log))
+  File "../logparser/AEL/AEL.py", line 18, in __init__
+    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
+Dataset Andriod size 10 run no 9
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_10k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 49, in parse
+    self.categorize()
+  File "../logparser/AEL/AEL.py", line 90, in categorize
+    abin['Events'].append(Event(logidx, log))
+  File "../logparser/AEL/AEL.py", line 18, in __init__
+    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
+Dataset Andriod size 10 run no 10
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_10k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 49, in parse
+    self.categorize()
+  File "../logparser/AEL/AEL.py", line 90, in categorize
+    abin['Events'].append(Event(logidx, log))
+  File "../logparser/AEL/AEL.py", line 18, in __init__
+    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
+Dataset Andriod size 20 run no 1
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_20k.log
+Parsing done. [Time taken: 0:00:05.037269]
+Used memory
+108.7109375
+Dataset Andriod size 20 run no 2
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_20k.log
+Parsing done. [Time taken: 0:00:05.065008]
+Used memory
+108.52734375
+Dataset Andriod size 20 run no 3
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_20k.log
+Parsing done. [Time taken: 0:00:05.054643]
+Used memory
+108.6875
+Dataset Andriod size 20 run no 4
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_20k.log
+Parsing done. [Time taken: 0:00:05.050777]
+Used memory
+108.32421875
+Dataset Andriod size 20 run no 5
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_20k.log
+Parsing done. [Time taken: 0:00:05.125239]
+Used memory
+108.96484375
+Dataset Andriod size 20 run no 6
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_20k.log
+Parsing done. [Time taken: 0:00:05.057107]
+Used memory
+108.69921875
+Dataset Andriod size 20 run no 7
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_20k.log
+Parsing done. [Time taken: 0:00:05.055114]
+Used memory
+108.51953125
+Dataset Andriod size 20 run no 8
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_20k.log
+Parsing done. [Time taken: 0:00:05.062565]
+Used memory
+108.3828125
+Dataset Andriod size 20 run no 9
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_20k.log
+Parsing done. [Time taken: 0:00:05.076773]
+Used memory
+108.66796875
+Dataset Andriod size 20 run no 10
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_20k.log
+Parsing done. [Time taken: 0:00:05.069008]
+Used memory
+108.75390625
+Dataset Andriod size 50 run no 1
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_50k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 50 run no 2
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_50k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 50 run no 3
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_50k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 50 run no 4
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_50k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 50 run no 5
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_50k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 50 run no 6
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_50k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 50 run no 7
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_50k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 50 run no 8
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_50k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 50 run no 9
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_50k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 50 run no 10
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_50k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 100 run no 1
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_100k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 100 run no 2
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_100k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 100 run no 3
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_100k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 100 run no 4
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_100k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 100 run no 5
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_100k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 100 run no 6
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_100k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 100 run no 7
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_100k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 100 run no 8
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_100k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 100 run no 9
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_100k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 100 run no 10
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_100k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 200 run no 1
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_200k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 200 run no 2
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_200k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 200 run no 3
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_200k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 200 run no 4
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_200k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 200 run no 5
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_200k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 200 run no 6
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_200k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 200 run no 7
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_200k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 200 run no 8
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_200k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 200 run no 9
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_200k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 200 run no 10
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_200k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 300 run no 1
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_300k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 300 run no 2
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_300k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 300 run no 3
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_300k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 300 run no 4
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_300k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 300 run no 5
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_300k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 300 run no 6
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_300k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 300 run no 7
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_300k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 300 run no 8
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_300k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 300 run no 9
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_300k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 300 run no 10
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_300k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 500 run no 1
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_500k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 500 run no 2
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_500k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 500 run no 3
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_500k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 500 run no 4
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_500k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 500 run no 5
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_500k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 500 run no 6
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_500k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 500 run no 7
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_500k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 500 run no 8
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_500k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 500 run no 9
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_500k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset Andriod size 500 run no 10
+
+=== Evaluation on Andriod ===
+Parsing file: ../logs/Andriod/Andriod_500k.log
+Traceback (most recent call last):
+  File "AEL_benchmark.py", line 162, in <module>
+    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
+    returned = f(*args, **kw)
+  File "AEL_benchmark.py", line 152, in parsing_logs
+    parser.parse(log_file)
+  File "../logparser/AEL/AEL.py", line 51, in parse
+    self.dump()
+  File "../logparser/AEL/AEL.py", line 143, in dump
+    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
+    ignore_failures=ignore_failures)
+  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
+    results[i] = func(v)
+  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
+    parameter_list = re.findall(template_regex, row["Content"])
+  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
+    return _compile(pattern, flags).findall(string)
+  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
+    "sorry, but this version only supports 100 named groups"
+AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
+Dataset HDFS size 1 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.156237]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.133792]
+Used memory
+89.03515625
+Dataset HDFS size 1 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.160626]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.132141]
+Used memory
+89.18359375
+Dataset HDFS size 1 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.152120]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.130142]
+Used memory
+89.18359375
+Dataset HDFS size 1 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.155336]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.133754]
+Used memory
+89.25
+Dataset HDFS size 1 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.157849]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.133047]
+Used memory
+89.19140625
+Dataset HDFS size 1 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.153616]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.130908]
+Used memory
+88.94921875
+Dataset HDFS size 1 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.158222]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.134042]
+Used memory
+89.30078125
+Dataset HDFS size 1 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.150565]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.131111]
+Used memory
+89.08203125
+Dataset HDFS size 1 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.151637]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.131243]
+Used memory
+89.30078125
+Dataset HDFS size 1 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.161066]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.135216]
+Used memory
+89.1328125
+Dataset HDFS size 2 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:00.281074]
+Used memory
+89.98828125
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9975
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999984    0.9975
+Dataset HDFS size 2 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:00.277095]
+Used memory
+90.328125
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9975
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999984    0.9975
+Dataset HDFS size 2 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:00.271196]
+Used memory
+89.81640625
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9975
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999984    0.9975
+Dataset HDFS size 2 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:00.271135]
+Used memory
+90.125
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9975
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999984    0.9975
+Dataset HDFS size 2 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:00.281758]
+Used memory
+90.15625
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9975
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999984    0.9975
+Dataset HDFS size 2 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:00.271377]
+Used memory
+90.34375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9975
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999984    0.9975
+Dataset HDFS size 2 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:00.274080]
+Used memory
+90.04296875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9975
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999984    0.9975
+Dataset HDFS size 2 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:00.276179]
+Used memory
+89.96875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9975
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999984    0.9975
+Dataset HDFS size 2 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:00.272387]
+Used memory
+90.03125
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9975
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999984    0.9975
+Dataset HDFS size 2 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:00.277966]
+Used memory
+90.30859375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9975
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999984    0.9975
+Dataset HDFS size 4 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:00.501932]
+Used memory
+92.23828125
+Dataset HDFS size 4 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:00.509307]
+Used memory
+92.640625
+Dataset HDFS size 4 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:00.503453]
+Used memory
+92.5234375
+Dataset HDFS size 4 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:00.509590]
+Used memory
+91.9765625
+Dataset HDFS size 4 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:00.502860]
+Used memory
+92.20703125
+Dataset HDFS size 4 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:00.511840]
+Used memory
+92.703125
+Dataset HDFS size 4 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:00.499290]
+Used memory
+91.99609375
+Dataset HDFS size 4 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:00.504862]
+Used memory
+92.125
+Dataset HDFS size 4 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:00.507572]
+Used memory
+92.5546875
+Dataset HDFS size 4 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:00.499251]
+Used memory
+91.9140625
+Dataset HDFS size 10 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:00:01.221680]
+Used memory
+98.09765625
+Dataset HDFS size 10 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:00:01.221511]
+Used memory
+98.1015625
+Dataset HDFS size 10 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:00:01.216135]
+Used memory
+98.12890625
+Dataset HDFS size 10 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:00:01.221466]
+Used memory
+97.78515625
+Dataset HDFS size 10 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:00:01.243685]
+Used memory
+98.0078125
+Dataset HDFS size 10 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:00:01.230185]
+Used memory
+97.99609375
+Dataset HDFS size 10 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:00:01.225972]
+Used memory
+98.05078125
+Dataset HDFS size 10 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:00:01.238006]
+Used memory
+98.09375
+Dataset HDFS size 10 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:00:01.229108]
+Used memory
+98.0859375
+Dataset HDFS size 10 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:00:01.224803]
+Used memory
+98.046875
+Dataset HDFS size 20 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:00:02.392683]
+Used memory
+107.953125
+Dataset HDFS size 20 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:00:02.382252]
+Used memory
+108.1015625
+Dataset HDFS size 20 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:00:02.407039]
+Used memory
+108.01953125
+Dataset HDFS size 20 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:00:02.379060]
+Used memory
+108.30859375
+Dataset HDFS size 20 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:00:02.370583]
+Used memory
+108.1953125
+Dataset HDFS size 20 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:00:02.417247]
+Used memory
+108.16015625
+Dataset HDFS size 20 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:00:02.397545]
+Used memory
+108.359375
+Dataset HDFS size 20 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:00:02.385019]
+Used memory
+108.0234375
+Dataset HDFS size 20 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:00:02.413324]
+Used memory
+107.7578125
+Dataset HDFS size 20 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:00:02.429362]
+Used memory
+108.44921875
+Dataset HDFS size 50 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+Parsing done. [Time taken: 0:00:05.888524]
+Used memory
+135.36328125
+Dataset HDFS size 50 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+Parsing done. [Time taken: 0:00:05.869048]
+Used memory
+135.46484375
+Dataset HDFS size 50 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+Parsing done. [Time taken: 0:00:05.965784]
+Used memory
+135.7734375
+Dataset HDFS size 50 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+Parsing done. [Time taken: 0:00:05.984303]
+Used memory
+135.78515625
+Dataset HDFS size 50 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+Parsing done. [Time taken: 0:00:05.927105]
+Used memory
+135.49609375
+Dataset HDFS size 50 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+Parsing done. [Time taken: 0:00:05.846544]
+Used memory
+136.10546875
+Dataset HDFS size 50 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+Parsing done. [Time taken: 0:00:05.864374]
+Used memory
+135.62890625
+Dataset HDFS size 50 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+Parsing done. [Time taken: 0:00:05.935563]
+Used memory
+135.640625
+Dataset HDFS size 50 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+Parsing done. [Time taken: 0:00:05.864575]
+Used memory
+135.640625
+Dataset HDFS size 50 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+Parsing done. [Time taken: 0:00:05.925040]
+Used memory
+135.37890625
+Dataset HDFS size 100 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Parsing done. [Time taken: 0:00:12.034391]
+Used memory
+188.43359375
+Dataset HDFS size 100 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Parsing done. [Time taken: 0:00:12.002709]
+Used memory
+188.546875
+Dataset HDFS size 100 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Parsing done. [Time taken: 0:00:11.826457]
+Used memory
+186.58984375
+Dataset HDFS size 100 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Parsing done. [Time taken: 0:00:11.927983]
+Used memory
+186.2109375
+Dataset HDFS size 100 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Parsing done. [Time taken: 0:00:11.969923]
+Used memory
+186.53515625
+Dataset HDFS size 100 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Parsing done. [Time taken: 0:00:11.953960]
+Used memory
+186.87109375
+Dataset HDFS size 100 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Parsing done. [Time taken: 0:00:11.710640]
+Used memory
+186.765625
+Dataset HDFS size 100 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Parsing done. [Time taken: 0:00:11.911856]
+Used memory
+186.60546875
+Dataset HDFS size 100 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Parsing done. [Time taken: 0:00:11.874878]
+Used memory
+186.62890625
+Dataset HDFS size 100 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Parsing done. [Time taken: 0:00:12.025813]
+Used memory
+186.9375
+Dataset HDFS size 200 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+Parsing done. [Time taken: 0:00:23.977334]
+Used memory
+287.1328125
+Dataset HDFS size 200 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+Parsing done. [Time taken: 0:00:23.923213]
+Used memory
+287.01171875
+Dataset HDFS size 200 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+Parsing done. [Time taken: 0:00:24.081344]
+Used memory
+286.984375
+Dataset HDFS size 200 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+Parsing done. [Time taken: 0:00:24.231895]
+Used memory
+286.97265625
+Dataset HDFS size 200 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+Parsing done. [Time taken: 0:00:24.219101]
+Used memory
+286.96875
+Dataset HDFS size 200 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+Parsing done. [Time taken: 0:00:24.089160]
+Used memory
+287.21484375
+Dataset HDFS size 200 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+Parsing done. [Time taken: 0:00:24.211679]
+Used memory
+286.9453125
+Dataset HDFS size 200 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+Parsing done. [Time taken: 0:00:24.197704]
+Used memory
+287.12109375
+Dataset HDFS size 200 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+Parsing done. [Time taken: 0:00:24.225794]
+Used memory
+286.69921875
+Dataset HDFS size 200 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+Parsing done. [Time taken: 0:00:23.991219]
+Used memory
+287.30078125
+Dataset HDFS size 300 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+Parsing done. [Time taken: 0:00:36.855424]
+Used memory
+389.71875
+Dataset HDFS size 300 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+Parsing done. [Time taken: 0:00:36.350337]
+Used memory
+389.921875
+Dataset HDFS size 300 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+Parsing done. [Time taken: 0:00:36.756241]
+Used memory
+390.03125
+Dataset HDFS size 300 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+Parsing done. [Time taken: 0:00:36.794432]
+Used memory
+390.01953125
+Dataset HDFS size 300 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+Parsing done. [Time taken: 0:00:36.560613]
+Used memory
+389.65234375
+Dataset HDFS size 300 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+Parsing done. [Time taken: 0:00:36.708740]
+Used memory
+389.5078125
+Dataset HDFS size 300 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+Parsing done. [Time taken: 0:00:36.642575]
+Used memory
+389.50390625
+Dataset HDFS size 300 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+Parsing done. [Time taken: 0:00:36.388907]
+Used memory
+389.8671875
+Dataset HDFS size 300 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+Parsing done. [Time taken: 0:00:36.678769]
+Used memory
+389.6484375
+Dataset HDFS size 300 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+Parsing done. [Time taken: 0:00:36.468201]
+Used memory
+389.765625
+Dataset HDFS size 500 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:01:02.712976]
+Used memory
+596.15234375
+Dataset HDFS size 500 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:01:03.025204]
+Used memory
+595.6640625
+Dataset HDFS size 500 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:01:01.849642]
+Used memory
+596.14453125
+Dataset HDFS size 500 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:01:02.423873]
+Used memory
+595.96484375
+Dataset HDFS size 500 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:01:02.596398]
+Used memory
+596.3046875
+Dataset HDFS size 500 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:01:02.881652]
+Used memory
+595.9921875
+Dataset HDFS size 500 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:01:03.151605]
+Used memory
+596.4609375
+Dataset HDFS size 500 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:01:02.403150]
+Used memory
+596.125
+Dataset HDFS size 500 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:01:03.037283]
+Used memory
+596.02734375
+Dataset HDFS size 500 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:01:03.092034]
+Used memory
+596.171875
+Dataset Thunderbird size 1 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.164717]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.134200]
+Used memory
+89.3046875
+Dataset Thunderbird size 1 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.165945]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.127857]
+Used memory
+89.48828125
+Dataset Thunderbird size 1 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.166041]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.131513]
+Used memory
+89.62890625
+Dataset Thunderbird size 1 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.156599]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.133765]
+Used memory
+89.0859375
+Dataset Thunderbird size 1 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.158558]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.134181]
+Used memory
+89.0546875
+Dataset Thunderbird size 1 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.163700]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.134012]
+Used memory
+89.6484375
+Dataset Thunderbird size 1 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.180479]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.135836]
+Used memory
+89.3046875
+Dataset Thunderbird size 1 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.157521]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.136092]
+Used memory
+89.37890625
+Dataset Thunderbird size 1 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.167968]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.134884]
+Used memory
+89.23046875
+Dataset Thunderbird size 1 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.168265]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:00.129453]
+Used memory
+89.7265625
+Dataset Thunderbird size 2 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:00.274183]
+Used memory
+90.34765625
+Precision: 1.0000, Recall: 0.9983, F1_measure: 0.9991, Parsing_Accuracy: 0.9410
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird     0.99913     0.941
+Dataset Thunderbird size 2 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:00.270686]
+Used memory
+90.59375
+Precision: 1.0000, Recall: 0.9983, F1_measure: 0.9991, Parsing_Accuracy: 0.9410
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird     0.99913     0.941
+Dataset Thunderbird size 2 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:00.281081]
+Used memory
+90.7265625
+Precision: 1.0000, Recall: 0.9983, F1_measure: 0.9991, Parsing_Accuracy: 0.9410
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird     0.99913     0.941
+Dataset Thunderbird size 2 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:00.284372]
+Used memory
+90.50390625
+Precision: 1.0000, Recall: 0.9983, F1_measure: 0.9991, Parsing_Accuracy: 0.9410
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird     0.99913     0.941
+Dataset Thunderbird size 2 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:00.278044]
+Used memory
+90.61328125
+Precision: 1.0000, Recall: 0.9983, F1_measure: 0.9991, Parsing_Accuracy: 0.9410
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird     0.99913     0.941
+Dataset Thunderbird size 2 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:00.275655]
+Used memory
+90.6171875
+Precision: 1.0000, Recall: 0.9983, F1_measure: 0.9991, Parsing_Accuracy: 0.9410
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird     0.99913     0.941
+Dataset Thunderbird size 2 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:00.276524]
+Used memory
+90.1796875
+Precision: 1.0000, Recall: 0.9983, F1_measure: 0.9991, Parsing_Accuracy: 0.9410
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird     0.99913     0.941
+Dataset Thunderbird size 2 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:00.281904]
+Used memory
+90.76171875
+Precision: 1.0000, Recall: 0.9983, F1_measure: 0.9991, Parsing_Accuracy: 0.9410
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird     0.99913     0.941
+Dataset Thunderbird size 2 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:00.274803]
+Used memory
+90.34375
+Precision: 1.0000, Recall: 0.9983, F1_measure: 0.9991, Parsing_Accuracy: 0.9410
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird     0.99913     0.941
+Dataset Thunderbird size 2 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:00.272714]
+Used memory
+90.19140625
+Precision: 1.0000, Recall: 0.9983, F1_measure: 0.9991, Parsing_Accuracy: 0.9410
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird     0.99913     0.941
+Dataset Thunderbird size 4 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:00.520140]
+Used memory
+93.01171875
+Dataset Thunderbird size 4 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:00.511327]
+Used memory
+92.77734375
+Dataset Thunderbird size 4 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:00.512313]
+Used memory
+93.2734375
+Dataset Thunderbird size 4 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:00.516710]
+Used memory
+92.91796875
+Dataset Thunderbird size 4 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:00.516907]
+Used memory
+93.0078125
+Dataset Thunderbird size 4 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:00.518575]
+Used memory
+93.01171875
+Dataset Thunderbird size 4 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:00.517954]
+Used memory
+93.09375
+Dataset Thunderbird size 4 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:00.531595]
+Used memory
+93.26953125
+Dataset Thunderbird size 4 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:00.514439]
+Used memory
+93.26953125
+Dataset Thunderbird size 4 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:00.517083]
+Used memory
+92.8515625
+Dataset Thunderbird size 10 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:13.521380]
+Used memory
+100.05078125
+Dataset Thunderbird size 10 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:13.562966]
+Used memory
+99.46875
+Dataset Thunderbird size 10 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:13.594111]
+Used memory
+99.57421875
+Dataset Thunderbird size 10 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:13.492208]
+Used memory
+99.91015625
+Dataset Thunderbird size 10 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:13.493260]
+Used memory
+100.078125
+Dataset Thunderbird size 10 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:13.465453]
+Used memory
+99.67578125
+Dataset Thunderbird size 10 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:13.534458]
+Used memory
+99.9921875
+Dataset Thunderbird size 10 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:13.584048]
+Used memory
+99.87890625
+Dataset Thunderbird size 10 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:13.535340]
+Used memory
+99.578125
+Dataset Thunderbird size 10 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:13.564809]
+Used memory
+99.5546875
+Dataset Thunderbird size 20 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:00:18.801074]
+Used memory
+111.31640625
+Dataset Thunderbird size 20 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:00:19.019500]
+Used memory
+111.171875
+Dataset Thunderbird size 20 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:00:18.886762]
+Used memory
+111.30078125
+Dataset Thunderbird size 20 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:00:18.880516]
+Used memory
+110.9921875
+Dataset Thunderbird size 20 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:00:18.873250]
+Used memory
+111.15234375
+Dataset Thunderbird size 20 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:00:18.823179]
+Used memory
+111.109375
+Dataset Thunderbird size 20 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:00:19.617006]
+Used memory
+111.0546875
+Dataset Thunderbird size 20 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:00:18.747508]
+Used memory
+111.23828125
+Dataset Thunderbird size 20 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:00:18.724257]
+Used memory
+110.9296875
+Dataset Thunderbird size 20 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:00:18.857196]
+Used memory
+111.015625
+Dataset Thunderbird size 50 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:00:42.908817]
+Used memory
+147.3125
+Dataset Thunderbird size 50 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:00:43.254481]
+Used memory
+147.12890625
+Dataset Thunderbird size 50 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:00:42.901111]
+Used memory
+147.44921875
+Dataset Thunderbird size 50 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:00:43.090560]
+Used memory
+146.4921875
+Dataset Thunderbird size 50 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:00:44.128321]
+Used memory
+147.2265625
+Dataset Thunderbird size 50 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:00:43.023941]
+Used memory
+147.078125
+Dataset Thunderbird size 50 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:00:43.317121]
+Used memory
+146.9140625
+Dataset Thunderbird size 50 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:00:43.062327]
+Used memory
+146.65625
+Dataset Thunderbird size 50 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:00:43.020517]
+Used memory
+147.08203125
+Dataset Thunderbird size 50 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:00:42.997575]
+Used memory
+147.015625
+Dataset Thunderbird size 100 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:00:49.129561]
+Used memory
+207.0546875
+Dataset Thunderbird size 100 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:00:48.773821]
+Used memory
+207.5546875
+Dataset Thunderbird size 100 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:00:48.995469]
+Used memory
+207.39453125
+Dataset Thunderbird size 100 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:00:48.931391]
+Used memory
+207.734375
+Dataset Thunderbird size 100 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:00:48.910690]
+Used memory
+207.37890625
+Dataset Thunderbird size 100 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:00:48.872891]
+Used memory
+207.52734375
+Dataset Thunderbird size 100 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:00:48.861552]
+Used memory
+207.49609375
+Dataset Thunderbird size 100 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:00:49.422922]
+Used memory
+207.46484375
+Dataset Thunderbird size 100 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:00:48.783780]
+Used memory
+207.8203125
+Dataset Thunderbird size 100 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:00:48.954065]
+Used memory
+207.359375
+Dataset Thunderbird size 200 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:01:00.737120]
+Used memory
+332.40234375
+Dataset Thunderbird size 200 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:01:00.383727]
+Used memory
+332.53515625
+Dataset Thunderbird size 200 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:01:00.706957]
+Used memory
+332.015625
+Dataset Thunderbird size 200 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:01:00.608486]
+Used memory
+332.15234375
+Dataset Thunderbird size 200 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:01:01.006445]
+Used memory
+332.2421875
+Dataset Thunderbird size 200 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:01:00.931438]
+Used memory
+332.3515625
+Dataset Thunderbird size 200 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:01:00.368269]
+Used memory
+332.3203125
+Dataset Thunderbird size 200 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:01:00.465757]
+Used memory
+332.3671875
+Dataset Thunderbird size 200 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:01:00.459378]
+Used memory
+331.94140625
+Dataset Thunderbird size 200 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:01:00.435418]
+Used memory
+331.9609375
+Dataset Thunderbird size 300 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:01:24.823424]
+Used memory
+476.1015625
+Dataset Thunderbird size 300 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:01:24.967798]
+Used memory
+476.046875
+Dataset Thunderbird size 300 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:01:24.785959]
+Used memory
+476.37109375
+Dataset Thunderbird size 300 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:01:24.641309]
+Used memory
+475.7578125
+Dataset Thunderbird size 300 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:01:24.984673]
+Used memory
+476.453125
+Dataset Thunderbird size 300 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:01:24.892127]
+Used memory
+475.8828125
+Dataset Thunderbird size 300 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:01:25.256708]
+Used memory
+475.796875
+Dataset Thunderbird size 300 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:01:24.878609]
+Used memory
+476.171875
+Dataset Thunderbird size 300 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:01:25.430884]
+Used memory
+475.87890625
+Dataset Thunderbird size 300 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:01:25.000092]
+Used memory
+475.98828125
+Dataset Thunderbird size 500 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:01:47.998816]
+Used memory
+713.51171875
+Dataset Thunderbird size 500 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:01:47.666075]
+Used memory
+713.58203125
+Dataset Thunderbird size 500 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:01:48.347694]
+Used memory
+713.44140625
+Dataset Thunderbird size 500 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:01:48.227659]
+Used memory
+713.80078125
+Dataset Thunderbird size 500 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:01:48.715967]
+Used memory
+713.6796875
+Dataset Thunderbird size 500 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:01:48.101805]
+Used memory
+713.38671875
+Dataset Thunderbird size 500 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:01:48.939921]
+Used memory
+713.546875
+Dataset Thunderbird size 500 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:01:47.767370]
+Used memory
+713.8671875
+Dataset Thunderbird size 500 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:01:48.102786]
+Used memory
+713.640625
+Dataset Thunderbird size 500 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:01:48.573175]
+Used memory
+713.5546875
+Dataset Windows size 1 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.166477]
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.132460]
+Used memory
+89.65625
+Dataset Windows size 1 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.166951]
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.134301]
+Used memory
+89.51171875
+Dataset Windows size 1 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.164536]
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.129679]
+Used memory
+89.5390625
+Dataset Windows size 1 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.167112]
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.132952]
+Used memory
+89.5
+Dataset Windows size 1 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.163801]
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.133441]
+Used memory
+89.5
+Dataset Windows size 1 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.165030]
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.131595]
+Used memory
+89.80078125
+Dataset Windows size 1 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.163155]
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.131714]
+Used memory
+89.4609375
+Dataset Windows size 1 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.162281]
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.130625]
+Used memory
+89.47265625
+Dataset Windows size 1 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.163904]
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.133177]
+Used memory
+89.4609375
+Dataset Windows size 1 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.165323]
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:00.132834]
+Used memory
+89.46484375
+Dataset Windows size 2 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:00.279514]
+Used memory
+90.4296875
+Precision: 0.9986, Recall: 1.0000, F1_measure: 0.9993, Parsing_Accuracy: 0.6895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999281    0.6895
+Dataset Windows size 2 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:00.281249]
+Used memory
+90.4453125
+Precision: 0.9986, Recall: 1.0000, F1_measure: 0.9993, Parsing_Accuracy: 0.6895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999281    0.6895
+Dataset Windows size 2 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:00.277420]
+Used memory
+90.5703125
+Precision: 0.9986, Recall: 1.0000, F1_measure: 0.9993, Parsing_Accuracy: 0.6895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999281    0.6895
+Dataset Windows size 2 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:00.281711]
+Used memory
+90.5390625
+Precision: 0.9986, Recall: 1.0000, F1_measure: 0.9993, Parsing_Accuracy: 0.6895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999281    0.6895
+Dataset Windows size 2 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:00.276605]
+Used memory
+90.76953125
+Precision: 0.9986, Recall: 1.0000, F1_measure: 0.9993, Parsing_Accuracy: 0.6895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999281    0.6895
+Dataset Windows size 2 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:00.277098]
+Used memory
+90.39453125
+Precision: 0.9986, Recall: 1.0000, F1_measure: 0.9993, Parsing_Accuracy: 0.6895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999281    0.6895
+Dataset Windows size 2 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:00.274439]
+Used memory
+90.5078125
+Precision: 0.9986, Recall: 1.0000, F1_measure: 0.9993, Parsing_Accuracy: 0.6895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999281    0.6895
+Dataset Windows size 2 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:00.280269]
+Used memory
+90.4453125
+Precision: 0.9986, Recall: 1.0000, F1_measure: 0.9993, Parsing_Accuracy: 0.6895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999281    0.6895
+Dataset Windows size 2 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:00.279810]
+Used memory
+90.38671875
+Precision: 0.9986, Recall: 1.0000, F1_measure: 0.9993, Parsing_Accuracy: 0.6895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999281    0.6895
+Dataset Windows size 2 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:00.271756]
+Used memory
+90.34375
+Precision: 0.9986, Recall: 1.0000, F1_measure: 0.9993, Parsing_Accuracy: 0.6895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999281    0.6895
+Dataset Windows size 4 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:00.540223]
+Used memory
+92.92578125
+Dataset Windows size 4 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:00.520075]
+Used memory
+92.640625
+Dataset Windows size 4 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:00.536719]
+Used memory
+92.8828125
+Dataset Windows size 4 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:00.529045]
+Used memory
+92.9609375
+Dataset Windows size 4 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:00.516744]
+Used memory
+92.41796875
+Dataset Windows size 4 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:00.525393]
+Used memory
+92.65625
+Dataset Windows size 4 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:00.513550]
+Used memory
+92.9140625
+Dataset Windows size 4 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:00.531336]
+Used memory
+92.6875
+Dataset Windows size 4 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:00.528772]
+Used memory
+92.2734375
+Dataset Windows size 4 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:00.548864]
+Used memory
+92.64453125
+Dataset Windows size 10 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:00:01.461990]
+Used memory
+99.390625
+Dataset Windows size 10 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:00:01.456661]
+Used memory
+99.31640625
+Dataset Windows size 10 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:00:01.466552]
+Used memory
+99.625
+Dataset Windows size 10 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:00:01.462487]
+Used memory
+99.6796875
+Dataset Windows size 10 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:00:01.459498]
+Used memory
+99.30859375
+Dataset Windows size 10 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:00:01.474007]
+Used memory
+99.36328125
+Dataset Windows size 10 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:00:01.469039]
+Used memory
+99.0078125
+Dataset Windows size 10 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:00:01.466190]
+Used memory
+99.67578125
+Dataset Windows size 10 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:00:01.458867]
+Used memory
+99.2265625
+Dataset Windows size 10 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:00:01.463587]
+Used memory
+99.3203125
+Dataset Windows size 20 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:00:03.584551]
+Used memory
+111.11328125
+Dataset Windows size 20 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:00:03.539395]
+Used memory
+110.9375
+Dataset Windows size 20 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:00:03.538789]
+Used memory
+111.37109375
+Dataset Windows size 20 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:00:03.532996]
+Used memory
+111.0234375
+Dataset Windows size 20 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:00:03.512635]
+Used memory
+110.875
+Dataset Windows size 20 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:00:03.533666]
+Used memory
+111.4375
+Dataset Windows size 20 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:00:03.522363]
+Used memory
+110.9453125
+Dataset Windows size 20 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:00:03.538875]
+Used memory
+111.10546875
+Dataset Windows size 20 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:00:03.538938]
+Used memory
+110.70703125
+Dataset Windows size 20 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:00:03.542819]
+Used memory
+111.0859375
+Dataset Windows size 50 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+Parsing done. [Time taken: 0:00:08.743375]
+Used memory
+145.734375
+Dataset Windows size 50 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+Parsing done. [Time taken: 0:00:08.737647]
+Used memory
+145.375
+Dataset Windows size 50 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+Parsing done. [Time taken: 0:00:08.768415]
+Used memory
+145.73828125
+Dataset Windows size 50 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+Parsing done. [Time taken: 0:00:08.763111]
+Used memory
+145.6484375
+Dataset Windows size 50 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+Parsing done. [Time taken: 0:00:08.784135]
+Used memory
+145.50390625
+Dataset Windows size 50 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+Parsing done. [Time taken: 0:00:08.729632]
+Used memory
+145.2109375
+Dataset Windows size 50 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+Parsing done. [Time taken: 0:00:08.664851]
+Used memory
+145.5546875
+Dataset Windows size 50 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+Parsing done. [Time taken: 0:00:08.672880]
+Used memory
+145.26171875
+Dataset Windows size 50 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+Parsing done. [Time taken: 0:00:08.829083]
+Used memory
+145.0625
+Dataset Windows size 50 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+Parsing done. [Time taken: 0:00:08.777729]
+Used memory
+145.19921875
+Dataset Windows size 100 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+Parsing done. [Time taken: 0:00:16.527909]
+Used memory
+199.953125
+Dataset Windows size 100 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+Parsing done. [Time taken: 0:00:16.415375]
+Used memory
+200.0078125
+Dataset Windows size 100 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+Parsing done. [Time taken: 0:00:16.488241]
+Used memory
+199.97265625
+Dataset Windows size 100 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+Parsing done. [Time taken: 0:00:16.350178]
+Used memory
+200.26171875
+Dataset Windows size 100 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+Parsing done. [Time taken: 0:00:16.555383]
+Used memory
+200.01953125
+Dataset Windows size 100 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+Parsing done. [Time taken: 0:00:16.452749]
+Used memory
+199.671875
+Dataset Windows size 100 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+Parsing done. [Time taken: 0:00:16.465872]
+Used memory
+200.01953125
+Dataset Windows size 100 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+Parsing done. [Time taken: 0:00:16.541189]
+Used memory
+200.23046875
+Dataset Windows size 100 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+Parsing done. [Time taken: 0:00:16.563653]
+Used memory
+200.0859375
+Dataset Windows size 100 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+Parsing done. [Time taken: 0:00:16.496732]
+Used memory
+200.1171875
+Dataset Windows size 200 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+Parsing done. [Time taken: 0:00:39.451834]
+Used memory
+321.49609375
+Dataset Windows size 200 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+Parsing done. [Time taken: 0:00:39.419077]
+Used memory
+321.5234375
+Dataset Windows size 200 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+Parsing done. [Time taken: 0:00:39.502531]
+Used memory
+321.4296875
+Dataset Windows size 200 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+Parsing done. [Time taken: 0:00:39.410018]
+Used memory
+321.62109375
+Dataset Windows size 200 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+Parsing done. [Time taken: 0:00:39.465285]
+Used memory
+321.55859375
+Dataset Windows size 200 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+Parsing done. [Time taken: 0:00:39.707335]
+Used memory
+321.3515625
+Dataset Windows size 200 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+Parsing done. [Time taken: 0:00:39.466281]
+Used memory
+321.58984375
+Dataset Windows size 200 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+Parsing done. [Time taken: 0:00:39.398055]
+Used memory
+321.5859375
+Dataset Windows size 200 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+Parsing done. [Time taken: 0:00:39.364993]
+Used memory
+321.78125
+Dataset Windows size 200 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+Parsing done. [Time taken: 0:00:39.424308]
+Used memory
+321.6875
+Dataset Windows size 300 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+Parsing done. [Time taken: 0:01:11.069015]
+Used memory
+450.75390625
+Dataset Windows size 300 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+Parsing done. [Time taken: 0:01:09.870512]
+Used memory
+450.79296875
+Dataset Windows size 300 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+Parsing done. [Time taken: 0:01:10.070658]
+Used memory
+451.1796875
+Dataset Windows size 300 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+Parsing done. [Time taken: 0:01:10.110760]
+Used memory
+450.375
+Dataset Windows size 300 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+Parsing done. [Time taken: 0:01:09.866242]
+Used memory
+451.140625
+Dataset Windows size 300 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+Parsing done. [Time taken: 0:01:10.434125]
+Used memory
+450.32421875
+Dataset Windows size 300 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+Parsing done. [Time taken: 0:01:09.953830]
+Used memory
+450.91015625
+Dataset Windows size 300 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+Parsing done. [Time taken: 0:01:10.092063]
+Used memory
+450.703125
+Dataset Windows size 300 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+Parsing done. [Time taken: 0:01:09.618130]
+Used memory
+450.109375
+Dataset Windows size 300 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+Parsing done. [Time taken: 0:01:09.894027]
+Used memory
+450.6015625
+Dataset Windows size 500 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:02:43.386860]
+Used memory
+693.484375
+Dataset Windows size 500 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:02:42.594339]
+Used memory
+693.8515625
+Dataset Windows size 500 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:02:44.785089]
+Used memory
+693.5
+Dataset Windows size 500 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:02:42.513175]
+Used memory
+693.55859375
+Dataset Windows size 500 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:02:42.716307]
+Used memory
+693.56640625
+Dataset Windows size 500 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:02:43.092030]
+Used memory
+693.53515625
+Dataset Windows size 500 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:02:42.800235]
+Used memory
+693.55859375
+Dataset Windows size 500 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:02:42.316992]
+Used memory
+693.76953125
+Dataset Windows size 500 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:02:43.397061]
+Used memory
+693.90234375
+Dataset Windows size 500 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:02:43.460154]
+Used memory
+693.375
+Dataset OpenSHH size 1 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.176158]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.135225]
+Used memory
+89.35546875
+Dataset OpenSHH size 1 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.168786]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.140131]
+Used memory
+89.15234375
+Dataset OpenSHH size 1 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.165530]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.141457]
+Used memory
+89.234375
+Dataset OpenSHH size 1 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.173821]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.138863]
+Used memory
+89.55859375
+Dataset OpenSHH size 1 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.183875]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.143071]
+Used memory
+89.32421875
+Dataset OpenSHH size 1 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.167291]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.135730]
+Used memory
+89.56640625
+Dataset OpenSHH size 1 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.173084]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.137553]
+Used memory
+89.03515625
+Dataset OpenSHH size 1 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.171784]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.143698]
+Used memory
+89.5859375
+Dataset OpenSHH size 1 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.172818]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.141742]
+Used memory
+89.18359375
+Dataset OpenSHH size 1 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.176850]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.136371]
+Used memory
+89.46875
+Dataset OpenSHH size 2 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.305243]
+Used memory
+90.42578125
+Precision: 0.9966, Recall: 0.9780, F1_measure: 0.9872, Parsing_Accuracy: 0.5380
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.987212     0.538
+Dataset OpenSHH size 2 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.298567]
+Used memory
+90.12109375
+Precision: 0.9966, Recall: 0.9780, F1_measure: 0.9872, Parsing_Accuracy: 0.5380
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.987212     0.538
+Dataset OpenSHH size 2 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.299660]
+Used memory
+90.27734375
+Precision: 0.9966, Recall: 0.9780, F1_measure: 0.9872, Parsing_Accuracy: 0.5380
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.987212     0.538
+Dataset OpenSHH size 2 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.288905]
+Used memory
+90.59375
+Precision: 0.9966, Recall: 0.9780, F1_measure: 0.9872, Parsing_Accuracy: 0.5380
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.987212     0.538
+Dataset OpenSHH size 2 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.297042]
+Used memory
+90.48828125
+Precision: 0.9966, Recall: 0.9780, F1_measure: 0.9872, Parsing_Accuracy: 0.5380
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.987212     0.538
+Dataset OpenSHH size 2 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.303284]
+Used memory
+89.96484375
+Precision: 0.9966, Recall: 0.9780, F1_measure: 0.9872, Parsing_Accuracy: 0.5380
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.987212     0.538
+Dataset OpenSHH size 2 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.303194]
+Used memory
+90.125
+Precision: 0.9966, Recall: 0.9780, F1_measure: 0.9872, Parsing_Accuracy: 0.5380
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.987212     0.538
+Dataset OpenSHH size 2 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.294979]
+Used memory
+90.046875
+Precision: 0.9966, Recall: 0.9780, F1_measure: 0.9872, Parsing_Accuracy: 0.5380
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.987212     0.538
+Dataset OpenSHH size 2 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.304286]
+Used memory
+90.21484375
+Precision: 0.9966, Recall: 0.9780, F1_measure: 0.9872, Parsing_Accuracy: 0.5380
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.987212     0.538
+Dataset OpenSHH size 2 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.298456]
+Used memory
+90.40234375
+Precision: 0.9966, Recall: 0.9780, F1_measure: 0.9872, Parsing_Accuracy: 0.5380
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.987212     0.538
+Dataset OpenSHH size 4 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.571341]
+Used memory
+92.4375
+Dataset OpenSHH size 4 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.572601]
+Used memory
+92.65625
+Dataset OpenSHH size 4 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.573036]
+Used memory
+92.86328125
+Dataset OpenSHH size 4 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.577980]
+Used memory
+92.28515625
+Dataset OpenSHH size 4 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.574088]
+Used memory
+92.51953125
+Dataset OpenSHH size 4 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.575972]
+Used memory
+92.39453125
+Dataset OpenSHH size 4 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.569633]
+Used memory
+92.328125
+Dataset OpenSHH size 4 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.570058]
+Used memory
+92.2578125
+Dataset OpenSHH size 4 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.579179]
+Used memory
+92.609375
+Dataset OpenSHH size 4 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.575961]
+Used memory
+92.5625
+Dataset OpenSHH size 20 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:03.368110]
+Used memory
+113.796875
+Dataset OpenSHH size 20 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:03.432643]
+Used memory
+114.28125
+Dataset OpenSHH size 20 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:03.409439]
+Used memory
+113.5078125
+Dataset OpenSHH size 20 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:03.397102]
+Used memory
+113.7109375
+Dataset OpenSHH size 20 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:03.441348]
+Used memory
+113.78125
+Dataset OpenSHH size 20 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:03.396511]
+Used memory
+113.546875
+Dataset OpenSHH size 20 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:03.414208]
+Used memory
+114.01171875
+Dataset OpenSHH size 20 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:03.377487]
+Used memory
+113.953125
+Dataset OpenSHH size 20 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:03.424691]
+Used memory
+114.24609375
+Dataset OpenSHH size 20 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:03.369624]
+Used memory
+114.19140625
+Dataset OpenSHH size 50 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:11.710651]
+Used memory
+149.11328125
+Dataset OpenSHH size 50 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:11.649952]
+Used memory
+149.2734375
+Dataset OpenSHH size 50 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:11.785903]
+Used memory
+149.125
+Dataset OpenSHH size 50 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:11.682392]
+Used memory
+149.5078125
+Dataset OpenSHH size 50 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:11.758631]
+Used memory
+149.015625
+Dataset OpenSHH size 50 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:11.658976]
+Used memory
+149.38671875
+Dataset OpenSHH size 50 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:11.679436]
+Used memory
+149.13671875
+Dataset OpenSHH size 50 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:11.627595]
+Used memory
+149.09765625
+Dataset OpenSHH size 50 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:11.676413]
+Used memory
+149.16796875
+Dataset OpenSHH size 50 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:11.694438]
+Used memory
+149.171875
+Dataset OpenSHH size 100 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:37.768484]
+Used memory
+207.140625
+Dataset OpenSHH size 100 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:37.516966]
+Used memory
+206.90234375
+Dataset OpenSHH size 100 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:37.304710]
+Used memory
+206.6484375
+Dataset OpenSHH size 100 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:36.565185]
+Used memory
+206.80859375
+Dataset OpenSHH size 100 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:38.182906]
+Used memory
+206.75
+Dataset OpenSHH size 100 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:36.967601]
+Used memory
+206.73828125
+Dataset OpenSHH size 100 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:37.465576]
+Used memory
+206.4375
+Dataset OpenSHH size 100 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:37.188761]
+Used memory
+206.79296875
+Dataset OpenSHH size 100 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:37.599586]
+Used memory
+206.46875
+Dataset OpenSHH size 100 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:38.024576]
+Used memory
+206.6640625
+Dataset OpenSHH size 200 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:01:49.845720]
+Used memory
+313.828125
+Dataset OpenSHH size 200 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:01:49.927153]
+Used memory
+313.75390625
+Dataset OpenSHH size 200 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:01:47.449375]
+Used memory
+313.76953125
+Dataset OpenSHH size 200 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:02:02.155298]
+Used memory
+313.66015625
+Dataset OpenSHH size 200 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:01:53.816277]
+Used memory
+313.75
+Dataset OpenSHH size 200 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:01:48.639624]
+Used memory
+313.45703125
+Dataset OpenSHH size 200 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:01:49.543066]
+Used memory
+313.67578125
+Dataset OpenSHH size 200 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:01:48.648281]
+Used memory
+313.484375
+Dataset OpenSHH size 200 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:01:48.658500]
+Used memory
+314.1875
+Dataset OpenSHH size 200 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:01:46.063493]
+Used memory
+313.65234375
+Dataset OpenSHH size 300 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:02:52.464414]
+Used memory
+420.75390625
+Dataset OpenSHH size 300 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:02:47.618525]
+Used memory
+420.3671875
+Dataset OpenSHH size 300 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:02:48.539887]
+Used memory
+420.953125
+Dataset OpenSHH size 300 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:02:50.806565]
+Used memory
+420.48046875
+Dataset OpenSHH size 300 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:02:45.824044]
+Used memory
+420.27734375
+Dataset OpenSHH size 300 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:02:51.814818]
+Used memory
+420.5859375
+Dataset OpenSHH size 300 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:02:47.359176]
+Used memory
+420.640625
+Dataset OpenSHH size 300 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:02:48.290510]
+Used memory
+420.484375
+Dataset OpenSHH size 300 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:02:46.323552]
+Used memory
+420.61328125
+Dataset OpenSHH size 300 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:02:47.350899]
+Used memory
+420.78515625
+Dataset OpenSHH size 500 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:05:54.466471]
+Used memory
+628.32421875
+Dataset OpenSHH size 500 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:05:53.745449]
+Used memory
+628.50390625
+Dataset OpenSHH size 500 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:06:04.783634]
+Used memory
+628.671875
+Dataset OpenSHH size 500 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:05:55.848679]
+Used memory
+628.56640625
+Dataset OpenSHH size 500 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:05:55.890263]
+Used memory
+628.01171875
+Dataset OpenSHH size 500 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:05:59.042551]
+Used memory
+627.96875
+Dataset OpenSHH size 500 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:06:04.489915]
+Used memory
+628.37109375
+Dataset OpenSHH size 500 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:05:54.811705]
+Used memory
+628.703125
+Dataset OpenSHH size 500 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:06:11.471984]
+Used memory
+628.171875
+Dataset OpenSHH size 500 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:05:53.912345]
+Used memory
+627.96875
+Dataset BGL size 1 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.106428]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.080710]
+Used memory
+88.84765625
+Dataset BGL size 1 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.098460]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.078700]
+Used memory
+89.03515625
+Dataset BGL size 1 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.100910]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.082507]
+Used memory
+89.32421875
+Dataset BGL size 1 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.100290]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.080771]
+Used memory
+89.3359375
+Dataset BGL size 1 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.106456]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.085717]
+Used memory
+89.0234375
+Dataset BGL size 1 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.098703]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.080531]
+Used memory
+88.81640625
+Dataset BGL size 1 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.107729]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.085469]
+Used memory
+88.7890625
+Dataset BGL size 1 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.105136]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.080498]
+Used memory
+89.171875
+Dataset BGL size 1 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.100788]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.082507]
+Used memory
+89.3671875
+Dataset BGL size 1 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.103623]
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.081221]
+Used memory
+89.32421875
+Dataset BGL size 2 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.261284]
+Used memory
+90.90234375
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.264249]
+Used memory
+90.59375
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.262358]
+Used memory
+90.80859375
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.262342]
+Used memory
+90.83203125
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.268391]
+Used memory
+90.83984375
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.266052]
+Used memory
+90.703125
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.263601]
+Used memory
+90.734375
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.263866]
+Used memory
+91.0625
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.255519]
+Used memory
+90.69921875
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 2 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Parsing done. [Time taken: 0:00:00.268298]
+Used memory
+90.890625
+Precision: 0.9992, Recall: 1.0000, F1_measure: 0.9996, Parsing_Accuracy: 0.9570
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999554     0.957
+Dataset BGL size 4 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.293859]
+Used memory
+92.0234375
+Dataset BGL size 4 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.296261]
+Used memory
+92.21484375
+Dataset BGL size 4 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.299114]
+Used memory
+92.2578125
+Dataset BGL size 4 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.326379]
+Used memory
+91.875
+Dataset BGL size 4 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.296007]
+Used memory
+92.12890625
+Dataset BGL size 4 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.297099]
+Used memory
+91.890625
+Dataset BGL size 4 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.298931]
+Used memory
+92.3125
+Dataset BGL size 4 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.296154]
+Used memory
+92.1640625
+Dataset BGL size 4 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.296598]
+Used memory
+92.30078125
+Dataset BGL size 4 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Parsing done. [Time taken: 0:00:00.299459]
+Used memory
+91.6796875
+Dataset BGL size 20 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.144769]
+Used memory
+113.03125
+Dataset BGL size 20 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.148510]
+Used memory
+113.1640625
+Dataset BGL size 20 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.144619]
+Used memory
+112.703125
+Dataset BGL size 20 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.140478]
+Used memory
+112.82421875
+Dataset BGL size 20 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.151579]
+Used memory
+112.625
+Dataset BGL size 20 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.141960]
+Used memory
+112.7734375
+Dataset BGL size 20 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.157303]
+Used memory
+112.41796875
+Dataset BGL size 20 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.134819]
+Used memory
+112.2890625
+Dataset BGL size 20 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.142605]
+Used memory
+113.109375
+Dataset BGL size 20 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Parsing done. [Time taken: 0:00:02.129600]
+Used memory
+112.59375
+Dataset BGL size 50 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.837230]
+Used memory
+144.296875
+Dataset BGL size 50 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.900699]
+Used memory
+144.33203125
+Dataset BGL size 50 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.874246]
+Used memory
+144.42578125
+Dataset BGL size 50 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.867070]
+Used memory
+144.26171875
+Dataset BGL size 50 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.895538]
+Used memory
+144.10546875
+Dataset BGL size 50 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.883936]
+Used memory
+144.19140625
+Dataset BGL size 50 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.925877]
+Used memory
+144.5390625
+Dataset BGL size 50 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.925914]
+Used memory
+144.015625
+Dataset BGL size 50 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.905531]
+Used memory
+144.1640625
+Dataset BGL size 50 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Parsing done. [Time taken: 0:00:04.957033]
+Used memory
+144.41796875
+Dataset BGL size 100 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.627068]
+Used memory
+200.734375
+Dataset BGL size 100 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.617514]
+Used memory
+200.3046875
+Dataset BGL size 100 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.580951]
+Used memory
+200.30078125
+Dataset BGL size 100 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.514247]
+Used memory
+192.84375
+Dataset BGL size 100 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.640526]
+Used memory
+192.66796875
+Dataset BGL size 100 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.550662]
+Used memory
+192.62890625
+Dataset BGL size 100 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.736558]
+Used memory
+200.2109375
+Dataset BGL size 100 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.595959]
+Used memory
+200.30078125
+Dataset BGL size 100 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.570438]
+Used memory
+200.1953125
+Dataset BGL size 100 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:09.633034]
+Used memory
+192.71484375
+Dataset BGL size 200 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.856158]
+Used memory
+312.0390625
+Dataset BGL size 200 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.743993]
+Used memory
+312.2421875
+Dataset BGL size 200 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.838237]
+Used memory
+312.171875
+Dataset BGL size 200 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:19.201467]
+Used memory
+312.56640625
+Dataset BGL size 200 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.725017]
+Used memory
+312.44921875
+Dataset BGL size 200 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.882708]
+Used memory
+311.63671875
+Dataset BGL size 200 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.845309]
+Used memory
+311.5234375
+Dataset BGL size 200 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.816840]
+Used memory
+311.80859375
+Dataset BGL size 200 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.859158]
+Used memory
+311.625
+Dataset BGL size 200 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Parsing done. [Time taken: 0:00:18.856195]
+Used memory
+311.8046875
+Dataset BGL size 300 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.309729]
+Used memory
+397.72265625
+Dataset BGL size 300 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.614017]
+Used memory
+397.6640625
+Dataset BGL size 300 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.364218]
+Used memory
+398.125
+Dataset BGL size 300 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.303935]
+Used memory
+398.16015625
+Dataset BGL size 300 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.418629]
+Used memory
+397.81640625
+Dataset BGL size 300 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.595225]
+Used memory
+397.53125
+Dataset BGL size 300 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.489413]
+Used memory
+398.015625
+Dataset BGL size 300 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.613346]
+Used memory
+397.796875
+Dataset BGL size 300 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.380121]
+Used memory
+398.07421875
+Dataset BGL size 300 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Parsing done. [Time taken: 0:00:27.813200]
+Used memory
+397.8203125
+root@126b9378c884:~/literature-survey-log-parsing/experiments/python2/logparser/benchmark#
