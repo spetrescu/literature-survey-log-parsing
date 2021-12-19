@@ -5,5 +5,5 @@ pip install gdown
 gdown https://drive.google.com/uc?id=1YBALSVclnFLMCLCnE7I50-tXF335cF1T
 tar -xvf scalability.tgz
 rm scalability.tgz
-mv -v scalability/* ./
+cp -v scalability/* ./
 rm -rf scalability/
