@@ -28,8 +28,8 @@ cd logparser/
 - [X] IPLoM
 - [X] LenMa
 - [X] LFA
-- [X] LKE (prblms w Android)
-- [ ] LogCluster
+- [X] LKE (prblms w Android & BGL)
+- [X] LogCluster (prblms w Android)
 - [ ] logmatch
 - [X] LogMine
 - [X] LogSig
