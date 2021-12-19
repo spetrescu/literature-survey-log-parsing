@@ -4,6 +4,7 @@ do
   do
     for r in 1
     do
+        echo "Dataset $d size $s run no $r"
         python Spell_benchmark.py $d $s
     done
   done
@@ -14,6 +15,7 @@ for s in 1
 do
   for r in 1
   do
+      echo "Dataset OpenSSH size $s run no $r"
       python Spell_benchmark.py OpenSSH $s
   done
 done
@@ -22,6 +24,7 @@ for s in 1
 do
   for r in 1
   do
+      echo "Dataset BGL size $s run no $r"
       python Spell_benchmark.py BGL $s
   done
 done
@@ -32,6 +35,7 @@ done
 #  do
 #    for r in 1 2 3 4 5 6 7 8 9 10
 #    do
+#        echo "Dataset $d size $s run no $r"
 #        python Spell_benchmark.py $d $s
 #    done
 #  done
@@ -42,6 +46,7 @@ done
 #do
 #  for r in 1 2 3 4 5 6 7 8 9 10
 #  do
+#      echo "Dataset OpenSSH size $s run no $r"
 #      python Spell_benchmark.py OpenSSH $s
 #  done
 #done
@@ -50,6 +55,7 @@ done
 #do
 #  for r in 1 2 3 4 5 6 7 8 9 10
 #  do
+#      echo "Dataset BGL size $s run no $r"
 #      python Spell_benchmark.py BGL $s
 #  done
 #done
