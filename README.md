@@ -25,8 +25,8 @@ cd logparser/
 
 - [X] AEL
 - [ ] Drain
-- [ ] IPLoM
-- [ ] LenMa
+- [X] IPLoM
+- [X] LenMa
 - [ ] LFA
 - [ ] LKE
 - [ ] LogCluster
