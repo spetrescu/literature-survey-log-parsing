@@ -32,7 +32,7 @@ cd logparser/
 - [ ] LogCluster
 - [ ] logmatch
 - [ ] LogMine
-- [ ] LogSig
+- [X] LogSig
 - [ ] MoLFI
 - [X] SHISO
 - [X] SLCT
