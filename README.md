@@ -34,7 +34,7 @@ cd logparser/
 - [ ] LogMine
 - [ ] LogSig
 - [ ] MoLFI
-- [ ] SHISO
+- [X] SHISO
 - [X] SLCT
 - [X] Spell
   
