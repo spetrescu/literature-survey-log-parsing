@@ -35,7 +35,7 @@ cd logparser/
 - [ ] MoLFI
 - [X] SHISO
 - [X] SLCT
-- [X] Spell
+- [X] Spell ✅
   
 Although implemented, methods with * are not scalable.
 </details>
