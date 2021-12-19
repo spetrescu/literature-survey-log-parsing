@@ -14,6 +14,7 @@ In order to reproduce the experiments, make sure to run the steps below.
 4. cd literature-survey-log-parsing/
 5. cd experiments/
 6. cd python2/
+cd logparser/
 7. sh fetch_data.sh
 8. cd benchmark/
 9. sh <METHOD>.sh
