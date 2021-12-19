@@ -27,8 +27,8 @@ cd logparser/
 - [ ] Drain
 - [X] IPLoM
 - [X] LenMa
-- [ ] LFA
-- [ ] LKE
+- [X] LFA
+- [X] LKE (prblms w Android)
 - [ ] LogCluster
 - [ ] logmatch
 - [X] LogMine
