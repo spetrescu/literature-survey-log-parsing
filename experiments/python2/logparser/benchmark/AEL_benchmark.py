@@ -8,11 +8,6 @@ import pandas as pd
 
 
 n = len(sys.argv)
-print("Running ", sys.argv[0])
-print("Arguments passed:", end=" ")
-for i in range(1, n):
-    print(sys.argv[i], end=" ")
-print()
 DATASET = str(sys.argv[1])
 SIZE = str(sys.argv[2])
 
@@ -161,14 +156,14 @@ for dataset, setting in benchmark_settings.iteritems():
                                  minEventCount=setting['minEventCount'], merge_percent=setting['merge_percent'], rex=setting['regex'])
         parser.parse(log_file)
 
-        if SIZE == 2:
+        if SIZE == "2":
             F1_measure, accuracy = evaluator.evaluate(
                 groundtruth=os.path.join(indir, log_file + '_structured.csv'),
                 parsedresult=os.path.join(output_dir, log_file + '_structured.csv')
             )
             bechmark_result.append([dataset, F1_measure, accuracy])
 
-if SIZE == 2:
+if SIZE == "2":
     print('\n=== Overall evaluation results ===')
     df_result = pd.DataFrame(bechmark_result, columns=['Dataset', 'F1_measure', 'Accuracy'])
     df_result.set_index('Dataset', inplace=True)
