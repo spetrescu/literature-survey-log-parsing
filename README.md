@@ -5,6 +5,20 @@ This section contains detalied information regarding the Experiments section of 
 There are two environments available for running the experiments, namely Python 2 and Python 3. 
 Based on the method that you would like to experiment with, please follow the appropriate setup.
 
+### Setup Py2
+In order to reproduce the experiments, make sure to run the steps below.
+```
+1. mkdir logparser && docker run --name logparser_py2 -it -v logparser:/logparser logpai/logparser:py2 bash
+2. cd ~
+3. git clone https://github.com/spetrescu/literature-survey-log-parsing.git
+4. cd literature-survey-log-parsing/
+5. cd experiments/
+6. cd python2/
+7. sh fetch_data.sh
+8. cd benchmark/
+9. sh <METHOD>.sh
+```
+
 <details>
   <summary><code>Python 2 methods</code></summary>
 
