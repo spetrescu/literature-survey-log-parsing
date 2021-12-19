@@ -23,7 +23,7 @@ cd logparser/
 <details>
   <summary><code>Python 2 methods</code></summary>
 
-- [X] AEL*
+- [X] AEL
 - [ ] Drain
 - [ ] IPLoM
 - [ ] LenMa
@@ -35,8 +35,8 @@ cd logparser/
 - [ ] LogSig
 - [ ] MoLFI
 - [ ] SHISO
-- [ ] SLCT
-- [ ] Spell
+- [X] SLCT
+- [X] Spell
   
 Although implemented, methods with * are not scalable.
 </details>
