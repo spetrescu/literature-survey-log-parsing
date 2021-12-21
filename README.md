@@ -203,7 +203,7 @@ Each method below has been run 10 times for each dataset size.
   <summary><code>Python 2 methods</code></summary>
 
 - [X] AEL
-- [ ] Drain
+- [X] Drain
 - [X] IPLoM
 - [X] LenMa
 - [X] LFA
@@ -222,7 +222,6 @@ Although implemented, methods with * are not scalable.
 <details>
   <summary><code>Python 3 methods</code></summary>
   
-- [X] Drain
 - [ ] MoLFI
 </details>
 
