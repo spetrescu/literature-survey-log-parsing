@@ -22,7 +22,7 @@ cd logparser/
 ## Results
 Each method below has been run 10 times for each dataset size.
 
-### Accuracy
+### Scalability
 <details>
   <summary><code>AEL</code></summary>
   
@@ -161,7 +161,7 @@ Each method below has been run 10 times for each dataset size.
   
 </details>
 
-### Scalability
+### Accuracy
 <details>
   <summary><code>Spell</code></summary>
   
