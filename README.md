@@ -76,9 +76,9 @@ Each method below has been run 10 times for each dataset size.
         </details>
   - HDFS
       - <details>
-        <summary>[1k, ..., 500k] => <code>WIP</code></summary>
+        <summary>[1k, ..., 20k] => <code>ALL</code></summary>
          
-        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
+        [1k, 2k, 4k, 10k, 20k]
         </details>
 <!--   - OpenSSH
       - <details>
