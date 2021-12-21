@@ -19,7 +19,142 @@ cd logparser/
 8. cd benchmark/
 9. sh <METHOD>.sh
 ```
+## Results
+Each method below has been run 10 times for each dataset size.
 
+<details>
+  <summary><code>AEL</code></summary>
+  
+  - BGL
+      - <details>
+        <summary>[1k, ..., 300k] => <code>NO 10k</code></summary>
+         
+        [1k, 2k, 4k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+  - HDFS
+      - <details>
+        <summary>[1k, ..., 500k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
+        </details>
+  - OpenSSH
+      - <details>
+        <summary>[1k, ..., 500k] => <code>NO 10k</code></summary>
+         
+        [1k, 2k, 4k, 20k, 50k, 100k, 200k, 300k, 500k]
+        </details>
+  - Thunderbird
+      - <details>
+        <summary>[1k, ..., 500k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
+        </details>
+  - Windows
+      - <details>
+        <summary>[1k, ..., 500k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
+        </details>
+  
+</details>
+
+<details>
+  <summary><code>LogMine</code></summary>
+  
+  - BGL
+      - <details>
+        <summary>[1k, ..., 20k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k]
+        </details>
+<!--   - HDFS
+      - <details>
+        <summary>[1k, ..., 500k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
+        </details>
+  - OpenSSH
+      - <details>
+        <summary>[1k, ..., 500k] => <code>NO 10k</code></summary>
+         
+        [1k, 2k, 4k, 20k, 50k, 100k, 200k, 300k, 500k]
+        </details>
+  - Thunderbird
+      - <details>
+        <summary>[1k, ..., 500k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
+        </details>
+  - Windows
+      - <details>
+        <summary>[1k, ..., 500k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
+        </details> -->
+  
+</details>
+
+<details>
+  <summary><code>SLCT</code></summary>
+  
+  - HDFS
+      - <details>
+        <summary>[1k, ..., 1M] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
+        </details>
+  - Thunderbird
+      - <details>
+        <summary>[1k, ..., 20k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k]
+        </details>
+  - Windows
+      - <details>
+        <summary>[1k, ..., 10k] => <code>NO 20k</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k]
+        </details>
+  
+</details>
+
+<details>
+  <summary><code>Spell</code></summary>
+  
+  - BGL
+      - <details>
+        <summary>[1k, ..., 300k] => <code>NO 10k</code></summary>
+         
+        [1k, 2k, 4k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+  - HDFS
+      - <details>
+        <summary>[1k, ..., 1M] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
+        </details>
+  - OpenSSH
+      - <details>
+        <summary>[1k, ..., 500k] => <code>NO 10k</code></summary>
+         
+        [1k, 2k, 4k, 20k, 50k, 100k, 200k, 300k, 500k]
+        </details>
+  - Thunderbird
+      - <details>
+        <summary>[1k, ..., 1M] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
+        </details>
+  - Windows
+      - <details>
+        <summary>[1k, ..., 20k] => <code>NO 50k</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k]
+        </details>
+  
+</details>
+
+## Algorithms
 <details>
   <summary><code>Python 2 methods</code></summary>
 
