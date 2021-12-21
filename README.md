@@ -61,19 +61,25 @@ Each method below has been run 10 times for each dataset size.
 <details>
   <summary><code>LogMine</code></summary>
   
+  - Android
+      - <details>
+        <summary>[1k, ..., 20k] => <code>NO 10k</code></summary>
+         
+        [1k, 2k, 4k, 20k]
+        </details>
   - BGL
       - <details>
         <summary>[1k, ..., 20k] => <code>ALL</code></summary>
          
         [1k, 2k, 4k, 10k, 20k]
         </details>
-<!--   - HDFS
+  - HDFS
       - <details>
-        <summary>[1k, ..., 500k] => <code>ALL</code></summary>
+        <summary>[1k, ..., 500k] => <code>WIP</code></summary>
          
         [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
         </details>
-  - OpenSSH
+<!--   - OpenSSH
       - <details>
         <summary>[1k, ..., 500k] => <code>NO 10k</code></summary>
          
