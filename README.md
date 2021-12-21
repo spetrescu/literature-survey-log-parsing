@@ -22,6 +22,7 @@ cd logparser/
 ## Results
 Each method below has been run 10 times for each dataset size.
 
+### Accuracy
 <details>
   <summary><code>AEL</code></summary>
   
@@ -124,6 +125,43 @@ Each method below has been run 10 times for each dataset size.
   
 </details>
 
+<details>
+  <summary><code>Spell</code></summary>
+  
+  - BGL
+      - <details>
+        <summary>[1k, ..., 300k] => <code>NO 10k</code></summary>
+         
+        [1k, 2k, 4k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+  - HDFS
+      - <details>
+        <summary>[1k, ..., 1M] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
+        </details>
+  - OpenSSH
+      - <details>
+        <summary>[1k, ..., 500k] => <code>NO 10k</code></summary>
+         
+        [1k, 2k, 4k, 20k, 50k, 100k, 200k, 300k, 500k]
+        </details>
+  - Thunderbird
+      - <details>
+        <summary>[1k, ..., 1M] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
+        </details>
+  - Windows
+      - <details>
+        <summary>[1k, ..., 20k] => <code>NO 50k</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k]
+        </details>
+  
+</details>
+
+### Scalability
 <details>
   <summary><code>Spell</code></summary>
   
