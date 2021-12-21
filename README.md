@@ -80,17 +80,17 @@ Each method below has been run 10 times for each dataset size.
          
         [1k, 2k, 4k, 10k, 20k]
         </details>
+  - Thunderbird
+      - <details>
+        <summary>[1k, ..., 20k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k]
+        </details>
 <!--   - OpenSSH
       - <details>
         <summary>[1k, ..., 500k] => <code>NO 10k</code></summary>
          
         [1k, 2k, 4k, 20k, 50k, 100k, 200k, 300k, 500k]
-        </details>
-  - Thunderbird
-      - <details>
-        <summary>[1k, ..., 500k] => <code>ALL</code></summary>
-         
-        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
         </details>
   - Windows
       - <details>
