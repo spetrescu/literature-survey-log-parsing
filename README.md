@@ -325,7 +325,7 @@ Total number of papers selected for survey: 93
 Find below the queries used for the survey.
 #### Google Scholar
 <details>
-  <summary>[QUERY 1] <code>log parsing</code></summary>
+  <summary>[Query 1] <code>log parsing</code></summary>
   
   1. <details>
      <summary><a href="https://arxiv.org/abs/1811.03509">Tools and Benchmarks for Automated Log Parsing</a> <b>(57)</b></summary>
@@ -425,7 +425,7 @@ Find below the queries used for the survey.
 </details>
 
 <details>
-  <summary>[QUERY 2] <code>log parsing survey</code></summary>
+  <summary>[Query 2] <code>log parsing survey</code></summary>
   
   1. <details>
      <summary><a href="https://www.sciencedirect.com/science/article/pii/S0167404820300250">System log clustering approaches for cyber security applications: A survey</a> <b>(80)</b></summary>
@@ -437,7 +437,7 @@ Find below the queries used for the survey.
 </details>
 
 <details>
-  <summary>[QUERY 3] <code>log abstraction</code></summary>
+  <summary>[Query 3] <code>log abstraction</code></summary>
   
   1. <details>
      <summary><a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584920300264?casa_token=iZOiGEqQoKwAAAAA:b6CTyhaGiai9R-prLmP3HLhFETQgr6H7b4oTIv17-iWQrAOemWF5Wslj35wvpHqXDTxWSnkvQjG8">A systematic literature review on automated log abstraction techniques</a> <b>(55)</b></summary>
@@ -459,14 +459,14 @@ Find below the queries used for the survey.
 </details>
 
 <details>
-  <summary>[QUERY 4] <code>log abstraction survey</code></summary>
+  <summary>[Query 4] <code>log abstraction survey</code></summary>
   
   &mdash;
   
 </details>
 
 <details>
-  <summary>[QUERY 5] <code>event log parsing</code></summary>
+  <summary>[Query 5] <code>event log parsing</code></summary>
   
   1. [LogLens: A Real-Time Log Analysis System](https://ieeexplore.ieee.org/document/8416368) **(36)**
   2. [Loghub: A Large Collection of System Log Datasets towards Automated Log Analytics](https://arxiv.org/abs/2008.06448) **(69)**
@@ -482,7 +482,7 @@ Find below the queries used for the survey.
 </details>
 
 <details>
-  <summary>[QUERY 6] <code>log signature extraction</code></summary>
+  <summary>[Query 6] <code>log signature extraction</code></summary>
   
   1. [Unsupervised Signature Extraction from Forensic Logs](https://link.springer.com/chapter/10.1007/978-3-319-71273-4_25) **(27)**
   2. [Towards a neural language model for signature extraction from forensic logs](https://ieeexplore.ieee.org/document/7916497) **(16)**
@@ -491,7 +491,7 @@ Find below the queries used for the survey.
 </details>
 
 <details>
-  <summary>[QUERY 7] <code>event log signature extraction</code></summary>
+  <summary>[Query 7] <code>event log signature extraction</code></summary>
   
   &mdash;
   
