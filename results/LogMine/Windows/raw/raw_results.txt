@@ -1,0 +1,396 @@
+Dataset Windows size 1 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:01.867873]
+Used memory
+90.015625
+Dataset Windows size 1 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:01.878223]
+Used memory
+90.31640625
+Dataset Windows size 1 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:01.871715]
+Used memory
+90.046875
+Dataset Windows size 1 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:01.905584]
+Used memory
+90.34765625
+Dataset Windows size 1 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:01.877070]
+Used memory
+90.20703125
+Dataset Windows size 1 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:01.876962]
+Used memory
+89.89453125
+Dataset Windows size 1 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:01.872933]
+Used memory
+90.00390625
+Dataset Windows size 1 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:01.893835]
+Used memory
+90.328125
+Dataset Windows size 1 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:01.866808]
+Used memory
+90.07421875
+Dataset Windows size 1 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+Parsing done. [Time taken: 0:00:01.859571]
+Used memory
+89.9453125
+Dataset Windows size 2 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:06.802312]
+Used memory
+92.0078125
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9925
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999987    0.9925
+Dataset Windows size 2 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:06.781245]
+Used memory
+92.19921875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9925
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999987    0.9925
+Dataset Windows size 2 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:06.806217]
+Used memory
+92.01171875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9925
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999987    0.9925
+Dataset Windows size 2 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:06.770693]
+Used memory
+91.61328125
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9925
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999987    0.9925
+Dataset Windows size 2 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:06.829431]
+Used memory
+92.0234375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9925
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999987    0.9925
+Dataset Windows size 2 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:06.806979]
+Used memory
+92.2265625
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9925
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999987    0.9925
+Dataset Windows size 2 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:06.815680]
+Used memory
+91.90234375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9925
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999987    0.9925
+Dataset Windows size 2 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:06.824680]
+Used memory
+92.32421875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9925
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999987    0.9925
+Dataset Windows size 2 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:06.828993]
+Used memory
+92.328125
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9925
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999987    0.9925
+Dataset Windows size 2 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+Parsing done. [Time taken: 0:00:06.748186]
+Used memory
+92.23046875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9925
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999987    0.9925
+Dataset Windows size 4 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:25.795520]
+Used memory
+96.0390625
+Dataset Windows size 4 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:26.046401]
+Used memory
+95.86328125
+Dataset Windows size 4 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:25.826830]
+Used memory
+96.12890625
+Dataset Windows size 4 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:25.902576]
+Used memory
+96.1328125
+Dataset Windows size 4 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:25.965412]
+Used memory
+95.76953125
+Dataset Windows size 4 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:25.837600]
+Used memory
+96.0
+Dataset Windows size 4 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:25.839055]
+Used memory
+98.625
+Dataset Windows size 4 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:26.107309]
+Used memory
+96.12109375
+Dataset Windows size 4 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:25.756091]
+Used memory
+95.93359375
+Dataset Windows size 4 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+Parsing done. [Time taken: 0:00:25.853056]
+Used memory
+99.140625
+Dataset Windows size 10 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:02:36.609246]
+Used memory
+108.98046875
+Dataset Windows size 10 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:02:38.418789]
+Used memory
+109.328125
+Dataset Windows size 10 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:02:36.742820]
+Used memory
+109.10546875
+Dataset Windows size 10 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:02:37.008656]
+Used memory
+109.03515625
+Dataset Windows size 10 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:02:37.247211]
+Used memory
+108.0546875
+Dataset Windows size 10 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:02:36.883787]
+Used memory
+110.39453125
+Dataset Windows size 10 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:02:37.005139]
+Used memory
+109.0625
+Dataset Windows size 10 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:02:36.738099]
+Used memory
+107.58203125
+Dataset Windows size 10 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:02:37.356867]
+Used memory
+108.01171875
+Dataset Windows size 10 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+Parsing done. [Time taken: 0:02:37.788932]
+Used memory
+110.88671875
+Dataset Windows size 20 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:10:33.157829]
+Used memory
+128.40625
+Dataset Windows size 20 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:10:30.324639]
+Used memory
+130.5234375
+Dataset Windows size 20 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:10:28.878666]
+Used memory
+130.35546875
+Dataset Windows size 20 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:10:33.095677]
+Used memory
+129.09765625
+Dataset Windows size 20 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:10:27.788395]
+Used memory
+128.55859375
+Dataset Windows size 20 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:10:27.267314]
+Used memory
+128.5859375
+Dataset Windows size 20 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:10:34.254958]
+Used memory
+132.84765625
+Dataset Windows size 20 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time taken: 0:10:31.586317]
+Used memory
+128.9375
