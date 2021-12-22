@@ -1,0 +1,440 @@
+Dataset OpenSSH size 1 run no 1
+
+Parsing done. [Time taken: 0:00:00.212496]
+88.89453125
+Dataset OpenSSH size 1 run no 2
+
+Parsing done. [Time taken: 0:00:00.214585]
+88.75390625
+Dataset OpenSSH size 1 run no 3
+
+Parsing done. [Time taken: 0:00:00.212194]
+88.78515625
+Dataset OpenSSH size 1 run no 4
+
+Parsing done. [Time taken: 0:00:00.208342]
+88.9609375
+Dataset OpenSSH size 1 run no 5
+
+Parsing done. [Time taken: 0:00:00.213273]
+89.03515625
+Dataset OpenSSH size 1 run no 6
+
+Parsing done. [Time taken: 0:00:00.213541]
+88.5859375
+Dataset OpenSSH size 1 run no 7
+
+Parsing done. [Time taken: 0:00:00.213721]
+88.94140625
+Dataset OpenSSH size 1 run no 8
+
+Parsing done. [Time taken: 0:00:00.214028]
+88.64453125
+Dataset OpenSSH size 1 run no 9
+
+Parsing done. [Time taken: 0:00:00.211951]
+88.5859375
+Dataset OpenSSH size 1 run no 10
+
+Parsing done. [Time taken: 0:00:00.216232]
+88.75
+Dataset OpenSSH size 2 run no 1
+
+Parsing done. [Time taken: 0:00:00.384780]
+89.7578125
+Precision: 0.9984, Recall: 1.0000, F1_measure: 0.9992, Parsing_Accuracy: 0.7875
+
+Dataset
+OpenSSH    0.999221    0.7875
+Dataset OpenSSH size 2 run no 2
+
+Parsing done. [Time taken: 0:00:00.393850]
+89.86328125
+Precision: 0.9984, Recall: 1.0000, F1_measure: 0.9992, Parsing_Accuracy: 0.7875
+
+Dataset
+OpenSSH    0.999221    0.7875
+Dataset OpenSSH size 2 run no 3
+
+Parsing done. [Time taken: 0:00:00.375426]
+89.91015625
+Precision: 0.9984, Recall: 1.0000, F1_measure: 0.9992, Parsing_Accuracy: 0.7875
+
+Dataset
+OpenSSH    0.999221    0.7875
+Dataset OpenSSH size 2 run no 4
+
+Parsing done. [Time taken: 0:00:00.381767]
+89.8359375
+Precision: 0.9984, Recall: 1.0000, F1_measure: 0.9992, Parsing_Accuracy: 0.7875
+
+Dataset
+OpenSSH    0.999221    0.7875
+Dataset OpenSSH size 2 run no 5
+
+Parsing done. [Time taken: 0:00:00.376902]
+89.84375
+Precision: 0.9984, Recall: 1.0000, F1_measure: 0.9992, Parsing_Accuracy: 0.7875
+
+Dataset
+OpenSSH    0.999221    0.7875
+Dataset OpenSSH size 2 run no 6
+
+Parsing done. [Time taken: 0:00:00.377280]
+89.4609375
+Precision: 0.9984, Recall: 1.0000, F1_measure: 0.9992, Parsing_Accuracy: 0.7875
+
+Dataset
+OpenSSH    0.999221    0.7875
+Dataset OpenSSH size 2 run no 7
+
+Parsing done. [Time taken: 0:00:00.380187]
+89.82421875
+Precision: 0.9984, Recall: 1.0000, F1_measure: 0.9992, Parsing_Accuracy: 0.7875
+
+Dataset
+OpenSSH    0.999221    0.7875
+Dataset OpenSSH size 2 run no 8
+
+Parsing done. [Time taken: 0:00:00.389352]
+89.8125
+Precision: 0.9984, Recall: 1.0000, F1_measure: 0.9992, Parsing_Accuracy: 0.7875
+
+Dataset
+OpenSSH    0.999221    0.7875
+Dataset OpenSSH size 2 run no 9
+
+Parsing done. [Time taken: 0:00:00.379814]
+89.80859375
+Precision: 0.9984, Recall: 1.0000, F1_measure: 0.9992, Parsing_Accuracy: 0.7875
+
+Dataset
+OpenSSH    0.999221    0.7875
+Dataset OpenSSH size 2 run no 10
+
+Parsing done. [Time taken: 0:00:00.376830]
+89.62109375
+Precision: 0.9984, Recall: 1.0000, F1_measure: 0.9992, Parsing_Accuracy: 0.7875
+
+Dataset
+OpenSSH    0.999221    0.7875
+Dataset OpenSSH size 4 run no 1
+
+Parsing done. [Time taken: 0:00:00.717643]
+91.78125
+Dataset OpenSSH size 4 run no 2
+
+Parsing done. [Time taken: 0:00:00.718856]
+91.87109375
+Dataset OpenSSH size 4 run no 3
+
+Parsing done. [Time taken: 0:00:00.704428]
+92.0546875
+Dataset OpenSSH size 4 run no 4
+
+Parsing done. [Time taken: 0:00:00.712805]
+91.71875
+Dataset OpenSSH size 4 run no 5
+
+Parsing done. [Time taken: 0:00:00.722877]
+92.0
+Dataset OpenSSH size 4 run no 6
+
+Parsing done. [Time taken: 0:00:00.714454]
+91.9375
+Dataset OpenSSH size 4 run no 7
+
+Parsing done. [Time taken: 0:00:00.711359]
+91.9453125
+Dataset OpenSSH size 4 run no 8
+
+Parsing done. [Time taken: 0:00:00.711836]
+91.75390625
+Dataset OpenSSH size 4 run no 9
+
+Parsing done. [Time taken: 0:00:00.714786]
+91.796875
+Dataset OpenSSH size 4 run no 10
+
+Parsing done. [Time taken: 0:00:00.717409]
+91.90234375
+Dataset OpenSSH size 10 run no 1
+
+Parsing done. [Time taken: 0:00:01.707247]
+98.375
+Dataset OpenSSH size 10 run no 2
+
+Parsing done. [Time taken: 0:00:01.689452]
+98.046875
+Dataset OpenSSH size 10 run no 3
+
+Parsing done. [Time taken: 0:00:01.698268]
+97.9140625
+Dataset OpenSSH size 10 run no 4
+
+Parsing done. [Time taken: 0:00:01.720052]
+97.33203125
+Dataset OpenSSH size 10 run no 5
+
+Parsing done. [Time taken: 0:00:01.720480]
+97.66796875
+Dataset OpenSSH size 10 run no 6
+
+Parsing done. [Time taken: 0:00:01.706004]
+98.4140625
+Dataset OpenSSH size 10 run no 7
+
+Parsing done. [Time taken: 0:00:01.699005]
+97.18359375
+Dataset OpenSSH size 10 run no 8
+
+Parsing done. [Time taken: 0:00:01.703088]
+97.71875
+Dataset OpenSSH size 10 run no 9
+
+Parsing done. [Time taken: 0:00:01.687397]
+97.30078125
+Dataset OpenSSH size 10 run no 10
+
+Parsing done. [Time taken: 0:00:01.706384]
+98.17578125
+Dataset OpenSSH size 20 run no 1
+
+Parsing done. [Time taken: 0:00:03.448933]
+106.7109375
+Dataset OpenSSH size 20 run no 2
+
+Parsing done. [Time taken: 0:00:03.487977]
+107.5390625
+Dataset OpenSSH size 20 run no 3
+
+Parsing done. [Time taken: 0:00:03.457960]
+105.9375
+Dataset OpenSSH size 20 run no 4
+
+Parsing done. [Time taken: 0:00:03.435930]
+107.0859375
+Dataset OpenSSH size 20 run no 5
+
+Parsing done. [Time taken: 0:00:03.423022]
+107.0546875
+Dataset OpenSSH size 20 run no 6
+
+Parsing done. [Time taken: 0:00:03.464548]
+107.18359375
+Dataset OpenSSH size 20 run no 7
+
+Parsing done. [Time taken: 0:00:03.419238]
+107.4375
+Dataset OpenSSH size 20 run no 8
+
+Parsing done. [Time taken: 0:00:03.457738]
+107.5
+Dataset OpenSSH size 20 run no 9
+
+Parsing done. [Time taken: 0:00:03.463292]
+107.578125
+Dataset OpenSSH size 20 run no 10
+
+Parsing done. [Time taken: 0:00:03.429295]
+107.06640625
+Dataset OpenSSH size 50 run no 1
+
+Parsing done. [Time taken: 0:00:08.585096]
+134.75
+Dataset OpenSSH size 50 run no 2
+
+Parsing done. [Time taken: 0:00:08.469723]
+137.38671875
+Dataset OpenSSH size 50 run no 3
+
+Parsing done. [Time taken: 0:00:08.542943]
+134.90234375
+Dataset OpenSSH size 50 run no 4
+
+Parsing done. [Time taken: 0:00:08.675876]
+134.65625
+Dataset OpenSSH size 50 run no 5
+
+Parsing done. [Time taken: 0:00:08.604095]
+134.765625
+Dataset OpenSSH size 50 run no 6
+
+Parsing done. [Time taken: 0:00:08.547645]
+137.89453125
+Dataset OpenSSH size 50 run no 7
+
+Parsing done. [Time taken: 0:00:08.563765]
+134.47265625
+Dataset OpenSSH size 50 run no 8
+
+Parsing done. [Time taken: 0:00:08.601869]
+134.84765625
+Dataset OpenSSH size 50 run no 9
+
+Parsing done. [Time taken: 0:00:08.638099]
+137.57421875
+Dataset OpenSSH size 50 run no 10
+
+Parsing done. [Time taken: 0:00:08.531724]
+137.609375
+Dataset OpenSSH size 100 run no 1
+
+Parsing done. [Time taken: 0:00:16.994348]
+186.0859375
+Dataset OpenSSH size 100 run no 2
+
+Parsing done. [Time taken: 0:00:16.991378]
+185.84375
+Dataset OpenSSH size 100 run no 3
+
+Parsing done. [Time taken: 0:00:16.770841]
+185.671875
+Dataset OpenSSH size 100 run no 4
+
+Parsing done. [Time taken: 0:00:16.791434]
+185.87890625
+Dataset OpenSSH size 100 run no 5
+
+Parsing done. [Time taken: 0:00:16.875285]
+185.44140625
+Dataset OpenSSH size 100 run no 6
+
+Parsing done. [Time taken: 0:00:16.912299]
+185.8984375
+Dataset OpenSSH size 100 run no 7
+
+Parsing done. [Time taken: 0:00:16.919876]
+186.21484375
+Dataset OpenSSH size 100 run no 8
+
+Parsing done. [Time taken: 0:00:16.910673]
+186.2109375
+Dataset OpenSSH size 100 run no 9
+
+Parsing done. [Time taken: 0:00:16.836992]
+186.03125
+Dataset OpenSSH size 100 run no 10
+
+Parsing done. [Time taken: 0:00:16.835070]
+186.18359375
+Dataset OpenSSH size 200 run no 1
+
+Parsing done. [Time taken: 0:00:33.571687]
+273.4140625
+Dataset OpenSSH size 200 run no 2
+
+Parsing done. [Time taken: 0:00:33.819714]
+283.69921875
+Dataset OpenSSH size 200 run no 3
+
+Parsing done. [Time taken: 0:00:33.547466]
+273.71875
+Dataset OpenSSH size 200 run no 4
+
+Parsing done. [Time taken: 0:00:33.556128]
+273.1796875
+Dataset OpenSSH size 200 run no 5
+
+Parsing done. [Time taken: 0:00:33.533532]
+284.390625
+Dataset OpenSSH size 200 run no 6
+
+Parsing done. [Time taken: 0:00:33.841827]
+284.234375
+Dataset OpenSSH size 200 run no 7
+
+Parsing done. [Time taken: 0:00:33.474564]
+273.6640625
+Dataset OpenSSH size 200 run no 8
+
+Parsing done. [Time taken: 0:00:33.845941]
+273.77734375
+Dataset OpenSSH size 200 run no 9
+
+Parsing done. [Time taken: 0:00:33.623360]
+273.5
+Dataset OpenSSH size 200 run no 10
+
+Parsing done. [Time taken: 0:00:33.322478]
+284.15234375
+Dataset OpenSSH size 300 run no 1
+
+Parsing done. [Time taken: 0:00:50.542976]
+385.29296875
+Dataset OpenSSH size 300 run no 2
+
+Parsing done. [Time taken: 0:00:50.533848]
+385.734375
+Dataset OpenSSH size 300 run no 3
+
+Parsing done. [Time taken: 0:00:50.878277]
+385.2890625
+Dataset OpenSSH size 300 run no 4
+
+Parsing done. [Time taken: 0:00:50.221671]
+385.08984375
+Dataset OpenSSH size 300 run no 5
+
+Parsing done. [Time taken: 0:00:50.212227]
+385.33203125
+Dataset OpenSSH size 300 run no 6
+
+Parsing done. [Time taken: 0:00:50.698116]
+385.2421875
+Dataset OpenSSH size 300 run no 7
+
+Parsing done. [Time taken: 0:00:50.649162]
+385.203125
+Dataset OpenSSH size 300 run no 8
+
+Parsing done. [Time taken: 0:00:50.602468]
+385.28125
+Dataset OpenSSH size 300 run no 9
+
+Parsing done. [Time taken: 0:00:50.040110]
+385.28125
+Dataset OpenSSH size 300 run no 10
+
+Parsing done. [Time taken: 0:00:50.278327]
+385.328125
+Dataset OpenSSH size 500 run no 1
+
+Parsing done. [Time taken: 0:01:25.160689]
+573.6953125
+Dataset OpenSSH size 500 run no 2
+
+Parsing done. [Time taken: 0:01:25.119728]
+573.6015625
+Dataset OpenSSH size 500 run no 3
+
+Parsing done. [Time taken: 0:01:24.748316]
+573.34765625
+Dataset OpenSSH size 500 run no 4
+
+Parsing done. [Time taken: 0:01:24.960356]
+546.9140625
+Dataset OpenSSH size 500 run no 5
+
+Parsing done. [Time taken: 0:01:25.056155]
+573.4375
+Dataset OpenSSH size 500 run no 6
+
+Parsing done. [Time taken: 0:01:25.033530]
+573.421875
+Dataset OpenSSH size 500 run no 7
+
+Parsing done. [Time taken: 0:01:25.119959]
+546.81640625
+Dataset OpenSSH size 500 run no 8
+
+Parsing done. [Time taken: 0:01:24.365807]
+547.00390625
+Dataset OpenSSH size 500 run no 9
+
+Parsing done. [Time taken: 0:01:24.478248]
+573.6796875
+Dataset OpenSSH size 500 run no 10
+
+Parsing done. [Time taken: 0:01:24.117271]
+546.765625
