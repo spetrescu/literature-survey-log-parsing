@@ -258,19 +258,19 @@ Each method below has been run 10 times for each of the dataset sizes.
         <summary>[1k, ..., 500k] => <code>ALL</code></summary>
          
         [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
-        </details>
+        </details> -->
   - Thunderbird
       - <details>
-        <summary>[1k, ..., 1M] => <code>ALL</code></summary>
+        <summary>[1k, ..., 500k] => <code>NO 1M</code></summary>
          
-        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
         </details>
-  - Windows
+  - Windows WIP
       - <details>
         <summary>[1k, ..., 1M] => <code>ALL</code></summary>
          
         [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
-        </details> -->
+        </details>
 </details>
 
 ### Accuracy
