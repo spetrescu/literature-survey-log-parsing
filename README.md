@@ -203,6 +203,11 @@ Each method below has been run 10 times for each dataset size.
   
 </details>
 
+<details>
+  <summary><code>IPLoM</code></summary>
+  
+</details>
+
 ### Accuracy
 <details>
   <summary><code>Spell</code></summary>
