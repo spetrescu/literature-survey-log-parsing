@@ -1,6 +1,8 @@
 # literature-survey-log-parsing
-
-## Experiments
+This repository contains all the relevant information referenced in [Log Parsing Literature Survey](). <br>
+To run the experiments, please navigate to [Experiments](#experiments) <br>
+To understand more about the search method of the survey, please navigate to [Method](#method) <br>
+## <a name="experiments"> Experiments
 This section contains detalied information regarding the Experiments section of [Log Parsing Literature Survey](). <br>
 There are two environments available for running the experiments, namely Python 2 and Python 3. 
 Based on the method that you would like to experiment with, please follow the appropriate setup.
@@ -337,7 +339,7 @@ Although implemented, methods with * are not scalable.
 - [ ] MoLFI
 </details>
 
-## Method
+## <a name="method"> Method
 
 This section contains detalied information regarding the Method section of [Log Parsing Literature Survey](). <br>
 The queries used for the survey can be found under [Queries](#queries). <br>
@@ -558,4 +560,9 @@ Find below the queries used for the survey.
   4. [AECID-PG: A Tree-Based Log Parser Generator To Enable Log Analysis](https://ieeexplore.ieee.org/document/8717887) **(13)**
   
 </details>
+  
+## <a name="acknowledgements"> Acknowledgements
+
+We would like to thank the authors of ... `WIP`
+
 
