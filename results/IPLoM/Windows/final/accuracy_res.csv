@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+IPLoM,Windows,2,0.9893,1.0000,0.9946,0.5660,1
+IPLoM,Windows,2,0.9893,1.0000,0.9946,0.5660,2
+IPLoM,Windows,2,0.9893,1.0000,0.9946,0.5660,3
+IPLoM,Windows,2,0.9893,1.0000,0.9946,0.5660,4
+IPLoM,Windows,2,0.9893,1.0000,0.9946,0.5660,5
+IPLoM,Windows,2,0.9893,1.0000,0.9946,0.5660,6
+IPLoM,Windows,2,0.9893,1.0000,0.9946,0.5660,7
+IPLoM,Windows,2,0.9893,1.0000,0.9946,0.5660,8
+IPLoM,Windows,2,0.9893,1.0000,0.9946,0.5660,9
+IPLoM,Windows,2,0.9893,1.0000,0.9946,0.5660,10
