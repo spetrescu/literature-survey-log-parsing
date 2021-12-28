@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+Lenma,Windows,2,0.9893,0.9999,0.9946,0.5655,1
+Lenma,Windows,2,0.9893,0.9999,0.9946,0.5655,2
+Lenma,Windows,2,0.9893,0.9999,0.9946,0.5655,3
+Lenma,Windows,2,0.9893,0.9999,0.9946,0.5655,4
+Lenma,Windows,2,0.9893,0.9999,0.9946,0.5655,5
+Lenma,Windows,2,0.9893,0.9999,0.9946,0.5655,6
+Lenma,Windows,2,0.9893,0.9999,0.9946,0.5655,7
+Lenma,Windows,2,0.9893,0.9999,0.9946,0.5655,8
+Lenma,Windows,2,0.9893,0.9999,0.9946,0.5655,9
+Lenma,Windows,2,0.9893,0.9999,0.9946,0.5655,10
