@@ -21,6 +21,21 @@ cd logparser/
 8. cd benchmark/
 9. sh <METHOD>.sh
 ```
+### Setup Py3
+In order to reproduce the experiments, make sure to run the steps below.
+```
+1. mkdir logparser && docker run --name logparser_py3 -it -v logparser:/logparser logpai/logparser:py3 bash
+2. cd ~
+3. git clone https://github.com/spetrescu/literature-survey-log-parsing.git
+4. cd literature-survey-log-parsing/
+5. cd experiments/
+6. cd python3/
+cd logparser/
+7. sh fetch_data.sh
+8. cd benchmark/
+9. sh <METHOD>.sh
+```
+
 ## Results
 Each method below has been run 10 times for each of the dataset sizes.
 
@@ -129,13 +144,13 @@ Each method below has been run 10 times for each of the dataset sizes.
         <summary>[1k, ..., 500k] => <code>NO 10k</code></summary>
          
         [1k, 2k, 4k, 20k, 50k, 100k, 200k, 300k, 500k]
-        </details>
+        </details> -->
   - Windows
       - <details>
-        <summary>[1k, ..., 500k] => <code>ALL</code></summary>
+        <summary>[1k, ..., 20k] => <code>ALL</code></summary>
          
-        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
-        </details> -->
+        [1k, 2k, 4k, 10k, 20k]
+        </details>
   
 </details>
 
@@ -241,33 +256,39 @@ Each method below has been run 10 times for each of the dataset sizes.
 </details>
 
 <details>
-  <summary><code>Lenma WIP</code></summary>
-
-<!--   - BGL
+  <summary><code>Lenma</code></summary>
+  
+  - Android
+      - <details>
+        <summary>[1k, ..., 200k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k]
+        </details>
+  - BGL
       - <details>
         <summary>[1k, ..., 300k] => <code>ALL</code></summary>
          
         [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
-        </details> -->
+        </details>
   - HDFS
       - <details>
         <summary>[1k, ..., 1M] => <code>ALL</code></summary>
          
         [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
         </details>
-<!--   - OpenSSH
+  - OpenSSH
       - <details>
         <summary>[1k, ..., 500k] => <code>ALL</code></summary>
          
         [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
-        </details> -->
+        </details>
   - Thunderbird
       - <details>
-        <summary>[1k, ..., 500k] => <code>NO 1M</code></summary>
+        <summary>[1k, ..., 1M] => <code>ALL</code></summary>
          
-        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
         </details>
-  - Windows WIP
+  - Windows
       - <details>
         <summary>[1k, ..., 1M] => <code>ALL</code></summary>
          
