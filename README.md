@@ -171,7 +171,7 @@ Each method below has been run 10 times for each of the dataset sizes.
         </details>
   - Windows
       - <details>
-        <summary>[1k, ..., 10k] => <code>NO 20k</code></summary>
+        <summary>[1k, ..., 20k] => <code>ALL</code></summary>
          
         [1k, 2k, 4k, 10k, 20k]
         </details>
