@@ -1724,3 +1724,37 @@ Matching done, matching rate: 97.1% [Time taken: 0:08:46.315649]
 Parsing done. [Time: 0:09:04.808211]
 Used memory
 126.0234375
+Dataset Thunderbird size 20 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Compile SLCT...
+>> gcc -o ../logparser/SLCT/slct -O2 ../logparser/SLCT/cslct.c
+Run SLCT...
+>> ../logparser/SLCT/slct -j -o slct_outliers.log -r -s 10 slct_input.log
+Sun Dec 19 20:32:31 2021: Starting...
+Sun Dec 19 20:32:31 2021: Creating vocabulary...
+Sun Dec 19 20:32:31 2021: 7573 words inserted into the vocabulary
+Sun Dec 19 20:32:31 2021: Finding frequent words from the vocabulary...
+Sun Dec 19 20:32:31 2021: 1036 frequent words found
+Sun Dec 19 20:32:31 2021: 893 words in vocabulary occurring 1 time
+Sun Dec 19 20:32:31 2021: 1098 words in vocabulary occurring 2 times or less
+Sun Dec 19 20:32:31 2021: 5254 words in vocabulary occurring 5 times or less
+Sun Dec 19 20:32:31 2021: 6631 words in vocabulary occurring 10 times or less
+Sun Dec 19 20:32:31 2021: 7011 words in vocabulary occurring 20 times or less
+Sun Dec 19 20:32:31 2021: Finding cluster candidates...
+Sun Dec 19 20:32:31 2021: 665 cluster candidates found
+Sun Dec 19 20:32:31 2021: Finding clusters from the set of candidates...
+Sun Dec 19 20:32:31 2021: 412 clusters found
+Sun Dec 19 20:32:31 2021: Refining cluster descriptions and finding outliers...
+Sun Dec 19 20:32:31 2021: Analysis complete.
+Dumping event templates...
+Processing log file: ../logs/Thunderbird/Thunderbird_20k.log
+Loading log messages to dataframe...
+Loading 19496 messages done, loading rate: 97.5%
+Matching event templates...
+Worker 7559 start matching 19496 lines.
+Matching done, matching rate: 97.1% [Time taken: 0:08:49.684545]
+Parsing done. [Time: 0:09:08.300614]
+Used memory
+125.51953125
