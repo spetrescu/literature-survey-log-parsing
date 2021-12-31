@@ -331,6 +331,41 @@ Each method below has been run 10 times for each of the dataset sizes.
         </details>
 </details>
 
+<details>
+  <summary><code>SHISO</code></summary>
+  
+  - BGL
+      - <details>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+  - HDFS
+      - <details>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+  - OpenSSH
+      - <details>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+  - Thunderbird
+      - <details>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+  - Windows
+      - <details>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+</details>
+
 ### Accuracy
 <details>
   <summary><code>Spell</code></summary>
