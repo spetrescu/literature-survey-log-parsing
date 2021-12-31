@@ -45,9 +45,9 @@ Each method below has been run 10 times for each of the dataset sizes.
   
   - BGL
       - <details>
-        <summary>[1k, ..., 300k] => <code>NO 10k</code></summary>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
          
-        [1k, 2k, 4k, 20k, 50k, 100k, 200k, 300k]
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
         </details>
   - HDFS
       - <details>
@@ -57,9 +57,9 @@ Each method below has been run 10 times for each of the dataset sizes.
         </details>
   - OpenSSH
       - <details>
-        <summary>[1k, ..., 500k] => <code>NO 10k</code></summary>
+        <summary>[1k, ..., 500k] => <code>ALL</code></summary>
          
-        [1k, 2k, 4k, 20k, 50k, 100k, 200k, 300k, 500k]
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
         </details>
   - Thunderbird
       - <details>
