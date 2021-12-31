@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+LogSig,Thunderbird,2,0.9596,0.9993,0.9791,0.6935,1
+LogSig,Thunderbird,2,0.9596,0.9993,0.9791,0.6935,2
+LogSig,Thunderbird,2,0.9596,0.9993,0.9791,0.6935,3
+LogSig,Thunderbird,2,0.9596,0.9993,0.9791,0.6935,4
+LogSig,Thunderbird,2,0.9596,0.9993,0.9791,0.6935,5
+LogSig,Thunderbird,2,0.9596,0.9993,0.9791,0.6935,6
+LogSig,Thunderbird,2,0.9596,0.9993,0.9791,0.6935,7
+LogSig,Thunderbird,2,0.9596,0.9993,0.9791,0.6935,8
+LogSig,Thunderbird,2,0.9596,0.9993,0.9791,0.6935,9
+LogSig,Thunderbird,2,0.9596,0.9993,0.9791,0.6935,10
