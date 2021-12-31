@@ -295,6 +295,41 @@ Each method below has been run 10 times for each of the dataset sizes.
         [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
         </details>
 </details>
+  
+<details>
+  <summary><code>MoLFI</code></summary>
+  
+  - BGL
+      - <details>
+        <summary>[1k, ..., 50k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k]
+        </details>
+  - HDFS
+      - <details>
+        <summary>[1k, ..., 100k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k]
+        </details>
+  - OpenSSH
+      - <details>
+        <summary>[1k, ..., 50k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k]
+        </details>
+  - Thunderbird
+      - <details>
+        <summary>[1k, ..., 50k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k]
+        </details>
+  - Windows
+      - <details>
+        <summary>[1k, ..., 50k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k]
+        </details>
+</details>
 
 ### Accuracy
 <details>
