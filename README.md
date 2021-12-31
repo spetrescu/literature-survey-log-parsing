@@ -45,9 +45,9 @@ Each method below has been run 10 times for each of the dataset sizes.
   
   - BGL
       - <details>
-        <summary>[1k, ..., 300k] => <code>NO 10k</code></summary>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
          
-        [1k, 2k, 4k, 20k, 50k, 100k, 200k, 300k]
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
         </details>
   - HDFS
       - <details>
@@ -57,9 +57,9 @@ Each method below has been run 10 times for each of the dataset sizes.
         </details>
   - OpenSSH
       - <details>
-        <summary>[1k, ..., 500k] => <code>NO 10k</code></summary>
+        <summary>[1k, ..., 500k] => <code>ALL</code></summary>
          
-        [1k, 2k, 4k, 20k, 50k, 100k, 200k, 300k, 500k]
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k]
         </details>
   - Thunderbird
       - <details>
@@ -171,7 +171,7 @@ Each method below has been run 10 times for each of the dataset sizes.
         </details>
   - Windows
       - <details>
-        <summary>[1k, ..., 10k] => <code>NO 20k</code></summary>
+        <summary>[1k, ..., 20k] => <code>ALL</code></summary>
          
         [1k, 2k, 4k, 10k, 20k]
         </details>
@@ -293,6 +293,146 @@ Each method below has been run 10 times for each of the dataset sizes.
         <summary>[1k, ..., 1M] => <code>ALL</code></summary>
          
         [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
+        </details>
+</details>
+  
+<details>
+  <summary><code>MoLFI</code></summary>
+  
+  - BGL
+      - <details>
+        <summary>[1k, ..., 50k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k]
+        </details>
+  - HDFS
+      - <details>
+        <summary>[1k, ..., 100k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k]
+        </details>
+  - OpenSSH
+      - <details>
+        <summary>[1k, ..., 50k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k]
+        </details>
+  - Thunderbird
+      - <details>
+        <summary>[1k, ..., 50k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k]
+        </details>
+  - Windows
+      - <details>
+        <summary>[1k, ..., 50k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k]
+        </details>
+</details>
+
+<details>
+  <summary><code>SHISO</code></summary>
+  
+  - BGL
+      - <details>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+  - HDFS
+      - <details>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+  - OpenSSH
+      - <details>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+  - Thunderbird
+      - <details>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+  - Windows
+      - <details>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+</details>
+
+<details>
+  <summary><code>LogCluster</code></summary>
+  
+  - BGL
+      - <details>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+  - HDFS
+      - <details>
+        <summary>[1k, ..., 1M] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
+        </details>
+  - OpenSSH
+      - <details>
+        <summary>[1k, ..., 500k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 500k]
+        </details>
+  - Thunderbird
+      - <details>
+        <summary>[1k, ..., 1M] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
+        </details>
+  - Windows
+      - <details>
+        <summary>[1k, ..., 1M] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
+        </details>
+</details>
+  
+<details>
+  <summary><code>LogSig</code></summary>
+  
+<!--   - BGL
+      - <details>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
+        </details>
+  - HDFS
+      - <details>
+        <summary>[1k, ..., 1M] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k, 500k, 1M]
+        </details> -->
+  - OpenSSH
+      - <details>
+        <summary>[1k, ..., 200k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k]
+        </details>
+  - Thunderbird
+      - <details>
+        <summary>[1k, ..., 200k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k]
+        </details>
+  - Windows
+      - <details>
+        <summary>[1k, ..., 200k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k]
         </details>
 </details>
 
