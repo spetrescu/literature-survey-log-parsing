@@ -1691,3 +1691,16 @@ Parsing done. [Time: 0:26:16.434414]
 Used memory
 122.6796875
 Dataset Windows size 20 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time: 0:26:17.920044]
+Used memory
+122.43359375
+Dataset Windows size 20 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+Parsing done. [Time: 0:26:19.262703]
+Used memory
+122.6328125
