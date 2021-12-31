@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+LogCluster,Windows,2,1.0000,0.8303,0.9073,0.7130,1
+LogCluster,Windows,2,1.0000,0.8303,0.9073,0.7130,2
+LogCluster,Windows,2,1.0000,0.8303,0.9073,0.7130,3
+LogCluster,Windows,2,1.0000,0.8303,0.9073,0.7130,4
+LogCluster,Windows,2,1.0000,0.8303,0.9073,0.7130,5
+LogCluster,Windows,2,1.0000,0.8303,0.9073,0.7130,6
+LogCluster,Windows,2,1.0000,0.8303,0.9073,0.7130,7
+LogCluster,Windows,2,1.0000,0.8303,0.9073,0.7130,8
+LogCluster,Windows,2,1.0000,0.8303,0.9073,0.7130,9
+LogCluster,Windows,2,1.0000,0.8303,0.9073,0.7130,10

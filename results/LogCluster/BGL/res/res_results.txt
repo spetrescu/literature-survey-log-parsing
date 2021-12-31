@@ -1,0 +1,435 @@
+Dataset BGL size 1 run no 1
+
+Parsing done. [Time taken: 0:00:00.119323]
+Parsing done. [Time taken: 0:00:00.099064]
+88.7265625
+Dataset BGL size 1 run no 2
+
+Parsing done. [Time taken: 0:00:00.119204]
+Parsing done. [Time taken: 0:00:00.095636]
+88.7734375
+Dataset BGL size 1 run no 3
+
+Parsing done. [Time taken: 0:00:00.115584]
+Parsing done. [Time taken: 0:00:00.097404]
+88.73046875
+Dataset BGL size 1 run no 4
+
+Parsing done. [Time taken: 0:00:00.117790]
+Parsing done. [Time taken: 0:00:00.093097]
+88.66796875
+Dataset BGL size 1 run no 5
+
+Parsing done. [Time taken: 0:00:00.116467]
+Parsing done. [Time taken: 0:00:00.098010]
+88.59375
+Dataset BGL size 1 run no 6
+
+Parsing done. [Time taken: 0:00:00.114042]
+Parsing done. [Time taken: 0:00:00.092600]
+88.50390625
+Dataset BGL size 1 run no 7
+
+Parsing done. [Time taken: 0:00:00.115588]
+Parsing done. [Time taken: 0:00:00.095871]
+88.94921875
+Dataset BGL size 1 run no 8
+
+Parsing done. [Time taken: 0:00:00.115002]
+Parsing done. [Time taken: 0:00:00.093516]
+88.8984375
+Dataset BGL size 1 run no 9
+
+Parsing done. [Time taken: 0:00:00.115369]
+Parsing done. [Time taken: 0:00:00.095022]
+88.76171875
+Dataset BGL size 1 run no 10
+
+Parsing done. [Time taken: 0:00:00.113003]
+Parsing done. [Time taken: 0:00:00.096385]
+88.55859375
+Dataset BGL size 2 run no 1
+
+Parsing done. [Time taken: 0:00:00.216993]
+89.85546875
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 2
+
+Parsing done. [Time taken: 0:00:00.209941]
+89.984375
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 3
+
+Parsing done. [Time taken: 0:00:00.214972]
+89.67578125
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 4
+
+Parsing done. [Time taken: 0:00:00.210739]
+89.68359375
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 5
+
+Parsing done. [Time taken: 0:00:00.210319]
+89.67578125
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 6
+
+Parsing done. [Time taken: 0:00:00.212466]
+89.9375
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 7
+
+Parsing done. [Time taken: 0:00:00.217389]
+89.81640625
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 8
+
+Parsing done. [Time taken: 0:00:00.212373]
+90.05859375
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 9
+
+Parsing done. [Time taken: 0:00:00.212662]
+89.87890625
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 10
+
+Parsing done. [Time taken: 0:00:00.220169]
+89.83203125
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 4 run no 1
+
+Parsing done. [Time taken: 0:00:00.192443]
+Parsing done. [Time taken: 0:00:00.182089]
+92.12890625
+Dataset BGL size 4 run no 2
+
+Parsing done. [Time taken: 0:00:00.197105]
+Parsing done. [Time taken: 0:00:00.179486]
+92.3203125
+Dataset BGL size 4 run no 3
+
+Parsing done. [Time taken: 0:00:00.202139]
+91.1796875
+Dataset BGL size 4 run no 4
+
+Parsing done. [Time taken: 0:00:00.198900]
+Parsing done. [Time taken: 0:00:00.183432]
+92.2421875
+Dataset BGL size 4 run no 5
+
+Parsing done. [Time taken: 0:00:00.202570]
+91.45703125
+Dataset BGL size 4 run no 6
+
+Parsing done. [Time taken: 0:00:00.199935]
+Parsing done. [Time taken: 0:00:00.178246]
+92.21875
+Dataset BGL size 4 run no 7
+
+Parsing done. [Time taken: 0:00:00.201943]
+91.02734375
+Dataset BGL size 4 run no 8
+
+Parsing done. [Time taken: 0:00:00.202240]
+91.10546875
+Dataset BGL size 4 run no 9
+
+Parsing done. [Time taken: 0:00:00.200341]
+Parsing done. [Time taken: 0:00:00.184104]
+92.28125
+Dataset BGL size 4 run no 10
+
+Parsing done. [Time taken: 0:00:00.203211]
+91.125
+Dataset BGL size 10 run no 1
+
+Parsing done. [Time taken: 0:00:00.408396]
+97.34375
+Dataset BGL size 10 run no 2
+
+Parsing done. [Time taken: 0:00:00.427562]
+97.328125
+Dataset BGL size 10 run no 3
+
+Parsing done. [Time taken: 0:00:00.407813]
+97.6796875
+Dataset BGL size 10 run no 4
+
+Parsing done. [Time taken: 0:00:00.407929]
+97.71875
+Dataset BGL size 10 run no 5
+
+Parsing done. [Time taken: 0:00:00.413052]
+97.48046875
+Dataset BGL size 10 run no 6
+
+Parsing done. [Time taken: 0:00:00.410714]
+97.5546875
+Dataset BGL size 10 run no 7
+
+Parsing done. [Time taken: 0:00:00.416221]
+97.28515625
+Dataset BGL size 10 run no 8
+
+Parsing done. [Time taken: 0:00:00.409990]
+97.328125
+Dataset BGL size 10 run no 9
+
+Parsing done. [Time taken: 0:00:00.412344]
+97.69921875
+Dataset BGL size 10 run no 10
+
+Parsing done. [Time taken: 0:00:00.405269]
+97.3125
+Dataset BGL size 20 run no 1
+
+Parsing done. [Time taken: 0:00:00.692765]
+105.6875
+Dataset BGL size 20 run no 2
+
+Parsing done. [Time taken: 0:00:00.697157]
+105.8828125
+Dataset BGL size 20 run no 3
+
+Parsing done. [Time taken: 0:00:00.694633]
+105.65234375
+Dataset BGL size 20 run no 4
+
+Parsing done. [Time taken: 0:00:00.694139]
+105.65234375
+Dataset BGL size 20 run no 5
+
+Parsing done. [Time taken: 0:00:00.694984]
+105.78125
+Dataset BGL size 20 run no 6
+
+Parsing done. [Time taken: 0:00:00.694679]
+105.04296875
+Dataset BGL size 20 run no 7
+
+Parsing done. [Time taken: 0:00:00.702779]
+104.93359375
+Dataset BGL size 20 run no 8
+
+Parsing done. [Time taken: 0:00:00.688882]
+105.47265625
+Dataset BGL size 20 run no 9
+
+Parsing done. [Time taken: 0:00:00.689526]
+105.74609375
+Dataset BGL size 20 run no 10
+
+Parsing done. [Time taken: 0:00:00.689040]
+105.5
+Dataset BGL size 50 run no 1
+
+Parsing done. [Time taken: 0:00:01.472252]
+131.09375
+Dataset BGL size 50 run no 2
+
+Parsing done. [Time taken: 0:00:01.474069]
+130.75
+Dataset BGL size 50 run no 3
+
+Parsing done. [Time taken: 0:00:01.475986]
+131.109375
+Dataset BGL size 50 run no 4
+
+Parsing done. [Time taken: 0:00:01.477956]
+130.80078125
+Dataset BGL size 50 run no 5
+
+Parsing done. [Time taken: 0:00:01.480237]
+130.71875
+Dataset BGL size 50 run no 6
+
+Parsing done. [Time taken: 0:00:01.478051]
+131.078125
+Dataset BGL size 50 run no 7
+
+Parsing done. [Time taken: 0:00:01.479871]
+130.75390625
+Dataset BGL size 50 run no 8
+
+Parsing done. [Time taken: 0:00:01.478912]
+131.03125
+Dataset BGL size 50 run no 9
+
+Parsing done. [Time taken: 0:00:01.471650]
+131.16015625
+Dataset BGL size 50 run no 10
+
+Parsing done. [Time taken: 0:00:01.505071]
+130.90234375
+Dataset BGL size 100 run no 1
+
+Parsing done. [Time taken: 0:00:03.075895]
+172.80859375
+Dataset BGL size 100 run no 2
+
+Parsing done. [Time taken: 0:00:03.054460]
+172.6640625
+Dataset BGL size 100 run no 3
+
+Parsing done. [Time taken: 0:00:03.056640]
+172.95703125
+Dataset BGL size 100 run no 4
+
+Parsing done. [Time taken: 0:00:03.063492]
+172.69140625
+Dataset BGL size 100 run no 5
+
+Parsing done. [Time taken: 0:00:03.061900]
+172.50390625
+Dataset BGL size 100 run no 6
+
+Parsing done. [Time taken: 0:00:03.066955]
+172.88671875
+Dataset BGL size 100 run no 7
+
+Parsing done. [Time taken: 0:00:03.060939]
+172.77734375
+Dataset BGL size 100 run no 8
+
+Parsing done. [Time taken: 0:00:03.053627]
+172.92578125
+Dataset BGL size 100 run no 9
+
+Parsing done. [Time taken: 0:00:03.064638]
+172.66015625
+Dataset BGL size 100 run no 10
+
+Parsing done. [Time taken: 0:00:03.060636]
+172.95703125
+Dataset BGL size 200 run no 1
+
+Parsing done. [Time taken: 0:00:06.618710]
+258.7734375
+Dataset BGL size 200 run no 2
+
+Parsing done. [Time taken: 0:00:06.751086]
+260.33203125
+Dataset BGL size 200 run no 3
+
+Parsing done. [Time taken: 0:00:06.608520]
+258.89453125
+Dataset BGL size 200 run no 4
+
+Parsing done. [Time taken: 0:00:06.701371]
+258.8203125
+Dataset BGL size 200 run no 5
+
+Parsing done. [Time taken: 0:00:06.620703]
+259.83203125
+Dataset BGL size 200 run no 6
+
+Parsing done. [Time taken: 0:00:06.600065]
+258.9140625
+Dataset BGL size 200 run no 7
+
+Parsing done. [Time taken: 0:00:06.592904]
+258.50390625
+Dataset BGL size 200 run no 8
+
+Parsing done. [Time taken: 0:00:06.638082]
+258.515625
+Dataset BGL size 200 run no 9
+
+Parsing done. [Time taken: 0:00:06.614585]
+258.65234375
+Dataset BGL size 200 run no 10
+
+Parsing done. [Time taken: 0:00:06.601205]
+258.90625
+Dataset BGL size 300 run no 1
+
+Parsing done. [Time taken: 0:00:08.936905]
+351.484375
+Dataset BGL size 300 run no 2
+
+Parsing done. [Time taken: 0:00:08.914930]
+351.515625
+Dataset BGL size 300 run no 3
+
+Parsing done. [Time taken: 0:00:08.894785]
+351.4921875
+Dataset BGL size 300 run no 4
+
+Parsing done. [Time taken: 0:00:08.917540]
+351.44921875
+Dataset BGL size 300 run no 5
+
+Parsing done. [Time taken: 0:00:08.881508]
+351.2734375
+Dataset BGL size 300 run no 6
+
+Parsing done. [Time taken: 0:00:08.910056]
+351.796875
+Dataset BGL size 300 run no 7
+
+Parsing done. [Time taken: 0:00:08.943611]
+351.55859375
+Dataset BGL size 300 run no 8
+
+Parsing done. [Time taken: 0:00:08.874958]
+351.68359375
+Dataset BGL size 300 run no 9
+
+Parsing done. [Time taken: 0:00:08.919712]
+351.13671875
+Dataset BGL size 300 run no 10
+
+Parsing done. [Time taken: 0:00:08.850189]
+351.12890625
