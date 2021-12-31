@@ -1,0 +1,600 @@
+Dataset Thunderbird size 1 run no 1
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 991 messages done, loading rate: 99.1%
+After deduplicating processing [380] lines...
+Parsing done. [Time taken: 0:00:35.980749]
+Used memory
+108.89453125
+Dataset Thunderbird size 1 run no 2
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 991 messages done, loading rate: 99.1%
+After deduplicating processing [380] lines...
+Parsing done. [Time taken: 0:00:36.888530]
+Used memory
+109.08203125
+Dataset Thunderbird size 1 run no 3
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 991 messages done, loading rate: 99.1%
+After deduplicating processing [380] lines...
+Parsing done. [Time taken: 0:00:36.023875]
+Used memory
+108.8671875
+Dataset Thunderbird size 1 run no 4
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 991 messages done, loading rate: 99.1%
+After deduplicating processing [380] lines...
+Parsing done. [Time taken: 0:00:34.820590]
+Used memory
+108.99609375
+Dataset Thunderbird size 1 run no 5
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 991 messages done, loading rate: 99.1%
+After deduplicating processing [380] lines...
+Parsing done. [Time taken: 0:00:35.942436]
+Used memory
+108.92578125
+Dataset Thunderbird size 1 run no 6
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 991 messages done, loading rate: 99.1%
+After deduplicating processing [380] lines...
+Parsing done. [Time taken: 0:00:36.009351]
+Used memory
+109.28125
+Dataset Thunderbird size 1 run no 7
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 991 messages done, loading rate: 99.1%
+After deduplicating processing [380] lines...
+Parsing done. [Time taken: 0:00:35.928103]
+Used memory
+108.8359375
+Dataset Thunderbird size 1 run no 8
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 991 messages done, loading rate: 99.1%
+After deduplicating processing [380] lines...
+Parsing done. [Time taken: 0:00:35.462940]
+Used memory
+108.78125
+Dataset Thunderbird size 1 run no 9
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 991 messages done, loading rate: 99.1%
+After deduplicating processing [380] lines...
+Parsing done. [Time taken: 0:00:35.872475]
+Used memory
+109.046875
+Dataset Thunderbird size 1 run no 10
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 991 messages done, loading rate: 99.1%
+After deduplicating processing [380] lines...
+Parsing done. [Time taken: 0:00:36.304100]
+Used memory
+109.23828125
+Dataset Thunderbird size 2 run no 1
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [298] lines...
+Parsing done. [Time taken: 0:00:37.714807]
+Used memory
+109.34765625
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6590
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998672     0.659
+Dataset Thunderbird size 2 run no 2
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [298] lines...
+Parsing done. [Time taken: 0:00:37.774578]
+Used memory
+109.546875
+Precision: 0.9998, Recall: 0.9975, F1_measure: 0.9986, Parsing_Accuracy: 0.6480
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998628     0.648
+Dataset Thunderbird size 2 run no 3
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [298] lines...
+Parsing done. [Time taken: 0:00:38.236683]
+Used memory
+109.48046875
+Precision: 0.9998, Recall: 0.9975, F1_measure: 0.9987, Parsing_Accuracy: 0.6580
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998668     0.658
+Dataset Thunderbird size 2 run no 4
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [298] lines...
+Parsing done. [Time taken: 0:00:38.215224]
+Used memory
+109.5
+Precision: 0.9998, Recall: 0.9974, F1_measure: 0.9986, Parsing_Accuracy: 0.6475
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird     0.99861    0.6475
+Dataset Thunderbird size 2 run no 5
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [298] lines...
+Parsing done. [Time taken: 0:00:38.381837]
+Used memory
+109.68359375
+Precision: 0.9998, Recall: 0.9974, F1_measure: 0.9986, Parsing_Accuracy: 0.6435
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998609    0.6435
+Dataset Thunderbird size 2 run no 6
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [298] lines...
+Parsing done. [Time taken: 0:00:38.402959]
+Used memory
+109.40625
+Precision: 0.9998, Recall: 0.9975, F1_measure: 0.9986, Parsing_Accuracy: 0.6565
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird     0.99864    0.6565
+Dataset Thunderbird size 2 run no 7
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [298] lines...
+Parsing done. [Time taken: 0:00:38.573280]
+Used memory
+109.34765625
+Precision: 0.9998, Recall: 0.9973, F1_measure: 0.9986, Parsing_Accuracy: 0.6385
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998562    0.6385
+Dataset Thunderbird size 2 run no 8
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [298] lines...
+Parsing done. [Time taken: 0:00:37.382989]
+Used memory
+109.35546875
+Precision: 0.9998, Recall: 0.9975, F1_measure: 0.9987, Parsing_Accuracy: 0.6500
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998658      0.65
+Dataset Thunderbird size 2 run no 9
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [298] lines...
+Parsing done. [Time taken: 0:00:37.916260]
+Used memory
+109.265625
+Precision: 0.9998, Recall: 0.9974, F1_measure: 0.9986, Parsing_Accuracy: 0.6475
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998598    0.6475
+Dataset Thunderbird size 2 run no 10
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [298] lines...
+Parsing done. [Time taken: 0:00:37.946323]
+Used memory
+109.36328125
+Precision: 0.9998, Recall: 0.9975, F1_measure: 0.9986, Parsing_Accuracy: 0.6535
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998627    0.6535
+Dataset Thunderbird size 4 run no 1
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 3986 messages done, loading rate: 99.7%
+After deduplicating processing [707] lines...
+Parsing done. [Time taken: 0:01:10.314222]
+Used memory
+119.87109375
+Dataset Thunderbird size 4 run no 2
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 3986 messages done, loading rate: 99.7%
+After deduplicating processing [707] lines...
+Parsing done. [Time taken: 0:01:10.777267]
+Used memory
+119.73046875
+Dataset Thunderbird size 4 run no 3
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 3986 messages done, loading rate: 99.7%
+After deduplicating processing [707] lines...
+Parsing done. [Time taken: 0:01:11.259859]
+Used memory
+119.80078125
+Dataset Thunderbird size 4 run no 4
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 3986 messages done, loading rate: 99.7%
+After deduplicating processing [707] lines...
+Parsing done. [Time taken: 0:01:11.285662]
+Used memory
+119.6796875
+Dataset Thunderbird size 4 run no 5
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 3986 messages done, loading rate: 99.7%
+After deduplicating processing [707] lines...
+Parsing done. [Time taken: 0:01:10.748670]
+Used memory
+119.75
+Dataset Thunderbird size 4 run no 6
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 3986 messages done, loading rate: 99.7%
+After deduplicating processing [707] lines...
+Parsing done. [Time taken: 0:01:10.120835]
+Used memory
+119.84765625
+Dataset Thunderbird size 4 run no 7
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 3986 messages done, loading rate: 99.7%
+After deduplicating processing [707] lines...
+Parsing done. [Time taken: 0:01:10.707506]
+Used memory
+120.171875
+Dataset Thunderbird size 4 run no 8
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 3986 messages done, loading rate: 99.7%
+After deduplicating processing [707] lines...
+Parsing done. [Time taken: 0:01:10.693753]
+Used memory
+120.4140625
+Dataset Thunderbird size 4 run no 9
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 3986 messages done, loading rate: 99.7%
+After deduplicating processing [707] lines...
+Parsing done. [Time taken: 0:01:10.401774]
+Used memory
+119.87890625
+Dataset Thunderbird size 4 run no 10
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 3986 messages done, loading rate: 99.7%
+After deduplicating processing [707] lines...
+Parsing done. [Time taken: 0:01:09.790069]
+Used memory
+120.1171875
+Dataset Thunderbird size 10 run no 1
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 9648 messages done, loading rate: 96.5%
+After deduplicating processing [991] lines...
+Parsing done. [Time taken: 0:02:11.037856]
+Used memory
+134.3046875
+Dataset Thunderbird size 10 run no 2
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 9648 messages done, loading rate: 96.5%
+After deduplicating processing [991] lines...
+Parsing done. [Time taken: 0:02:12.988849]
+Used memory
+135.18359375
+Dataset Thunderbird size 10 run no 3
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 9648 messages done, loading rate: 96.5%
+After deduplicating processing [991] lines...
+Parsing done. [Time taken: 0:02:11.181451]
+Used memory
+135.02734375
+Dataset Thunderbird size 10 run no 4
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 9648 messages done, loading rate: 96.5%
+After deduplicating processing [991] lines...
+Parsing done. [Time taken: 0:02:11.446472]
+Used memory
+135.55859375
+Dataset Thunderbird size 10 run no 5
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 9648 messages done, loading rate: 96.5%
+After deduplicating processing [991] lines...
+Parsing done. [Time taken: 0:02:11.678285]
+Used memory
+135.10546875
+Dataset Thunderbird size 10 run no 6
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 9648 messages done, loading rate: 96.5%
+After deduplicating processing [991] lines...
+Parsing done. [Time taken: 0:02:12.748777]
+Used memory
+134.03515625
+Dataset Thunderbird size 10 run no 7
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 9648 messages done, loading rate: 96.5%
+After deduplicating processing [991] lines...
+Parsing done. [Time taken: 0:02:12.067222]
+Used memory
+135.41796875
+Dataset Thunderbird size 10 run no 8
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 9648 messages done, loading rate: 96.5%
+After deduplicating processing [991] lines...
+Parsing done. [Time taken: 0:02:12.440736]
+Used memory
+135.5
+Dataset Thunderbird size 10 run no 9
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 9648 messages done, loading rate: 96.5%
+After deduplicating processing [991] lines...
+Parsing done. [Time taken: 0:02:12.546955]
+Used memory
+134.34375
+Dataset Thunderbird size 10 run no 10
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 9648 messages done, loading rate: 96.5%
+After deduplicating processing [991] lines...
+Parsing done. [Time taken: 0:02:12.544209]
+Used memory
+135.44140625
+Dataset Thunderbird size 20 run no 1
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 19496 messages done, loading rate: 97.5%
+After deduplicating processing [1303] lines...
+Parsing done. [Time taken: 0:03:04.613085]
+Used memory
+150.53125
+Dataset Thunderbird size 20 run no 2
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 19496 messages done, loading rate: 97.5%
+After deduplicating processing [1303] lines...
+Parsing done. [Time taken: 0:03:06.456779]
+Used memory
+150.84375
+Dataset Thunderbird size 20 run no 3
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 19496 messages done, loading rate: 97.5%
+After deduplicating processing [1303] lines...
+Parsing done. [Time taken: 0:03:08.034146]
+Used memory
+150.58203125
+Dataset Thunderbird size 20 run no 4
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 19496 messages done, loading rate: 97.5%
+After deduplicating processing [1303] lines...
+Parsing done. [Time taken: 0:03:01.904420]
+Used memory
+150.62890625
+Dataset Thunderbird size 20 run no 5
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 19496 messages done, loading rate: 97.5%
+After deduplicating processing [1303] lines...
+Parsing done. [Time taken: 0:03:04.561821]
+Used memory
+150.8125
+Dataset Thunderbird size 20 run no 6
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 19496 messages done, loading rate: 97.5%
+After deduplicating processing [1303] lines...
+Parsing done. [Time taken: 0:03:06.019225]
+Used memory
+150.703125
+Dataset Thunderbird size 20 run no 7
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 19496 messages done, loading rate: 97.5%
+After deduplicating processing [1303] lines...
+Parsing done. [Time taken: 0:03:04.279911]
+Used memory
+150.88671875
+Dataset Thunderbird size 20 run no 8
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 19496 messages done, loading rate: 97.5%
+After deduplicating processing [1303] lines...
+Parsing done. [Time taken: 0:03:08.230622]
+Used memory
+150.421875
+Dataset Thunderbird size 20 run no 9
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 19496 messages done, loading rate: 97.5%
+After deduplicating processing [1303] lines...
+Parsing done. [Time taken: 0:03:03.072034]
+Used memory
+150.76171875
+Dataset Thunderbird size 20 run no 10
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 19496 messages done, loading rate: 97.5%
+After deduplicating processing [1303] lines...
+Parsing done. [Time taken: 0:03:02.922754]
+Used memory
+150.625
+Dataset Thunderbird size 50 run no 1
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 48831 messages done, loading rate: 97.7%
+After deduplicating processing [2769] lines...
+Parsing done. [Time taken: 0:07:14.714371]
+Used memory
+217.40625
+Dataset Thunderbird size 50 run no 2
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 48831 messages done, loading rate: 97.7%
+After deduplicating processing [2769] lines...
+Parsing done. [Time taken: 0:07:10.633467]
+Used memory
+217.703125
+Dataset Thunderbird size 50 run no 3
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 48831 messages done, loading rate: 97.7%
+After deduplicating processing [2769] lines...
+Parsing done. [Time taken: 0:07:12.943647]
+Used memory
+217.74609375
+Dataset Thunderbird size 50 run no 4
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 48831 messages done, loading rate: 97.7%
+After deduplicating processing [2769] lines...
+Parsing done. [Time taken: 0:07:15.451928]
+Used memory
+217.59765625
+Dataset Thunderbird size 50 run no 5
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 48831 messages done, loading rate: 97.7%
+After deduplicating processing [2769] lines...
+Parsing done. [Time taken: 0:07:15.270589]
+Used memory
+217.515625
+Dataset Thunderbird size 50 run no 6
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 48831 messages done, loading rate: 97.7%
+After deduplicating processing [2769] lines...
+Parsing done. [Time taken: 0:07:18.308955]
+Used memory
+217.66796875
+Dataset Thunderbird size 50 run no 7
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 48831 messages done, loading rate: 97.7%
+After deduplicating processing [2769] lines...
+Parsing done. [Time taken: 0:07:17.211186]
+Used memory
+218.0625
+Dataset Thunderbird size 50 run no 8
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 48831 messages done, loading rate: 97.7%
+After deduplicating processing [2769] lines...
+Parsing done. [Time taken: 0:07:16.063973]
+Used memory
+217.83984375
+Dataset Thunderbird size 50 run no 9
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 48831 messages done, loading rate: 97.7%
+After deduplicating processing [2769] lines...
+Parsing done. [Time taken: 0:07:12.580476]
+Used memory
+217.7109375
+Dataset Thunderbird size 50 run no 10
+
+=== Evaluation on Thunderbird ===
+Loading log messages to dataframe...
+Loading 48831 messages done, loading rate: 97.7%
+After deduplicating processing [2769] lines...
+Parsing done. [Time taken: 0:07:24.734896]
+Used memory
+218.10546875
