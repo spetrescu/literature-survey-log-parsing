@@ -1,5 +1,5 @@
 # literature-survey-log-parsing
-This repository contains all the relevant information referenced in [Log Parsing Literature Survey](). <br>
+This repository contains all the relevant information referenced in [Log Parsing Literature Survey](https://github.com/spetrescu/literature-survey-log-parsing/blob/main/pdf/Log_Parsing_Literature_Survey.pdf). <br>
 To run the experiments, please navigate to [Experiments](#experiments) <br>
 To understand more about the search method of the survey, please navigate to [Method](#method) <br>
 ## <a name="experiments"> Experiments
