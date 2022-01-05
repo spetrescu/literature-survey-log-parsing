@@ -8,9 +8,14 @@ from logparser.utils import evaluator
 
 import os
 import pandas as pd
+from memory_profiler import memory_usage
 
-input_dir = '../logs/'  # The input directory of log file
-output_dir = './AttentionParserResult/'  # The output directory of parsing results
+n = len(sys.argv)
+DATASET = str(sys.argv[1])
+SIZE = str(sys.argv[2])
+
+input_dir = '../logs/' # The input directory of log file
+output_dir = 'NuLog_result/' # The output directory of parsing results
 
 benchmark_settings = {
 
@@ -106,28 +111,34 @@ benchmark_settings = {
     },
 }
 
-for m in range(10):
-    bechmark_result = []
-    for dataset, setting in benchmark_settings.items():
+def parsing_logs(setting, indir, output_dir, log_file):
+    parser = NuLogParser.LogParser(indir=indir, outdir=output_dir, filters=setting['filters'], k=setting['k'],
+                                   log_format=setting['log_format'])
+    parser.parse(log_file, nr_epochs=setting['nr_epochs'], num_samples=setting['num_samples'])
+
+
+bechmark_result = []
+for dataset, setting in benchmark_settings.items():
+    if dataset == DATASET:
         print('\n=== Evaluation on %s ===' % dataset)
-        indir = os.path.join(input_dir, os.path.dirname(setting['log_file']))
-        log_file = os.path.basename(setting['log_file'])
+        logfile  = str(DATASET + "/" + DATASET + "_" + SIZE + "k.log")
+        indir = os.path.join(input_dir, os.path.dirname(logfile))
+        log_file = os.path.basename(logfile)
 
-        parser = NuLogParser.LogParser(indir=indir, outdir=output_dir, filters=setting['filters'], k=setting['k'],
-                                       log_format=setting['log_format'])
-        parser.parse(log_file, nr_epochs=setting['nr_epochs'], num_samples=setting['num_samples'])
-
-        accuracy_PA, accuracy_exact_string_matching, edit_distance_result_mean, edit_distance_result_std = evaluator.evaluate(
-            groundtruth=os.path.join(indir, log_file + '_structured.csv'),
-            parsedresult=os.path.join(output_dir, log_file + '_structured.csv')
-        )
-        bechmark_result.append(
-            [dataset, accuracy_PA, accuracy_exact_string_matching, edit_distance_result_mean, edit_distance_result_std])
-
+        mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
+        print("Used memory")
+        print(mem)
+        if SIZE == "2":
+            accuracy_PA, accuracy_exact_string_matching, edit_distance_result_mean, edit_distance_result_std = evaluator.evaluate(
+                groundtruth=os.path.join(indir, log_file + '_structured.csv'),
+                parsedresult=os.path.join(output_dir, log_file + '_structured.csv')
+            )
+            bechmark_result.append(
+                [dataset, accuracy_PA, accuracy_exact_string_matching, edit_distance_result_mean, edit_distance_result_std])
+if SIZE == "2":
     print('\n=== Overall evaluation results ===')
     df_result = pd.DataFrame(bechmark_result,
                              columns=['Dataset', 'Accuracy_PA', 'Accuracy_ExactMatching', 'Edit_distance_mean',
                                       'Edit_distance_std'])
     df_result.set_index('Dataset', inplace=True)
     print(df_result)
-    df_result.T.to_csv(output_dir + 'NuLog_benchmark_result_run_' + str(m) + '.csv')
