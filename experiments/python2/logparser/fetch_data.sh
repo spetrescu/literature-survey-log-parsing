@@ -3,7 +3,7 @@ apt-get install -y uni2ascii
 pip install memory_profiler
 
 pip install gdown
-gdown https://drive.google.com/uc?id=1zVaXpR7lOy3p1VwCLouHMDP6vtx69kLC
+gdown https://drive.google.com/uc?id=1o_PZFPKf7caOggEh-TrTpeXRH_0b0AJW
 
 tar -xvf scalability.tgz
 rm scalability.tgz
@@ -55,7 +55,7 @@ cp -v scalability/OpenSSH/* logs/OpenSSH/
 rm scalability/Thunderbird/Thunderbird_2k.log
 cd scalability/
 cd Thunderbird/
-for s in 1 4 10 20 50 100 200 300 500 1000
+for s in 1 4 10 20 50 100 200 300 500 1000 2000 4000 10000 20000 50000 100000
 do
     uni2ascii Thunderbird_${s}k.log > ${s}k.log && mv ${s}k.log Thunderbird_${s}k.log
 done
