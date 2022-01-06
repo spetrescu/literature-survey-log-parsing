@@ -21,6 +21,7 @@ from torch.utils.data import Dataset, DataLoader
 
 from torch.utils.data import TensorDataset, DataLoader, RandomSampler, SequentialSampler, WeightedRandomSampler
 from torchvision import transforms, utils
+from datetime import datetime
 
 
 class EncoderDecoder(nn.Module):
@@ -423,6 +424,7 @@ class LogParser:
 
     def parse(self, logName, batch_size=5, mask_percentage=1.0, pad_len=150, N=1, d_model=256,
               dropout=0.1, lr=0.001, betas=(0.9, 0.999), weight_decay=0.005, nr_epochs=5, num_samples=0, step_size=10):
+        starttime = datetime.now()
         self.logName = logName
         self.mask_percentage = mask_percentage
         self.pad_len = pad_len
@@ -496,6 +498,7 @@ class LogParser:
 
         df_event = self.outputResult(parsed_logs)
         df_event.to_csv(self.savePath + self.logName + "_structured.csv", index=False)
+        print('Parsing done. [Time taken: {!s}]'.format(datetime.now() - starttime))
 
     def get_dataloaders(self, data_tokenized):
         transform_to_tensor = transforms.Lambda(lambda lst: torch.tensor(lst))
