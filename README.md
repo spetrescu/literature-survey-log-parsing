@@ -435,6 +435,41 @@ Each method below has been run 10 times for each of the dataset sizes.
         [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k]
         </details>
 </details>
+  
+<details>
+  <summary><code>LKE</code></summary>
+  
+<!--   - BGL
+      - <details>
+        <summary>[1k, ..., 300k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k, 20k, 50k, 100k, 200k, 300k]
+        </details> -->
+  - HDFS
+      - <details>
+        <summary>[1k, ..., 10k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k]
+        </details>
+  - OpenSSH
+      - <details>
+        <summary>[1k, ..., 4k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k]
+        </details>
+  - Thunderbird
+      - <details>
+        <summary>[1k, ..., 10k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k]
+        </details>
+  - Windows
+      - <details>
+        <summary>[1k, ..., 10k] => <code>ALL</code></summary>
+         
+        [1k, 2k, 4k, 10k]
+        </details>
+</details>
 
 ### Accuracy
 <details>
@@ -482,22 +517,20 @@ Each method below has been run 10 times for each of the dataset sizes.
 - [X] IPLoM
 - [X] LenMa
 - [X] LFA
-- [X] LKE (prblms w Android & BGL)
-- [X] LogCluster (prblms w Android)
+- [X] LKE
+- [X] LogCluster
 - [X] LogMine
 - [X] LogSig
-- [ ] MoLFI
 - [X] SHISO
-- [X] SLCT (no Android)
-- [X] Spell ✅ (no Windows >= 50k; no Android >= 50k)
+- [X] SLCT
+- [X] Spell
   
-Although implemented, methods with * are not scalable.
 </details>
 
 <details>
   <summary><code>Python 3 methods</code></summary>
   
-- [ ] MoLFI
+- [X] MoLFI
 </details>
 
 ## <a name="method"> Method
