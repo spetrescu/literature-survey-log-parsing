@@ -1,4 +1,3 @@
-root@126b9378c884:~/literature-survey-log-parsing/experiments/python2/logparser/benchmark# sh LogCluster.sh
 Dataset HDFS size 1 run no 1
 
 === Evaluation on HDFS ===
@@ -8919,4 +8918,123 @@ Wed Dec 29 21:33:30 2021: Total number of clusters: 5
 Parsing done. [Time taken: 0:00:08.850189]
 Used memory
 351.12890625
-root@126b9378c884:~/literature-survey-log-parsing/experiments/python2/logparser/benchmark#
+Dataset Thunderbird size 2000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2000k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Jan  5 19:09:42 2022: Starting the clustering process...
+Wed Jan  5 19:09:57 2022: Total 1993440 lines read from input sources, using absolute support 39868 (relative support 2 percent)
+Wed Jan  5 19:09:57 2022: Total number of frequent words: 39
+Wed Jan  5 19:10:10 2022: Total number of candidates: 112
+Wed Jan  5 19:10:10 2022: Total number of frequent candidates: 8
+Wed Jan  5 19:10:10 2022: Total number of clusters: 8
+Parsing done. [Time taken: 0:04:02.579930]
+Used memory
+1861.56640625
+Dataset Thunderbird size 2000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2000k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Jan  5 19:13:46 2022: Starting the clustering process...
+Wed Jan  5 19:14:01 2022: Total 1993440 lines read from input sources, using absolute support 39868 (relative support 2 percent)
+Wed Jan  5 19:14:01 2022: Total number of frequent words: 39
+Wed Jan  5 19:14:15 2022: Total number of candidates: 112
+Wed Jan  5 19:14:15 2022: Total number of frequent candidates: 8
+Wed Jan  5 19:14:15 2022: Total number of clusters: 8
+Parsing done. [Time taken: 0:04:03.765788]
+Used memory
+1861.56640625
+Dataset Thunderbird size 4000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4000k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Jan  5 19:18:33 2022: Starting the clustering process...
+Wed Jan  5 19:19:11 2022: Total 3992351 lines read from input sources, using absolute support 79847 (relative support 2 percent)
+Wed Jan  5 19:19:11 2022: Total number of frequent words: 104
+Wed Jan  5 19:20:00 2022: Total number of candidates: 220
+Wed Jan  5 19:20:00 2022: Total number of frequent candidates: 12
+Wed Jan  5 19:20:00 2022: Total number of clusters: 12
+Parsing done. [Time taken: 0:07:18.928579]
+Used memory
+3860.4609375
+Dataset Thunderbird size 4000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4000k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Jan  5 19:25:55 2022: Starting the clustering process...
+Wed Jan  5 19:26:33 2022: Total 3992351 lines read from input sources, using absolute support 79847 (relative support 2 percent)
+Wed Jan  5 19:26:33 2022: Total number of frequent words: 104
+Wed Jan  5 19:27:21 2022: Total number of candidates: 220
+Wed Jan  5 19:27:21 2022: Total number of frequent candidates: 12
+Wed Jan  5 19:27:22 2022: Total number of clusters: 12
+Parsing done. [Time taken: 0:07:18.966684]
+Used memory
+3859.82421875
+Dataset Thunderbird size 10000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10000k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Jan  5 19:35:18 2022: Starting the clustering process...
+Wed Jan  5 19:36:57 2022: Total 9975132 lines read from input sources, using absolute support 199502 (relative support 2 percent)
+Wed Jan  5 19:36:58 2022: Total number of frequent words: 114
+Wed Jan  5 19:39:05 2022: Total number of candidates: 363
+Wed Jan  5 19:39:05 2022: Total number of frequent candidates: 15
+Wed Jan  5 19:39:06 2022: Total number of clusters: 15
+Parsing done. [Time taken: 0:17:28.964819]
+Used memory
+9494.79296875
+Dataset Thunderbird size 10000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10000k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Jan  5 19:52:56 2022: Starting the clustering process...
+Wed Jan  5 19:54:35 2022: Total 9975132 lines read from input sources, using absolute support 199502 (relative support 2 percent)
+Wed Jan  5 19:54:35 2022: Total number of frequent words: 114
+Wed Jan  5 19:56:42 2022: Total number of candidates: 363
+Wed Jan  5 19:56:42 2022: Total number of frequent candidates: 15
+Wed Jan  5 19:56:43 2022: Total number of clusters: 15
+Parsing done. [Time taken: 0:17:31.819510]
+Used memory
+9495.21484375
+Dataset Thunderbird size 20000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20000k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Jan  5 20:14:04 2022: Starting the clustering process...
+Wed Jan  5 20:17:15 2022: Total 19946814 lines read from input sources, using absolute support 398936 (relative support 2 percent)
+Wed Jan  5 20:17:16 2022: Total number of frequent words: 118
+Wed Jan  5 20:21:17 2022: Total number of candidates: 477
+Wed Jan  5 20:21:17 2022: Total number of frequent candidates: 15
+Wed Jan  5 20:21:19 2022: Total number of clusters: 15
+Parsing done. [Time taken: 0:35:16.595662]
+Used memory
+18739.5078125
+Dataset Thunderbird size 20000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20000k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Jan  5 20:49:54 2022: Starting the clustering process...
+Wed Jan  5 20:53:04 2022: Total 19946814 lines read from input sources, using absolute support 398936 (relative support 2 percent)
+Wed Jan  5 20:53:04 2022: Total number of frequent words: 118
+Wed Jan  5 20:57:06 2022: Total number of candidates: 477
+Wed Jan  5 20:57:06 2022: Total number of frequent candidates: 15
+Wed Jan  5 20:57:08 2022: Total number of clusters: 15
+Parsing done. [Time taken: 0:35:07.638859]
+Used memory
+18734.0273438
