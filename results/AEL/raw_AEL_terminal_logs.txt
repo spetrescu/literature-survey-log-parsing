@@ -1,4 +1,3 @@
-root@126b9378c884:~/literature-survey-log-parsing/experiments/python2/logparser/benchmark# sh AEL.sh
 Dataset Andriod size 1 run no 1
 
 === Evaluation on Andriod ===
@@ -269,186 +268,6 @@ Parsing file: ../logs/Andriod/Andriod_4k.log
 Parsing done. [Time taken: 0:00:01.085790]
 Used memory
 92.8359375
-Dataset Andriod size 10 run no 1
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_10k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 49, in parse
-    self.categorize()
-  File "../logparser/AEL/AEL.py", line 90, in categorize
-    abin['Events'].append(Event(logidx, log))
-  File "../logparser/AEL/AEL.py", line 18, in __init__
-    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
-UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
-Dataset Andriod size 10 run no 2
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_10k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 49, in parse
-    self.categorize()
-  File "../logparser/AEL/AEL.py", line 90, in categorize
-    abin['Events'].append(Event(logidx, log))
-  File "../logparser/AEL/AEL.py", line 18, in __init__
-    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
-UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
-Dataset Andriod size 10 run no 3
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_10k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 49, in parse
-    self.categorize()
-  File "../logparser/AEL/AEL.py", line 90, in categorize
-    abin['Events'].append(Event(logidx, log))
-  File "../logparser/AEL/AEL.py", line 18, in __init__
-    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
-UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
-Dataset Andriod size 10 run no 4
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_10k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 49, in parse
-    self.categorize()
-  File "../logparser/AEL/AEL.py", line 90, in categorize
-    abin['Events'].append(Event(logidx, log))
-  File "../logparser/AEL/AEL.py", line 18, in __init__
-    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
-UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
-Dataset Andriod size 10 run no 5
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_10k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 49, in parse
-    self.categorize()
-  File "../logparser/AEL/AEL.py", line 90, in categorize
-    abin['Events'].append(Event(logidx, log))
-  File "../logparser/AEL/AEL.py", line 18, in __init__
-    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
-UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
-Dataset Andriod size 10 run no 6
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_10k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 49, in parse
-    self.categorize()
-  File "../logparser/AEL/AEL.py", line 90, in categorize
-    abin['Events'].append(Event(logidx, log))
-  File "../logparser/AEL/AEL.py", line 18, in __init__
-    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
-UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
-Dataset Andriod size 10 run no 7
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_10k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 49, in parse
-    self.categorize()
-  File "../logparser/AEL/AEL.py", line 90, in categorize
-    abin['Events'].append(Event(logidx, log))
-  File "../logparser/AEL/AEL.py", line 18, in __init__
-    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
-UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
-Dataset Andriod size 10 run no 8
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_10k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 49, in parse
-    self.categorize()
-  File "../logparser/AEL/AEL.py", line 90, in categorize
-    abin['Events'].append(Event(logidx, log))
-  File "../logparser/AEL/AEL.py", line 18, in __init__
-    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
-UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
-Dataset Andriod size 10 run no 9
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_10k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 49, in parse
-    self.categorize()
-  File "../logparser/AEL/AEL.py", line 90, in categorize
-    abin['Events'].append(Event(logidx, log))
-  File "../logparser/AEL/AEL.py", line 18, in __init__
-    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
-UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
-Dataset Andriod size 10 run no 10
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_10k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 49, in parse
-    self.categorize()
-  File "../logparser/AEL/AEL.py", line 90, in categorize
-    abin['Events'].append(Event(logidx, log))
-  File "../logparser/AEL/AEL.py", line 18, in __init__
-    self.id = hashlib.md5(Eventstr.encode('utf-8')).hexdigest()[0:8]
-UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 74: ordinal not in range(128)
 Dataset Andriod size 20 run no 1
 
 === Evaluation on Andriod ===
@@ -519,1406 +338,6 @@ Parsing file: ../logs/Andriod/Andriod_20k.log
 Parsing done. [Time taken: 0:00:05.069008]
 Used memory
 108.75390625
-Dataset Andriod size 50 run no 1
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_50k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 50 run no 2
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_50k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 50 run no 3
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_50k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 50 run no 4
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_50k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 50 run no 5
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_50k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 50 run no 6
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_50k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 50 run no 7
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_50k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 50 run no 8
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_50k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 50 run no 9
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_50k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 50 run no 10
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_50k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 100 run no 1
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_100k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 100 run no 2
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_100k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 100 run no 3
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_100k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 100 run no 4
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_100k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 100 run no 5
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_100k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 100 run no 6
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_100k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 100 run no 7
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_100k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 100 run no 8
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_100k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 100 run no 9
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_100k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 100 run no 10
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_100k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 200 run no 1
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_200k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 200 run no 2
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_200k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 200 run no 3
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_200k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 200 run no 4
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_200k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 200 run no 5
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_200k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 200 run no 6
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_200k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 200 run no 7
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_200k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 200 run no 8
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_200k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 200 run no 9
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_200k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 200 run no 10
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_200k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 300 run no 1
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_300k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 300 run no 2
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_300k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 300 run no 3
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_300k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 300 run no 4
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_300k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 300 run no 5
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_300k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 300 run no 6
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_300k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 300 run no 7
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_300k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 300 run no 8
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_300k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 300 run no 9
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_300k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 300 run no 10
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_300k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 500 run no 1
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_500k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 500 run no 2
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_500k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 500 run no 3
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_500k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 500 run no 4
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_500k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 500 run no 5
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_500k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 500 run no 6
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_500k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 500 run no 7
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_500k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 500 run no 8
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_500k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 500 run no 9
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_500k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
-Dataset Andriod size 500 run no 10
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_500k.log
-Traceback (most recent call last):
-  File "AEL_benchmark.py", line 162, in <module>
-    mem = max(memory_usage((parsing_logs, (setting, indir, output_dir, log_file))))
-  File "/root/anaconda2/lib/python2.7/site-packages/memory_profiler.py", line 343, in memory_usage
-    returned = f(*args, **kw)
-  File "AEL_benchmark.py", line 152, in parsing_logs
-    parser.parse(log_file)
-  File "../logparser/AEL/AEL.py", line 51, in parse
-    self.dump()
-  File "../logparser/AEL/AEL.py", line 143, in dump
-    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4877, in apply
-    ignore_failures=ignore_failures)
-  File "/root/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 4973, in _apply_standard
-    results[i] = func(v)
-  File "../logparser/AEL/AEL.py", line 228, in get_parameter_list
-    parameter_list = re.findall(template_regex, row["Content"])
-  File "/root/anaconda2/lib/python2.7/re.py", line 181, in findall
-    return _compile(pattern, flags).findall(string)
-  File "/root/anaconda2/lib/python2.7/re.py", line 249, in _compile
-    p = sre_compile.compile(pattern, flags)
-  File "/root/anaconda2/lib/python2.7/sre_compile.py", line 583, in compile
-    "sorry, but this version only supports 100 named groups"
-AssertionError: ('sorry, but this version only supports 100 named groups', u'occurred at index 31004')
 Dataset HDFS size 1 run no 1
 
 === Evaluation on HDFS ===
@@ -5609,4 +4028,213 @@ Parsing file: ../logs/BGL/BGL_300k.log
 Parsing done. [Time taken: 0:00:27.813200]
 Used memory
 397.8203125
-root@126b9378c884:~/literature-survey-log-parsing/experiments/python2/logparser/benchmark#
+Dataset HDFS size 1000 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:02:14.670349]
+Used memory
+1090.58203125
+Dataset HDFS size 1000 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:02:13.854097]
+Used memory
+1090.34765625
+Dataset HDFS size 1000 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:02:14.680477]
+Used memory
+1090.328125
+Dataset HDFS size 1000 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:02:13.599425]
+Used memory
+1090.4921875
+Dataset HDFS size 1000 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:02:14.528555]
+Used memory
+1090.5078125
+Dataset HDFS size 1000 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:02:14.282886]
+Used memory
+1090.65625
+Dataset HDFS size 1000 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:02:15.119565]
+Used memory
+1090.203125
+Dataset HDFS size 1000 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:02:15.793126]
+Used memory
+1090.23828125
+Dataset HDFS size 1000 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:02:16.047558]
+Used memory
+1090.45703125
+Dataset HDFS size 1000 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:02:14.880143]
+Used memory
+1090.31640625
+Dataset Thunderbird size 1000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 0:04:00.157474]
+Used memory
+1276.7578125
+Dataset Thunderbird size 1000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 0:04:00.745147]
+Used memory
+1276.8046875
+Dataset Thunderbird size 1000 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 0:03:59.322058]
+Used memory
+1276.53125
+Dataset Thunderbird size 1000 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 0:03:59.513662]
+Used memory
+1276.7265625
+Dataset Thunderbird size 1000 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 0:03:59.319260]
+Used memory
+1276.66796875
+Dataset Thunderbird size 1000 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 0:04:01.643461]
+Used memory
+1276.7890625
+Dataset Thunderbird size 1000 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 0:04:02.004636]
+Used memory
+1276.7109375
+Dataset Thunderbird size 1000 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 0:03:59.756424]
+Used memory
+1276.76171875
+Dataset Thunderbird size 1000 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 0:04:03.351783]
+Used memory
+1277.03125
+Dataset Thunderbird size 1000 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 0:04:01.288217]
+Used memory
+1276.6953125
+Dataset Windows size 1000 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:53.224550]
+Used memory
+1312.89453125
+Dataset Windows size 1000 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:41.771328]
+Used memory
+1312.7109375
+Dataset Windows size 1000 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:47.871321]
+Used memory
+1312.90625
+Dataset Windows size 1000 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:12:01.588841]
+Used memory
+1313.15625
+Dataset Windows size 1000 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:54.729365]
+Used memory
+1313.39453125
+Dataset Windows size 1000 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:12:02.394738]
+Used memory
+1313.3359375
+Dataset Windows size 1000 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:12:06.391997]
+Used memory
+1313.1484375
+Dataset Windows size 1000 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:35.054616]
+Used memory
+1312.94921875
+Dataset Windows size 1000 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:56.020178]
+Used memory
+1313.09765625
+Dataset Windows size 1000 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:29.217571]
+Used memory
+1313.30078125

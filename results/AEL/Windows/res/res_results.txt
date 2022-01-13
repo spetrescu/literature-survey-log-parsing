@@ -548,3 +548,53 @@ Dataset Windows size 500 run no 10
 Parsing done. [Time taken: 0:02:43.460154]
 Used memory
 693.375
+Dataset Windows size 1000 run no 1
+
+Parsing done. [Time taken: 0:11:53.224550]
+Used memory
+1312.89453125
+Dataset Windows size 1000 run no 2
+
+Parsing done. [Time taken: 0:11:41.771328]
+Used memory
+1312.7109375
+Dataset Windows size 1000 run no 3
+
+Parsing done. [Time taken: 0:11:47.871321]
+Used memory
+1312.90625
+Dataset Windows size 1000 run no 4
+
+Parsing done. [Time taken: 0:12:01.588841]
+Used memory
+1313.15625
+Dataset Windows size 1000 run no 5
+
+Parsing done. [Time taken: 0:11:54.729365]
+Used memory
+1313.39453125
+Dataset Windows size 1000 run no 6
+
+Parsing done. [Time taken: 0:12:02.394738]
+Used memory
+1313.3359375
+Dataset Windows size 1000 run no 7
+
+Parsing done. [Time taken: 0:12:06.391997]
+Used memory
+1313.1484375
+Dataset Windows size 1000 run no 8
+
+Parsing done. [Time taken: 0:11:35.054616]
+Used memory
+1312.94921875
+Dataset Windows size 1000 run no 9
+
+Parsing done. [Time taken: 0:11:56.020178]
+Used memory
+1313.09765625
+Dataset Windows size 1000 run no 10
+
+Parsing done. [Time taken: 0:11:29.217571]
+Used memory
+1313.30078125

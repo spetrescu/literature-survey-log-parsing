@@ -548,3 +548,53 @@ Dataset HDFS size 500 run no 10
 Parsing done. [Time taken: 0:01:03.092034]
 Used memory
 596.171875
+Dataset HDFS size 1000 run no 1
+
+Parsing done. [Time taken: 0:02:14.670349]
+Used memory
+1090.58203125
+Dataset HDFS size 1000 run no 2
+
+Parsing done. [Time taken: 0:02:13.854097]
+Used memory
+1090.34765625
+Dataset HDFS size 1000 run no 3
+
+Parsing done. [Time taken: 0:02:14.680477]
+Used memory
+1090.328125
+Dataset HDFS size 1000 run no 4
+
+Parsing done. [Time taken: 0:02:13.599425]
+Used memory
+1090.4921875
+Dataset HDFS size 1000 run no 5
+
+Parsing done. [Time taken: 0:02:14.528555]
+Used memory
+1090.5078125
+Dataset HDFS size 1000 run no 6
+
+Parsing done. [Time taken: 0:02:14.282886]
+Used memory
+1090.65625
+Dataset HDFS size 1000 run no 7
+
+Parsing done. [Time taken: 0:02:15.119565]
+Used memory
+1090.203125
+Dataset HDFS size 1000 run no 8
+
+Parsing done. [Time taken: 0:02:15.793126]
+Used memory
+1090.23828125
+Dataset HDFS size 1000 run no 9
+
+Parsing done. [Time taken: 0:02:16.047558]
+Used memory
+1090.45703125
+Dataset HDFS size 1000 run no 10
+
+Parsing done. [Time taken: 0:02:14.880143]
+Used memory
+1090.31640625

@@ -778,3 +778,73 @@ Parsing file: ../logs/Windows/Windows_500k.log
 Parsing done. [Time taken: 0:02:43.460154]
 Used memory
 693.375
+Dataset Windows size 1000 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:53.224550]
+Used memory
+1312.89453125
+Dataset Windows size 1000 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:41.771328]
+Used memory
+1312.7109375
+Dataset Windows size 1000 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:47.871321]
+Used memory
+1312.90625
+Dataset Windows size 1000 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:12:01.588841]
+Used memory
+1313.15625
+Dataset Windows size 1000 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:54.729365]
+Used memory
+1313.39453125
+Dataset Windows size 1000 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:12:02.394738]
+Used memory
+1313.3359375
+Dataset Windows size 1000 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:12:06.391997]
+Used memory
+1313.1484375
+Dataset Windows size 1000 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:35.054616]
+Used memory
+1312.94921875
+Dataset Windows size 1000 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:56.020178]
+Used memory
+1313.09765625
+Dataset Windows size 1000 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 0:11:29.217571]
+Used memory
+1313.30078125
