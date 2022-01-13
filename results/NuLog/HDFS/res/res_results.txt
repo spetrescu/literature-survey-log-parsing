@@ -1,0 +1,280 @@
+Dataset HDFS size 1 run no 1
+
+Parsing done. [Time taken: 0:00:29.325524]
+3321.71875
+Dataset HDFS size 1 run no 2
+
+Parsing done. [Time taken: 0:00:29.515265]
+3302.23828125
+Dataset HDFS size 1 run no 3
+
+Parsing done. [Time taken: 0:00:29.611187]
+3297.85546875
+Dataset HDFS size 1 run no 4
+
+Parsing done. [Time taken: 0:00:28.994251]
+3308.546875
+Dataset HDFS size 1 run no 5
+
+Parsing done. [Time taken: 0:00:29.372818]
+3309.4921875
+Dataset HDFS size 1 run no 6
+
+Parsing done. [Time taken: 0:00:29.525610]
+3307.67578125
+Dataset HDFS size 1 run no 7
+
+Parsing done. [Time taken: 0:00:29.181001]
+3305.1875
+Dataset HDFS size 1 run no 8
+
+Parsing done. [Time taken: 0:00:29.178634]
+3303.4375
+Dataset HDFS size 1 run no 9
+
+Parsing done. [Time taken: 0:00:29.926444]
+3308.18359375
+Dataset HDFS size 1 run no 10
+
+Parsing done. [Time taken: 0:00:29.688257]
+3299.30078125
+Dataset HDFS size 2 run no 1
+
+Parsing done. [Time taken: 0:01:02.905724]
+3337.2265625
+Dataset HDFS size 2 run no 2
+
+Parsing done. [Time taken: 0:01:03.181325]
+3318.62109375
+Dataset HDFS size 2 run no 3
+
+Parsing done. [Time taken: 0:01:03.290578]
+3329.4921875
+Dataset HDFS size 2 run no 4
+
+Parsing done. [Time taken: 0:01:02.104071]
+3341.51953125
+Dataset HDFS size 2 run no 5
+
+Parsing done. [Time taken: 0:01:02.329307]
+3333.73046875
+Dataset HDFS size 2 run no 6
+
+Parsing done. [Time taken: 0:01:02.488246]
+3316.18359375
+Dataset HDFS size 2 run no 7
+
+Parsing done. [Time taken: 0:01:02.492380]
+3337.59375
+Dataset HDFS size 2 run no 8
+
+Parsing done. [Time taken: 0:01:02.209926]
+3320.90625
+Dataset HDFS size 2 run no 9
+
+Parsing done. [Time taken: 0:01:02.603189]
+3327.1328125
+Dataset HDFS size 2 run no 10
+
+Parsing done. [Time taken: 0:01:03.165804]
+3314.1171875
+Dataset HDFS size 4 run no 1
+
+Parsing done. [Time taken: 0:02:01.962261]
+3341.60546875
+Dataset HDFS size 4 run no 2
+
+Parsing done. [Time taken: 0:02:01.507154]
+3341.14453125
+Dataset HDFS size 4 run no 3
+
+Parsing done. [Time taken: 0:02:00.888089]
+3348.375
+Dataset HDFS size 4 run no 4
+
+Parsing done. [Time taken: 0:02:01.159480]
+3345.9140625
+Dataset HDFS size 4 run no 5
+
+Parsing done. [Time taken: 0:01:59.714888]
+3334.234375
+Dataset HDFS size 4 run no 6
+
+Parsing done. [Time taken: 0:02:01.294010]
+3322.3515625
+Dataset HDFS size 4 run no 7
+
+Parsing done. [Time taken: 0:02:01.404085]
+3339.76953125
+Dataset HDFS size 4 run no 8
+
+Parsing done. [Time taken: 0:02:00.485474]
+3349.4765625
+Dataset HDFS size 4 run no 9
+
+Parsing done. [Time taken: 0:01:59.879956]
+3325.828125
+Dataset HDFS size 4 run no 10
+
+Parsing done. [Time taken: 0:02:00.970805]
+3329.44921875
+Dataset HDFS size 10 run no 1
+
+Parsing done. [Time taken: 0:05:26.127348]
+3387.390625
+Dataset HDFS size 10 run no 2
+
+Parsing done. [Time taken: 0:05:23.971225]
+3363.18359375
+Dataset HDFS size 10 run no 3
+
+Parsing done. [Time taken: 0:05:22.318750]
+3361.40625
+Dataset HDFS size 10 run no 4
+
+Parsing done. [Time taken: 0:05:24.240772]
+3367.453125
+Dataset HDFS size 10 run no 5
+
+Parsing done. [Time taken: 0:05:23.354077]
+3375.7421875
+Dataset HDFS size 10 run no 6
+
+Parsing done. [Time taken: 0:05:24.594878]
+3358.90625
+Dataset HDFS size 10 run no 7
+
+Parsing done. [Time taken: 0:05:24.897704]
+3375.78125
+Dataset HDFS size 10 run no 8
+
+Parsing done. [Time taken: 0:05:25.027924]
+3373.09375
+Dataset HDFS size 10 run no 9
+
+Parsing done. [Time taken: 0:05:25.361538]
+3370.625
+Dataset HDFS size 10 run no 10
+
+Parsing done. [Time taken: 0:05:23.988341]
+3376.23046875
+Dataset HDFS size 20 run no 1
+
+Parsing done. [Time taken: 0:12:08.834630]
+3426.59375
+Dataset HDFS size 20 run no 2
+
+Parsing done. [Time taken: 0:12:06.378908]
+3441.3046875
+Dataset HDFS size 20 run no 3
+
+Parsing done. [Time taken: 0:12:04.996076]
+3436.34375
+Dataset HDFS size 20 run no 4
+
+Parsing done. [Time taken: 0:12:08.437872]
+3436.92578125
+Dataset HDFS size 20 run no 5
+
+Parsing done. [Time taken: 0:12:08.808312]
+3438.171875
+Dataset HDFS size 20 run no 6
+
+Parsing done. [Time taken: 0:12:11.570483]
+3416.0234375
+Dataset HDFS size 20 run no 7
+
+Parsing done. [Time taken: 0:12:04.105268]
+3409.99609375
+Dataset HDFS size 20 run no 8
+
+Parsing done. [Time taken: 0:12:09.727535]
+3430.68359375
+Dataset HDFS size 20 run no 9
+
+Parsing done. [Time taken: 0:12:04.634348]
+3422.421875
+Dataset HDFS size 20 run no 10
+
+Parsing done. [Time taken: 0:12:15.173785]
+3416.0859375
+Dataset HDFS size 50 run no 1
+
+Parsing done. [Time taken: 0:39:24.678112]
+3619.84375
+Dataset HDFS size 50 run no 2
+
+Parsing done. [Time taken: 0:39:10.219918]
+3618.765625
+Dataset HDFS size 50 run no 3
+
+Parsing done. [Time taken: 0:39:25.551590]
+3604.53515625
+Dataset HDFS size 50 run no 4
+
+Parsing done. [Time taken: 0:39:22.757061]
+3599.37109375
+Dataset HDFS size 50 run no 5
+
+Parsing done. [Time taken: 0:39:44.699065]
+3607.3359375
+Dataset HDFS size 50 run no 6
+
+Parsing done. [Time taken: 0:39:07.110157]
+3594.2421875
+Dataset HDFS size 50 run no 7
+
+Parsing done. [Time taken: 0:39:11.945558]
+3601.91796875
+Dataset HDFS size 50 run no 8
+
+Parsing done. [Time taken: 0:39:27.903464]
+3620.87890625
+Dataset HDFS size 50 run no 9
+
+Parsing done. [Time taken: 0:39:27.632324]
+3623.09375
+Dataset HDFS size 50 run no 10
+
+Parsing done. [Time taken: 0:39:30.004538]
+3614.7890625
+Dataset HDFS size 100 run no 1
+
+Parsing done. [Time taken: 1:46:36.979661]
+3843.62890625
+Dataset HDFS size 100 run no 2
+
+Parsing done. [Time taken: 1:46:19.749120]
+3837.3359375
+Dataset HDFS size 100 run no 3
+
+Parsing done. [Time taken: 1:47:14.185676]
+3847.0
+Dataset HDFS size 100 run no 4
+
+Parsing done. [Time taken: 1:46:45.895906]
+3874.421875
+Dataset HDFS size 100 run no 5
+
+Parsing done. [Time taken: 1:46:33.532264]
+3854.41015625
+Dataset HDFS size 100 run no 6
+
+Parsing done. [Time taken: 1:46:49.974849]
+3837.0234375
+Dataset HDFS size 100 run no 7
+
+Parsing done. [Time taken: 1:46:56.510921]
+3854.1875
+Dataset HDFS size 100 run no 8
+
+Parsing done. [Time taken: 1:47:09.621601]
+3854.625
+Dataset HDFS size 100 run no 9
+
+Parsing done. [Time taken: 1:46:52.115903]
+3849.75390625
+Dataset HDFS size 100 run no 10
+
+Parsing done. [Time taken: 1:46:48.574116]
+3861.37109375
