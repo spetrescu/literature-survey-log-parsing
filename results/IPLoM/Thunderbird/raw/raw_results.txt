@@ -1178,3 +1178,82 @@ Warning: p1 may be equal to p2
 Parsing done. [Time taken: 0:03:07.130747]
 Used memory
 1738.0390625
+Dataset Thunderbird size 2000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2000k.log
+Parsing done. [Time taken: 0:05:36.818212]
+Used memory
+3428.35546875
+Dataset Thunderbird size 2000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2000k.log
+Parsing done. [Time taken: 0:05:34.991771]
+Used memory
+3428.0390625
+Dataset Thunderbird size 4000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4000k.log
+Parsing done. [Time taken: 0:11:38.537529]
+Used memory
+7682.21875
+Dataset Thunderbird size 4000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4000k.log
+Parsing done. [Time taken: 0:11:37.763231]
+Used memory
+7682.21484375
+Dataset Thunderbird size 10000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10000k.log
+ Warning: p1 may be equal to p2
+Parsing done. [Time taken: 0:30:25.337710]
+Used memory
+19363.9882812
+Dataset Thunderbird size 10000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10000k.log
+Parsing done. [Time taken: 0:30:17.686542]
+Used memory
+19363.8125
+Dataset Thunderbird size 20000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20000k.log
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Parsing done. [Time taken: 1:01:06.952714]
+Used memory
+38065.5664062
+Dataset Thunderbird size 20000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20000k.log
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Warning: p1 may be equal to p2
+Parsing done. [Time taken: 1:00:32.300466]
+Used memory
+38065.3320312
