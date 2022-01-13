@@ -1,0 +1,410 @@
+Dataset OpenSSH size 1 run no 1
+
+Parsing done. [Time: 0:00:00.554038]
+Used memory
+89.671875
+Dataset OpenSSH size 1 run no 2
+
+Parsing done. [Time: 0:00:00.549140]
+Used memory
+89.4453125
+Dataset OpenSSH size 1 run no 3
+
+Parsing done. [Time: 0:00:00.568965]
+Used memory
+89.74609375
+Dataset OpenSSH size 1 run no 4
+
+Parsing done. [Time: 0:00:00.551628]
+Used memory
+89.48046875
+Dataset OpenSSH size 1 run no 5
+
+Parsing done. [Time: 0:00:00.550687]
+Used memory
+89.26953125
+Dataset OpenSSH size 1 run no 6
+
+Parsing done. [Time: 0:00:00.553323]
+Used memory
+89.3671875
+Dataset OpenSSH size 1 run no 7
+
+Parsing done. [Time: 0:00:00.550250]
+Used memory
+89.63671875
+Dataset OpenSSH size 1 run no 8
+
+Parsing done. [Time: 0:00:00.554460]
+Used memory
+89.4609375
+Dataset OpenSSH size 1 run no 9
+
+Parsing done. [Time: 0:00:00.552848]
+Used memory
+89.6796875
+Dataset OpenSSH size 1 run no 10
+
+Parsing done. [Time: 0:00:00.546315]
+Used memory
+89.3515625
+Dataset OpenSSH size 2 run no 1
+
+Parsing done. [Time: 0:00:00.752315]
+Used memory
+90.6796875
+Precision: 0.9920, Recall: 0.9596, F1_measure: 0.9755, Parsing_Accuracy: 0.5210
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.975529     0.521
+Dataset OpenSSH size 2 run no 2
+
+Parsing done. [Time: 0:00:00.764192]
+Used memory
+90.80078125
+Precision: 0.9920, Recall: 0.9596, F1_measure: 0.9755, Parsing_Accuracy: 0.5210
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.975529     0.521
+Dataset OpenSSH size 2 run no 3
+
+Parsing done. [Time: 0:00:00.764793]
+Used memory
+90.68359375
+Precision: 0.9920, Recall: 0.9596, F1_measure: 0.9755, Parsing_Accuracy: 0.5210
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.975529     0.521
+Dataset OpenSSH size 2 run no 4
+
+Parsing done. [Time: 0:00:00.756127]
+Used memory
+91.0078125
+Precision: 0.9920, Recall: 0.9596, F1_measure: 0.9755, Parsing_Accuracy: 0.5210
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.975529     0.521
+Dataset OpenSSH size 2 run no 5
+
+Parsing done. [Time: 0:00:00.751933]
+Used memory
+90.984375
+Precision: 0.9920, Recall: 0.9596, F1_measure: 0.9755, Parsing_Accuracy: 0.5210
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.975529     0.521
+Dataset OpenSSH size 2 run no 6
+
+Parsing done. [Time: 0:00:00.754707]
+Used memory
+90.796875
+Precision: 0.9920, Recall: 0.9596, F1_measure: 0.9755, Parsing_Accuracy: 0.5210
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.975529     0.521
+Dataset OpenSSH size 2 run no 7
+
+Parsing done. [Time: 0:00:00.755463]
+Used memory
+90.83203125
+Precision: 0.9920, Recall: 0.9596, F1_measure: 0.9755, Parsing_Accuracy: 0.5210
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.975529     0.521
+Dataset OpenSSH size 2 run no 8
+
+Parsing done. [Time: 0:00:00.750675]
+Used memory
+90.57421875
+Precision: 0.9920, Recall: 0.9596, F1_measure: 0.9755, Parsing_Accuracy: 0.5210
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.975529     0.521
+Dataset OpenSSH size 2 run no 9
+
+Parsing done. [Time: 0:00:00.757714]
+Used memory
+90.6171875
+Precision: 0.9920, Recall: 0.9596, F1_measure: 0.9755, Parsing_Accuracy: 0.5210
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.975529     0.521
+Dataset OpenSSH size 2 run no 10
+
+Parsing done. [Time: 0:00:00.755868]
+Used memory
+91.07421875
+Precision: 0.9920, Recall: 0.9596, F1_measure: 0.9755, Parsing_Accuracy: 0.5210
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.975529     0.521
+Dataset OpenSSH size 4 run no 1
+
+Parsing done. [Time: 0:00:01.112494]
+Used memory
+93.6953125
+Dataset OpenSSH size 4 run no 2
+
+Parsing done. [Time: 0:00:01.095374]
+Used memory
+93.43359375
+Dataset OpenSSH size 4 run no 3
+
+Parsing done. [Time: 0:00:01.085461]
+Used memory
+93.625
+Dataset OpenSSH size 4 run no 4
+
+Parsing done. [Time: 0:00:01.092631]
+Used memory
+93.69921875
+Dataset OpenSSH size 4 run no 5
+
+Parsing done. [Time: 0:00:01.134267]
+Used memory
+93.51953125
+Dataset OpenSSH size 4 run no 6
+
+Parsing done. [Time: 0:00:01.101079]
+Used memory
+93.81640625
+Dataset OpenSSH size 4 run no 7
+
+Parsing done. [Time: 0:00:01.099275]
+Used memory
+93.76171875
+Dataset OpenSSH size 4 run no 8
+
+Parsing done. [Time: 0:00:01.100763]
+Used memory
+93.68359375
+Dataset OpenSSH size 4 run no 9
+
+Parsing done. [Time: 0:00:01.098720]
+Used memory
+93.46875
+Dataset OpenSSH size 4 run no 10
+
+Parsing done. [Time: 0:00:01.098514]
+Used memory
+93.68359375
+Dataset OpenSSH size 20 run no 1
+
+Parsing done. [Time: 0:00:04.431778]
+Used memory
+115.50390625
+Dataset OpenSSH size 20 run no 2
+
+Parsing done. [Time: 0:00:04.432781]
+Used memory
+115.23046875
+Dataset OpenSSH size 20 run no 3
+
+Parsing done. [Time: 0:00:04.460373]
+Used memory
+115.2890625
+Dataset OpenSSH size 20 run no 4
+
+Parsing done. [Time: 0:00:04.467817]
+Used memory
+115.1015625
+Dataset OpenSSH size 20 run no 5
+
+Parsing done. [Time: 0:00:04.468381]
+Used memory
+114.51953125
+Dataset OpenSSH size 20 run no 6
+
+Parsing done. [Time: 0:00:04.437020]
+Used memory
+115.5390625
+Dataset OpenSSH size 20 run no 7
+
+Parsing done. [Time: 0:00:04.468581]
+Used memory
+115.2890625
+Dataset OpenSSH size 20 run no 8
+
+Parsing done. [Time: 0:00:04.449404]
+Used memory
+115.54296875
+Dataset OpenSSH size 20 run no 9
+
+Parsing done. [Time: 0:00:04.440211]
+Used memory
+115.3984375
+Dataset OpenSSH size 20 run no 10
+
+Parsing done. [Time: 0:00:04.429298]
+Used memory
+115.296875
+Dataset OpenSSH size 50 run no 1
+
+Parsing done. [Time: 0:00:11.441326]
+Used memory
+154.8046875
+Dataset OpenSSH size 50 run no 2
+
+Parsing done. [Time: 0:00:11.442184]
+Used memory
+154.43359375
+Dataset OpenSSH size 50 run no 3
+
+Parsing done. [Time: 0:00:11.485560]
+Used memory
+154.51953125
+Dataset OpenSSH size 50 run no 4
+
+Parsing done. [Time: 0:00:11.513872]
+Used memory
+154.703125
+Dataset OpenSSH size 50 run no 5
+
+Parsing done. [Time: 0:00:11.508358]
+Used memory
+154.80078125
+Dataset OpenSSH size 50 run no 6
+
+Parsing done. [Time: 0:00:11.530448]
+Used memory
+155.296875
+Dataset OpenSSH size 50 run no 7
+
+Parsing done. [Time: 0:00:11.491687]
+Used memory
+154.515625
+Dataset OpenSSH size 50 run no 8
+
+Parsing done. [Time: 0:00:11.502825]
+Used memory
+154.83984375
+Dataset OpenSSH size 50 run no 9
+
+Parsing done. [Time: 0:00:11.578737]
+Used memory
+154.59375
+Dataset OpenSSH size 50 run no 10
+
+Parsing done. [Time: 0:00:11.497979]
+Used memory
+154.921875
+Dataset OpenSSH size 100 run no 1
+
+Parsing done. [Time: 0:00:26.128789]
+Used memory
+222.5390625
+Dataset OpenSSH size 100 run no 2
+
+Parsing done. [Time: 0:00:26.074801]
+Used memory
+222.890625
+Dataset OpenSSH size 100 run no 3
+
+Parsing done. [Time: 0:00:26.207557]
+Used memory
+222.80078125
+Dataset OpenSSH size 100 run no 4
+
+Parsing done. [Time: 0:00:26.008878]
+Used memory
+222.50390625
+Dataset OpenSSH size 100 run no 5
+
+Parsing done. [Time: 0:00:25.893722]
+Used memory
+222.859375
+Dataset OpenSSH size 100 run no 6
+
+Parsing done. [Time: 0:00:25.715889]
+Used memory
+222.5
+Dataset OpenSSH size 100 run no 7
+
+Parsing done. [Time: 0:00:25.786612]
+Used memory
+225.26171875
+Dataset OpenSSH size 100 run no 8
+
+Parsing done. [Time: 0:00:25.935431]
+Used memory
+222.5234375
+Dataset OpenSSH size 100 run no 9
+
+Parsing done. [Time: 0:00:26.009490]
+Used memory
+223.01171875
+Dataset OpenSSH size 100 run no 10
+
+Parsing done. [Time: 0:00:25.819382]
+Used memory
+224.734375
+Dataset OpenSSH size 200 run no 1
+
+Parsing done. [Time: 0:01:11.457066]
+Used memory
+340.3515625
+Dataset OpenSSH size 200 run no 2
+
+Parsing done. [Time: 0:01:11.096866]
+Used memory
+346.73046875
+Dataset OpenSSH size 200 run no 3
+
+Parsing done. [Time: 0:01:11.738101]
+Used memory
+345.078125
+Dataset OpenSSH size 200 run no 4
+
+Parsing done. [Time: 0:01:11.473149]
+Used memory
+345.7578125
+Dataset OpenSSH size 200 run no 5
+
+Parsing done. [Time: 0:01:11.418750]
+Used memory
+340.37109375
+Dataset OpenSSH size 200 run no 6
+
+Parsing done. [Time: 0:01:11.249771]
+Used memory
+342.6875
+Dataset OpenSSH size 200 run no 7
+
+Parsing done. [Time: 0:01:11.421195]
+Used memory
+340.328125
+Dataset OpenSSH size 200 run no 8
+
+Parsing done. [Time: 0:01:11.646412]
+Used memory
+340.5859375
+Dataset OpenSSH size 200 run no 9
+
+Parsing done. [Time: 0:01:11.360477]
+Used memory
+346.96875
+Dataset OpenSSH size 200 run no 10
+
+Parsing done. [Time: 0:01:11.183558]
+Used memory
+341.390625
