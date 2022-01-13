@@ -22597,4 +22597,34 @@ Processed 100.0% of log lines.
 Processed 100.0% of log lines.
 Parsing done. [Time taken: 0:04:59.757702]
 Used memory
-1345.46484375
+1345.46484375Dataset Thunderbird size 2000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2000k.log
+Parsing done. [Time taken: 0:11:17.941207]
+Used memory
+2629.53515625
+Spell
+Dataset Thunderbird size 2000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2000k.log
+Parsing done. [Time taken: 0:11:17.362345]
+Used memory
+2629.53125
+Spell
+Dataset Thunderbird size 4000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4000k.log
+Parsing done. [Time taken: 0:26:15.457474]
+Used memory
+5332.71875
+Spell
+Dataset Thunderbird size 4000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4000k.log
+Parsing done. [Time taken: 0:26:09.692986]
+Used memory
+5332.7734375

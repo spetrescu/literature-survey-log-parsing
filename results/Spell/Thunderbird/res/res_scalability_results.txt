@@ -478,3 +478,23 @@ Dataset Thunderbird size 1000 run no 10
 
 Parsing done. [Time taken: 0:04:59.757702]
 1345.46484375
+Dataset Thunderbird size 2000 run no 1
+
+Parsing done. [Time taken: 0:11:17.941207]
+2629.53515625
+Dataset Thunderbird size 2000 run no 2
+
+Parsing done. [Time taken: 0:11:17.362345]
+2629.53125
+Dataset Thunderbird size 4000 run no 1
+
+Parsing done. [Time taken: 0:26:15.457474]
+5332.71875
+Dataset Thunderbird size 4000 run no 2
+
+Parsing done. [Time taken: 0:26:09.692986]
+5332.7734375
+Dataset Thunderbird size 10000 run no 1
+
+Parsing done. [Time taken: 3:34:07.459566]
+12825.9804688
