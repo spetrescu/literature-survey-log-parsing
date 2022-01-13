@@ -1,4 +1,3 @@
-root@126b9378c884:~/literature-survey-log-parsing/experiments/python2/logparser/benchmark# sh SHISO.sh
 Dataset Andriod size 1 run no 1
 
 === Evaluation on Andriod ===
@@ -535,14 +534,6 @@ Parsing file: ../logs/Andriod/Andriod_100k.log
 Parsing done. [Time taken: 0:06:34.756834]
 Used memory
 203.8515625
-Dataset Andriod size 100 run no 9
-
-=== Evaluation on Andriod ===
-Parsing file: ../logs/Andriod/Andriod_100k.log
-
-R2
-
-root@126b9378c884:~/literature-survey-log-parsing/experiments/python2/logparser/benchmark# sh SHISO.sh
 Dataset HDFS size 1 run no 1
 
 === Evaluation on HDFS ===
@@ -3993,4 +3984,476 @@ Parsing file: ../logs/BGL/BGL_300k.log
 Parsing done. [Time taken: 0:02:37.511990]
 Used memory
 407.71875
-root@126b9378c884:~/literature-survey-log-parsing/experiments/python2/logparser/benchmark#
+
+NR
+
+Dataset HDFS size 500 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:04:54.706447]
+Used memory
+509.58984375
+Dataset HDFS size 500 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:04:57.872522]
+Used memory
+508.9609375
+Dataset HDFS size 500 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:04:51.304186]
+Used memory
+508.8828125
+Dataset HDFS size 500 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:04:50.017842]
+Used memory
+508.83984375
+Dataset HDFS size 500 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:04:54.999025]
+Used memory
+508.64453125
+Dataset HDFS size 500 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:04:52.012048]
+Used memory
+508.95703125
+Dataset HDFS size 500 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:04:50.177653]
+Used memory
+508.57421875
+Dataset HDFS size 500 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:04:52.087964]
+Used memory
+509.1796875
+Dataset HDFS size 500 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:04:49.694465]
+Used memory
+508.56640625
+Dataset HDFS size 500 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+Parsing done. [Time taken: 0:04:50.912363]
+Used memory
+509.17578125
+Dataset HDFS size 1000 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:11:42.373176]
+Used memory
+855.859375
+Dataset HDFS size 1000 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:11:33.284124]
+Used memory
+856.45703125
+Dataset HDFS size 1000 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:11:40.004372]
+Used memory
+856.265625
+Dataset HDFS size 1000 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:11:42.036309]
+Used memory
+893.10546875
+Dataset HDFS size 1000 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:11:43.072314]
+Used memory
+856.9765625
+Dataset HDFS size 1000 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:11:49.603156]
+Used memory
+856.97265625
+Dataset HDFS size 1000 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:11:48.617877]
+Used memory
+893.15625
+Dataset HDFS size 1000 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:11:42.959946]
+Used memory
+893.0390625
+Dataset HDFS size 1000 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+ Parsing done. [Time taken: 0:11:42.111530]
+Used memory
+892.74609375
+Dataset HDFS size 1000 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+Parsing done. [Time taken: 0:11:40.194136]
+Used memory
+855.8828125
+Dataset Thunderbird size 500 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:20.530457]
+Used memory
+640.81640625
+Dataset Thunderbird size 500 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+ Parsing done. [Time taken: 0:30:37.790073]
+Used memory
+640.88671875
+Dataset Thunderbird size 500 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:54.101595]
+Used memory
+641.30859375
+Dataset Thunderbird size 500 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:31:02.224609]
+Used memory
+641.23046875
+Dataset Thunderbird size 500 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:49.710112]
+Used memory
+641.06640625
+Dataset Thunderbird size 500 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:29.122343]
+Used memory
+640.9609375
+Dataset Thunderbird size 500 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:42.627084]
+Used memory
+641.0390625
+Dataset Thunderbird size 500 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:54.777829]
+Used memory
+641.51953125
+Dataset Thunderbird size 500 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+  Parsing done. [Time taken: 0:30:41.316359]
+Used memory
+640.73828125
+Dataset Thunderbird size 500 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:55.670662]
+Used memory
+641.09375
+Dataset Thunderbird size 1000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 1:02:15.559001]
+Used memory
+1158.14453125
+Dataset Thunderbird size 1000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 1:02:16.775545]
+Used memory
+1157.9453125
+Dataset Thunderbird size 1000 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 1:02:47.261056]
+Used memory
+1157.9765625
+Dataset Thunderbird size 1000 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 1:02:11.746305]
+Used memory
+1157.96875
+Dataset Thunderbird size 1000 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 1:01:56.490061]
+Used memory
+1157.63671875
+Dataset Thunderbird size 1000 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 1:02:48.754521]
+Used memory
+1157.578125
+Dataset Thunderbird size 1000 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+Parsing done. [Time taken: 1:02:16.397308]
+Used memory
+1157.63671875
+Dataset Windows size 500 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:39:50.523092]
+Used memory
+538.91796875
+Dataset Windows size 500 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:39:59.200110]
+Used memory
+530.91796875
+Dataset Windows size 500 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:40:39.355113]
+Used memory
+530.8828125
+Dataset Windows size 500 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:40:16.665105]
+Used memory
+532.421875
+Dataset Windows size 500 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:40:20.218738]
+Used memory
+532.2890625
+Dataset Windows size 500 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:39:53.547863]
+Used memory
+533.484375
+Dataset Windows size 500 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:40:38.315702]
+Used memory
+537.94140625
+Dataset Windows size 500 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:39:53.341940]
+Used memory
+531.6328125
+Dataset Windows size 500 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:40:08.618476]
+Used memory
+532.171875
+Dataset Windows size 500 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+Parsing done. [Time taken: 0:39:41.700504]
+Used memory
+533.20703125
+Dataset OpenSSH size 500 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:17:42.365269]
+Used memory
+460.6015625
+Dataset OpenSSH size 500 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:17:41.691843]
+Used memory
+460.26171875
+Dataset OpenSSH size 500 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:17:23.751098]
+Used memory
+460.24609375
+Dataset OpenSSH size 500 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:17:43.511275]
+Used memory
+460.21875
+Dataset OpenSSH size 500 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:17:32.926284]
+Used memory
+460.2109375
+Dataset OpenSSH size 500 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:17:20.000846]
+Used memory
+460.4921875
+Dataset OpenSSH size 500 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:17:29.509283]
+Used memory
+460.23046875
+Dataset OpenSSH size 500 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:17:30.277253]
+Used memory
+460.375
+Dataset OpenSSH size 500 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:17:25.880542]
+Used memory
+460.20703125
+Dataset OpenSSH size 500 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:17:25.685574]
+Used memory
+460.234375
+Dataset Windows size 1000 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 1:22:34.808415]
+Used memory
+962.14453125
+Dataset Windows size 1000 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 1:21:29.419539]
+Used memory
+960.93359375
+Dataset Windows size 1000 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 1:22:15.392564]
+Used memory
+964.203125
+Dataset Windows size 1000 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 1:21:13.911055]
+Used memory
+963.375
+Dataset Windows size 1000 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 1:22:07.760087]
+Used memory
+964.9375
+Dataset Windows size 1000 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 1:21:52.756185]
+Used memory
+964.70703125
+Dataset Windows size 1000 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 1:21:24.024911]
+Used memory
+962.25
+Dataset Windows size 1000 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+Parsing done. [Time taken: 1:21:25.991523]
+Used memory
+963.3671875
+Dataset Windows size 1000 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+     Parsing done. [Time taken: 1:21:45.566966]
+Used memory
+959.953125
+Dataset Windows size 1000 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+    Parsing done. [Time taken: 1:22:11.573259]
+Used memory
+966.01953125
+
