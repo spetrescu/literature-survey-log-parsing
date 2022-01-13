@@ -778,8 +778,6 @@ Processed 100.0% of log lines.
 Parsing done. [Time taken: 0:00:06.071885]
 Used memory
 115.99609375
-
-root@126b9378c884:~/literature-survey-log-parsing/experiments/python2/logparser/benchmark# sh Drain.sh
 Dataset HDFS size 1 run no 1
 
 === Evaluation on HDFS ===
@@ -89042,5 +89040,3 @@ Processed 100.0% of log lines.
 Parsing done. [Time taken: 0:00:40.124809]
 Used memory
 447.296875
-root@126b9378c884:~/literature-survey-log-parsing/experiments/python2/logparser/benchmark# client_loop: send disconnect: Broken pipe
-stefanpetrescu@stefanpetrescu:~$
