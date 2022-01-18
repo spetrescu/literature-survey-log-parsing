@@ -1,13 +1,17 @@
 import csv
 import sys
+import os
 
 n = len(sys.argv)
 METHOD = str(sys.argv[1])
 RESULTS_FILE = f"res/{METHOD}_raw_terminal_logs_results.txt"
 
-DIR_PATH = "final/"
-SAVE_PATH = f"final/accuracy_res_{METHOD}.csv"
+DIR_PATH = "accuracy_results/"
+SAVE_PATH = f"accuracy_results/accuracy_res_{METHOD}.csv"
 method = METHOD
+
+if not os.path.exists(DIR_PATH):
+    os.makedirs(DIR_PATH)
 
 row_list = [["method", "dataset", "log_size", "precision", "recall", "F1_measure", "parsing_accuracy", "iteration_no"]]
 with open(f'{SAVE_PATH}', 'w', newline='') as file:
