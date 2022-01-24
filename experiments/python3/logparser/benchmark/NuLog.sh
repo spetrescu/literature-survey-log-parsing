@@ -1,30 +1,32 @@
-for d in Andriod HDFS Thunderbird Windows
+for d in OpenStack
 do
-  for s in 1
+  for s in 2
   do
     for r in 1
     do
-        python NuLog_benchmark.py $d $s
+        python NuLog_benchmark.py $d $s $r
+        echo "Dataset $d size $s run no $r"
+        mv "NuLog_result/${d}_2k.log_structured.csv" "NuLog_result/${d}_2k.log_structured_run_${r}.csv"
     done
   done
 done
 
 
-for s in 1
-do
-  for r in 1
-  do
-      python NuLog_benchmark.py OpenSSH $s
-  done
-done
-
-for s in 1
-do
-  for r in 1
-  do
-      python NuLog_benchmark.py BGL $s
-  done
-done
+#for s in 1
+#do
+#  for r in 1
+#  do
+#      python NuLog_benchmark.py OpenSSH $s
+#  done
+#done
+#
+#for s in 1
+#do
+#  for r in 1
+#  do
+#      python NuLog_benchmark.py BGL $s
+#  done
+#done
 
 #for d in Andriod HDFS Thunderbird Windows
 #do
