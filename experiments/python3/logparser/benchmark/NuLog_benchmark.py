@@ -4,7 +4,7 @@ import sys
 
 sys.path.append('../')
 from logparser.NuLog import NuLogParser
-from logparser.utils import evaluator
+from logparser import evaluator
 
 import os
 import pandas as pd
@@ -129,16 +129,17 @@ for dataset, setting in benchmark_settings.items():
         print("Used memory")
         print(mem)
         if SIZE == "2":
-            accuracy_PA, accuracy_exact_string_matching, edit_distance_result_mean, edit_distance_result_std = evaluator.evaluate(
+            # accuracy_PA, accuracy_exact_string_matching, edit_distance_result_mean, edit_distance_result_std = evaluator.evaluate(
+            #     groundtruth=os.path.join(indir, log_file + '_structured.csv'),
+            #     parsedresult=os.path.join(output_dir, log_file + '_structured.csv')
+            # )
+            F1_measure, accuracy = evaluator.evaluate(
                 groundtruth=os.path.join(indir, log_file + '_structured.csv'),
                 parsedresult=os.path.join(output_dir, log_file + '_structured.csv')
             )
-            bechmark_result.append(
-                [dataset, accuracy_PA, accuracy_exact_string_matching, edit_distance_result_mean, edit_distance_result_std])
+            bechmark_result.append([dataset, F1_measure, accuracy])
 if SIZE == "2":
     print('\n=== Overall evaluation results ===')
-    df_result = pd.DataFrame(bechmark_result,
-                             columns=['Dataset', 'Accuracy_PA', 'Accuracy_ExactMatching', 'Edit_distance_mean',
-                                      'Edit_distance_std'])
+    df_result = pd.DataFrame(bechmark_result, columns=['Dataset', 'F1_measure', 'Accuracy'])
     df_result.set_index('Dataset', inplace=True)
     print(df_result)

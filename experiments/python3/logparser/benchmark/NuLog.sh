@@ -4,7 +4,7 @@ do
   do
     for r in 1
     do
-        python MoLFI_benchmark.py $d $s
+        python NuLog_benchmark.py $d $s
     done
   done
 done
@@ -14,7 +14,7 @@ for s in 1
 do
   for r in 1
   do
-      python MoLFI_benchmark.py OpenSSH $s
+      python NuLog_benchmark.py OpenSSH $s
   done
 done
 
@@ -22,7 +22,7 @@ for s in 1
 do
   for r in 1
   do
-      python MoLFI_benchmark.py BGL $s
+      python NuLog_benchmark.py BGL $s
   done
 done
 
