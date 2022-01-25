@@ -1,0 +1,5270 @@
+Dataset HDFS size 1 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.123671]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.102441]
+Used memory
+88.6640625
+Dataset HDFS size 1 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.120403]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.103258]
+Used memory
+88.3984375
+Dataset HDFS size 1 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.122045]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.100601]
+Used memory
+88.33984375
+Dataset HDFS size 1 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.121899]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.102297]
+Used memory
+88.33984375
+Dataset HDFS size 1 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.119928]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.102774]
+Used memory
+88.45703125
+Dataset HDFS size 1 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.124402]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.102899]
+Used memory
+88.703125
+Dataset HDFS size 1 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.115740]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.098904]
+Used memory
+88.89453125
+Dataset HDFS size 1 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.122628]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.101632]
+Used memory
+88.44140625
+Dataset HDFS size 1 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.123257]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.103237]
+Used memory
+88.8984375
+Dataset HDFS size 1 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.150836]
+Parsing file: ../logs/HDFS/HDFS_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.102167]
+Used memory
+88.34375
+Dataset HDFS size 2 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.219281]
+Used memory
+89.78515625
+Precision: 0.9991, Recall: 1.0000, F1_measure: 0.9995, Parsing_Accuracy: 0.8850
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999545     0.885
+Dataset HDFS size 2 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.218731]
+Used memory
+89.30078125
+Precision: 0.9991, Recall: 1.0000, F1_measure: 0.9995, Parsing_Accuracy: 0.8850
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999545     0.885
+Dataset HDFS size 2 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.218725]
+Used memory
+89.48828125
+Precision: 0.9991, Recall: 1.0000, F1_measure: 0.9995, Parsing_Accuracy: 0.8850
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999545     0.885
+Dataset HDFS size 2 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.216363]
+Used memory
+89.5546875
+Precision: 0.9991, Recall: 1.0000, F1_measure: 0.9995, Parsing_Accuracy: 0.8850
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999545     0.885
+Dataset HDFS size 2 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.218684]
+Used memory
+89.50390625
+Precision: 0.9991, Recall: 1.0000, F1_measure: 0.9995, Parsing_Accuracy: 0.8850
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999545     0.885
+Dataset HDFS size 2 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.215812]
+Used memory
+89.875
+Precision: 0.9991, Recall: 1.0000, F1_measure: 0.9995, Parsing_Accuracy: 0.8850
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999545     0.885
+Dataset HDFS size 2 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.219068]
+Used memory
+89.87890625
+Precision: 0.9991, Recall: 1.0000, F1_measure: 0.9995, Parsing_Accuracy: 0.8850
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999545     0.885
+Dataset HDFS size 2 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.216294]
+Used memory
+89.55078125
+Precision: 0.9991, Recall: 1.0000, F1_measure: 0.9995, Parsing_Accuracy: 0.8850
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999545     0.885
+Dataset HDFS size 2 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.217255]
+Used memory
+89.59765625
+Precision: 0.9991, Recall: 1.0000, F1_measure: 0.9995, Parsing_Accuracy: 0.8850
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999545     0.885
+Dataset HDFS size 2 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.218675]
+Used memory
+89.6484375
+Precision: 0.9991, Recall: 1.0000, F1_measure: 0.9995, Parsing_Accuracy: 0.8850
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS       0.999545     0.885
+Dataset HDFS size 4 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.425057]
+Used memory
+92.1015625
+Dataset HDFS size 4 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.399911]
+Used memory
+91.59765625
+Dataset HDFS size 4 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.411989]
+Used memory
+91.9375
+Dataset HDFS size 4 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.395812]
+Used memory
+91.5078125
+Dataset HDFS size 4 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.405403]
+Used memory
+92.46875
+Dataset HDFS size 4 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.399457]
+Used memory
+92.44140625
+Dataset HDFS size 4 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.400451]
+Used memory
+92.4453125
+Dataset HDFS size 4 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.396044]
+Used memory
+91.4140625
+Dataset HDFS size 4 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.394285]
+Used memory
+90.96875
+Dataset HDFS size 4 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.402818]
+Used memory
+92.1328125
+Dataset HDFS size 10 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.962557]
+Used memory
+98.06640625
+Dataset HDFS size 10 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.970807]
+Used memory
+98.34375
+Dataset HDFS size 10 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.969970]
+Used memory
+98.078125
+Dataset HDFS size 10 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.966531]
+Used memory
+98.2734375
+Dataset HDFS size 10 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.952023]
+Used memory
+99.2109375
+Dataset HDFS size 10 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.964835]
+Used memory
+98.0546875
+Dataset HDFS size 10 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.966939]
+Used memory
+97.95703125
+Dataset HDFS size 10 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.952263]
+Used memory
+98.73828125
+Dataset HDFS size 10 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.956523]
+Used memory
+99.0703125
+Dataset HDFS size 10 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.977636]
+Used memory
+98.55859375
+Dataset HDFS size 20 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.952558]
+Used memory
+110.41015625
+Dataset HDFS size 20 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.942324]
+Used memory
+110.41015625
+Dataset HDFS size 20 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.945038]
+Used memory
+110.5390625
+Dataset HDFS size 20 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.952434]
+Used memory
+110.25390625
+Dataset HDFS size 20 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.917229]
+Used memory
+110.4765625
+Dataset HDFS size 20 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.943286]
+Used memory
+110.50390625
+Dataset HDFS size 20 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.953678]
+Used memory
+110.15625
+Dataset HDFS size 20 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.958460]
+Used memory
+110.4453125
+Dataset HDFS size 20 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.955569]
+Used memory
+110.28515625
+Dataset HDFS size 20 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.970506]
+Used memory
+110.34375
+Dataset HDFS size 50 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.808973]
+Used memory
+143.96484375
+Dataset HDFS size 50 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.759521]
+Used memory
+144.0625
+Dataset HDFS size 50 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.845118]
+Used memory
+144.4765625
+Dataset HDFS size 50 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.777904]
+Used memory
+144.47265625
+Dataset HDFS size 50 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.726746]
+Used memory
+144.41796875
+Dataset HDFS size 50 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.794150]
+Used memory
+143.84765625
+Dataset HDFS size 50 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.826359]
+Used memory
+144.15234375
+Dataset HDFS size 50 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.787324]
+Used memory
+143.640625
+Dataset HDFS size 50 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.824966]
+Used memory
+144.13671875
+Dataset HDFS size 50 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.836356]
+Used memory
+143.65625
+Dataset HDFS size 100 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.519857]
+Used memory
+199.55859375
+Dataset HDFS size 100 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.570861]
+Used memory
+199.22265625
+Dataset HDFS size 100 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.552352]
+Used memory
+199.26171875
+Dataset HDFS size 100 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.494478]
+Used memory
+199.37109375
+Dataset HDFS size 100 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.500994]
+Used memory
+199.5234375
+Dataset HDFS size 100 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.719153]
+Used memory
+199.87890625
+Dataset HDFS size 100 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.526846]
+Used memory
+199.375
+Dataset HDFS size 100 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.543114]
+Used memory
+199.78125
+Dataset HDFS size 100 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.635804]
+Used memory
+198.75
+Dataset HDFS size 100 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.653561]
+Used memory
+199.734375
+Dataset Thunderbird size 1 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.128086]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.118888]
+Used memory
+89.41015625
+Dataset Thunderbird size 1 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.128307]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.111230]
+Used memory
+89.16015625
+Dataset Thunderbird size 1 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.130681]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.109612]
+Used memory
+89.34375
+Dataset Thunderbird size 1 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.131292]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.110392]
+Used memory
+89.3984375
+Dataset Thunderbird size 1 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.126304]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.109476]
+Used memory
+89.31640625
+Dataset Thunderbird size 1 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.134718]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.108885]
+Used memory
+89.4453125
+Dataset Thunderbird size 1 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.125950]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.107029]
+Used memory
+88.96875
+Dataset Thunderbird size 1 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.128693]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.109155]
+Used memory
+89.3984375
+Dataset Thunderbird size 1 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.128884]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.111609]
+Used memory
+89.08984375
+Dataset Thunderbird size 1 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.128837]
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.107856]
+Used memory
+88.9609375
+Dataset Thunderbird size 2 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.226627]
+Used memory
+90.68359375
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.225741]
+Used memory
+90.7265625
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.229616]
+Used memory
+90.97265625
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.220505]
+Used memory
+90.66796875
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.225760]
+Used memory
+90.70703125
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.224174]
+Used memory
+90.52734375
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.228737]
+Used memory
+90.9609375
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.223526]
+Used memory
+90.48046875
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.228423]
+Used memory
+90.53515625
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.230597]
+Used memory
+90.67578125
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 4 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.412333]
+Used memory
+93.5625
+Dataset Thunderbird size 4 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.407981]
+Used memory
+93.546875
+Dataset Thunderbird size 4 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.408685]
+Used memory
+93.30859375
+Dataset Thunderbird size 4 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.407586]
+Used memory
+93.265625
+Dataset Thunderbird size 4 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.405233]
+Used memory
+93.1875
+Dataset Thunderbird size 4 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.410842]
+Used memory
+93.265625
+Dataset Thunderbird size 4 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.414093]
+Used memory
+93.2578125
+Dataset Thunderbird size 4 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.407408]
+Used memory
+93.13671875
+Dataset Thunderbird size 4 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.406580]
+Used memory
+93.31640625
+Dataset Thunderbird size 4 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.407359]
+Used memory
+93.265625
+Dataset Thunderbird size 10 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:13.343892]
+Used memory
+101.56640625
+Dataset Thunderbird size 10 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:13.443672]
+Used memory
+101.1484375
+Dataset Thunderbird size 10 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:13.410231]
+Used memory
+101.0390625
+Dataset Thunderbird size 10 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:13.367589]
+Used memory
+101.515625
+Dataset Thunderbird size 10 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:13.342755]
+Used memory
+101.078125
+Dataset Thunderbird size 10 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:13.309424]
+Used memory
+100.75
+Dataset Thunderbird size 10 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:13.297120]
+Used memory
+101.1171875
+Dataset Thunderbird size 10 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:13.404892]
+Used memory
+100.9921875
+Dataset Thunderbird size 10 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:13.320597]
+Used memory
+101.05859375
+Dataset Thunderbird size 10 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:13.343029]
+Used memory
+101.44921875
+Dataset Thunderbird size 20 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:18.440273]
+Used memory
+113.93359375
+Dataset Thunderbird size 20 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:18.503873]
+Used memory
+114.25
+Dataset Thunderbird size 20 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:18.353075]
+Used memory
+113.89453125
+Dataset Thunderbird size 20 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:18.351194]
+Used memory
+114.2265625
+Dataset Thunderbird size 20 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:18.388312]
+Used memory
+114.3359375
+Dataset Thunderbird size 20 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:18.652060]
+Used memory
+114.1015625
+Dataset Thunderbird size 20 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:18.371979]
+Used memory
+114.15625
+Dataset Thunderbird size 20 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:18.456116]
+Used memory
+113.828125
+Dataset Thunderbird size 20 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:18.366893]
+Used memory
+114.1640625
+Dataset Thunderbird size 20 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:18.341081]
+Used memory
+114.171875
+Dataset Thunderbird size 50 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:41.892991]
+Used memory
+153.4140625
+Dataset Thunderbird size 50 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:42.103582]
+Used memory
+153.421875
+Dataset Thunderbird size 50 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:41.744779]
+Used memory
+153.73046875
+Dataset Thunderbird size 50 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:41.672503]
+Used memory
+153.16015625
+Dataset Thunderbird size 50 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:41.783894]
+Used memory
+153.57421875
+Dataset Thunderbird size 50 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:42.609806]
+Used memory
+153.22265625
+Dataset Thunderbird size 50 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:41.784210]
+Used memory
+153.984375
+Dataset Thunderbird size 50 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:41.922671]
+Used memory
+153.546875
+Dataset Thunderbird size 50 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:41.874421]
+Used memory
+153.01953125
+Dataset Thunderbird size 50 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:42.273179]
+Used memory
+153.16796875
+Dataset Thunderbird size 100 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:46.861981]
+Used memory
+221.0546875
+Dataset Thunderbird size 100 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:46.379970]
+Used memory
+220.96484375
+Dataset Thunderbird size 100 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:46.659886]
+Used memory
+221.5390625
+Dataset Thunderbird size 100 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:47.174131]
+Used memory
+220.97265625
+Dataset Thunderbird size 100 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:46.855056]
+Used memory
+221.8203125
+Dataset Thunderbird size 100 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:46.634213]
+Used memory
+221.4921875
+Dataset Thunderbird size 100 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:46.675409]
+Used memory
+221.22265625
+Dataset Thunderbird size 100 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:46.696380]
+Used memory
+221.0625
+Dataset Thunderbird size 100 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:46.802464]
+Used memory
+221.3046875
+Dataset Thunderbird size 100 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:46.662353]
+Used memory
+221.7890625
+Dataset Windows size 1 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.118716]
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.098956]
+Used memory
+89.13671875
+Dataset Windows size 1 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.118525]
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.098760]
+Used memory
+88.7890625
+Dataset Windows size 1 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.117169]
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.096216]
+Used memory
+88.6875
+Dataset Windows size 1 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.115211]
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.097303]
+Used memory
+88.90625
+Dataset Windows size 1 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.117911]
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.095456]
+Used memory
+88.87109375
+Dataset Windows size 1 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.117338]
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.098523]
+Used memory
+88.578125
+Dataset Windows size 1 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.117644]
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.096547]
+Used memory
+89.140625
+Dataset Windows size 1 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.115545]
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.099430]
+Used memory
+88.80078125
+Dataset Windows size 1 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.119242]
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.099831]
+Used memory
+88.71875
+Dataset Windows size 1 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.118505]
+Parsing file: ../logs/Windows/Windows_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.098213]
+Used memory
+89.08203125
+Dataset Windows size 2 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.201663]
+Used memory
+89.921875
+Precision: 0.9889, Recall: 0.8431, F1_measure: 0.9102, Parsing_Accuracy: 0.5880
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows      0.9102     0.588
+Dataset Windows size 2 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.207496]
+Used memory
+90.171875
+Precision: 0.9889, Recall: 0.8431, F1_measure: 0.9102, Parsing_Accuracy: 0.5880
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows      0.9102     0.588
+Dataset Windows size 2 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.195518]
+Parsing file: ../logs/Windows/Windows_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.183651]
+Used memory
+89.875
+Precision: 0.9889, Recall: 0.8431, F1_measure: 0.9102, Parsing_Accuracy: 0.5880
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows      0.9102     0.588
+Dataset Windows size 2 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.203030]
+Used memory
+90.1484375
+Precision: 0.9889, Recall: 0.8431, F1_measure: 0.9102, Parsing_Accuracy: 0.5880
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows      0.9102     0.588
+Dataset Windows size 2 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.207322]
+Used memory
+89.5546875
+Precision: 0.9889, Recall: 0.8431, F1_measure: 0.9102, Parsing_Accuracy: 0.5880
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows      0.9102     0.588
+Dataset Windows size 2 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.206396]
+Used memory
+89.94921875
+Precision: 0.9889, Recall: 0.8431, F1_measure: 0.9102, Parsing_Accuracy: 0.5880
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows      0.9102     0.588
+Dataset Windows size 2 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.203978]
+Used memory
+89.87109375
+Precision: 0.9889, Recall: 0.8431, F1_measure: 0.9102, Parsing_Accuracy: 0.5880
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows      0.9102     0.588
+Dataset Windows size 2 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.204492]
+Used memory
+89.85546875
+Precision: 0.9889, Recall: 0.8431, F1_measure: 0.9102, Parsing_Accuracy: 0.5880
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows      0.9102     0.588
+Dataset Windows size 2 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.204625]
+Used memory
+89.8125
+Precision: 0.9889, Recall: 0.8431, F1_measure: 0.9102, Parsing_Accuracy: 0.5880
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows      0.9102     0.588
+Dataset Windows size 2 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.204825]
+Used memory
+90.11328125
+Precision: 0.9889, Recall: 0.8431, F1_measure: 0.9102, Parsing_Accuracy: 0.5880
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows      0.9102     0.588
+Dataset Windows size 4 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.377498]
+Used memory
+91.94921875
+Dataset Windows size 4 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.374794]
+Used memory
+91.875
+Dataset Windows size 4 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.372686]
+Used memory
+91.82421875
+Dataset Windows size 4 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.376584]
+Used memory
+92.265625
+Dataset Windows size 4 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.369696]
+Used memory
+91.78125
+Dataset Windows size 4 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.375081]
+Used memory
+91.953125
+Dataset Windows size 4 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.375622]
+Used memory
+91.6953125
+Dataset Windows size 4 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.380699]
+Used memory
+91.94140625
+Dataset Windows size 4 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.383247]
+Used memory
+92.30078125
+Dataset Windows size 4 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.375570]
+Used memory
+91.77734375
+Dataset Windows size 10 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.948057]
+Used memory
+99.12109375
+Dataset Windows size 10 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.922044]
+Used memory
+99.39453125
+Dataset Windows size 10 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.938064]
+Used memory
+99.23046875
+Dataset Windows size 10 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.926989]
+Used memory
+99.390625
+Dataset Windows size 10 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.935663]
+Used memory
+99.12109375
+Dataset Windows size 10 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.938435]
+Used memory
+98.71484375
+Dataset Windows size 10 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.932026]
+Used memory
+99.359375
+Dataset Windows size 10 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.925096]
+Used memory
+99.42578125
+Dataset Windows size 10 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.933249]
+Used memory
+99.015625
+Dataset Windows size 10 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.970145]
+Used memory
+98.29296875
+Dataset Windows size 20 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.816841]
+Used memory
+111.41015625
+Dataset Windows size 20 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.793283]
+Used memory
+110.88671875
+Dataset Windows size 20 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.832871]
+Used memory
+111.57421875
+Dataset Windows size 20 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.805808]
+Used memory
+111.51171875
+Dataset Windows size 20 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.842190]
+Used memory
+111.2578125
+Dataset Windows size 20 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.814406]
+Used memory
+111.265625
+Dataset Windows size 20 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.829388]
+Used memory
+111.8359375
+Dataset Windows size 20 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.804649]
+Used memory
+110.1328125
+Dataset Windows size 20 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.821995]
+Used memory
+111.86328125
+Dataset Windows size 20 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.834434]
+Used memory
+111.4375
+Dataset Windows size 50 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.620093]
+Used memory
+153.03515625
+Dataset Windows size 50 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.680314]
+Used memory
+152.94921875
+Dataset Windows size 50 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.656471]
+Used memory
+152.65625
+Dataset Windows size 50 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.652349]
+Used memory
+152.78515625
+Dataset Windows size 50 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.635151]
+Used memory
+152.9140625
+Dataset Windows size 50 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.660197]
+Used memory
+152.734375
+Dataset Windows size 50 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.641386]
+Used memory
+152.8046875
+Dataset Windows size 50 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.666348]
+Used memory
+152.6015625
+Dataset Windows size 50 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.713980]
+Used memory
+152.828125
+Dataset Windows size 50 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.644398]
+Used memory
+152.953125
+Dataset Windows size 100 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.521289]
+Used memory
+222.31640625
+Dataset Windows size 100 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.456990]
+Used memory
+222.48046875
+Dataset Windows size 100 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.553927]
+Used memory
+222.3203125
+Dataset Windows size 100 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.523632]
+Used memory
+222.28125
+Dataset Windows size 100 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.616080]
+Used memory
+222.37890625
+Dataset Windows size 100 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.525818]
+Used memory
+222.24609375
+Dataset Windows size 100 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.467339]
+Used memory
+222.71875
+Dataset Windows size 100 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.445792]
+Used memory
+222.45703125
+Dataset Windows size 100 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.423829]
+Used memory
+223.25
+Dataset Windows size 100 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:09.527895]
+Used memory
+222.42578125
+Dataset OpenSSH size 1 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.130568]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.110576]
+Used memory
+88.9609375
+Dataset OpenSSH size 1 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.132250]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.108004]
+Used memory
+89.1484375
+Dataset OpenSSH size 1 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.131204]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.110856]
+Used memory
+88.828125
+Dataset OpenSSH size 1 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.130205]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.108251]
+Used memory
+88.9609375
+Dataset OpenSSH size 1 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.130440]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.110090]
+Used memory
+88.984375
+Dataset OpenSSH size 1 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.131345]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.113271]
+Used memory
+88.8671875
+Dataset OpenSSH size 1 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.128438]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.110903]
+Used memory
+89.15234375
+Dataset OpenSSH size 1 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.130383]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.110787]
+Used memory
+88.98046875
+Dataset OpenSSH size 1 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.131136]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.107267]
+Used memory
+88.73828125
+Dataset OpenSSH size 1 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.128915]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.110637]
+Used memory
+89.20703125
+Dataset OpenSSH size 2 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.218996]
+Used memory
+90.0625
+Precision: 1.0000, Recall: 0.9551, F1_measure: 0.9770, Parsing_Accuracy: 0.5005
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.977016    0.5005
+Dataset OpenSSH size 2 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.229331]
+Used memory
+89.6796875
+Precision: 1.0000, Recall: 0.9551, F1_measure: 0.9770, Parsing_Accuracy: 0.5005
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.977016    0.5005
+Dataset OpenSSH size 2 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.230336]
+Used memory
+90.04296875
+Precision: 1.0000, Recall: 0.9551, F1_measure: 0.9770, Parsing_Accuracy: 0.5005
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.977016    0.5005
+Dataset OpenSSH size 2 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.227800]
+Used memory
+89.91015625
+Precision: 1.0000, Recall: 0.9551, F1_measure: 0.9770, Parsing_Accuracy: 0.5005
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.977016    0.5005
+Dataset OpenSSH size 2 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.231407]
+Used memory
+89.7734375
+Precision: 1.0000, Recall: 0.9551, F1_measure: 0.9770, Parsing_Accuracy: 0.5005
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.977016    0.5005
+Dataset OpenSSH size 2 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.230112]
+Used memory
+90.265625
+Precision: 1.0000, Recall: 0.9551, F1_measure: 0.9770, Parsing_Accuracy: 0.5005
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.977016    0.5005
+Dataset OpenSSH size 2 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.228201]
+Used memory
+90.07421875
+Precision: 1.0000, Recall: 0.9551, F1_measure: 0.9770, Parsing_Accuracy: 0.5005
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.977016    0.5005
+Dataset OpenSSH size 2 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.231808]
+Used memory
+89.8671875
+Precision: 1.0000, Recall: 0.9551, F1_measure: 0.9770, Parsing_Accuracy: 0.5005
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.977016    0.5005
+Dataset OpenSSH size 2 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.236521]
+Used memory
+90.25
+Precision: 1.0000, Recall: 0.9551, F1_measure: 0.9770, Parsing_Accuracy: 0.5005
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.977016    0.5005
+Dataset OpenSSH size 2 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.233234]
+Used memory
+90.03125
+Precision: 1.0000, Recall: 0.9551, F1_measure: 0.9770, Parsing_Accuracy: 0.5005
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH    0.977016    0.5005
+Dataset OpenSSH size 4 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.435741]
+Used memory
+92.00390625
+Dataset OpenSSH size 4 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.430928]
+Used memory
+92.13671875
+Dataset OpenSSH size 4 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.429172]
+Used memory
+91.9765625
+Dataset OpenSSH size 4 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.434996]
+Used memory
+91.95703125
+Dataset OpenSSH size 4 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.425537]
+Used memory
+92.1875
+Dataset OpenSSH size 4 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.422066]
+Used memory
+92.26171875
+Dataset OpenSSH size 4 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.433522]
+Used memory
+92.05859375
+Dataset OpenSSH size 4 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.427333]
+Used memory
+92.26953125
+Dataset OpenSSH size 4 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.432590]
+Used memory
+92.34765625
+Dataset OpenSSH size 4 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.427137]
+Used memory
+92.4140625
+Dataset OpenSSH size 10 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.080745]
+Used memory
+98.76953125
+Dataset OpenSSH size 10 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.057962]
+Used memory
+99.0703125
+Dataset OpenSSH size 10 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.049600]
+Used memory
+99.00390625
+Dataset OpenSSH size 10 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.056714]
+Used memory
+99.06640625
+Dataset OpenSSH size 10 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.050177]
+Used memory
+99.64453125
+Dataset OpenSSH size 10 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.047768]
+Used memory
+99.31640625
+Dataset OpenSSH size 10 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.070768]
+Used memory
+99.09375
+Dataset OpenSSH size 10 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.059838]
+Used memory
+98.88671875
+Dataset OpenSSH size 10 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.068541]
+Used memory
+98.7578125
+Dataset OpenSSH size 10 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.055525]
+Used memory
+98.9375
+Dataset OpenSSH size 20 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:02.105078]
+Used memory
+111.96484375
+Dataset OpenSSH size 20 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:02.058538]
+Used memory
+112.46484375
+Dataset OpenSSH size 20 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:02.102003]
+Used memory
+111.13671875
+Dataset OpenSSH size 20 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:02.069235]
+Used memory
+112.04296875
+Dataset OpenSSH size 20 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:02.078191]
+Used memory
+112.03125
+Dataset OpenSSH size 20 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:02.080903]
+Used memory
+111.94140625
+Dataset OpenSSH size 20 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:02.074472]
+Used memory
+111.95703125
+Dataset OpenSSH size 20 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:02.094580]
+Used memory
+112.0703125
+Dataset OpenSSH size 20 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:02.074203]
+Used memory
+112.3359375
+Dataset OpenSSH size 20 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:02.106111]
+Used memory
+111.98828125
+Dataset OpenSSH size 50 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:05.139020]
+Used memory
+147.2421875
+Dataset OpenSSH size 50 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:05.126066]
+Used memory
+147.05078125
+Dataset OpenSSH size 50 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:05.077394]
+Used memory
+147.24609375
+Dataset OpenSSH size 50 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:05.148622]
+Used memory
+147.17578125
+Dataset OpenSSH size 50 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:05.123060]
+Used memory
+147.64453125
+Dataset OpenSSH size 50 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:05.057016]
+Used memory
+147.1796875
+Dataset OpenSSH size 50 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:05.051413]
+Used memory
+147.453125
+Dataset OpenSSH size 50 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:05.164677]
+Used memory
+147.45703125
+Dataset OpenSSH size 50 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:05.090786]
+Used memory
+147.00390625
+Dataset OpenSSH size 50 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:05.102462]
+Used memory
+147.23828125
+Dataset OpenSSH size 100 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:10.201998]
+Used memory
+204.21875
+Dataset OpenSSH size 100 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:10.321354]
+Used memory
+204.2109375
+Dataset OpenSSH size 100 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:10.272582]
+Used memory
+204.1171875
+Dataset OpenSSH size 100 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:10.204641]
+Used memory
+204.13671875
+Dataset OpenSSH size 100 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:10.324831]
+Used memory
+204.484375
+Dataset OpenSSH size 100 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:10.178795]
+Used memory
+204.33203125
+Dataset OpenSSH size 100 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:10.183477]
+Used memory
+204.32421875
+Dataset OpenSSH size 100 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:10.217107]
+Used memory
+204.12109375
+Dataset OpenSSH size 100 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:10.285801]
+Used memory
+204.75
+Dataset OpenSSH size 100 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:10.158447]
+Used memory
+204.32421875
+Dataset BGL size 1 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.114824]
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.093331]
+Used memory
+88.734375
+Dataset BGL size 1 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.116769]
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.094970]
+Used memory
+88.44921875
+Dataset BGL size 1 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.115030]
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.093194]
+Used memory
+88.7421875
+Dataset BGL size 1 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.114989]
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.095787]
+Used memory
+88.59765625
+Dataset BGL size 1 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.117021]
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.096165]
+Used memory
+88.46484375
+Dataset BGL size 1 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.113047]
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.094584]
+Used memory
+88.9296875
+Dataset BGL size 1 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.113968]
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.095309]
+Used memory
+88.92578125
+Dataset BGL size 1 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.113833]
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.097544]
+Used memory
+88.76953125
+Dataset BGL size 1 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.105534]
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.095612]
+Used memory
+88.75
+Dataset BGL size 1 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.124836]
+Parsing file: ../logs/BGL/BGL_1k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.096536]
+Used memory
+88.64453125
+Dataset BGL size 2 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.208084]
+Used memory
+90.27734375
+Precision: 0.9962, Recall: 0.9996, F1_measure: 0.9979, Parsing_Accuracy: 0.8540
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.997902     0.854
+Dataset BGL size 2 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.204841]
+Used memory
+90.28125
+Precision: 0.9962, Recall: 0.9996, F1_measure: 0.9979, Parsing_Accuracy: 0.8540
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.997902     0.854
+Dataset BGL size 2 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.209449]
+Used memory
+90.32421875
+Precision: 0.9962, Recall: 0.9996, F1_measure: 0.9979, Parsing_Accuracy: 0.8540
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.997902     0.854
+Dataset BGL size 2 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.205548]
+Used memory
+90.3203125
+Precision: 0.9962, Recall: 0.9996, F1_measure: 0.9979, Parsing_Accuracy: 0.8540
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.997902     0.854
+Dataset BGL size 2 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.203653]
+Used memory
+90.140625
+Precision: 0.9962, Recall: 0.9996, F1_measure: 0.9979, Parsing_Accuracy: 0.8540
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.997902     0.854
+Dataset BGL size 2 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.203798]
+Used memory
+90.32421875
+Precision: 0.9962, Recall: 0.9996, F1_measure: 0.9979, Parsing_Accuracy: 0.8540
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.997902     0.854
+Dataset BGL size 2 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.208590]
+Used memory
+90.4375
+Precision: 0.9962, Recall: 0.9996, F1_measure: 0.9979, Parsing_Accuracy: 0.8540
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.997902     0.854
+Dataset BGL size 2 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.205827]
+Used memory
+90.45703125
+Precision: 0.9962, Recall: 0.9996, F1_measure: 0.9979, Parsing_Accuracy: 0.8540
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.997902     0.854
+Dataset BGL size 2 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.217439]
+Used memory
+90.48828125
+Precision: 0.9962, Recall: 0.9996, F1_measure: 0.9979, Parsing_Accuracy: 0.8540
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.997902     0.854
+Dataset BGL size 2 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.203400]
+Used memory
+90.375
+Precision: 0.9962, Recall: 0.9996, F1_measure: 0.9979, Parsing_Accuracy: 0.8540
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.997902     0.854
+Dataset BGL size 4 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.366467]
+Used memory
+92.0078125
+Dataset BGL size 4 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.361247]
+Used memory
+91.453125
+Dataset BGL size 4 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.365461]
+Used memory
+91.5859375
+Dataset BGL size 4 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.365016]
+Used memory
+91.55078125
+Dataset BGL size 4 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.361791]
+Used memory
+92.26953125
+Dataset BGL size 4 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.363951]
+Used memory
+92.08203125
+Dataset BGL size 4 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.361190]
+Used memory
+91.65234375
+Dataset BGL size 4 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.359562]
+Used memory
+92.10546875
+Dataset BGL size 4 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.363614]
+Used memory
+91.7109375
+Dataset BGL size 4 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.363253]
+Used memory
+91.6171875
+Dataset BGL size 10 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.880814]
+Used memory
+99.4921875
+Dataset BGL size 10 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.875712]
+Used memory
+99.23828125
+Dataset BGL size 10 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.870227]
+Used memory
+99.3671875
+Dataset BGL size 10 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.878397]
+Used memory
+98.98046875
+Dataset BGL size 10 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.886188]
+Used memory
+98.90625
+Dataset BGL size 10 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.867579]
+Used memory
+99.1796875
+Dataset BGL size 10 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.865333]
+Used memory
+99.31640625
+Dataset BGL size 10 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.870831]
+Used memory
+99.12109375
+Dataset BGL size 10 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.870829]
+Used memory
+99.2734375
+Dataset BGL size 10 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:00.873692]
+Used memory
+98.90234375
+Dataset BGL size 20 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.773573]
+Used memory
+111.9609375
+Dataset BGL size 20 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.805058]
+Used memory
+112.2421875
+Dataset BGL size 20 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.743007]
+Used memory
+112.39453125
+Dataset BGL size 20 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.770570]
+Used memory
+111.80859375
+Dataset BGL size 20 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.753634]
+Used memory
+112.11328125
+Dataset BGL size 20 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.752712]
+Used memory
+111.87109375
+Dataset BGL size 20 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.760048]
+Used memory
+112.34765625
+Dataset BGL size 20 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.766319]
+Used memory
+111.984375
+Dataset BGL size 20 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.763121]
+Used memory
+111.8984375
+Dataset BGL size 20 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:01.793922]
+Used memory
+112.359375
+Dataset BGL size 50 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.228260]
+Used memory
+144.2890625
+Dataset BGL size 50 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.168971]
+Used memory
+141.25390625
+Dataset BGL size 50 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.186925]
+Used memory
+141.234375
+Dataset BGL size 50 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.182405]
+Used memory
+141.36328125
+Dataset BGL size 50 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.128277]
+Used memory
+141.57421875
+Dataset BGL size 50 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.143661]
+Used memory
+144.20703125
+Dataset BGL size 50 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.199044]
+Used memory
+144.4296875
+Dataset BGL size 50 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.113469]
+Used memory
+144.1328125
+Dataset BGL size 50 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.189246]
+Used memory
+144.12109375
+Dataset BGL size 50 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:04.139187]
+Used memory
+144.15234375
+Dataset BGL size 100 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:08.132350]
+Used memory
+196.984375
+Dataset BGL size 100 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:08.137720]
+Used memory
+196.6796875
+Dataset BGL size 100 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:08.102232]
+Used memory
+197.12109375
+Dataset BGL size 100 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:08.175742]
+Used memory
+196.6328125
+Dataset BGL size 100 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:08.220945]
+Used memory
+197.19140625
+Dataset BGL size 100 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:08.201337]
+Used memory
+196.9453125
+Dataset BGL size 100 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:08.170060]
+Used memory
+197.19921875
+Dataset BGL size 100 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:08.276722]
+Used memory
+196.625
+Dataset BGL size 100 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:08.095123]
+Used memory
+197.1171875
+Dataset BGL size 100 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:08.273156]
+Used memory
+196.828125
+
+R2
+
+Dataset HDFS size 200 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.429639]
+Used memory
+312.29296875
+Dataset HDFS size 200 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.178138]
+Used memory
+312.16015625
+Dataset HDFS size 200 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.221460]
+Used memory
+312.09765625
+Dataset HDFS size 200 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.177937]
+Used memory
+312.00390625
+Dataset HDFS size 200 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.193984]
+Used memory
+311.9765625
+Dataset HDFS size 200 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.358171]
+Used memory
+312.125
+Dataset HDFS size 200 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.366391]
+Used memory
+312.0078125
+Dataset HDFS size 200 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.289448]
+Used memory
+312.18359375
+Dataset HDFS size 200 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.414746]
+Used memory
+312.42578125
+Dataset HDFS size 200 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.323933]
+Used memory
+312.42578125
+Dataset HDFS size 300 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:29.162117]
+Used memory
+429.53125
+Dataset HDFS size 300 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:28.847604]
+Used memory
+429.7734375
+Dataset HDFS size 300 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:28.769673]
+Used memory
+429.1875
+Dataset HDFS size 300 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:28.864131]
+Used memory
+429.36328125
+Dataset HDFS size 300 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:28.903500]
+Used memory
+429.5625
+Dataset HDFS size 300 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:29.005482]
+Used memory
+429.56640625
+Dataset HDFS size 300 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:28.749149]
+Used memory
+429.359375
+Dataset HDFS size 300 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:28.953421]
+Used memory
+429.37890625
+Dataset HDFS size 300 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:28.952855]
+Used memory
+429.421875
+Dataset HDFS size 300 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:28.981560]
+Used memory
+429.5390625
+Dataset HDFS size 500 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:48.071391]
+Used memory
+650.9140625
+Dataset HDFS size 500 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:48.509545]
+Used memory
+651.2109375
+Dataset HDFS size 500 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:48.361759]
+Used memory
+651.0859375
+Dataset HDFS size 500 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:48.106801]
+Used memory
+650.828125
+Dataset HDFS size 500 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:48.449362]
+Used memory
+650.8984375
+Dataset HDFS size 500 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:48.516893]
+Used memory
+650.92578125
+Dataset HDFS size 500 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:48.496790]
+Used memory
+650.96484375
+Dataset HDFS size 500 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:48.466920]
+Used memory
+650.8046875
+Dataset HDFS size 500 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:48.334682]
+Used memory
+651.0703125
+Dataset HDFS size 500 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:48.463101]
+Used memory
+650.90625
+Dataset HDFS size 1000 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:36.730174]
+Used memory
+1191.42578125
+Dataset HDFS size 1000 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:36.943779]
+Used memory
+1191.46875
+Dataset HDFS size 1000 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:36.459549]
+Used memory
+1191.4140625
+Dataset HDFS size 1000 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:36.519205]
+Used memory
+1191.13671875
+Dataset HDFS size 1000 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:36.676248]
+Used memory
+1191.30859375
+Dataset HDFS size 1000 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:37.129726]
+Used memory
+1191.1328125
+Dataset HDFS size 1000 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:36.554570]
+Used memory
+1191.640625
+Dataset HDFS size 1000 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:36.475247]
+Used memory
+1191.24609375
+Dataset HDFS size 1000 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:37.000099]
+Used memory
+1191.38671875
+Dataset HDFS size 1000 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:37.472814]
+Used memory
+1191.6875
+Dataset Thunderbird size 200 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:56.408288]
+Used memory
+360.9609375
+Dataset Thunderbird size 200 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:56.368850]
+Used memory
+361.09375
+Dataset Thunderbird size 200 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:57.027237]
+Used memory
+360.49609375
+Dataset Thunderbird size 200 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:56.284103]
+Used memory
+361.18359375
+Dataset Thunderbird size 200 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:56.392554]
+Used memory
+361.41015625
+Dataset Thunderbird size 200 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:57.064173]
+Used memory
+360.9140625
+Dataset Thunderbird size 200 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:56.780851]
+Used memory
+360.84765625
+Dataset Thunderbird size 200 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:56.320115]
+Used memory
+360.86328125
+Dataset Thunderbird size 200 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:56.569939]
+Used memory
+361.30859375
+Dataset Thunderbird size 200 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:56.182554]
+Used memory
+361.125
+Dataset Thunderbird size 300 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:07.001415]
+Used memory
+496.7578125
+Dataset Thunderbird size 300 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:06.908232]
+Used memory
+496.71484375
+Dataset Thunderbird size 300 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:06.605557]
+Used memory
+496.80078125
+Dataset Thunderbird size 300 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:06.978480]
+Used memory
+497.234375
+Dataset Thunderbird size 300 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:06.984874]
+Used memory
+496.9921875
+Dataset Thunderbird size 300 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:06.882471]
+Used memory
+497.078125
+Dataset Thunderbird size 300 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:07.212282]
+Used memory
+496.76171875
+Dataset Thunderbird size 300 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:06.708932]
+Used memory
+496.94921875
+Dataset Thunderbird size 300 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:07.002480]
+Used memory
+496.8515625
+Dataset Thunderbird size 300 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:07.152555]
+Used memory
+497.26953125
+Dataset Thunderbird size 500 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:26.201191]
+Used memory
+715.2578125
+Dataset Thunderbird size 500 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:25.636665]
+Used memory
+715.1015625
+Dataset Thunderbird size 500 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:26.120899]
+Used memory
+715.6875
+Dataset Thunderbird size 500 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:25.863977]
+Used memory
+715.17578125
+Dataset Thunderbird size 500 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:25.961369]
+Used memory
+715.0390625
+Dataset Thunderbird size 500 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:25.728697]
+Used memory
+714.84375
+Dataset Thunderbird size 500 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:25.533690]
+Used memory
+715.25
+Dataset Thunderbird size 500 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:25.852138]
+Used memory
+714.9765625
+Dataset Thunderbird size 500 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:26.519745]
+Used memory
+715.27734375
+Dataset Thunderbird size 500 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:26.284546]
+Used memory
+715.67578125
+Dataset Thunderbird size 1000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:02:13.556334]
+Used memory
+1336.453125
+Dataset Thunderbird size 1000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:02:14.278975]
+Used memory
+1336.92578125
+Dataset Thunderbird size 1000 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:02:14.835518]
+Used memory
+1336.59765625
+Dataset Thunderbird size 1000 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:02:13.837324]
+Used memory
+1336.265625
+Dataset Thunderbird size 1000 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:02:14.439194]
+Used memory
+1337.08203125
+Dataset Thunderbird size 1000 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:02:14.897630]
+Used memory
+1336.81640625
+Dataset Thunderbird size 1000 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:02:14.522642]
+Used memory
+1336.3046875
+Dataset Thunderbird size 1000 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:02:13.750154]
+Used memory
+1336.7734375
+Dataset Thunderbird size 1000 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:02:14.286084]
+Used memory
+1336.2890625
+Dataset Thunderbird size 1000 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:02:14.575686]
+Used memory
+1337.0703125
+Dataset Windows size 200 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.288474]
+Used memory
+365.83203125
+Dataset Windows size 200 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.311852]
+Used memory
+365.9296875
+Dataset Windows size 200 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.333307]
+Used memory
+365.7578125
+Dataset Windows size 200 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.192150]
+Used memory
+365.75390625
+Dataset Windows size 200 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.300210]
+Used memory
+365.8359375
+Dataset Windows size 200 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.325648]
+Used memory
+365.96484375
+Dataset Windows size 200 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.258411]
+Used memory
+366.26171875
+Dataset Windows size 200 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.357798]
+Used memory
+365.71484375
+Dataset Windows size 200 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.186785]
+Used memory
+365.69140625
+Dataset Windows size 200 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:19.374860]
+Used memory
+365.96875
+Dataset Windows size 300 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:28.794772]
+Used memory
+513.88671875
+Dataset Windows size 300 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:29.083749]
+Used memory
+513.58203125
+Dataset Windows size 300 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:29.001019]
+Used memory
+513.55859375
+Dataset Windows size 300 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:28.775435]
+Used memory
+513.82421875
+Dataset Windows size 300 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:28.989380]
+Used memory
+513.671875
+Dataset Windows size 300 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:28.962200]
+Used memory
+513.7421875
+Dataset Windows size 300 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:29.010830]
+Used memory
+513.76171875
+Dataset Windows size 300 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:29.140059]
+Used memory
+513.578125
+Dataset Windows size 300 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:29.184998]
+Used memory
+514.171875
+Dataset Windows size 300 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:28.944956]
+Used memory
+513.68359375
+Dataset Windows size 500 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:48.770442]
+Used memory
+800.09375
+Dataset Windows size 500 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:48.873361]
+Used memory
+799.72265625
+Dataset Windows size 500 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:49.074365]
+Used memory
+799.640625
+Dataset Windows size 500 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:49.316168]
+Used memory
+799.765625
+Dataset Windows size 500 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:49.475077]
+Used memory
+799.81640625
+Dataset Windows size 500 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:49.327078]
+Used memory
+799.75
+Dataset Windows size 500 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:49.218539]
+Used memory
+799.5625
+Dataset Windows size 500 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:49.166843]
+Used memory
+799.91796875
+Dataset Windows size 500 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:49.341237]
+Used memory
+800.1015625
+Dataset Windows size 500 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:49.187379]
+Used memory
+799.828125
+Dataset Windows size 1000 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:38.432705]
+Used memory
+1520.265625
+Dataset Windows size 1000 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:39.015442]
+Used memory
+1520.546875
+Dataset Windows size 1000 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:37.990512]
+Used memory
+1520.33984375
+Dataset Windows size 1000 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:38.528599]
+Used memory
+1520.84765625
+Dataset Windows size 1000 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:38.541301]
+Used memory
+1520.5390625
+Dataset Windows size 1000 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:39.478905]
+Used memory
+1520.8671875
+Dataset Windows size 1000 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:39.400307]
+Used memory
+1520.44140625
+Dataset Windows size 1000 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:40.601373]
+Used memory
+1520.51171875
+Dataset Windows size 1000 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:39.376354]
+Used memory
+1520.421875
+Dataset Windows size 1000 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:01:39.390902]
+Used memory
+1520.53125
+Dataset OpenSSH size 200 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:20.347067]
+Used memory
+315.71484375
+Dataset OpenSSH size 200 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:20.313101]
+Used memory
+316.109375
+Dataset OpenSSH size 200 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:20.285812]
+Used memory
+315.78515625
+Dataset OpenSSH size 200 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:20.311818]
+Used memory
+315.94140625
+Dataset OpenSSH size 200 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:20.788164]
+Used memory
+316.03515625
+Dataset OpenSSH size 200 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:20.535774]
+Used memory
+315.99609375
+Dataset OpenSSH size 200 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:20.451505]
+Used memory
+316.109375
+Dataset OpenSSH size 200 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:20.268970]
+Used memory
+315.93359375
+Dataset OpenSSH size 200 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:20.355338]
+Used memory
+315.6640625
+Dataset OpenSSH size 200 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:20.358019]
+Used memory
+315.81640625
+Dataset OpenSSH size 300 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:30.486609]
+Used memory
+428.328125
+Dataset OpenSSH size 300 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:30.727571]
+Used memory
+428.13671875
+Dataset OpenSSH size 300 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:30.777454]
+Used memory
+428.3203125
+Dataset OpenSSH size 300 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:30.665386]
+Used memory
+428.0234375
+Dataset OpenSSH size 300 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:30.753900]
+Used memory
+428.29296875
+Dataset OpenSSH size 300 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:30.550533]
+Used memory
+428.125
+Dataset OpenSSH size 300 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:31.051462]
+Used memory
+427.79296875
+Dataset OpenSSH size 300 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:30.557392]
+Used memory
+428.33203125
+Dataset OpenSSH size 300 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:30.430099]
+Used memory
+428.0859375
+Dataset OpenSSH size 300 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:30.334061]
+Used memory
+427.90625
+Dataset OpenSSH size 500 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:52.494245]
+Used memory
+650.0390625
+Dataset OpenSSH size 500 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:51.674697]
+Used memory
+649.9140625
+Dataset OpenSSH size 500 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:51.549235]
+Used memory
+649.984375
+Dataset OpenSSH size 500 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:51.591153]
+Used memory
+649.9296875
+Dataset OpenSSH size 500 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:51.713142]
+Used memory
+649.9140625
+Dataset OpenSSH size 500 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:51.662780]
+Used memory
+649.67578125
+Dataset OpenSSH size 500 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:51.834187]
+Used memory
+649.75
+Dataset OpenSSH size 500 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:51.922858]
+Used memory
+649.5859375
+Dataset OpenSSH size 500 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:51.671558]
+Used memory
+649.46875
+Dataset OpenSSH size 500 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:52.384590]
+Used memory
+649.75390625
+Dataset BGL size 200 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:16.732272]
+Used memory
+314.53125
+Dataset BGL size 200 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:16.980371]
+Used memory
+314.83984375
+Dataset BGL size 200 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:16.623876]
+Used memory
+314.5390625
+Dataset BGL size 200 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:16.589222]
+Used memory
+314.24609375
+Dataset BGL size 200 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:16.508869]
+Used memory
+314.28515625
+Dataset BGL size 200 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:16.573314]
+Used memory
+314.29296875
+Dataset BGL size 200 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:16.614382]
+Used memory
+314.53125
+Dataset BGL size 200 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:16.453716]
+Used memory
+314.73046875
+Dataset BGL size 200 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:16.457376]
+Used memory
+314.078125
+Dataset BGL size 200 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:16.670791]
+Used memory
+314.18359375
+Dataset BGL size 300 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:25.039633]
+Used memory
+429.05078125
+Dataset BGL size 300 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:24.983502]
+Used memory
+429.26953125
+Dataset BGL size 300 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:25.028389]
+Used memory
+429.25
+Dataset BGL size 300 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:25.303810]
+Used memory
+429.296875
+Dataset BGL size 300 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:25.041444]
+Used memory
+429.05078125
+Dataset BGL size 300 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:25.244980]
+Used memory
+428.98828125
+Dataset BGL size 300 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:25.309692]
+Used memory
+429.27734375
+Dataset BGL size 300 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:25.594042]
+Used memory
+429.58203125
+Dataset BGL size 300 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:25.247486]
+Used memory
+429.13671875
+Dataset BGL size 300 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:00:25.240147]
+Used memory
+429.05078125
+
+R2
+Dataset Thunderbird size 2000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:03:51.849693]
+Used memory
+2625.87890625
+Dataset Thunderbird size 2000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:03:54.919382]
+Used memory
+2626.01171875
+Dataset Thunderbird size 4000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:07:39.623184]
+Used memory
+5735.63671875
+Dataset Thunderbird size 4000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:07:40.806499]
+Used memory
+5735.59765625
+Dataset Thunderbird size 10000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:18:36.073906]
+Used memory
+14272.5078125
+Dataset Thunderbird size 10000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:18:52.985323]
+Used memory
+14272.640625
+Dataset Thunderbird size 10000 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:18:36.587325]
+Used memory
+14272.8046875
+Dataset Thunderbird size 20000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:36:36.207666]
+Used memory
+27740.3125
+Dataset Thunderbird size 20000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20000k.log
+First pass done.
+Second pass done.
+Parsing done. [Time taken: 0:37:02.463042]
+Used memory
+27759.5859375

@@ -1,0 +1,600 @@
+Dataset OpenSSH size 1 run no 1
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [179] lines...
+Parsing done. [Time taken: 0:00:05.668667]
+Used memory
+101.46875
+Dataset OpenSSH size 1 run no 2
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [179] lines...
+Parsing done. [Time taken: 0:00:05.767337]
+Used memory
+101.92578125
+Dataset OpenSSH size 1 run no 3
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [179] lines...
+Parsing done. [Time taken: 0:00:05.665386]
+Used memory
+101.97265625
+Dataset OpenSSH size 1 run no 4
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [179] lines...
+Parsing done. [Time taken: 0:00:05.680852]
+Used memory
+101.9765625
+Dataset OpenSSH size 1 run no 5
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [179] lines...
+Parsing done. [Time taken: 0:00:05.689059]
+Used memory
+101.4765625
+Dataset OpenSSH size 1 run no 6
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [179] lines...
+Parsing done. [Time taken: 0:00:05.752870]
+Used memory
+101.74609375
+Dataset OpenSSH size 1 run no 7
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [179] lines...
+Parsing done. [Time taken: 0:00:05.655511]
+Used memory
+101.5859375
+Dataset OpenSSH size 1 run no 8
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [179] lines...
+Parsing done. [Time taken: 0:00:05.696862]
+Used memory
+102.20703125
+Dataset OpenSSH size 1 run no 9
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [179] lines...
+Parsing done. [Time taken: 0:00:05.725499]
+Used memory
+101.734375
+Dataset OpenSSH size 1 run no 10
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [179] lines...
+Parsing done. [Time taken: 0:00:05.441701]
+Used memory
+101.73828125
+Dataset OpenSSH size 2 run no 1
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [196] lines...
+Parsing done. [Time taken: 0:00:05.960259]
+Used memory
+102.32421875
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH     0.99759      0.54
+Dataset OpenSSH size 2 run no 2
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [196] lines...
+Parsing done. [Time taken: 0:00:05.908923]
+Used memory
+102.5703125
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH     0.99759      0.54
+Dataset OpenSSH size 2 run no 3
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [196] lines...
+Parsing done. [Time taken: 0:00:05.915394]
+Used memory
+102.31640625
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH     0.99759      0.54
+Dataset OpenSSH size 2 run no 4
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [196] lines...
+Parsing done. [Time taken: 0:00:05.906790]
+Used memory
+102.66796875
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH     0.99759      0.54
+Dataset OpenSSH size 2 run no 5
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [196] lines...
+Parsing done. [Time taken: 0:00:05.955428]
+Used memory
+102.390625
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH     0.99759      0.54
+Dataset OpenSSH size 2 run no 6
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [196] lines...
+Parsing done. [Time taken: 0:00:05.895522]
+Used memory
+102.15625
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH     0.99759      0.54
+Dataset OpenSSH size 2 run no 7
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [196] lines...
+Parsing done. [Time taken: 0:00:05.922591]
+Used memory
+102.5390625
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH     0.99759      0.54
+Dataset OpenSSH size 2 run no 8
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [196] lines...
+Parsing done. [Time taken: 0:00:05.934716]
+Used memory
+102.26953125
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH     0.99759      0.54
+Dataset OpenSSH size 2 run no 9
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [196] lines...
+Parsing done. [Time taken: 0:00:05.899599]
+Used memory
+102.8203125
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH     0.99759      0.54
+Dataset OpenSSH size 2 run no 10
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [196] lines...
+Parsing done. [Time taken: 0:00:05.947370]
+Used memory
+102.4921875
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH     0.99759      0.54
+Dataset OpenSSH size 4 run no 1
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [206] lines...
+Parsing done. [Time taken: 0:00:06.405710]
+Used memory
+103.99609375
+Dataset OpenSSH size 4 run no 2
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [206] lines...
+Parsing done. [Time taken: 0:00:06.400195]
+Used memory
+104.2890625
+Dataset OpenSSH size 4 run no 3
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [206] lines...
+Parsing done. [Time taken: 0:00:06.532777]
+Used memory
+104.2109375
+Dataset OpenSSH size 4 run no 4
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [206] lines...
+Parsing done. [Time taken: 0:00:06.557649]
+Used memory
+103.71484375
+Dataset OpenSSH size 4 run no 5
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [206] lines...
+Parsing done. [Time taken: 0:00:06.335146]
+Used memory
+103.96875
+Dataset OpenSSH size 4 run no 6
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [206] lines...
+Parsing done. [Time taken: 0:00:06.588417]
+Used memory
+104.02734375
+Dataset OpenSSH size 4 run no 7
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [206] lines...
+Parsing done. [Time taken: 0:00:06.489866]
+Used memory
+104.37109375
+Dataset OpenSSH size 4 run no 8
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [206] lines...
+Parsing done. [Time taken: 0:00:06.509506]
+Used memory
+103.9453125
+Dataset OpenSSH size 4 run no 9
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [206] lines...
+Parsing done. [Time taken: 0:00:06.500103]
+Used memory
+104.04296875
+Dataset OpenSSH size 4 run no 10
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [206] lines...
+Parsing done. [Time taken: 0:00:06.455449]
+Used memory
+104.08203125
+Dataset OpenSSH size 10 run no 1
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [312] lines...
+Parsing done. [Time taken: 0:00:07.985467]
+Used memory
+107.37890625
+Dataset OpenSSH size 10 run no 2
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [312] lines...
+Parsing done. [Time taken: 0:00:08.025932]
+Used memory
+107.38671875
+Dataset OpenSSH size 10 run no 3
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [312] lines...
+Parsing done. [Time taken: 0:00:08.016219]
+Used memory
+107.46875
+Dataset OpenSSH size 10 run no 4
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [312] lines...
+Parsing done. [Time taken: 0:00:08.185880]
+Used memory
+107.5390625
+Dataset OpenSSH size 10 run no 5
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [312] lines...
+Parsing done. [Time taken: 0:00:08.033608]
+Used memory
+109.86328125
+Dataset OpenSSH size 10 run no 6
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [312] lines...
+Parsing done. [Time taken: 0:00:08.144015]
+Used memory
+109.83984375
+Dataset OpenSSH size 10 run no 7
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [312] lines...
+Parsing done. [Time taken: 0:00:08.108675]
+Used memory
+107.296875
+Dataset OpenSSH size 10 run no 8
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [312] lines...
+Parsing done. [Time taken: 0:00:08.113374]
+Used memory
+107.421875
+Dataset OpenSSH size 10 run no 9
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [312] lines...
+Parsing done. [Time taken: 0:00:08.167224]
+Used memory
+109.8984375
+Dataset OpenSSH size 10 run no 10
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [312] lines...
+Parsing done. [Time taken: 0:00:08.136932]
+Used memory
+109.64453125
+Dataset OpenSSH size 20 run no 1
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [341] lines...
+Parsing done. [Time taken: 0:00:09.788983]
+Used memory
+117.11328125
+Dataset OpenSSH size 20 run no 2
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [341] lines...
+Parsing done. [Time taken: 0:00:09.685220]
+Used memory
+117.34375
+Dataset OpenSSH size 20 run no 3
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [341] lines...
+Parsing done. [Time taken: 0:00:09.765376]
+Used memory
+117.6484375
+Dataset OpenSSH size 20 run no 4
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [341] lines...
+Parsing done. [Time taken: 0:00:09.829116]
+Used memory
+116.8046875
+Dataset OpenSSH size 20 run no 5
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [341] lines...
+Parsing done. [Time taken: 0:00:09.952668]
+Used memory
+117.921875
+Dataset OpenSSH size 20 run no 6
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [341] lines...
+Parsing done. [Time taken: 0:00:09.683911]
+Used memory
+117.1953125
+Dataset OpenSSH size 20 run no 7
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [341] lines...
+Parsing done. [Time taken: 0:00:09.541364]
+Used memory
+118.0859375
+Dataset OpenSSH size 20 run no 8
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [341] lines...
+Parsing done. [Time taken: 0:00:09.679971]
+Used memory
+117.51171875
+Dataset OpenSSH size 20 run no 9
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [341] lines...
+Parsing done. [Time taken: 0:00:09.476367]
+Used memory
+117.421875
+Dataset OpenSSH size 20 run no 10
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [341] lines...
+Parsing done. [Time taken: 0:00:09.567080]
+Used memory
+117.765625
+Dataset OpenSSH size 50 run no 1
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [752] lines...
+Parsing done. [Time taken: 0:00:18.338335]
+Used memory
+140.16015625
+Dataset OpenSSH size 50 run no 2
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [752] lines...
+Parsing done. [Time taken: 0:00:18.699397]
+Used memory
+140.3828125
+Dataset OpenSSH size 50 run no 3
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [752] lines...
+Parsing done. [Time taken: 0:00:18.405593]
+Used memory
+139.921875
+Dataset OpenSSH size 50 run no 4
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [752] lines...
+Parsing done. [Time taken: 0:00:18.864133]
+Used memory
+140.078125
+Dataset OpenSSH size 50 run no 5
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [752] lines...
+Parsing done. [Time taken: 0:00:18.422048]
+Used memory
+140.09375
+Dataset OpenSSH size 50 run no 6
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [752] lines...
+Parsing done. [Time taken: 0:00:18.303922]
+Used memory
+140.29296875
+Dataset OpenSSH size 50 run no 7
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [752] lines...
+Parsing done. [Time taken: 0:00:18.709647]
+Used memory
+140.19921875
+Dataset OpenSSH size 50 run no 8
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [752] lines...
+Parsing done. [Time taken: 0:00:18.826098]
+Used memory
+139.9765625
+Dataset OpenSSH size 50 run no 9
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [752] lines...
+Parsing done. [Time taken: 0:00:18.582726]
+Used memory
+139.765625
+Dataset OpenSSH size 50 run no 10
+
+=== Evaluation on OpenSSH ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [752] lines...
+Parsing done. [Time taken: 0:00:18.386666]
+Used memory
+140.10546875

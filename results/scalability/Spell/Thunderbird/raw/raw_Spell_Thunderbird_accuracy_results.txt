@@ -1,0 +1,150 @@
+Dataset Thunderbird size 2 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.451947]
+Used memory
+92.83984375
+Precision: 0.9901, Recall: 0.9989, F1_measure: 0.9945, Parsing_Accuracy: 0.8435
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.994456    0.8435
+Dataset Thunderbird size 2 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.453743]
+Used memory
+92.99609375
+Precision: 0.9901, Recall: 0.9989, F1_measure: 0.9945, Parsing_Accuracy: 0.8435
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.994456    0.8435
+Dataset Thunderbird size 2 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.451426]
+Used memory
+92.65625
+Precision: 0.9901, Recall: 0.9989, F1_measure: 0.9945, Parsing_Accuracy: 0.8435
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.994456    0.8435
+Dataset Thunderbird size 2 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.451757]
+Used memory
+92.86328125
+Precision: 0.9901, Recall: 0.9989, F1_measure: 0.9945, Parsing_Accuracy: 0.8435
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.994456    0.8435
+Dataset Thunderbird size 2 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.459426]
+Used memory
+92.87109375
+Precision: 0.9901, Recall: 0.9989, F1_measure: 0.9945, Parsing_Accuracy: 0.8435
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.994456    0.8435
+Dataset Thunderbird size 2 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.453754]
+Used memory
+93.27734375
+Precision: 0.9901, Recall: 0.9989, F1_measure: 0.9945, Parsing_Accuracy: 0.8435
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.994456    0.8435
+Dataset Thunderbird size 2 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.458530]
+Used memory
+92.64453125
+Precision: 0.9901, Recall: 0.9989, F1_measure: 0.9945, Parsing_Accuracy: 0.8435
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.994456    0.8435
+Dataset Thunderbird size 2 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.454668]
+Used memory
+92.83984375
+Precision: 0.9901, Recall: 0.9989, F1_measure: 0.9945, Parsing_Accuracy: 0.8435
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.994456    0.8435
+Dataset Thunderbird size 2 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.465924]
+Used memory
+92.9609375
+Precision: 0.9901, Recall: 0.9989, F1_measure: 0.9945, Parsing_Accuracy: 0.8435
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.994456    0.8435
+Dataset Thunderbird size 2 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Processed 50.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:00:00.452121]
+Used memory
+93.0078125
+Precision: 0.9901, Recall: 0.9989, F1_measure: 0.9945, Parsing_Accuracy: 0.8435
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.994456    0.8435

@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+LogMine,Windows,2,1.0000,1.0000,1.0000,0.9925,1
+LogMine,Windows,2,1.0000,1.0000,1.0000,0.9925,2
+LogMine,Windows,2,1.0000,1.0000,1.0000,0.9925,3
+LogMine,Windows,2,1.0000,1.0000,1.0000,0.9925,4
+LogMine,Windows,2,1.0000,1.0000,1.0000,0.9925,5
+LogMine,Windows,2,1.0000,1.0000,1.0000,0.9925,6
+LogMine,Windows,2,1.0000,1.0000,1.0000,0.9925,7
+LogMine,Windows,2,1.0000,1.0000,1.0000,0.9925,8
+LogMine,Windows,2,1.0000,1.0000,1.0000,0.9925,9
+LogMine,Windows,2,1.0000,1.0000,1.0000,0.9925,10

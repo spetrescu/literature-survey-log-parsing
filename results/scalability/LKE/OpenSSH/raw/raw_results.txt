@@ -1,0 +1,633 @@
+Dataset OpenSSH size 1 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 1000 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+the threshold1 is: [5.72163647]
+================get the initial groups splitting=============
+there are 14 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 323 different groups
+Parsing done. [Time taken: 0:01:08.333884]
+Used memory
+147.3359375
+Dataset OpenSSH size 1 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.72163647]
+================get the initial groups splitting=============
+there are 14 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 323 different groups
+Parsing done. [Time taken: 0:00:21.542080]
+Used memory
+289.9921875
+Dataset OpenSSH size 1 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.72163647]
+================get the initial groups splitting=============
+there are 14 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 323 different groups
+Parsing done. [Time taken: 0:00:15.647531]
+Used memory
+289.51171875
+Dataset OpenSSH size 1 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.72163647]
+================get the initial groups splitting=============
+there are 14 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 323 different groups
+Parsing done. [Time taken: 0:00:39.629705]
+Used memory
+290.64453125
+Dataset OpenSSH size 1 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.72163647]
+================get the initial groups splitting=============
+there are 14 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 323 different groups
+Parsing done. [Time taken: 0:00:21.588547]
+Used memory
+289.69140625
+Dataset OpenSSH size 1 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.72163647]
+================get the initial groups splitting=============
+there are 14 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 323 different groups
+Parsing done. [Time taken: 0:00:12.885922]
+Used memory
+291.40234375
+Dataset OpenSSH size 1 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.72163647]
+================get the initial groups splitting=============
+there are 14 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 323 different groups
+Parsing done. [Time taken: 0:00:19.026097]
+Used memory
+289.76171875
+Dataset OpenSSH size 1 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.72163647]
+================get the initial groups splitting=============
+there are 14 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 323 different groups
+Parsing done. [Time taken: 0:00:38.851479]
+Used memory
+289.71875
+Dataset OpenSSH size 1 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.72163647]
+================get the initial groups splitting=============
+there are 14 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 323 different groups
+Parsing done. [Time taken: 0:00:15.667725]
+Used memory
+289.4921875
+Dataset OpenSSH size 1 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.72163647]
+================get the initial groups splitting=============
+there are 14 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 323 different groups
+Parsing done. [Time taken: 0:00:21.278279]
+Used memory
+289.8828125
+Dataset OpenSSH size 2 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 275 different groups
+Parsing done. [Time taken: 0:03:18.331559]
+Used memory
+307.5859375
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 275 different groups
+Parsing done. [Time taken: 0:01:14.520901]
+Used memory
+913.28125
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 275 different groups
+Parsing done. [Time taken: 0:01:48.610776]
+Used memory
+898.80859375
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 275 different groups
+Parsing done. [Time taken: 0:01:14.622554]
+Used memory
+899.32421875
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 275 different groups
+Parsing done. [Time taken: 0:01:03.161917]
+Used memory
+914.046875
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 275 different groups
+Parsing done. [Time taken: 0:01:13.295793]
+Used memory
+904.65625
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 275 different groups
+Parsing done. [Time taken: 0:01:02.768179]
+Used memory
+904.00390625
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 275 different groups
+Parsing done. [Time taken: 0:01:25.977581]
+Used memory
+910.890625
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 275 different groups
+Parsing done. [Time taken: 0:01:02.555255]
+Used memory
+905.17578125
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 275 different groups
+Parsing done. [Time taken: 0:01:03.012161]
+Used memory
+911.5234375
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 4 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 4000 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 311 different groups
+Parsing done. [Time taken: 0:13:40.436523]
+Used memory
+969.26171875
+Dataset OpenSSH size 4 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 311 different groups
+Parsing done. [Time taken: 0:04:55.200145]
+Used memory
+3372.11328125
+Dataset OpenSSH size 4 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 311 different groups
+Parsing done. [Time taken: 0:04:57.996226]
+Used memory
+3364.5703125
+Dataset OpenSSH size 4 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 311 different groups
+Parsing done. [Time taken: 0:04:09.791048]
+Used memory
+3371.12109375
+Dataset OpenSSH size 4 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 311 different groups
+Parsing done. [Time taken: 0:05:41.684355]
+Used memory
+3366.47265625
+Dataset OpenSSH size 4 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 311 different groups
+Parsing done. [Time taken: 0:04:09.713523]
+Used memory
+3367.43359375
+Dataset OpenSSH size 4 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 311 different groups
+Parsing done. [Time taken: 0:04:10.122921]
+Used memory
+3365.55078125
+Dataset OpenSSH size 4 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 311 different groups
+Parsing done. [Time taken: 0:03:25.138243]
+Used memory
+3374.046875
+Dataset OpenSSH size 4 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 311 different groups
+Parsing done. [Time taken: 0:05:44.264854]
+Used memory
+3372.1484375
+Dataset OpenSSH size 4 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.52888322]
+================get the initial groups splitting=============
+there are 13 groups
+splitting into different groups...
+the split_threshold is 100
+Merge the lists together...
+there are 311 different groups
+Parsing done. [Time taken: 0:06:27.524257]
+Used memory
+3376.59765625

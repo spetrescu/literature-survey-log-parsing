@@ -1,0 +1,310 @@
+Dataset Windows size 1 run no 1
+
+Parsing done. [Time: 0:00:00.594817]
+Used memory
+89.23828125
+Dataset Windows size 1 run no 2
+
+Parsing done. [Time: 0:00:00.596766]
+Used memory
+89.25
+Dataset Windows size 1 run no 3
+
+Parsing done. [Time: 0:00:00.601457]
+Used memory
+89.6015625
+Dataset Windows size 1 run no 4
+
+Parsing done. [Time: 0:00:00.602758]
+Used memory
+89.44921875
+Dataset Windows size 1 run no 5
+
+Parsing done. [Time: 0:00:00.594917]
+Used memory
+89.6015625
+Dataset Windows size 1 run no 6
+
+Parsing done. [Time: 0:00:00.596458]
+Used memory
+89.69921875
+Dataset Windows size 1 run no 7
+
+Parsing done. [Time: 0:00:00.602088]
+Used memory
+89.63671875
+Dataset Windows size 1 run no 8
+
+Parsing done. [Time: 0:00:00.594010]
+Used memory
+89.76171875
+Dataset Windows size 1 run no 9
+
+Parsing done. [Time: 0:00:00.599570]
+Used memory
+89.6171875
+Dataset Windows size 1 run no 10
+
+Parsing done. [Time: 0:00:00.617451]
+Used memory
+89.63671875
+Dataset Windows size 2 run no 1
+
+Parsing done. [Time: 0:00:00.795434]
+Used memory
+91.109375
+Precision: 0.9994, Recall: 0.8303, F1_measure: 0.9071, Parsing_Accuracy: 0.6965
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.907062    0.6965
+Dataset Windows size 2 run no 2
+
+Parsing done. [Time: 0:00:00.803741]
+Used memory
+91.10546875
+Precision: 0.9994, Recall: 0.8303, F1_measure: 0.9071, Parsing_Accuracy: 0.6965
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.907062    0.6965
+Dataset Windows size 2 run no 3
+
+Parsing done. [Time: 0:00:00.817629]
+Used memory
+90.8828125
+Precision: 0.9994, Recall: 0.8303, F1_measure: 0.9071, Parsing_Accuracy: 0.6965
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.907062    0.6965
+Dataset Windows size 2 run no 4
+
+Parsing done. [Time: 0:00:00.797303]
+Used memory
+91.21484375
+Precision: 0.9994, Recall: 0.8303, F1_measure: 0.9071, Parsing_Accuracy: 0.6965
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.907062    0.6965
+Dataset Windows size 2 run no 5
+
+Parsing done. [Time: 0:00:00.795379]
+Used memory
+90.890625
+Precision: 0.9994, Recall: 0.8303, F1_measure: 0.9071, Parsing_Accuracy: 0.6965
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.907062    0.6965
+Dataset Windows size 2 run no 6
+
+Parsing done. [Time: 0:00:00.811028]
+Used memory
+91.2734375
+Precision: 0.9994, Recall: 0.8303, F1_measure: 0.9071, Parsing_Accuracy: 0.6965
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.907062    0.6965
+Dataset Windows size 2 run no 7
+
+Parsing done. [Time: 0:00:00.820568]
+Used memory
+91.32421875
+Precision: 0.9994, Recall: 0.8303, F1_measure: 0.9071, Parsing_Accuracy: 0.6965
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.907062    0.6965
+Dataset Windows size 2 run no 8
+
+Parsing done. [Time: 0:00:00.799319]
+Used memory
+91.2578125
+Precision: 0.9994, Recall: 0.8303, F1_measure: 0.9071, Parsing_Accuracy: 0.6965
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.907062    0.6965
+Dataset Windows size 2 run no 9
+
+Parsing done. [Time: 0:00:00.812073]
+Used memory
+91.0390625
+Precision: 0.9994, Recall: 0.8303, F1_measure: 0.9071, Parsing_Accuracy: 0.6965
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.907062    0.6965
+Dataset Windows size 2 run no 10
+
+Parsing done. [Time: 0:00:00.787561]
+Used memory
+90.82421875
+Precision: 0.9994, Recall: 0.8303, F1_measure: 0.9071, Parsing_Accuracy: 0.6965
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.907062    0.6965
+Dataset Windows size 4 run no 1
+
+Parsing done. [Time: 0:04:57.189435]
+Used memory
+96.59375
+Dataset Windows size 4 run no 2
+
+Parsing done. [Time: 0:04:55.065791]
+Used memory
+96.08984375
+Dataset Windows size 4 run no 3
+
+Parsing done. [Time: 0:04:53.576736]
+Used memory
+96.12109375
+Dataset Windows size 4 run no 4
+
+Parsing done. [Time: 0:04:55.822242]
+Used memory
+96.0625
+Dataset Windows size 4 run no 5
+
+Parsing done. [Time: 0:04:54.416844]
+Used memory
+96.30078125
+Dataset Windows size 4 run no 6
+
+Parsing done. [Time: 0:04:56.440974]
+Used memory
+96.546875
+Dataset Windows size 4 run no 7
+
+Parsing done. [Time: 0:04:54.490677]
+Used memory
+96.26171875
+Dataset Windows size 4 run no 8
+
+Parsing done. [Time: 0:04:54.118430]
+Used memory
+96.1875
+Dataset Windows size 4 run no 9
+
+Parsing done. [Time: 0:04:53.642927]
+Used memory
+96.15625
+Dataset Windows size 4 run no 10
+
+Parsing done. [Time: 0:04:57.278998]
+Used memory
+96.56640625
+Dataset Windows size 10 run no 1
+
+Parsing done. [Time: 0:12:57.967559]
+Used memory
+106.05078125
+Dataset Windows size 10 run no 2
+
+Parsing done. [Time: 0:13:01.713871]
+Used memory
+105.99609375
+Dataset Windows size 10 run no 3
+
+Parsing done. [Time: 0:13:01.647172]
+Used memory
+105.9375
+Dataset Windows size 10 run no 4
+
+Parsing done. [Time: 0:12:56.915851]
+Used memory
+106.046875
+Dataset Windows size 10 run no 5
+
+Parsing done. [Time: 0:12:56.088373]
+Used memory
+105.96875
+Dataset Windows size 10 run no 6
+
+Parsing done. [Time: 0:13:04.895007]
+Used memory
+106.64453125
+Dataset Windows size 10 run no 7
+
+Parsing done. [Time: 0:12:57.269606]
+Used memory
+105.875
+Dataset Windows size 10 run no 8
+
+Parsing done. [Time: 0:12:59.999872]
+Used memory
+106.1171875
+Dataset Windows size 10 run no 9
+
+Parsing done. [Time: 0:12:53.956725]
+Used memory
+106.140625
+Dataset Windows size 10 run no 10
+
+Parsing done. [Time: 0:12:56.322275]
+Used memory
+106.1796875
+Dataset Windows size 20 run no 1
+
+Parsing done. [Time: 0:26:38.847159]
+Used memory
+122.625
+Dataset Windows size 20 run no 2
+
+Parsing done. [Time: 0:26:33.525182]
+Used memory
+122.4140625
+Dataset Windows size 20 run no 3
+
+Parsing done. [Time: 0:26:36.297265]
+Used memory
+122.73828125
+Dataset Windows size 20 run no 4
+
+Parsing done. [Time: 0:26:10.756466]
+Used memory
+122.42578125
+Dataset Windows size 20 run no 5
+
+Parsing done. [Time: 0:26:22.391148]
+Used memory
+122.7578125
+Dataset Windows size 20 run no 6
+
+Parsing done. [Time: 0:26:15.877681]
+Used memory
+122.40234375
+Dataset Windows size 20 run no 7
+
+Parsing done. [Time: 0:26:08.991229]
+Used memory
+122.67578125
+Dataset Windows size 20 run no 8
+
+Parsing done. [Time: 0:26:16.434414]
+Used memory
+122.6796875
+Dataset Windows size 20 run no 9
+
+Parsing done. [Time: 0:26:17.920044]
+Used memory
+122.43359375
+Dataset Windows size 20 run no 10
+
+Parsing done. [Time: 0:26:19.262703]
+Used memory
+122.6328125

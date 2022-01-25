@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+Spell,Windows,2,1.0000,1.0000,1.0000,0.9885,1
+Spell,Windows,2,1.0000,1.0000,1.0000,0.9885,2
+Spell,Windows,2,1.0000,1.0000,1.0000,0.9885,3
+Spell,Windows,2,1.0000,1.0000,1.0000,0.9885,4
+Spell,Windows,2,1.0000,1.0000,1.0000,0.9885,5
+Spell,Windows,2,1.0000,1.0000,1.0000,0.9885,6
+Spell,Windows,2,1.0000,1.0000,1.0000,0.9885,7
+Spell,Windows,2,1.0000,1.0000,1.0000,0.9885,8
+Spell,Windows,2,1.0000,1.0000,1.0000,0.9885,9
+Spell,Windows,2,1.0000,1.0000,1.0000,0.9885,10

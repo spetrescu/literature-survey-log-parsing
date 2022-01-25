@@ -1,0 +1,774 @@
+Dataset Thunderbird size 1 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:02.777024]
+Used memory
+127.15234375
+Dataset Thunderbird size 1 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:02.813528]
+Used memory
+127.0703125
+Dataset Thunderbird size 1 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:02.748641]
+Used memory
+127.08203125
+Dataset Thunderbird size 1 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:02.785994]
+Used memory
+127.0390625
+Dataset Thunderbird size 1 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:02.808285]
+Used memory
+127.10546875
+Dataset Thunderbird size 1 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:02.777349]
+Used memory
+127.55078125
+Dataset Thunderbird size 1 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:02.772213]
+Used memory
+127.2109375
+Dataset Thunderbird size 1 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:02.774677]
+Used memory
+127.234375
+Dataset Thunderbird size 1 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:02.791639]
+Used memory
+127.08203125
+Dataset Thunderbird size 1 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+Parsing done. [Time taken: 0:00:02.747036]
+Used memory
+126.85546875
+Dataset Thunderbird size 2 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:02.786742]
+Used memory
+128.1484375
+Precision: 0.9684, Recall: 0.8604, F1_measure: 0.9112, Parsing_Accuracy: 0.5760
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.911185     0.576
+Dataset Thunderbird size 2 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:02.767938]
+Used memory
+128.125
+Precision: 0.9684, Recall: 0.8604, F1_measure: 0.9112, Parsing_Accuracy: 0.5760
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.911185     0.576
+Dataset Thunderbird size 2 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:02.778277]
+Used memory
+128.09765625
+Precision: 0.9684, Recall: 0.8604, F1_measure: 0.9112, Parsing_Accuracy: 0.5760
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.911185     0.576
+Dataset Thunderbird size 2 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:02.764981]
+Used memory
+128.01953125
+Precision: 0.9684, Recall: 0.8604, F1_measure: 0.9112, Parsing_Accuracy: 0.5760
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.911185     0.576
+Dataset Thunderbird size 2 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:02.763623]
+Used memory
+127.88671875
+Precision: 0.9684, Recall: 0.8604, F1_measure: 0.9112, Parsing_Accuracy: 0.5760
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.911185     0.576
+Dataset Thunderbird size 2 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:02.747064]
+Used memory
+128.1640625
+Precision: 0.9684, Recall: 0.8604, F1_measure: 0.9112, Parsing_Accuracy: 0.5760
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.911185     0.576
+Dataset Thunderbird size 2 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:02.774613]
+Used memory
+128.19140625
+Precision: 0.9684, Recall: 0.8604, F1_measure: 0.9112, Parsing_Accuracy: 0.5760
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.911185     0.576
+Dataset Thunderbird size 2 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:02.794990]
+Used memory
+128.1796875
+Precision: 0.9684, Recall: 0.8604, F1_measure: 0.9112, Parsing_Accuracy: 0.5760
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.911185     0.576
+Dataset Thunderbird size 2 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:02.770100]
+Used memory
+128.03125
+Precision: 0.9684, Recall: 0.8604, F1_measure: 0.9112, Parsing_Accuracy: 0.5760
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.911185     0.576
+Dataset Thunderbird size 2 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+Parsing done. [Time taken: 0:00:02.787593]
+Used memory
+128.17578125
+Precision: 0.9684, Recall: 0.8604, F1_measure: 0.9112, Parsing_Accuracy: 0.5760
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.911185     0.576
+Dataset Thunderbird size 4 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:13.508026]
+Used memory
+130.08203125
+Dataset Thunderbird size 4 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:13.537914]
+Used memory
+130.4140625
+Dataset Thunderbird size 4 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:13.644671]
+Used memory
+130.83984375
+Dataset Thunderbird size 4 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:13.581748]
+Used memory
+130.57421875
+Dataset Thunderbird size 4 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:13.468316]
+Used memory
+130.11328125
+Dataset Thunderbird size 4 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:13.826335]
+Used memory
+130.65625
+Dataset Thunderbird size 4 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:13.602659]
+Used memory
+130.30078125
+Dataset Thunderbird size 4 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:13.734692]
+Used memory
+130.4375
+Dataset Thunderbird size 4 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:13.724341]
+Used memory
+130.625
+Dataset Thunderbird size 4 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+Parsing done. [Time taken: 0:00:13.784127]
+Used memory
+130.4453125
+Dataset Thunderbird size 10 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:49.709286]
+Used memory
+136.14453125
+Dataset Thunderbird size 10 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:50.337407]
+Used memory
+136.72265625
+Dataset Thunderbird size 10 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:50.039787]
+Used memory
+136.22265625
+Dataset Thunderbird size 10 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:49.910424]
+Used memory
+136.1796875
+Dataset Thunderbird size 10 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:49.947058]
+Used memory
+136.1953125
+Dataset Thunderbird size 10 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:49.667745]
+Used memory
+136.0859375
+Dataset Thunderbird size 10 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:49.869912]
+Used memory
+136.41015625
+Dataset Thunderbird size 10 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:50.306992]
+Used memory
+136.1953125
+Dataset Thunderbird size 10 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:49.379250]
+Used memory
+136.37109375
+Dataset Thunderbird size 10 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+Parsing done. [Time taken: 0:00:49.914173]
+Used memory
+136.40625
+Dataset Thunderbird size 20 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:01:32.832141]
+Used memory
+147.67578125
+Dataset Thunderbird size 20 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:01:32.858874]
+Used memory
+148.2421875
+Dataset Thunderbird size 20 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:01:31.324456]
+Used memory
+147.6953125
+Dataset Thunderbird size 20 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:01:31.608836]
+Used memory
+147.69140625
+Dataset Thunderbird size 20 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:01:33.903351]
+Used memory
+147.8125
+Dataset Thunderbird size 20 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:01:32.450919]
+Used memory
+147.6640625
+Dataset Thunderbird size 20 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:01:31.971836]
+Used memory
+147.65234375
+Dataset Thunderbird size 20 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:01:33.458603]
+Used memory
+147.7734375
+Dataset Thunderbird size 20 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:01:32.148572]
+Used memory
+147.3828125
+Dataset Thunderbird size 20 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_20k.log
+Parsing done. [Time taken: 0:01:31.852849]
+Used memory
+148.0703125
+Dataset Thunderbird size 50 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:03:47.382910]
+Used memory
+176.890625
+Dataset Thunderbird size 50 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:03:52.202301]
+Used memory
+177.3515625
+Dataset Thunderbird size 50 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:03:48.693617]
+Used memory
+177.46875
+Dataset Thunderbird size 50 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:03:50.706224]
+Used memory
+177.1875
+Dataset Thunderbird size 50 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:03:53.269348]
+Used memory
+177.4453125
+Dataset Thunderbird size 50 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:03:51.589576]
+Used memory
+177.1640625
+Dataset Thunderbird size 50 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:03:51.250931]
+Used memory
+177.25390625
+Dataset Thunderbird size 50 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:03:52.077695]
+Used memory
+177.62890625
+Dataset Thunderbird size 50 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:03:47.520536]
+Used memory
+177.16015625
+Dataset Thunderbird size 50 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_50k.log
+Parsing done. [Time taken: 0:03:51.951988]
+Used memory
+177.515625
+Dataset Thunderbird size 100 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:07:15.409776]
+Used memory
+230.3359375
+Dataset Thunderbird size 100 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:07:09.884541]
+Used memory
+230.2265625
+Dataset Thunderbird size 100 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:07:14.775824]
+Used memory
+230.1484375
+Dataset Thunderbird size 100 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:07:18.379345]
+Used memory
+230.42578125
+Dataset Thunderbird size 100 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:07:14.663786]
+Used memory
+230.203125
+Dataset Thunderbird size 100 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:07:17.619709]
+Used memory
+230.29296875
+Dataset Thunderbird size 100 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:07:11.500922]
+Used memory
+229.984375
+Dataset Thunderbird size 100 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:07:16.412036]
+Used memory
+230.13671875
+Dataset Thunderbird size 100 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:07:12.447248]
+Used memory
+230.3125
+Dataset Thunderbird size 100 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_100k.log
+Parsing done. [Time taken: 0:07:12.393529]
+Used memory
+230.5546875
+Dataset Thunderbird size 200 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:12:52.238588]
+Used memory
+322.28125
+Dataset Thunderbird size 200 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:12:53.519915]
+Used memory
+322.2265625
+Dataset Thunderbird size 200 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:12:52.341015]
+Used memory
+322.28515625
+Dataset Thunderbird size 200 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:12:51.725600]
+Used memory
+322.15625
+Dataset Thunderbird size 200 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:12:48.767099]
+Used memory
+322.1953125
+Dataset Thunderbird size 200 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:12:54.891035]
+Used memory
+322.68359375
+Dataset Thunderbird size 200 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:13:05.361852]
+Used memory
+322.6953125
+Dataset Thunderbird size 200 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:13:05.340919]
+Used memory
+322.5625
+Dataset Thunderbird size 200 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:12:55.833260]
+Used memory
+322.2890625
+Dataset Thunderbird size 200 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_200k.log
+Parsing done. [Time taken: 0:12:55.055739]
+Used memory
+322.3203125
+Dataset Thunderbird size 300 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:18:01.865716]
+Used memory
+421.78125
+Dataset Thunderbird size 300 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:18:01.718123]
+Used memory
+422.0703125
+Dataset Thunderbird size 300 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:17:52.382504]
+Used memory
+421.765625
+Dataset Thunderbird size 300 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:17:54.097157]
+Used memory
+421.8046875
+Dataset Thunderbird size 300 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:17:56.578297]
+Used memory
+421.7421875
+Dataset Thunderbird size 300 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:18:07.961677]
+Used memory
+421.42578125
+Dataset Thunderbird size 300 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:18:09.847042]
+Used memory
+421.5
+Dataset Thunderbird size 300 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:17:56.738659]
+Used memory
+421.36328125
+Dataset Thunderbird size 300 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:18:15.161235]
+Used memory
+421.2265625
+Dataset Thunderbird size 300 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_300k.log
+Parsing done. [Time taken: 0:18:15.060106]
+Used memory
+422.2421875
+Dataset Thunderbird size 500 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:20.530457]
+Used memory
+640.81640625
+Dataset Thunderbird size 500 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+ Parsing done. [Time taken: 0:30:37.790073]
+Used memory
+640.88671875
+Dataset Thunderbird size 500 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:54.101595]
+Used memory
+641.30859375
+Dataset Thunderbird size 500 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:31:02.224609]
+Used memory
+641.23046875
+Dataset Thunderbird size 500 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:49.710112]
+Used memory
+641.06640625
+Dataset Thunderbird size 500 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:29.122343]
+Used memory
+640.9609375
+Dataset Thunderbird size 500 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:42.627084]
+Used memory
+641.0390625
+Dataset Thunderbird size 500 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:54.777829]
+Used memory
+641.51953125
+Dataset Thunderbird size 500 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+  Parsing done. [Time taken: 0:30:41.316359]
+Used memory
+640.73828125
+Dataset Thunderbird size 500 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_500k.log
+Parsing done. [Time taken: 0:30:55.670662]
+Used memory
+641.09375
+Dataset Thunderbird size 1000 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+  Parsing done. [Time taken: 1:02:15.559001]
+Used memory
+1158.14453125
+Dataset Thunderbird size 1000 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1000k.log
+ Parsing done. [Time taken: 1:02:16.775545]
+Used memory
+1157.9453125

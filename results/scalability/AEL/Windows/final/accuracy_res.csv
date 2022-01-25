@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+AEL,Windows,2,0.9986,1.0000,0.9993,0.6895,1
+AEL,Windows,2,0.9986,1.0000,0.9993,0.6895,2
+AEL,Windows,2,0.9986,1.0000,0.9993,0.6895,3
+AEL,Windows,2,0.9986,1.0000,0.9993,0.6895,4
+AEL,Windows,2,0.9986,1.0000,0.9993,0.6895,5
+AEL,Windows,2,0.9986,1.0000,0.9993,0.6895,6
+AEL,Windows,2,0.9986,1.0000,0.9993,0.6895,7
+AEL,Windows,2,0.9986,1.0000,0.9993,0.6895,8
+AEL,Windows,2,0.9986,1.0000,0.9993,0.6895,9
+AEL,Windows,2,0.9986,1.0000,0.9993,0.6895,10

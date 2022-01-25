@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+Spell,Thunderbird,2,0.9901,0.9989,0.9945,0.8435,1
+Spell,Thunderbird,2,0.9901,0.9989,0.9945,0.8435,2
+Spell,Thunderbird,2,0.9901,0.9989,0.9945,0.8435,3
+Spell,Thunderbird,2,0.9901,0.9989,0.9945,0.8435,4
+Spell,Thunderbird,2,0.9901,0.9989,0.9945,0.8435,5
+Spell,Thunderbird,2,0.9901,0.9989,0.9945,0.8435,6
+Spell,Thunderbird,2,0.9901,0.9989,0.9945,0.8435,7
+Spell,Thunderbird,2,0.9901,0.9989,0.9945,0.8435,8
+Spell,Thunderbird,2,0.9901,0.9989,0.9945,0.8435,9
+Spell,Thunderbird,2,0.9901,0.9989,0.9945,0.8435,10

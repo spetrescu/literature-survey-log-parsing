@@ -1,0 +1,410 @@
+Dataset HDFS size 1 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:01.331699]
+Used memory
+90.63671875
+Dataset HDFS size 1 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:01.335195]
+Used memory
+90.35546875
+Dataset HDFS size 1 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:01.336334]
+Used memory
+90.3828125
+Dataset HDFS size 1 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:01.332847]
+Used memory
+90.28125
+Dataset HDFS size 1 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:01.330097]
+Used memory
+90.3828125
+Dataset HDFS size 1 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:01.329222]
+Used memory
+90.26953125
+Dataset HDFS size 1 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:01.320501]
+Used memory
+90.5078125
+Dataset HDFS size 1 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:01.324352]
+Used memory
+90.8984375
+Dataset HDFS size 1 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:01.331121]
+Used memory
+90.296875
+Dataset HDFS size 1 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:01.328973]
+Used memory
+90.234375
+Dataset HDFS size 2 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:05.512880]
+Used memory
+91.94921875
+Precision: 0.9977, Recall: 1.0000, F1_measure: 0.9988, Parsing_Accuracy: 0.8505
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS        0.99884    0.8505
+Dataset HDFS size 2 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:05.484166]
+Used memory
+92.46484375
+Precision: 0.9977, Recall: 1.0000, F1_measure: 0.9988, Parsing_Accuracy: 0.8505
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS        0.99884    0.8505
+Dataset HDFS size 2 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:05.492626]
+Used memory
+91.92578125
+Precision: 0.9977, Recall: 1.0000, F1_measure: 0.9988, Parsing_Accuracy: 0.8505
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS        0.99884    0.8505
+Dataset HDFS size 2 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:05.547482]
+Used memory
+92.453125
+Precision: 0.9977, Recall: 1.0000, F1_measure: 0.9988, Parsing_Accuracy: 0.8505
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS        0.99884    0.8505
+Dataset HDFS size 2 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:05.538236]
+Used memory
+92.375
+Precision: 0.9977, Recall: 1.0000, F1_measure: 0.9988, Parsing_Accuracy: 0.8505
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS        0.99884    0.8505
+Dataset HDFS size 2 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:05.551814]
+Used memory
+92.2265625
+Precision: 0.9977, Recall: 1.0000, F1_measure: 0.9988, Parsing_Accuracy: 0.8505
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS        0.99884    0.8505
+Dataset HDFS size 2 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:05.534435]
+Used memory
+92.2890625
+Precision: 0.9977, Recall: 1.0000, F1_measure: 0.9988, Parsing_Accuracy: 0.8505
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS        0.99884    0.8505
+Dataset HDFS size 2 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:05.517387]
+Used memory
+92.2578125
+Precision: 0.9977, Recall: 1.0000, F1_measure: 0.9988, Parsing_Accuracy: 0.8505
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS        0.99884    0.8505
+Dataset HDFS size 2 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:05.513222]
+Used memory
+92.1953125
+Precision: 0.9977, Recall: 1.0000, F1_measure: 0.9988, Parsing_Accuracy: 0.8505
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS        0.99884    0.8505
+Dataset HDFS size 2 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+Parsing done. [Time taken: 0:00:05.537892]
+Used memory
+92.63671875
+Precision: 0.9977, Recall: 1.0000, F1_measure: 0.9988, Parsing_Accuracy: 0.8505
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS        0.99884    0.8505
+Dataset HDFS size 4 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:20.298878]
+Used memory
+98.91015625
+Dataset HDFS size 4 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:20.186765]
+Used memory
+96.8125
+Dataset HDFS size 4 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:20.175292]
+Used memory
+97.16015625
+Dataset HDFS size 4 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:20.249485]
+Used memory
+96.296875
+Dataset HDFS size 4 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:20.201890]
+Used memory
+97.0390625
+Dataset HDFS size 4 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:20.132058]
+Used memory
+96.75390625
+Dataset HDFS size 4 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:20.309361]
+Used memory
+96.59375
+Dataset HDFS size 4 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:20.296112]
+Used memory
+97.59375
+Dataset HDFS size 4 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:20.817742]
+Used memory
+96.54296875
+Dataset HDFS size 4 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+Parsing done. [Time taken: 0:00:20.361629]
+Used memory
+96.5234375
+Dataset HDFS size 10 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:02:06.724222]
+Used memory
+109.359375
+Dataset HDFS size 10 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:02:05.717618]
+Used memory
+109.04296875
+Dataset HDFS size 10 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:02:05.176643]
+Used memory
+109.08203125
+Dataset HDFS size 10 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:02:06.486354]
+Used memory
+109.66796875
+Dataset HDFS size 10 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:02:05.116999]
+Used memory
+109.08203125
+Dataset HDFS size 10 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:02:05.736264]
+Used memory
+109.0546875
+Dataset HDFS size 10 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:02:05.186816]
+Used memory
+109.82421875
+Dataset HDFS size 10 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:02:06.524661]
+Used memory
+109.0703125
+Dataset HDFS size 10 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:02:05.508316]
+Used memory
+110.05078125
+Dataset HDFS size 10 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:02:05.376965]
+Used memory
+109.9921875
+Dataset HDFS size 20 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:08:20.931234]
+Used memory
+131.09765625
+Dataset HDFS size 20 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:08:25.601581]
+Used memory
+133.265625
+Dataset HDFS size 20 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:08:22.384140]
+Used memory
+134.1484375
+Dataset HDFS size 20 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:08:22.867100]
+Used memory
+135.15625
+Dataset HDFS size 20 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:08:22.290073]
+Used memory
+134.4609375
+Dataset HDFS size 20 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:08:23.056210]
+Used memory
+131.2109375
+Dataset HDFS size 20 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:08:22.470546]
+Used memory
+133.1796875
+Dataset HDFS size 20 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:08:24.132053]
+Used memory
+133.9296875
+Dataset HDFS size 20 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:08:23.188028]
+Used memory
+137.296875
+Dataset HDFS size 20 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_20k.log
+Parsing done. [Time taken: 0:08:23.092104]
+Used memory
+131.40234375

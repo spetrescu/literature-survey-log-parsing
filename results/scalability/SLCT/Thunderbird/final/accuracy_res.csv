@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+SLCT,Thunderbird,2,0.9770,1.0000,0.9883,0.8820,1
+SLCT,Thunderbird,2,0.9770,1.0000,0.9883,0.8820,2
+SLCT,Thunderbird,2,0.9770,1.0000,0.9883,0.8820,3
+SLCT,Thunderbird,2,0.9770,1.0000,0.9883,0.8820,4
+SLCT,Thunderbird,2,0.9770,1.0000,0.9883,0.8820,5
+SLCT,Thunderbird,2,0.9770,1.0000,0.9883,0.8820,6
+SLCT,Thunderbird,2,0.9770,1.0000,0.9883,0.8820,7
+SLCT,Thunderbird,2,0.9770,1.0000,0.9883,0.8820,8
+SLCT,Thunderbird,2,0.9770,1.0000,0.9883,0.8820,9
+SLCT,Thunderbird,2,0.9770,1.0000,0.9883,0.8820,10

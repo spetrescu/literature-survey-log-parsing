@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+LKE,Thunderbird,2,0.9650,1.0000,0.9822,0.8125,1
+LKE,Thunderbird,2,0.9650,1.0000,0.9822,0.8125,2
+LKE,Thunderbird,2,0.9650,1.0000,0.9822,0.8125,3
+LKE,Thunderbird,2,0.9650,1.0000,0.9822,0.8125,4
+LKE,Thunderbird,2,0.9650,1.0000,0.9822,0.8125,5
+LKE,Thunderbird,2,0.9650,1.0000,0.9822,0.8125,6
+LKE,Thunderbird,2,0.9650,1.0000,0.9822,0.8125,7
+LKE,Thunderbird,2,0.9650,1.0000,0.9822,0.8125,8
+LKE,Thunderbird,2,0.9650,1.0000,0.9822,0.8125,9
+LKE,Thunderbird,2,0.9650,1.0000,0.9822,0.8125,10

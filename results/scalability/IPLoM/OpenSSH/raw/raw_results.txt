@@ -1,0 +1,780 @@
+Dataset OpenSSH size 1 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.174557]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.148181]
+Used memory
+89.0625
+Dataset OpenSSH size 1 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.174131]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.149587]
+Used memory
+89.1796875
+Dataset OpenSSH size 1 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.170247]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.148072]
+Used memory
+89.16015625
+Dataset OpenSSH size 1 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.175948]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.147727]
+Used memory
+88.890625
+Dataset OpenSSH size 1 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.175343]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.148195]
+Used memory
+89.40234375
+Dataset OpenSSH size 1 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.166477]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.148192]
+Used memory
+89.08984375
+Dataset OpenSSH size 1 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.172730]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.144866]
+Used memory
+89.015625
+Dataset OpenSSH size 1 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.170489]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.141188]
+Used memory
+89.17578125
+Dataset OpenSSH size 1 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.170899]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.145903]
+Used memory
+89.16796875
+Dataset OpenSSH size 1 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.171175]
+Parsing file: ../logs/OpenSSH/OpenSSH_1k.log
+Parsing done. [Time taken: 0:00:00.148049]
+Used memory
+89.22265625
+Dataset OpenSSH size 2 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.314107]
+Used memory
+90.578125
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset                      
+OpenSSH    0.997588      0.54
+Dataset OpenSSH size 2 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.311840]
+Used memory
+90.921875
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset                      
+OpenSSH    0.997588      0.54
+Dataset OpenSSH size 2 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.317226]
+Used memory
+90.48828125
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset                      
+OpenSSH    0.997588      0.54
+Dataset OpenSSH size 2 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.315743]
+Used memory
+90.79296875
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset                      
+OpenSSH    0.997588      0.54
+Dataset OpenSSH size 2 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.317671]
+Used memory
+90.61328125
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset                      
+OpenSSH    0.997588      0.54
+Dataset OpenSSH size 2 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.314769]
+Used memory
+90.609375
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset                      
+OpenSSH    0.997588      0.54
+Dataset OpenSSH size 2 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.309826]
+Used memory
+90.828125
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset                      
+OpenSSH    0.997588      0.54
+Dataset OpenSSH size 2 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.311695]
+Used memory
+90.62109375
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset                      
+OpenSSH    0.997588      0.54
+Dataset OpenSSH size 2 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.314773]
+Used memory
+90.5234375
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset                      
+OpenSSH    0.997588      0.54
+Dataset OpenSSH size 2 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_2k.log
+Parsing done. [Time taken: 0:00:00.306502]
+Used memory
+90.73828125
+Precision: 0.9966, Recall: 0.9986, F1_measure: 0.9976, Parsing_Accuracy: 0.5400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset                      
+OpenSSH    0.997588      0.54
+Dataset OpenSSH size 4 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.609087]
+Used memory
+93.68359375
+Dataset OpenSSH size 4 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.600258]
+Used memory
+93.828125
+Dataset OpenSSH size 4 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.603402]
+Used memory
+93.76171875
+Dataset OpenSSH size 4 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.607366]
+Used memory
+94.13671875
+Dataset OpenSSH size 4 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.615366]
+Used memory
+93.68359375
+Dataset OpenSSH size 4 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.606981]
+Used memory
+93.5546875
+Dataset OpenSSH size 4 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.599252]
+Used memory
+93.78515625
+Dataset OpenSSH size 4 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.599897]
+Used memory
+93.7890625
+Dataset OpenSSH size 4 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.614633]
+Used memory
+94.19921875
+Dataset OpenSSH size 4 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_4k.log
+Parsing done. [Time taken: 0:00:00.605185]
+Used memory
+93.77734375
+Dataset OpenSSH size 10 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+Parsing done. [Time taken: 0:00:01.472376]
+Used memory
+102.41015625
+Dataset OpenSSH size 10 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+Parsing done. [Time taken: 0:00:01.488867]
+Used memory
+102.28515625
+Dataset OpenSSH size 10 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+Parsing done. [Time taken: 0:00:01.497715]
+Used memory
+102.3984375
+Dataset OpenSSH size 10 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+Parsing done. [Time taken: 0:00:01.496598]
+Used memory
+102.4453125
+Dataset OpenSSH size 10 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+Parsing done. [Time taken: 0:00:01.491052]
+Used memory
+102.29296875
+Dataset OpenSSH size 10 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+Parsing done. [Time taken: 0:00:01.493228]
+Used memory
+102.74609375
+Dataset OpenSSH size 10 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+Parsing done. [Time taken: 0:00:01.478017]
+Used memory
+102.44140625
+Dataset OpenSSH size 10 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+Parsing done. [Time taken: 0:00:01.484537]
+Used memory
+102.41796875
+Dataset OpenSSH size 10 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+Parsing done. [Time taken: 0:00:01.476938]
+Used memory
+102.34765625
+Dataset OpenSSH size 10 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_10k.log
+Parsing done. [Time taken: 0:00:01.480555]
+Used memory
+102.33203125
+Dataset OpenSSH size 20 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:02.973532]
+Used memory
+118.2890625
+Dataset OpenSSH size 20 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:02.983093]
+Used memory
+118.70703125
+Dataset OpenSSH size 20 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:02.977076]
+Used memory
+118.37890625
+Dataset OpenSSH size 20 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:02.988655]
+Used memory
+118.4296875
+Dataset OpenSSH size 20 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:03.006242]
+Used memory
+118.96484375
+Dataset OpenSSH size 20 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:02.978019]
+Used memory
+118.25
+Dataset OpenSSH size 20 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:02.956669]
+Used memory
+118.85546875
+Dataset OpenSSH size 20 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:02.985772]
+Used memory
+118.70703125
+Dataset OpenSSH size 20 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:02.950851]
+Used memory
+118.6484375
+Dataset OpenSSH size 20 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_20k.log
+Parsing done. [Time taken: 0:00:02.998220]
+Used memory
+118.578125
+Dataset OpenSSH size 50 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:07.475899]
+Used memory
+164.7265625
+Dataset OpenSSH size 50 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:07.407960]
+Used memory
+164.6171875
+Dataset OpenSSH size 50 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:07.504976]
+Used memory
+164.7421875
+Dataset OpenSSH size 50 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:07.425208]
+Used memory
+164.87109375
+Dataset OpenSSH size 50 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:07.434076]
+Used memory
+165.15234375
+Dataset OpenSSH size 50 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:07.371853]
+Used memory
+164.484375
+Dataset OpenSSH size 50 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:07.397323]
+Used memory
+165.015625
+Dataset OpenSSH size 50 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:07.504560]
+Used memory
+164.55859375
+Dataset OpenSSH size 50 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:07.453139]
+Used memory
+165.03125
+Dataset OpenSSH size 50 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_50k.log
+Parsing done. [Time taken: 0:00:07.467504]
+Used memory
+164.58203125
+Dataset OpenSSH size 100 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:15.231788]
+Used memory
+240.4140625
+Dataset OpenSSH size 100 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:14.920090]
+Used memory
+240.45703125
+Dataset OpenSSH size 100 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:15.108881]
+Used memory
+240.51171875
+Dataset OpenSSH size 100 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:14.799332]
+Used memory
+240.49609375
+Dataset OpenSSH size 100 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:14.894333]
+Used memory
+240.44921875
+Dataset OpenSSH size 100 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:15.038404]
+Used memory
+240.53125
+Dataset OpenSSH size 100 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:14.959851]
+Used memory
+240.3828125
+Dataset OpenSSH size 100 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:14.994321]
+Used memory
+240.83203125
+Dataset OpenSSH size 100 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:14.913657]
+Used memory
+240.51171875
+Dataset OpenSSH size 100 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_100k.log
+Parsing done. [Time taken: 0:00:14.997125]
+Used memory
+240.55078125
+Dataset OpenSSH size 200 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:00:30.448365]
+Used memory
+392.0625
+Dataset OpenSSH size 200 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:00:30.428119]
+Used memory
+392.171875
+Dataset OpenSSH size 200 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:00:30.445496]
+Used memory
+392.50390625
+Dataset OpenSSH size 200 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:00:30.112702]
+Used memory
+392.16015625
+Dataset OpenSSH size 200 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:00:30.149902]
+Used memory
+395.61328125
+Dataset OpenSSH size 200 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:00:29.835934]
+Used memory
+391.890625
+Dataset OpenSSH size 200 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:00:30.116122]
+Used memory
+395.83203125
+Dataset OpenSSH size 200 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:00:30.007027]
+Used memory
+392.12890625
+Dataset OpenSSH size 200 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:00:29.889889]
+Used memory
+392.125
+Dataset OpenSSH size 200 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_200k.log
+Parsing done. [Time taken: 0:00:30.382326]
+Used memory
+392.0078125
+Dataset OpenSSH size 300 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:00:45.047371]
+Used memory
+545.42578125
+Dataset OpenSSH size 300 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:00:45.689371]
+Used memory
+545.5546875
+Dataset OpenSSH size 300 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:00:45.305444]
+Used memory
+545.25390625
+Dataset OpenSSH size 300 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:00:44.812237]
+Used memory
+545.265625
+Dataset OpenSSH size 300 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:00:44.941368]
+Used memory
+544.99609375
+Dataset OpenSSH size 300 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:00:45.683709]
+Used memory
+545.140625
+Dataset OpenSSH size 300 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:00:44.895235]
+Used memory
+545.234375
+Dataset OpenSSH size 300 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:00:45.582276]
+Used memory
+545.33984375
+Dataset OpenSSH size 300 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:00:45.595878]
+Used memory
+545.234375
+Dataset OpenSSH size 300 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_300k.log
+Parsing done. [Time taken: 0:00:45.603465]
+Used memory
+545.52734375
+Dataset OpenSSH size 500 run no 1
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:01:18.526262]
+Used memory
+853.390625
+Dataset OpenSSH size 500 run no 2
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:01:18.714720]
+Used memory
+853.28515625
+Dataset OpenSSH size 500 run no 3
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:01:18.316473]
+Used memory
+853.203125
+Dataset OpenSSH size 500 run no 4
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:01:18.083647]
+Used memory
+853.18359375
+Dataset OpenSSH size 500 run no 5
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:01:18.199974]
+Used memory
+853.1953125
+Dataset OpenSSH size 500 run no 6
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:01:18.207887]
+Used memory
+853.11328125
+Dataset OpenSSH size 500 run no 7
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:01:18.095360]
+Used memory
+853.55859375
+Dataset OpenSSH size 500 run no 8
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:01:17.946067]
+Used memory
+853.36328125
+Dataset OpenSSH size 500 run no 9
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:01:18.042344]
+Used memory
+853.26171875
+Dataset OpenSSH size 500 run no 10
+
+=== Evaluation on OpenSSH ===
+Parsing file: ../logs/OpenSSH/OpenSSH_500k.log
+Parsing done. [Time taken: 0:01:18.472354]
+Used memory
+853.19140625

@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+MoLFI,Windows,2,0.9983,0.8414,0.9132,0.4050,1
+MoLFI,Windows,2,1.0000,0.8409,0.9136,0.7100,2
+MoLFI,Windows,2,1.0000,0.8406,0.9134,0.7110,3
+MoLFI,Windows,2,1.0000,0.8399,0.9130,0.7110,4
+MoLFI,Windows,2,1.0000,0.8409,0.9136,0.7085,5
+MoLFI,Windows,2,0.9983,0.8399,0.9123,0.4040,6
+MoLFI,Windows,2,1.0000,0.8407,0.9135,0.7110,7
+MoLFI,Windows,2,1.0000,0.8340,0.9095,0.7100,8
+MoLFI,Windows,2,1.0000,0.8399,0.9130,0.7095,9
+MoLFI,Windows,2,1.0000,0.8451,0.9160,0.7110,10

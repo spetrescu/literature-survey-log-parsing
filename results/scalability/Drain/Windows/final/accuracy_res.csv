@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+Drain,Windows,2,1.0000,1.0000,1.0000,0.9970,1
+Drain,Windows,2,1.0000,1.0000,1.0000,0.9970,2
+Drain,Windows,2,1.0000,1.0000,1.0000,0.9970,3
+Drain,Windows,2,1.0000,1.0000,1.0000,0.9970,4
+Drain,Windows,2,1.0000,1.0000,1.0000,0.9970,5
+Drain,Windows,2,1.0000,1.0000,1.0000,0.9970,6
+Drain,Windows,2,1.0000,1.0000,1.0000,0.9970,7
+Drain,Windows,2,1.0000,1.0000,1.0000,0.9970,8
+Drain,Windows,2,1.0000,1.0000,1.0000,0.9970,9
+Drain,Windows,2,1.0000,1.0000,1.0000,0.9970,10

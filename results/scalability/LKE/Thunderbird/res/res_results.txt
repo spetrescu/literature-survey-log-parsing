@@ -1,0 +1,260 @@
+Dataset Thunderbird size 1 run no 1
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:55.829399]
+144.9296875
+Dataset Thunderbird size 1 run no 2
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:27.629396]
+278.25
+Dataset Thunderbird size 1 run no 3
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:15.308156]
+292.91015625
+Dataset Thunderbird size 1 run no 4
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:24.303040]
+291.15234375
+Dataset Thunderbird size 1 run no 5
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:15.472964]
+278.140625
+Dataset Thunderbird size 1 run no 6
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:24.184332]
+293.390625
+Dataset Thunderbird size 1 run no 7
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:33.137064]
+292.3046875
+Dataset Thunderbird size 1 run no 8
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:30.056532]
+278.09765625
+Dataset Thunderbird size 1 run no 9
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:12.536617]
+293.26171875
+Dataset Thunderbird size 1 run no 10
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:18.773967]
+293.125
+Dataset Thunderbird size 2 run no 1
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:03:41.443855]
+305.875
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 2
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:03.033063]
+902.7578125
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 3
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:51.663052]
+908.875
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 4
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:14.476305]
+914.58203125
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 5
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:25.778056]
+912.50390625
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 6
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:51.436768]
+906.515625
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 7
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:51.272713]
+907.5
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 8
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:03.346137]
+904.93359375
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 9
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:51.054042]
+904.55078125
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 10
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:51.283250]
+906.171875
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 4 run no 1
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:10:47.627921]
+1007.6640625
+Dataset Thunderbird size 4 run no 2
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:06:25.560146]
+3352.60546875
+Dataset Thunderbird size 4 run no 3
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:04:51.211903]
+3346.6171875
+Dataset Thunderbird size 4 run no 4
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:03:20.525351]
+3352.08203125
+Dataset Thunderbird size 4 run no 5
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:09:23.340236]
+3341.99609375
+Dataset Thunderbird size 4 run no 6
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:07:56.873552]
+3356.1328125
+Dataset Thunderbird size 4 run no 7
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:04:01.888844]
+3348.73828125
+Dataset Thunderbird size 4 run no 8
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:04:50.817273]
+3348.6640625
+Dataset Thunderbird size 4 run no 9
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:04:53.379023]
+3343.5703125
+Dataset Thunderbird size 4 run no 10
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:04:50.214627]
+3355.11328125
+Dataset Thunderbird size 10 run no 1
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 1:25:04.228507]
+5026.75390625
+Dataset Thunderbird size 10 run no 2
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:28:51.072884]
+19090.2890625
+Dataset Thunderbird size 10 run no 3
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:33:24.588903]
+19097.2695312
+Dataset Thunderbird size 10 run no 4
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:19:52.362452]
+19092.7734375
+Dataset Thunderbird size 10 run no 5
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:24:18.914105]
+19101.140625
+Dataset Thunderbird size 10 run no 6
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:24:13.452815]
+19097.890625
+Dataset Thunderbird size 10 run no 7
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:24:32.176145]
+19100.3984375
+Dataset Thunderbird size 10 run no 8
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:24:29.179141]
+19102.6484375
+Dataset Thunderbird size 10 run no 9
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:29:26.518731]
+19099.734375
+Dataset Thunderbird size 10 run no 10
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:29:01.415704]
+19101.15625

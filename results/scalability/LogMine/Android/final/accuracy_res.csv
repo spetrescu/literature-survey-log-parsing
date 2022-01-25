@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+LogMine,Android,2,0.8132,0.9918,0.8937,0.5040,1
+LogMine,Android,2,0.8132,0.9918,0.8937,0.5040,2
+LogMine,Android,2,0.8132,0.9918,0.8937,0.5040,3
+LogMine,Android,2,0.8132,0.9918,0.8937,0.5040,4
+LogMine,Android,2,0.8132,0.9918,0.8937,0.5040,5
+LogMine,Android,2,0.8132,0.9918,0.8937,0.5040,6
+LogMine,Android,2,0.8132,0.9918,0.8937,0.5040,7
+LogMine,Android,2,0.8132,0.9918,0.8937,0.5040,8
+LogMine,Android,2,0.8132,0.9918,0.8937,0.5040,9
+LogMine,Android,2,0.8132,0.9918,0.8937,0.5040,10

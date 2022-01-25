@@ -1,0 +1,546 @@
+Dataset Thunderbird size 1 run no 1
+
+Parsing done. [Time taken: 0:00:00.128086]
+Parsing done. [Time taken: 0:00:00.118888]
+89.41015625
+Dataset Thunderbird size 1 run no 2
+
+Parsing done. [Time taken: 0:00:00.128307]
+Parsing done. [Time taken: 0:00:00.111230]
+89.16015625
+Dataset Thunderbird size 1 run no 3
+
+Parsing done. [Time taken: 0:00:00.130681]
+Parsing done. [Time taken: 0:00:00.109612]
+89.34375
+Dataset Thunderbird size 1 run no 4
+
+Parsing done. [Time taken: 0:00:00.131292]
+Parsing done. [Time taken: 0:00:00.110392]
+89.3984375
+Dataset Thunderbird size 1 run no 5
+
+Parsing done. [Time taken: 0:00:00.126304]
+Parsing done. [Time taken: 0:00:00.109476]
+89.31640625
+Dataset Thunderbird size 1 run no 6
+
+Parsing done. [Time taken: 0:00:00.134718]
+Parsing done. [Time taken: 0:00:00.108885]
+89.4453125
+Dataset Thunderbird size 1 run no 7
+
+Parsing done. [Time taken: 0:00:00.125950]
+Parsing done. [Time taken: 0:00:00.107029]
+88.96875
+Dataset Thunderbird size 1 run no 8
+
+Parsing done. [Time taken: 0:00:00.128693]
+Parsing done. [Time taken: 0:00:00.109155]
+89.3984375
+Dataset Thunderbird size 1 run no 9
+
+Parsing done. [Time taken: 0:00:00.128884]
+Parsing done. [Time taken: 0:00:00.111609]
+89.08984375
+Dataset Thunderbird size 1 run no 10
+
+Parsing done. [Time taken: 0:00:00.128837]
+Parsing done. [Time taken: 0:00:00.107856]
+88.9609375
+Dataset Thunderbird size 2 run no 1
+
+Parsing done. [Time taken: 0:00:00.226627]
+90.68359375
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 2
+
+Parsing done. [Time taken: 0:00:00.225741]
+90.7265625
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 3
+
+Parsing done. [Time taken: 0:00:00.229616]
+90.97265625
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 4
+
+Parsing done. [Time taken: 0:00:00.220505]
+90.66796875
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 5
+
+Parsing done. [Time taken: 0:00:00.225760]
+90.70703125
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 6
+
+Parsing done. [Time taken: 0:00:00.224174]
+90.52734375
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 7
+
+Parsing done. [Time taken: 0:00:00.228737]
+90.9609375
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 8
+
+Parsing done. [Time taken: 0:00:00.223526]
+90.48046875
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 9
+
+Parsing done. [Time taken: 0:00:00.228423]
+90.53515625
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 2 run no 10
+
+Parsing done. [Time taken: 0:00:00.230597]
+90.67578125
+Precision: 0.9998, Recall: 0.9976, F1_measure: 0.9987, Parsing_Accuracy: 0.6485
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.998657    0.6485
+Dataset Thunderbird size 4 run no 1
+
+Parsing done. [Time taken: 0:00:00.412333]
+93.5625
+Dataset Thunderbird size 4 run no 2
+
+Parsing done. [Time taken: 0:00:00.407981]
+93.546875
+Dataset Thunderbird size 4 run no 3
+
+Parsing done. [Time taken: 0:00:00.408685]
+93.30859375
+Dataset Thunderbird size 4 run no 4
+
+Parsing done. [Time taken: 0:00:00.407586]
+93.265625
+Dataset Thunderbird size 4 run no 5
+
+Parsing done. [Time taken: 0:00:00.405233]
+93.1875
+Dataset Thunderbird size 4 run no 6
+
+Parsing done. [Time taken: 0:00:00.410842]
+93.265625
+Dataset Thunderbird size 4 run no 7
+
+Parsing done. [Time taken: 0:00:00.414093]
+93.2578125
+Dataset Thunderbird size 4 run no 8
+
+Parsing done. [Time taken: 0:00:00.407408]
+93.13671875
+Dataset Thunderbird size 4 run no 9
+
+Parsing done. [Time taken: 0:00:00.406580]
+93.31640625
+Dataset Thunderbird size 4 run no 10
+
+Parsing done. [Time taken: 0:00:00.407359]
+93.265625
+Dataset Thunderbird size 10 run no 1
+
+Parsing done. [Time taken: 0:00:13.343892]
+101.56640625
+Dataset Thunderbird size 10 run no 2
+
+Parsing done. [Time taken: 0:00:13.443672]
+101.1484375
+Dataset Thunderbird size 10 run no 3
+
+Parsing done. [Time taken: 0:00:13.410231]
+101.0390625
+Dataset Thunderbird size 10 run no 4
+
+Parsing done. [Time taken: 0:00:13.367589]
+101.515625
+Dataset Thunderbird size 10 run no 5
+
+Parsing done. [Time taken: 0:00:13.342755]
+101.078125
+Dataset Thunderbird size 10 run no 6
+
+Parsing done. [Time taken: 0:00:13.309424]
+100.75
+Dataset Thunderbird size 10 run no 7
+
+Parsing done. [Time taken: 0:00:13.297120]
+101.1171875
+Dataset Thunderbird size 10 run no 8
+
+Parsing done. [Time taken: 0:00:13.404892]
+100.9921875
+Dataset Thunderbird size 10 run no 9
+
+Parsing done. [Time taken: 0:00:13.320597]
+101.05859375
+Dataset Thunderbird size 10 run no 10
+
+Parsing done. [Time taken: 0:00:13.343029]
+101.44921875
+Dataset Thunderbird size 20 run no 1
+
+Parsing done. [Time taken: 0:00:18.440273]
+113.93359375
+Dataset Thunderbird size 20 run no 2
+
+Parsing done. [Time taken: 0:00:18.503873]
+114.25
+Dataset Thunderbird size 20 run no 3
+
+Parsing done. [Time taken: 0:00:18.353075]
+113.89453125
+Dataset Thunderbird size 20 run no 4
+
+Parsing done. [Time taken: 0:00:18.351194]
+114.2265625
+Dataset Thunderbird size 20 run no 5
+
+Parsing done. [Time taken: 0:00:18.388312]
+114.3359375
+Dataset Thunderbird size 20 run no 6
+
+Parsing done. [Time taken: 0:00:18.652060]
+114.1015625
+Dataset Thunderbird size 20 run no 7
+
+Parsing done. [Time taken: 0:00:18.371979]
+114.15625
+Dataset Thunderbird size 20 run no 8
+
+Parsing done. [Time taken: 0:00:18.456116]
+113.828125
+Dataset Thunderbird size 20 run no 9
+
+Parsing done. [Time taken: 0:00:18.366893]
+114.1640625
+Dataset Thunderbird size 20 run no 10
+
+Parsing done. [Time taken: 0:00:18.341081]
+114.171875
+Dataset Thunderbird size 50 run no 1
+
+Parsing done. [Time taken: 0:00:41.892991]
+153.4140625
+Dataset Thunderbird size 50 run no 2
+
+Parsing done. [Time taken: 0:00:42.103582]
+153.421875
+Dataset Thunderbird size 50 run no 3
+
+Parsing done. [Time taken: 0:00:41.744779]
+153.73046875
+Dataset Thunderbird size 50 run no 4
+
+Parsing done. [Time taken: 0:00:41.672503]
+153.16015625
+Dataset Thunderbird size 50 run no 5
+
+Parsing done. [Time taken: 0:00:41.783894]
+153.57421875
+Dataset Thunderbird size 50 run no 6
+
+Parsing done. [Time taken: 0:00:42.609806]
+153.22265625
+Dataset Thunderbird size 50 run no 7
+
+Parsing done. [Time taken: 0:00:41.784210]
+153.984375
+Dataset Thunderbird size 50 run no 8
+
+Parsing done. [Time taken: 0:00:41.922671]
+153.546875
+Dataset Thunderbird size 50 run no 9
+
+Parsing done. [Time taken: 0:00:41.874421]
+153.01953125
+Dataset Thunderbird size 50 run no 10
+
+Parsing done. [Time taken: 0:00:42.273179]
+153.16796875
+Dataset Thunderbird size 100 run no 1
+
+Parsing done. [Time taken: 0:00:46.861981]
+221.0546875
+Dataset Thunderbird size 100 run no 2
+
+Parsing done. [Time taken: 0:00:46.379970]
+220.96484375
+Dataset Thunderbird size 100 run no 3
+
+Parsing done. [Time taken: 0:00:46.659886]
+221.5390625
+Dataset Thunderbird size 100 run no 4
+
+Parsing done. [Time taken: 0:00:47.174131]
+220.97265625
+Dataset Thunderbird size 100 run no 5
+
+Parsing done. [Time taken: 0:00:46.855056]
+221.8203125
+Dataset Thunderbird size 100 run no 6
+
+Parsing done. [Time taken: 0:00:46.634213]
+221.4921875
+Dataset Thunderbird size 100 run no 7
+
+Parsing done. [Time taken: 0:00:46.675409]
+221.22265625
+Dataset Thunderbird size 100 run no 8
+
+Parsing done. [Time taken: 0:00:46.696380]
+221.0625
+Dataset Thunderbird size 100 run no 9
+
+Parsing done. [Time taken: 0:00:46.802464]
+221.3046875
+Dataset Thunderbird size 100 run no 10
+
+Parsing done. [Time taken: 0:00:46.662353]
+221.7890625
+Dataset Thunderbird size 200 run no 1
+
+Parsing done. [Time taken: 0:00:56.408288]
+360.9609375
+Dataset Thunderbird size 200 run no 2
+
+Parsing done. [Time taken: 0:00:56.368850]
+361.09375
+Dataset Thunderbird size 200 run no 3
+
+Parsing done. [Time taken: 0:00:57.027237]
+360.49609375
+Dataset Thunderbird size 200 run no 4
+
+Parsing done. [Time taken: 0:00:56.284103]
+361.18359375
+Dataset Thunderbird size 200 run no 5
+
+Parsing done. [Time taken: 0:00:56.392554]
+361.41015625
+Dataset Thunderbird size 200 run no 6
+
+Parsing done. [Time taken: 0:00:57.064173]
+360.9140625
+Dataset Thunderbird size 200 run no 7
+
+Parsing done. [Time taken: 0:00:56.780851]
+360.84765625
+Dataset Thunderbird size 200 run no 8
+
+Parsing done. [Time taken: 0:00:56.320115]
+360.86328125
+Dataset Thunderbird size 200 run no 9
+
+Parsing done. [Time taken: 0:00:56.569939]
+361.30859375
+Dataset Thunderbird size 200 run no 10
+
+Parsing done. [Time taken: 0:00:56.182554]
+361.125
+Dataset Thunderbird size 300 run no 1
+
+Parsing done. [Time taken: 0:01:07.001415]
+496.7578125
+Dataset Thunderbird size 300 run no 2
+
+Parsing done. [Time taken: 0:01:06.908232]
+496.71484375
+Dataset Thunderbird size 300 run no 3
+
+Parsing done. [Time taken: 0:01:06.605557]
+496.80078125
+Dataset Thunderbird size 300 run no 4
+
+Parsing done. [Time taken: 0:01:06.978480]
+497.234375
+Dataset Thunderbird size 300 run no 5
+
+Parsing done. [Time taken: 0:01:06.984874]
+496.9921875
+Dataset Thunderbird size 300 run no 6
+
+Parsing done. [Time taken: 0:01:06.882471]
+497.078125
+Dataset Thunderbird size 300 run no 7
+
+Parsing done. [Time taken: 0:01:07.212282]
+496.76171875
+Dataset Thunderbird size 300 run no 8
+
+Parsing done. [Time taken: 0:01:06.708932]
+496.94921875
+Dataset Thunderbird size 300 run no 9
+
+Parsing done. [Time taken: 0:01:07.002480]
+496.8515625
+Dataset Thunderbird size 300 run no 10
+
+Parsing done. [Time taken: 0:01:07.152555]
+497.26953125
+Dataset Thunderbird size 500 run no 1
+
+Parsing done. [Time taken: 0:01:26.201191]
+715.2578125
+Dataset Thunderbird size 500 run no 2
+
+Parsing done. [Time taken: 0:01:25.636665]
+715.1015625
+Dataset Thunderbird size 500 run no 3
+
+Parsing done. [Time taken: 0:01:26.120899]
+715.6875
+Dataset Thunderbird size 500 run no 4
+
+Parsing done. [Time taken: 0:01:25.863977]
+715.17578125
+Dataset Thunderbird size 500 run no 5
+
+Parsing done. [Time taken: 0:01:25.961369]
+715.0390625
+Dataset Thunderbird size 500 run no 6
+
+Parsing done. [Time taken: 0:01:25.728697]
+714.84375
+Dataset Thunderbird size 500 run no 7
+
+Parsing done. [Time taken: 0:01:25.533690]
+715.25
+Dataset Thunderbird size 500 run no 8
+
+Parsing done. [Time taken: 0:01:25.852138]
+714.9765625
+Dataset Thunderbird size 500 run no 9
+
+Parsing done. [Time taken: 0:01:26.519745]
+715.27734375
+Dataset Thunderbird size 500 run no 10
+
+Parsing done. [Time taken: 0:01:26.284546]
+715.67578125
+Dataset Thunderbird size 1000 run no 1
+
+Parsing done. [Time taken: 0:02:13.556334]
+1336.453125
+Dataset Thunderbird size 1000 run no 2
+
+Parsing done. [Time taken: 0:02:14.278975]
+1336.92578125
+Dataset Thunderbird size 1000 run no 3
+
+Parsing done. [Time taken: 0:02:14.835518]
+1336.59765625
+Dataset Thunderbird size 1000 run no 4
+
+Parsing done. [Time taken: 0:02:13.837324]
+1336.265625
+Dataset Thunderbird size 1000 run no 5
+
+Parsing done. [Time taken: 0:02:14.439194]
+1337.08203125
+Dataset Thunderbird size 1000 run no 6
+
+Parsing done. [Time taken: 0:02:14.897630]
+1336.81640625
+Dataset Thunderbird size 1000 run no 7
+
+Parsing done. [Time taken: 0:02:14.522642]
+1336.3046875
+Dataset Thunderbird size 1000 run no 8
+
+Parsing done. [Time taken: 0:02:13.750154]
+1336.7734375
+Dataset Thunderbird size 1000 run no 9
+
+Parsing done. [Time taken: 0:02:14.286084]
+1336.2890625
+Dataset Thunderbird size 1000 run no 10
+
+Parsing done. [Time taken: 0:02:14.575686]
+1337.0703125
+Dataset Thunderbird size 2000 run no 1
+
+Parsing done. [Time taken: 0:03:51.849693]
+2625.87890625
+Dataset Thunderbird size 2000 run no 2
+
+Parsing done. [Time taken: 0:03:54.919382]
+2626.01171875
+Dataset Thunderbird size 4000 run no 1
+
+Parsing done. [Time taken: 0:07:39.623184]
+5735.63671875
+Dataset Thunderbird size 4000 run no 2
+
+Parsing done. [Time taken: 0:07:40.806499]
+5735.59765625
+Dataset Thunderbird size 10000 run no 1
+
+Parsing done. [Time taken: 0:18:36.073906]
+14272.5078125
+Dataset Thunderbird size 10000 run no 2
+
+Parsing done. [Time taken: 0:18:52.985323]
+14272.640625
+Dataset Thunderbird size 10000 run no 3
+
+Parsing done. [Time taken: 0:18:36.587325]
+14272.8046875
+Dataset Thunderbird size 20000 run no 1
+
+Parsing done. [Time taken: 0:36:36.207666]
+27740.3125
+Dataset Thunderbird size 20000 run no 2
+
+Parsing done. [Time taken: 0:37:02.463042]
+27759.5859375

@@ -1,0 +1,904 @@
+Dataset Windows size 1 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 995 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+the threshold1 is: [5.91888969]
+================get the initial groups splitting=============
+there are 30 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 42 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:49.059550]
+Used memory
+142.33203125
+Dataset Windows size 1 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.91888969]
+================get the initial groups splitting=============
+there are 30 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 42 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:12.651295]
+Used memory
+292.03515625
+Dataset Windows size 1 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.91888969]
+================get the initial groups splitting=============
+there are 30 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 42 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:15.354540]
+Used memory
+279.4140625
+Dataset Windows size 1 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.91888969]
+================get the initial groups splitting=============
+there are 30 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 42 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:15.457418]
+Used memory
+294.68359375
+Dataset Windows size 1 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.91888969]
+================get the initial groups splitting=============
+there are 30 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 42 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:26.879638]
+Used memory
+295.09375
+Dataset Windows size 1 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.91888969]
+================get the initial groups splitting=============
+there are 30 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 42 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:12.610940]
+Used memory
+279.9140625
+Dataset Windows size 1 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.91888969]
+================get the initial groups splitting=============
+there are 30 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 42 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:27.141592]
+Used memory
+279.609375
+Dataset Windows size 1 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.91888969]
+================get the initial groups splitting=============
+there are 30 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 42 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:15.623296]
+Used memory
+279.9375
+Dataset Windows size 1 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.91888969]
+================get the initial groups splitting=============
+there are 30 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 42 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:18.304950]
+Used memory
+294.42578125
+Dataset Windows size 1 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.91888969]
+================get the initial groups splitting=============
+there are 30 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 42 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:15.453217]
+Used memory
+294.9609375
+Dataset Windows size 2 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 2000 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+the threshold1 is: [5.81308385]
+================get the initial groups splitting=============
+there are 31 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 44 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:03:01.868801]
+Used memory
+317.8203125
+Precision: 0.9998, Recall: 1.0000, F1_measure: 0.9999, Parsing_Accuracy: 0.9895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999904    0.9895
+Dataset Windows size 2 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.81308385]
+================get the initial groups splitting=============
+there are 31 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 44 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:51.446275]
+Used memory
+908.296875
+Precision: 0.9998, Recall: 1.0000, F1_measure: 0.9999, Parsing_Accuracy: 0.9895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999904    0.9895
+Dataset Windows size 2 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.81308385]
+================get the initial groups splitting=============
+there are 31 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 44 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:01:38.154906]
+Used memory
+911.39453125
+Precision: 0.9998, Recall: 1.0000, F1_measure: 0.9999, Parsing_Accuracy: 0.9895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999904    0.9895
+Dataset Windows size 2 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.81308385]
+================get the initial groups splitting=============
+there are 31 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 44 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:01:02.020602]
+Used memory
+904.09765625
+Precision: 0.9998, Recall: 1.0000, F1_measure: 0.9999, Parsing_Accuracy: 0.9895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999904    0.9895
+Dataset Windows size 2 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.81308385]
+================get the initial groups splitting=============
+there are 31 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 44 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:01:01.933601]
+Used memory
+906.81640625
+Precision: 0.9998, Recall: 1.0000, F1_measure: 0.9999, Parsing_Accuracy: 0.9895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999904    0.9895
+Dataset Windows size 2 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.81308385]
+================get the initial groups splitting=============
+there are 31 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 44 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:02:00.855090]
+Used memory
+912.9609375
+Precision: 0.9998, Recall: 1.0000, F1_measure: 0.9999, Parsing_Accuracy: 0.9895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999904    0.9895
+Dataset Windows size 2 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.81308385]
+================get the initial groups splitting=============
+there are 31 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 44 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:01:25.309837]
+Used memory
+908.34375
+Precision: 0.9998, Recall: 1.0000, F1_measure: 0.9999, Parsing_Accuracy: 0.9895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999904    0.9895
+Dataset Windows size 2 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.81308385]
+================get the initial groups splitting=============
+there are 31 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 44 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:01:02.752805]
+Used memory
+909.83984375
+Precision: 0.9998, Recall: 1.0000, F1_measure: 0.9999, Parsing_Accuracy: 0.9895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999904    0.9895
+Dataset Windows size 2 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.81308385]
+================get the initial groups splitting=============
+there are 31 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 44 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:51.175871]
+Used memory
+909.8359375
+Precision: 0.9998, Recall: 1.0000, F1_measure: 0.9999, Parsing_Accuracy: 0.9895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999904    0.9895
+Dataset Windows size 2 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.81308385]
+================get the initial groups splitting=============
+there are 31 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 44 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:01:04.480972]
+Used memory
+909.2265625
+Precision: 0.9998, Recall: 1.0000, F1_measure: 0.9999, Parsing_Accuracy: 0.9895
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+Windows    0.999904    0.9895
+Dataset Windows size 4 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 3995 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 48 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:12:04.217709]
+Used memory
+950.546875
+Dataset Windows size 4 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 3995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 48 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:03:19.519165]
+Used memory
+3363.87109375
+Dataset Windows size 4 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 3995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 48 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:03:22.913184]
+Used memory
+3369.6015625
+Dataset Windows size 4 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 3995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 48 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:03:24.975155]
+Used memory
+3357.3125
+Dataset Windows size 4 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 3995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 48 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:04:58.908326]
+Used memory
+3360.15234375
+Dataset Windows size 4 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 3995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 48 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:07:18.098526]
+Used memory
+3361.86328125
+Dataset Windows size 4 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 3995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 48 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:03:24.054513]
+Used memory
+3368.49609375
+Dataset Windows size 4 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 3995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 48 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:03:21.466869]
+Used memory
+3356.05859375
+Dataset Windows size 4 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 3995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 48 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:07:15.437881]
+Used memory
+3363.72265625
+Dataset Windows size 4 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 3995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 48 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:03:22.075211]
+Used memory
+3363.6796875
+Dataset Windows size 10 run no 1
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9995 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 45 different groups
+there is no common part in this group
+Parsing done. [Time taken: 1:39:49.514449]
+Used memory
+5465.0546875
+Dataset Windows size 10 run no 2
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 45 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:20:56.280415]
+Used memory
+20509.3789062
+Dataset Windows size 10 run no 3
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 45 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:45:10.338829]
+Used memory
+20519.0546875
+Dataset Windows size 10 run no 4
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 45 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:45:44.420306]
+Used memory
+20513.1054688
+Dataset Windows size 10 run no 5
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 45 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:40:25.904274]
+Used memory
+20516.1875
+Dataset Windows size 10 run no 6
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 45 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:21:44.162810]
+Used memory
+20510.8984375
+Dataset Windows size 10 run no 7
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 45 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:45:43.208764]
+Used memory
+20517.3203125
+Dataset Windows size 10 run no 8
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 45 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:21:44.061643]
+Used memory
+20504.75
+Dataset Windows size 10 run no 9
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 45 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:50:06.845928]
+Used memory
+20513.3671875
+Dataset Windows size 10 run no 10
+
+=== Evaluation on Windows ===
+Parsing file: ../logs/Windows/Windows_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9995 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.76168637]
+================get the initial groups splitting=============
+there are 32 groups
+splitting into different groups...
+the split_threshold is 4
+there is no common part in this group
+Merge the lists together...
+there are 45 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:40:49.815784]
+Used memory
+20512.4296875

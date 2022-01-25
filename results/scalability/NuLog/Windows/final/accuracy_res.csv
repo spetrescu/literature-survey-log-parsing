@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+NuLog,Windows,2,1.0000,1.0000,1.0000,1.0000,1
+NuLog,Windows,2,1.0000,1.0000,1.0000,0.9990,2
+NuLog,Windows,2,1.0000,1.0000,1.0000,1.0000,3
+NuLog,Windows,2,1.0000,0.9986,0.9993,0.6940,4
+NuLog,Windows,2,1.0000,1.0000,1.0000,0.9960,5
+NuLog,Windows,2,1.0000,1.0000,1.0000,0.9980,6
+NuLog,Windows,2,1.0000,1.0000,1.0000,1.0000,7
+NuLog,Windows,2,1.0000,1.0000,1.0000,0.9985,8
+NuLog,Windows,2,1.0000,1.0000,1.0000,0.9935,9
+NuLog,Windows,2,1.0000,1.0000,1.0000,1.0000,10

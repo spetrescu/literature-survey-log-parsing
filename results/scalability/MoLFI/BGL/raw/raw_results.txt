@@ -1,0 +1,600 @@
+Dataset BGL size 1 run no 1
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [1] lines...
+Parsing done. [Time taken: 0:00:00.629717]
+Used memory
+100.76953125
+Dataset BGL size 1 run no 2
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [1] lines...
+Parsing done. [Time taken: 0:00:00.629994]
+Used memory
+100.7109375
+Dataset BGL size 1 run no 3
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [1] lines...
+Parsing done. [Time taken: 0:00:00.632741]
+Used memory
+100.42578125
+Dataset BGL size 1 run no 4
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [1] lines...
+Parsing done. [Time taken: 0:00:00.630005]
+Used memory
+100.59375
+Dataset BGL size 1 run no 5
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [1] lines...
+Parsing done. [Time taken: 0:00:00.636564]
+Used memory
+100.37109375
+Dataset BGL size 1 run no 6
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [1] lines...
+Parsing done. [Time taken: 0:00:00.633459]
+Used memory
+100.4296875
+Dataset BGL size 1 run no 7
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [1] lines...
+Parsing done. [Time taken: 0:00:00.633614]
+Used memory
+100.47265625
+Dataset BGL size 1 run no 8
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [1] lines...
+Parsing done. [Time taken: 0:00:00.623452]
+Used memory
+100.75390625
+Dataset BGL size 1 run no 9
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [1] lines...
+Parsing done. [Time taken: 0:00:00.629744]
+Used memory
+100.37109375
+Dataset BGL size 1 run no 10
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 1000 messages done, loading rate: 100.0%
+After deduplicating processing [1] lines...
+Parsing done. [Time taken: 0:00:00.632180]
+Used memory
+100.48828125
+Dataset BGL size 2 run no 1
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [205] lines...
+Parsing done. [Time taken: 0:00:21.680011]
+Used memory
+106.32421875
+Precision: 0.9988, Recall: 0.9997, F1_measure: 0.9993, Parsing_Accuracy: 0.9445
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL         0.99926    0.9445
+Dataset BGL size 2 run no 2
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [205] lines...
+Parsing done. [Time taken: 0:00:20.703861]
+Used memory
+106.89453125
+Precision: 0.9995, Recall: 0.9997, F1_measure: 0.9996, Parsing_Accuracy: 0.9615
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999563    0.9615
+Dataset BGL size 2 run no 3
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [205] lines...
+Parsing done. [Time taken: 0:00:21.322832]
+Used memory
+106.83984375
+Precision: 0.9994, Recall: 0.9996, F1_measure: 0.9995, Parsing_Accuracy: 0.9525
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999499    0.9525
+Dataset BGL size 2 run no 4
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [205] lines...
+Parsing done. [Time taken: 0:00:21.848499]
+Used memory
+106.80078125
+Precision: 0.9988, Recall: 0.9997, F1_measure: 0.9992, Parsing_Accuracy: 0.9400
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999237      0.94
+Dataset BGL size 2 run no 5
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [205] lines...
+Parsing done. [Time taken: 0:00:21.995173]
+Used memory
+106.4453125
+Precision: 0.9994, Recall: 0.9997, F1_measure: 0.9995, Parsing_Accuracy: 0.9600
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999529      0.96
+Dataset BGL size 2 run no 6
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [205] lines...
+Parsing done. [Time taken: 0:00:21.546379]
+Used memory
+106.65234375
+Precision: 1.0000, Recall: 0.9996, F1_measure: 0.9998, Parsing_Accuracy: 0.9695
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999807    0.9695
+Dataset BGL size 2 run no 7
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [205] lines...
+Parsing done. [Time taken: 0:00:22.349859]
+Used memory
+106.69140625
+Precision: 0.9989, Recall: 0.9997, F1_measure: 0.9993, Parsing_Accuracy: 0.9475
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999289    0.9475
+Dataset BGL size 2 run no 8
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [205] lines...
+Parsing done. [Time taken: 0:00:22.140874]
+Used memory
+106.375
+Precision: 0.9999, Recall: 0.9997, F1_measure: 0.9998, Parsing_Accuracy: 0.9680
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999782     0.968
+Dataset BGL size 2 run no 9
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [205] lines...
+Parsing done. [Time taken: 0:00:21.039752]
+Used memory
+106.28515625
+Precision: 0.9989, Recall: 0.9997, F1_measure: 0.9993, Parsing_Accuracy: 0.9500
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999297      0.95
+Dataset BGL size 2 run no 10
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 2000 messages done, loading rate: 100.0%
+After deduplicating processing [205] lines...
+Parsing done. [Time taken: 0:00:22.103995]
+Used memory
+106.8203125
+Precision: 1.0000, Recall: 0.9996, F1_measure: 0.9998, Parsing_Accuracy: 0.9715
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.999817    0.9715
+Dataset BGL size 4 run no 1
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [3] lines...
+Parsing done. [Time taken: 0:00:00.983540]
+Used memory
+103.34765625
+Dataset BGL size 4 run no 2
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [3] lines...
+Parsing done. [Time taken: 0:00:00.979044]
+Used memory
+103.0625
+Dataset BGL size 4 run no 3
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [3] lines...
+Parsing done. [Time taken: 0:00:00.986597]
+Used memory
+103.78125
+Dataset BGL size 4 run no 4
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [3] lines...
+Parsing done. [Time taken: 0:00:00.976176]
+Used memory
+103.4765625
+Dataset BGL size 4 run no 5
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [3] lines...
+Parsing done. [Time taken: 0:00:00.987080]
+Used memory
+103.55859375
+Dataset BGL size 4 run no 6
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [3] lines...
+Parsing done. [Time taken: 0:00:00.972571]
+Used memory
+103.65234375
+Dataset BGL size 4 run no 7
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [3] lines...
+Parsing done. [Time taken: 0:00:00.988459]
+Used memory
+103.82421875
+Dataset BGL size 4 run no 8
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [3] lines...
+Parsing done. [Time taken: 0:00:00.975014]
+Used memory
+103.2734375
+Dataset BGL size 4 run no 9
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [3] lines...
+Parsing done. [Time taken: 0:00:00.970442]
+Used memory
+103.07421875
+Dataset BGL size 4 run no 10
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 4000 messages done, loading rate: 100.0%
+After deduplicating processing [3] lines...
+Parsing done. [Time taken: 0:00:00.978261]
+Used memory
+103.6640625
+Dataset BGL size 10 run no 1
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [37] lines...
+Parsing done. [Time taken: 0:00:04.362301]
+Used memory
+109.69921875
+Dataset BGL size 10 run no 2
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [37] lines...
+Parsing done. [Time taken: 0:00:04.376235]
+Used memory
+109.31640625
+Dataset BGL size 10 run no 3
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [37] lines...
+Parsing done. [Time taken: 0:00:04.397809]
+Used memory
+108.7890625
+Dataset BGL size 10 run no 4
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [37] lines...
+Parsing done. [Time taken: 0:00:04.369504]
+Used memory
+109.66796875
+Dataset BGL size 10 run no 5
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [37] lines...
+Parsing done. [Time taken: 0:00:04.351425]
+Used memory
+110.21875
+Dataset BGL size 10 run no 6
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [37] lines...
+Parsing done. [Time taken: 0:00:04.390153]
+Used memory
+108.8359375
+Dataset BGL size 10 run no 7
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [37] lines...
+Parsing done. [Time taken: 0:00:04.340135]
+Used memory
+110.41015625
+Dataset BGL size 10 run no 8
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [37] lines...
+Parsing done. [Time taken: 0:00:04.351824]
+Used memory
+109.98046875
+Dataset BGL size 10 run no 9
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [37] lines...
+Parsing done. [Time taken: 0:00:04.365105]
+Used memory
+109.4296875
+Dataset BGL size 10 run no 10
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 10000 messages done, loading rate: 100.0%
+After deduplicating processing [37] lines...
+Parsing done. [Time taken: 0:00:04.463740]
+Used memory
+109.8984375
+Dataset BGL size 20 run no 1
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [82] lines...
+Parsing done. [Time taken: 0:00:06.427770]
+Used memory
+120.38671875
+Dataset BGL size 20 run no 2
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [82] lines...
+Parsing done. [Time taken: 0:00:06.484025]
+Used memory
+120.484375
+Dataset BGL size 20 run no 3
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [82] lines...
+Parsing done. [Time taken: 0:00:06.401451]
+Used memory
+119.640625
+Dataset BGL size 20 run no 4
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [82] lines...
+Parsing done. [Time taken: 0:00:06.375362]
+Used memory
+120.38671875
+Dataset BGL size 20 run no 5
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [82] lines...
+Parsing done. [Time taken: 0:00:06.265600]
+Used memory
+120.3984375
+Dataset BGL size 20 run no 6
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [82] lines...
+Parsing done. [Time taken: 0:00:06.587798]
+Used memory
+120.53515625
+Dataset BGL size 20 run no 7
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [82] lines...
+Parsing done. [Time taken: 0:00:06.474359]
+Used memory
+120.5390625
+Dataset BGL size 20 run no 8
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [82] lines...
+Parsing done. [Time taken: 0:00:06.518982]
+Used memory
+119.60546875
+Dataset BGL size 20 run no 9
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [82] lines...
+Parsing done. [Time taken: 0:00:06.659540]
+Used memory
+120.16796875
+Dataset BGL size 20 run no 10
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 20000 messages done, loading rate: 100.0%
+After deduplicating processing [82] lines...
+Parsing done. [Time taken: 0:00:06.441401]
+Used memory
+120.34375
+Dataset BGL size 50 run no 1
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [194] lines...
+Parsing done. [Time taken: 0:00:16.478039]
+Used memory
+147.1171875
+Dataset BGL size 50 run no 2
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [194] lines...
+Parsing done. [Time taken: 0:00:15.708000]
+Used memory
+147.421875
+Dataset BGL size 50 run no 3
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [194] lines...
+Parsing done. [Time taken: 0:00:15.797424]
+Used memory
+147.12109375
+Dataset BGL size 50 run no 4
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [194] lines...
+Parsing done. [Time taken: 0:00:16.091726]
+Used memory
+147.04296875
+Dataset BGL size 50 run no 5
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [194] lines...
+Parsing done. [Time taken: 0:00:16.533036]
+Used memory
+146.875
+Dataset BGL size 50 run no 6
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [194] lines...
+Parsing done. [Time taken: 0:00:16.679692]
+Used memory
+146.87109375
+Dataset BGL size 50 run no 7
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [194] lines...
+Parsing done. [Time taken: 0:00:15.968469]
+Used memory
+147.23828125
+Dataset BGL size 50 run no 8
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [194] lines...
+Parsing done. [Time taken: 0:00:15.670632]
+Used memory
+147.31640625
+Dataset BGL size 50 run no 9
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [194] lines...
+Parsing done. [Time taken: 0:00:15.874187]
+Used memory
+147.1171875
+Dataset BGL size 50 run no 10
+
+=== Evaluation on BGL ===
+Loading log messages to dataframe...
+Loading 50000 messages done, loading rate: 100.0%
+After deduplicating processing [194] lines...
+Parsing done. [Time taken: 0:00:15.847278]
+Used memory
+147.46875

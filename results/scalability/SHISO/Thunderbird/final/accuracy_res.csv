@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+SHISO,Thunderbird,2,0.9684,0.8604,0.9112,0.5760,1
+SHISO,Thunderbird,2,0.9684,0.8604,0.9112,0.5760,2
+SHISO,Thunderbird,2,0.9684,0.8604,0.9112,0.5760,3
+SHISO,Thunderbird,2,0.9684,0.8604,0.9112,0.5760,4
+SHISO,Thunderbird,2,0.9684,0.8604,0.9112,0.5760,5
+SHISO,Thunderbird,2,0.9684,0.8604,0.9112,0.5760,6
+SHISO,Thunderbird,2,0.9684,0.8604,0.9112,0.5760,7
+SHISO,Thunderbird,2,0.9684,0.8604,0.9112,0.5760,8
+SHISO,Thunderbird,2,0.9684,0.8604,0.9112,0.5760,9
+SHISO,Thunderbird,2,0.9684,0.8604,0.9112,0.5760,10

@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+LogSig,Windows,2,0.9997,0.8416,0.9139,0.6890,1
+LogSig,Windows,2,0.9997,0.8416,0.9139,0.6890,2
+LogSig,Windows,2,0.9997,0.8416,0.9139,0.6890,3
+LogSig,Windows,2,0.9997,0.8416,0.9139,0.6890,4
+LogSig,Windows,2,0.9997,0.8416,0.9139,0.6890,5
+LogSig,Windows,2,0.9997,0.8416,0.9139,0.6890,6
+LogSig,Windows,2,0.9997,0.8416,0.9139,0.6890,7
+LogSig,Windows,2,0.9997,0.8416,0.9139,0.6890,8
+LogSig,Windows,2,0.9997,0.8416,0.9139,0.6890,9
+LogSig,Windows,2,0.9997,0.8416,0.9139,0.6890,10

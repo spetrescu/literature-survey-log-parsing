@@ -1,0 +1,1803 @@
+Dataset HDFS size 1 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 4
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [3.54523011]
+================get the initial groups splitting=============
+there are 8 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 11 different groups
+Parsing done. [Time taken: 0:00:09.912437]
+Used memory
+284.796875
+Dataset HDFS size 1 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 4
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [3.54523011]
+================get the initial groups splitting=============
+there are 8 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 11 different groups
+Parsing done. [Time taken: 0:00:12.715960]
+Used memory
+296.875
+Dataset HDFS size 1 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 4
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [3.54523011]
+================get the initial groups splitting=============
+there are 8 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 11 different groups
+Parsing done. [Time taken: 0:00:15.787766]
+Used memory
+288.32421875
+Dataset HDFS size 1 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 4
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [3.54523011]
+================get the initial groups splitting=============
+there are 8 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 11 different groups
+Parsing done. [Time taken: 0:00:12.835341]
+Used memory
+283.87890625
+Dataset HDFS size 1 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 4
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [3.54523011]
+================get the initial groups splitting=============
+there are 8 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 11 different groups
+Parsing done. [Time taken: 0:00:12.962197]
+Used memory
+284.58984375
+Dataset HDFS size 1 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 4
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [3.54523011]
+================get the initial groups splitting=============
+there are 8 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 11 different groups
+Parsing done. [Time taken: 0:00:12.678483]
+Used memory
+285.82421875
+Dataset HDFS size 1 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 4
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [3.54523011]
+================get the initial groups splitting=============
+there are 8 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 11 different groups
+Parsing done. [Time taken: 0:00:18.471323]
+Used memory
+285.8125
+Dataset HDFS size 1 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 4
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [3.54523011]
+================get the initial groups splitting=============
+there are 8 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 11 different groups
+Parsing done. [Time taken: 0:00:21.787477]
+Used memory
+287.32421875
+Dataset HDFS size 1 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 4
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [3.54523011]
+================get the initial groups splitting=============
+there are 8 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 11 different groups
+Parsing done. [Time taken: 0:00:12.792922]
+Used memory
+286.24609375
+Dataset HDFS size 1 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 4
+there are 1000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [3.54523011]
+================get the initial groups splitting=============
+there are 8 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 11 different groups
+Parsing done. [Time taken: 0:00:15.918128]
+Used memory
+286.0234375
+Dataset HDFS size 2 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 2000 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+the threshold1 is: [4.83304332]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:02:50.827592]
+Used memory
+312.0234375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.50701938]
+================get the initial groups splitting=============
+there are 12 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:00:38.372031]
+Used memory
+902.171875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.83304332]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:01:01.809358]
+Used memory
+904.59375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.50701938]
+================get the initial groups splitting=============
+there are 12 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:00:50.078219]
+Used memory
+900.9765625
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.50701938]
+================get the initial groups splitting=============
+there are 12 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:00:38.816455]
+Used memory
+900.25
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.83304332]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:01:01.249559]
+Used memory
+901.19140625
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.83304332]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:01:02.722291]
+Used memory
+911.11328125
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.83304332]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:01:47.831563]
+Used memory
+912.00390625
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.83304332]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:01:37.236684]
+Used memory
+900.19921875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 2 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.50701938]
+================get the initial groups splitting=============
+there are 12 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:00:50.225008]
+Used memory
+914.2734375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+HDFS            1.0       1.0
+Dataset HDFS size 4 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 5
+there are 4000 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+the threshold1 is: [4.57686554]
+================get the initial groups splitting=============
+there are 9 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 12 different groups
+Parsing done. [Time taken: 0:08:28.487123]
+Used memory
+896.8984375
+Dataset HDFS size 4 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 5
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57686554]
+================get the initial groups splitting=============
+there are 9 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 12 different groups
+Parsing done. [Time taken: 0:03:22.439678]
+Used memory
+3374.4453125
+Dataset HDFS size 4 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 5
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57686554]
+================get the initial groups splitting=============
+there are 9 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 12 different groups
+Parsing done. [Time taken: 0:02:33.266246]
+Used memory
+3367.859375
+Dataset HDFS size 4 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 5
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57686554]
+================get the initial groups splitting=============
+there are 9 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 12 different groups
+Parsing done. [Time taken: 0:04:08.899931]
+Used memory
+3372.4375
+Dataset HDFS size 4 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 5
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57686554]
+================get the initial groups splitting=============
+there are 9 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 12 different groups
+Parsing done. [Time taken: 0:04:55.445719]
+Used memory
+3365.515625
+Dataset HDFS size 4 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 5
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57686554]
+================get the initial groups splitting=============
+there are 9 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 12 different groups
+Parsing done. [Time taken: 0:02:34.733993]
+Used memory
+3365.734375
+Dataset HDFS size 4 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 5
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57686554]
+================get the initial groups splitting=============
+there are 9 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 12 different groups
+Parsing done. [Time taken: 0:03:22.052715]
+Used memory
+3372.63671875
+Dataset HDFS size 4 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 5
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57686554]
+================get the initial groups splitting=============
+there are 9 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 12 different groups
+Parsing done. [Time taken: 0:04:57.076077]
+Used memory
+3370.67578125
+Dataset HDFS size 4 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 5
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57686554]
+================get the initial groups splitting=============
+there are 9 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 12 different groups
+Parsing done. [Time taken: 0:04:58.331379]
+Used memory
+3368.234375
+Dataset HDFS size 4 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 5
+there are 4000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57686554]
+================get the initial groups splitting=============
+there are 9 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 12 different groups
+Parsing done. [Time taken: 0:02:36.765824]
+Used memory
+3371.76171875
+Dataset HDFS size 10 run no 1
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 10000 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+ the threshold1 is: [4.57697915]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 1:16:39.192844]
+Used memory
+5437.34375
+Dataset HDFS size 10 run no 2
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 10000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57697915]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:26:03.806544]
+Used memory
+20532.421875
+Dataset HDFS size 10 run no 3
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 10000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57697915]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:26:11.350605]
+Used memory
+20529.4921875
+Dataset HDFS size 10 run no 4
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 10000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57697915]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:31:06.344463]
+Used memory
+20534.7109375
+Dataset HDFS size 10 run no 5
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 10000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57697915]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:40:26.539796]
+Used memory
+20525.796875
+Dataset HDFS size 10 run no 6
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 10000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57697915]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:40:58.163034]
+Used memory
+20529.171875
+Dataset HDFS size 10 run no 7
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 10000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57697915]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:21:03.425854]
+Used memory
+20537.234375
+Dataset HDFS size 10 run no 8
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 10000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57697915]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:26:00.643317]
+Used memory
+20532.546875
+Dataset HDFS size 10 run no 9
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 10000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57697915]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:26:09.847376]
+Used memory
+20537.1132812
+Dataset HDFS size 10 run no 10
+
+=== Evaluation on HDFS ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 10000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.57697915]
+================get the initial groups splitting=============
+there are 11 groups
+splitting into different groups...
+the split_threshold is 3
+Merge the lists together...
+there are 14 different groups
+Parsing done. [Time taken: 0:26:17.579616]
+Used memory
+20528.1015625
+Dataset Thunderbird size 1 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 991 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+the threshold1 is: [8.37302886]
+================get the initial groups splitting=============
+there are 2 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 2 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:00:55.829399]
+Used memory
+144.9296875
+Dataset Thunderbird size 1 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 991 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [8.37302886]
+================get the initial groups splitting=============
+there are 2 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 2 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:00:27.629396]
+Used memory
+278.25
+Dataset Thunderbird size 1 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 991 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.17899728]
+================get the initial groups splitting=============
+there are 171 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+Merge the lists together...
+there are 171 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:15.308156]
+Used memory
+292.91015625
+Dataset Thunderbird size 1 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 991 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [8.37302886]
+================get the initial groups splitting=============
+there are 2 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 2 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:00:24.303040]
+Used memory
+291.15234375
+Dataset Thunderbird size 1 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 991 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [8.37302886]
+================get the initial groups splitting=============
+there are 2 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 2 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:00:15.472964]
+Used memory
+278.140625
+Dataset Thunderbird size 1 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 991 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [8.37302886]
+================get the initial groups splitting=============
+there are 2 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 2 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:00:24.184332]
+Used memory
+293.390625
+Dataset Thunderbird size 1 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 991 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [8.37302886]
+================get the initial groups splitting=============
+there are 2 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 2 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:00:33.137064]
+Used memory
+292.3046875
+Dataset Thunderbird size 1 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 991 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [8.37302886]
+================get the initial groups splitting=============
+there are 2 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 2 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:00:30.056532]
+Used memory
+278.09765625
+Dataset Thunderbird size 1 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 991 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.17899728]
+================get the initial groups splitting=============
+there are 171 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+Merge the lists together...
+there are 171 different groups
+there is no common part in this group
+Parsing done. [Time taken: 0:00:12.536617]
+Used memory
+293.26171875
+Dataset Thunderbird size 1 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_1k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 991 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [8.37302886]
+================get the initial groups splitting=============
+there are 2 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 2 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:00:18.773967]
+Used memory
+293.125
+Dataset Thunderbird size 2 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+the threshold1 is: [6.50741787]
+================get the initial groups splitting=============
+there are 69 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 69 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:03:41.443855]
+Used memory
+305.875
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.50741787]
+================get the initial groups splitting=============
+there are 69 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 69 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:01:03.033063]
+Used memory
+902.7578125
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.50741787]
+================get the initial groups splitting=============
+there are 69 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 69 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:00:51.663052]
+Used memory
+908.875
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.50741787]
+================get the initial groups splitting=============
+there are 69 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 69 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:01:14.476305]
+Used memory
+914.58203125
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.50741787]
+================get the initial groups splitting=============
+there are 69 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 69 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:01:25.778056]
+Used memory
+912.50390625
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.50741787]
+================get the initial groups splitting=============
+there are 69 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 69 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:00:51.436768]
+Used memory
+906.515625
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.50741787]
+================get the initial groups splitting=============
+there are 69 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 69 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:00:51.272713]
+Used memory
+907.5
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.50741787]
+================get the initial groups splitting=============
+there are 69 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 69 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:01:03.346137]
+Used memory
+904.93359375
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.50741787]
+================get the initial groups splitting=============
+there are 69 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 69 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:00:51.054042]
+Used memory
+904.55078125
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 2 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_2k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 8
+there are 2000 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [6.50741787]
+================get the initial groups splitting=============
+there are 69 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 69 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:00:51.283250]
+Used memory
+906.171875
+Precision: 0.9650, Recall: 1.0000, F1_measure: 0.9822, Parsing_Accuracy: 0.8125
+
+=== Overall evaluation results ===
+             F1_measure  Accuracy
+Dataset
+Thunderbird    0.982164    0.8125
+Dataset Thunderbird size 4 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 3986 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+the threshold1 is: [4.7923103]
+================get the initial groups splitting=============
+there are 293 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 293 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:10:47.627921]
+Used memory
+1007.6640625
+Dataset Thunderbird size 4 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 3986 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.7923103]
+================get the initial groups splitting=============
+there are 293 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 293 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:06:25.560146]
+Used memory
+3352.60546875
+Dataset Thunderbird size 4 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 3986 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.7923103]
+================get the initial groups splitting=============
+there are 293 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 293 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:04:51.211903]
+Used memory
+3346.6171875
+Dataset Thunderbird size 4 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 3986 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.7923103]
+================get the initial groups splitting=============
+there are 293 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 293 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:03:20.525351]
+Used memory
+3352.08203125
+Dataset Thunderbird size 4 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 3986 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.7923103]
+================get the initial groups splitting=============
+there are 293 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 293 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:09:23.340236]
+Used memory
+3341.99609375
+Dataset Thunderbird size 4 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 3986 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.7923103]
+================get the initial groups splitting=============
+there are 293 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 293 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:07:56.873552]
+Used memory
+3356.1328125
+Dataset Thunderbird size 4 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 3986 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.7923103]
+================get the initial groups splitting=============
+there are 293 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 293 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:04:01.888844]
+Used memory
+3348.73828125
+Dataset Thunderbird size 4 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 3986 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.7923103]
+================get the initial groups splitting=============
+there are 293 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 293 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:04:50.817273]
+Used memory
+3348.6640625
+Dataset Thunderbird size 4 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 3986 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.7923103]
+================get the initial groups splitting=============
+there are 293 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 293 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:04:53.379023]
+Used memory
+3343.5703125
+Dataset Thunderbird size 4 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_4k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 6
+there are 3986 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [4.7923103]
+================get the initial groups splitting=============
+there are 293 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 293 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:04:50.214627]
+Used memory
+3355.11328125
+Dataset Thunderbird size 10 run no 1
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9648 loglines
+calculating distance....
+calculate distance between every two logs...
+kMeans calculation...
+ the threshold1 is: [5.5702863]
+================get the initial groups splitting=============
+there are 275 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 275 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 1:25:04.228507]
+Used memory
+5026.75390625
+Dataset Thunderbird size 10 run no 2
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9648 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.5702863]
+================get the initial groups splitting=============
+there are 275 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 275 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:28:51.072884]
+Used memory
+19090.2890625
+Dataset Thunderbird size 10 run no 3
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9648 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.5702863]
+================get the initial groups splitting=============
+there are 275 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 275 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:33:24.588903]
+Used memory
+19097.2695312
+Dataset Thunderbird size 10 run no 4
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9648 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.5702863]
+================get the initial groups splitting=============
+there are 275 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 275 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:19:52.362452]
+Used memory
+19092.7734375
+Dataset Thunderbird size 10 run no 5
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9648 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.5702863]
+================get the initial groups splitting=============
+there are 275 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 275 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:24:18.914105]
+Used memory
+19101.140625
+Dataset Thunderbird size 10 run no 6
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9648 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.5702863]
+================get the initial groups splitting=============
+there are 275 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 275 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:24:13.452815]
+Used memory
+19097.890625
+Dataset Thunderbird size 10 run no 7
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9648 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.5702863]
+================get the initial groups splitting=============
+there are 275 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 275 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:24:32.176145]
+Used memory
+19100.3984375
+Dataset Thunderbird size 10 run no 8
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9648 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.5702863]
+================get the initial groups splitting=============
+there are 275 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 275 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:24:29.179141]
+Used memory
+19102.6484375
+Dataset Thunderbird size 10 run no 9
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9648 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.5702863]
+================get the initial groups splitting=============
+there are 275 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 275 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:29:26.518731]
+Used memory
+19099.734375
+Dataset Thunderbird size 10 run no 10
+
+=== Evaluation on Thunderbird ===
+Parsing file: ../logs/Thunderbird/Thunderbird_10k.log
+=== Step 1: Erasing parameters ===
+the parameter v is: 7
+there are 9648 loglines
+Loading distance matrix from cache..
+kMeans calculation...
+the threshold1 is: [5.5702863]
+================get the initial groups splitting=============
+there are 275 groups
+splitting into different groups...
+the split_threshold is 2
+there is no common part in this group
+there is no common part in this group
+Merge the lists together...
+there are 275 different groups
+there is no common part in this group
+there is no common part in this group
+Parsing done. [Time taken: 0:29:01.415704]
+Used memory
+19101.15625

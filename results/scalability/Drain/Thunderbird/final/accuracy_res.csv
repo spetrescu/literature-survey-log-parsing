@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+Drain,Thunderbird,2,0.9998,0.9988,0.9993,0.9550,1
+Drain,Thunderbird,2,0.9998,0.9988,0.9993,0.9550,2
+Drain,Thunderbird,2,0.9998,0.9988,0.9993,0.9550,3
+Drain,Thunderbird,2,0.9998,0.9988,0.9993,0.9550,4
+Drain,Thunderbird,2,0.9998,0.9988,0.9993,0.9550,5
+Drain,Thunderbird,2,0.9998,0.9988,0.9993,0.9550,6
+Drain,Thunderbird,2,0.9998,0.9988,0.9993,0.9550,7
+Drain,Thunderbird,2,0.9998,0.9988,0.9993,0.9550,8
+Drain,Thunderbird,2,0.9998,0.9988,0.9993,0.9550,9
+Drain,Thunderbird,2,0.9998,0.9988,0.9993,0.9550,10

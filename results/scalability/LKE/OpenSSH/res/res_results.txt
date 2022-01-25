@@ -1,0 +1,210 @@
+Dataset OpenSSH size 1 run no 1
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:08.333884]
+147.3359375
+Dataset OpenSSH size 1 run no 2
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:21.542080]
+289.9921875
+Dataset OpenSSH size 1 run no 3
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:15.647531]
+289.51171875
+Dataset OpenSSH size 1 run no 4
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:39.629705]
+290.64453125
+Dataset OpenSSH size 1 run no 5
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:21.588547]
+289.69140625
+Dataset OpenSSH size 1 run no 6
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:12.885922]
+291.40234375
+Dataset OpenSSH size 1 run no 7
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:19.026097]
+289.76171875
+Dataset OpenSSH size 1 run no 8
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:38.851479]
+289.71875
+Dataset OpenSSH size 1 run no 9
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:15.667725]
+289.4921875
+Dataset OpenSSH size 1 run no 10
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:00:21.278279]
+289.8828125
+Dataset OpenSSH size 2 run no 1
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:03:18.331559]
+307.5859375
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 2
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:14.520901]
+913.28125
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 3
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:48.610776]
+898.80859375
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 4
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:14.622554]
+899.32421875
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 5
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:03.161917]
+914.046875
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 6
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:13.295793]
+904.65625
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 7
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:02.768179]
+904.00390625
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 8
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:25.977581]
+910.890625
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 9
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:02.555255]
+905.17578125
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 2 run no 10
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:01:03.012161]
+911.5234375
+Precision: 0.9999, Recall: 0.8805, F1_measure: 0.9364, Parsing_Accuracy: 0.4255
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+OpenSSH      0.9364    0.4255
+Dataset OpenSSH size 4 run no 1
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:13:40.436523]
+969.26171875
+Dataset OpenSSH size 4 run no 2
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:04:55.200145]
+3372.11328125
+Dataset OpenSSH size 4 run no 3
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:04:57.996226]
+3364.5703125
+Dataset OpenSSH size 4 run no 4
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:04:09.791048]
+3371.12109375
+Dataset OpenSSH size 4 run no 5
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:05:41.684355]
+3366.47265625
+Dataset OpenSSH size 4 run no 6
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:04:09.713523]
+3367.43359375
+Dataset OpenSSH size 4 run no 7
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:04:10.122921]
+3365.55078125
+Dataset OpenSSH size 4 run no 8
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:03:25.138243]
+3374.046875
+Dataset OpenSSH size 4 run no 9
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:05:44.264854]
+3372.1484375
+Dataset OpenSSH size 4 run no 10
+
+================get the initial groups splitting=============
+Parsing done. [Time taken: 0:06:27.524257]
+3376.59765625

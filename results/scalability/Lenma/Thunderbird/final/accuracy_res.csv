@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+Lenma,Thunderbird,2,1.0000,0.9994,0.9997,0.9430,1
+Lenma,Thunderbird,2,1.0000,0.9994,0.9997,0.9430,2
+Lenma,Thunderbird,2,1.0000,0.9994,0.9997,0.9430,3
+Lenma,Thunderbird,2,1.0000,0.9994,0.9997,0.9430,4
+Lenma,Thunderbird,2,1.0000,0.9994,0.9997,0.9430,5
+Lenma,Thunderbird,2,1.0000,0.9994,0.9997,0.9430,6
+Lenma,Thunderbird,2,1.0000,0.9994,0.9997,0.9430,7
+Lenma,Thunderbird,2,1.0000,0.9994,0.9997,0.9430,8
+Lenma,Thunderbird,2,1.0000,0.9994,0.9997,0.9430,9
+Lenma,Thunderbird,2,1.0000,0.9994,0.9997,0.9430,10

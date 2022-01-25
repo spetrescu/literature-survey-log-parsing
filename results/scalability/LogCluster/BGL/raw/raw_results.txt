@@ -1,0 +1,1560 @@
+Dataset BGL size 1 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:28:54 2021: Starting the clustering process...
+Wed Dec 29 21:28:54 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:28:54 2021: Total number of frequent words: 5
+Wed Dec 29 21:28:54 2021: Total number of candidates: 1
+Wed Dec 29 21:28:54 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:28:54 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.119323]
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:28:55 2021: Starting the clustering process...
+Wed Dec 29 21:28:55 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:28:55 2021: Total number of frequent words: 5
+Wed Dec 29 21:28:55 2021: Total number of candidates: 1
+Wed Dec 29 21:28:55 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:28:55 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.099064]
+Used memory
+88.7265625
+Dataset BGL size 1 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:28:55 2021: Starting the clustering process...
+Wed Dec 29 21:28:55 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:28:55 2021: Total number of frequent words: 5
+Wed Dec 29 21:28:55 2021: Total number of candidates: 1
+Wed Dec 29 21:28:55 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:28:55 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.119204]
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:28:55 2021: Starting the clustering process...
+Wed Dec 29 21:28:55 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:28:55 2021: Total number of frequent words: 5
+Wed Dec 29 21:28:55 2021: Total number of candidates: 1
+Wed Dec 29 21:28:55 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:28:55 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.095636]
+Used memory
+88.7734375
+Dataset BGL size 1 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:28:56 2021: Starting the clustering process...
+Wed Dec 29 21:28:56 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:28:56 2021: Total number of frequent words: 5
+Wed Dec 29 21:28:56 2021: Total number of candidates: 1
+Wed Dec 29 21:28:56 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:28:56 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.115584]
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:28:56 2021: Starting the clustering process...
+Wed Dec 29 21:28:56 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:28:56 2021: Total number of frequent words: 5
+Wed Dec 29 21:28:56 2021: Total number of candidates: 1
+Wed Dec 29 21:28:56 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:28:56 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.097404]
+Used memory
+88.73046875
+Dataset BGL size 1 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:28:57 2021: Starting the clustering process...
+Wed Dec 29 21:28:57 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:28:57 2021: Total number of frequent words: 5
+Wed Dec 29 21:28:57 2021: Total number of candidates: 1
+Wed Dec 29 21:28:57 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:28:57 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.117790]
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:28:57 2021: Starting the clustering process...
+Wed Dec 29 21:28:57 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:28:57 2021: Total number of frequent words: 5
+Wed Dec 29 21:28:57 2021: Total number of candidates: 1
+Wed Dec 29 21:28:57 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:28:57 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.093097]
+Used memory
+88.66796875
+Dataset BGL size 1 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:28:58 2021: Starting the clustering process...
+Wed Dec 29 21:28:58 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:28:58 2021: Total number of frequent words: 5
+Wed Dec 29 21:28:58 2021: Total number of candidates: 1
+Wed Dec 29 21:28:58 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:28:58 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.116467]
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:28:58 2021: Starting the clustering process...
+Wed Dec 29 21:28:58 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:28:58 2021: Total number of frequent words: 5
+Wed Dec 29 21:28:58 2021: Total number of candidates: 1
+Wed Dec 29 21:28:58 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:28:58 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.098010]
+Used memory
+88.59375
+Dataset BGL size 1 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:28:59 2021: Starting the clustering process...
+Wed Dec 29 21:28:59 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:28:59 2021: Total number of frequent words: 5
+Wed Dec 29 21:28:59 2021: Total number of candidates: 1
+Wed Dec 29 21:28:59 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:28:59 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.114042]
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:28:59 2021: Starting the clustering process...
+Wed Dec 29 21:28:59 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:28:59 2021: Total number of frequent words: 5
+Wed Dec 29 21:28:59 2021: Total number of candidates: 1
+Wed Dec 29 21:28:59 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:28:59 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.092600]
+Used memory
+88.50390625
+Dataset BGL size 1 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:28:59 2021: Starting the clustering process...
+Wed Dec 29 21:28:59 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:28:59 2021: Total number of frequent words: 5
+Wed Dec 29 21:28:59 2021: Total number of candidates: 1
+Wed Dec 29 21:28:59 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:28:59 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.115588]
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:00 2021: Starting the clustering process...
+Wed Dec 29 21:29:00 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:29:00 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:00 2021: Total number of candidates: 1
+Wed Dec 29 21:29:00 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:00 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.095871]
+Used memory
+88.94921875
+Dataset BGL size 1 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:00 2021: Starting the clustering process...
+Wed Dec 29 21:29:00 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:29:00 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:00 2021: Total number of candidates: 1
+Wed Dec 29 21:29:00 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:00 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.115002]
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:00 2021: Starting the clustering process...
+Wed Dec 29 21:29:00 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:29:00 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:00 2021: Total number of candidates: 1
+Wed Dec 29 21:29:00 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:00 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.093516]
+Used memory
+88.8984375
+Dataset BGL size 1 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:01 2021: Starting the clustering process...
+Wed Dec 29 21:29:01 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:29:01 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:01 2021: Total number of candidates: 1
+Wed Dec 29 21:29:01 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:01 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.115369]
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:01 2021: Starting the clustering process...
+Wed Dec 29 21:29:01 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:29:01 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:01 2021: Total number of candidates: 1
+Wed Dec 29 21:29:01 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:01 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.095022]
+Used memory
+88.76171875
+Dataset BGL size 1 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:02 2021: Starting the clustering process...
+Wed Dec 29 21:29:02 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:29:02 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:02 2021: Total number of candidates: 1
+Wed Dec 29 21:29:02 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:02 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.113003]
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:02 2021: Starting the clustering process...
+Wed Dec 29 21:29:02 2021: Total 1000 lines read from input sources, using absolute support 20 (relative support 2 percent)
+Wed Dec 29 21:29:02 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:02 2021: Total number of candidates: 1
+Wed Dec 29 21:29:02 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:02 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.096385]
+Used memory
+88.55859375
+Dataset BGL size 2 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:03 2021: Starting the clustering process...
+Wed Dec 29 21:29:03 2021: Total 2000 lines read from input sources, using absolute support 40 (relative support 2 percent)
+Wed Dec 29 21:29:03 2021: Total number of frequent words: 61
+Wed Dec 29 21:29:03 2021: Total number of candidates: 64
+Wed Dec 29 21:29:03 2021: Total number of frequent candidates: 10
+Wed Dec 29 21:29:03 2021: Total number of clusters: 10
+Parsing done. [Time taken: 0:00:00.216993]
+Used memory
+89.85546875
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:04 2021: Starting the clustering process...
+Wed Dec 29 21:29:04 2021: Total 2000 lines read from input sources, using absolute support 40 (relative support 2 percent)
+Wed Dec 29 21:29:04 2021: Total number of frequent words: 61
+Wed Dec 29 21:29:04 2021: Total number of candidates: 64
+Wed Dec 29 21:29:04 2021: Total number of frequent candidates: 10
+Wed Dec 29 21:29:04 2021: Total number of clusters: 10
+Parsing done. [Time taken: 0:00:00.209941]
+Used memory
+89.984375
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:05 2021: Starting the clustering process...
+Wed Dec 29 21:29:05 2021: Total 2000 lines read from input sources, using absolute support 40 (relative support 2 percent)
+Wed Dec 29 21:29:05 2021: Total number of frequent words: 61
+Wed Dec 29 21:29:05 2021: Total number of candidates: 64
+Wed Dec 29 21:29:05 2021: Total number of frequent candidates: 10
+Wed Dec 29 21:29:05 2021: Total number of clusters: 10
+Parsing done. [Time taken: 0:00:00.214972]
+Used memory
+89.67578125
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:06 2021: Starting the clustering process...
+Wed Dec 29 21:29:06 2021: Total 2000 lines read from input sources, using absolute support 40 (relative support 2 percent)
+Wed Dec 29 21:29:06 2021: Total number of frequent words: 61
+Wed Dec 29 21:29:06 2021: Total number of candidates: 64
+Wed Dec 29 21:29:06 2021: Total number of frequent candidates: 10
+Wed Dec 29 21:29:06 2021: Total number of clusters: 10
+Parsing done. [Time taken: 0:00:00.210739]
+Used memory
+89.68359375
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:08 2021: Starting the clustering process...
+Wed Dec 29 21:29:08 2021: Total 2000 lines read from input sources, using absolute support 40 (relative support 2 percent)
+Wed Dec 29 21:29:08 2021: Total number of frequent words: 61
+Wed Dec 29 21:29:08 2021: Total number of candidates: 64
+Wed Dec 29 21:29:08 2021: Total number of frequent candidates: 10
+Wed Dec 29 21:29:08 2021: Total number of clusters: 10
+Parsing done. [Time taken: 0:00:00.210319]
+Used memory
+89.67578125
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:09 2021: Starting the clustering process...
+Wed Dec 29 21:29:09 2021: Total 2000 lines read from input sources, using absolute support 40 (relative support 2 percent)
+Wed Dec 29 21:29:09 2021: Total number of frequent words: 61
+Wed Dec 29 21:29:09 2021: Total number of candidates: 64
+Wed Dec 29 21:29:09 2021: Total number of frequent candidates: 10
+Wed Dec 29 21:29:09 2021: Total number of clusters: 10
+Parsing done. [Time taken: 0:00:00.212466]
+Used memory
+89.9375
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:10 2021: Starting the clustering process...
+Wed Dec 29 21:29:10 2021: Total 2000 lines read from input sources, using absolute support 40 (relative support 2 percent)
+Wed Dec 29 21:29:10 2021: Total number of frequent words: 61
+Wed Dec 29 21:29:10 2021: Total number of candidates: 64
+Wed Dec 29 21:29:10 2021: Total number of frequent candidates: 10
+Wed Dec 29 21:29:10 2021: Total number of clusters: 10
+Parsing done. [Time taken: 0:00:00.217389]
+Used memory
+89.81640625
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:11 2021: Starting the clustering process...
+Wed Dec 29 21:29:12 2021: Total 2000 lines read from input sources, using absolute support 40 (relative support 2 percent)
+Wed Dec 29 21:29:12 2021: Total number of frequent words: 61
+Wed Dec 29 21:29:12 2021: Total number of candidates: 64
+Wed Dec 29 21:29:12 2021: Total number of frequent candidates: 10
+Wed Dec 29 21:29:12 2021: Total number of clusters: 10
+Parsing done. [Time taken: 0:00:00.212373]
+Used memory
+90.05859375
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:13 2021: Starting the clustering process...
+Wed Dec 29 21:29:13 2021: Total 2000 lines read from input sources, using absolute support 40 (relative support 2 percent)
+Wed Dec 29 21:29:13 2021: Total number of frequent words: 61
+Wed Dec 29 21:29:13 2021: Total number of candidates: 64
+Wed Dec 29 21:29:13 2021: Total number of frequent candidates: 10
+Wed Dec 29 21:29:13 2021: Total number of clusters: 10
+Parsing done. [Time taken: 0:00:00.212662]
+Used memory
+89.87890625
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 2 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_2k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:14 2021: Starting the clustering process...
+Wed Dec 29 21:29:14 2021: Total 2000 lines read from input sources, using absolute support 40 (relative support 2 percent)
+Wed Dec 29 21:29:14 2021: Total number of frequent words: 61
+Wed Dec 29 21:29:14 2021: Total number of candidates: 64
+Wed Dec 29 21:29:14 2021: Total number of frequent candidates: 10
+Wed Dec 29 21:29:14 2021: Total number of clusters: 10
+Parsing done. [Time taken: 0:00:00.220169]
+Used memory
+89.83203125
+Precision: 0.9989, Recall: 0.9950, F1_measure: 0.9970, Parsing_Accuracy: 0.8350
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.996965     0.835
+Dataset BGL size 4 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:15 2021: Starting the clustering process...
+Wed Dec 29 21:29:15 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:15 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:15 2021: Total number of candidates: 1
+Wed Dec 29 21:29:15 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:15 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.192443]
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:15 2021: Starting the clustering process...
+Wed Dec 29 21:29:15 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:15 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:16 2021: Total number of candidates: 1
+Wed Dec 29 21:29:16 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:16 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.182089]
+Used memory
+92.12890625
+Dataset BGL size 4 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:16 2021: Starting the clustering process...
+Wed Dec 29 21:29:16 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:16 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:16 2021: Total number of candidates: 1
+Wed Dec 29 21:29:16 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:16 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.197105]
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:16 2021: Starting the clustering process...
+Wed Dec 29 21:29:16 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:16 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:17 2021: Total number of candidates: 1
+Wed Dec 29 21:29:17 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:17 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.179486]
+Used memory
+92.3203125
+Dataset BGL size 4 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:17 2021: Starting the clustering process...
+Wed Dec 29 21:29:17 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:17 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:17 2021: Total number of candidates: 1
+Wed Dec 29 21:29:17 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:17 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.202139]
+Used memory
+91.1796875
+Dataset BGL size 4 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:18 2021: Starting the clustering process...
+Wed Dec 29 21:29:18 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:18 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:18 2021: Total number of candidates: 1
+Wed Dec 29 21:29:18 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:18 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.198900]
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:18 2021: Starting the clustering process...
+Wed Dec 29 21:29:18 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:18 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:18 2021: Total number of candidates: 1
+Wed Dec 29 21:29:18 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:18 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.183432]
+Used memory
+92.2421875
+Dataset BGL size 4 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:19 2021: Starting the clustering process...
+Wed Dec 29 21:29:19 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:19 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:19 2021: Total number of candidates: 1
+Wed Dec 29 21:29:19 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:19 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.202570]
+Used memory
+91.45703125
+Dataset BGL size 4 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:20 2021: Starting the clustering process...
+Wed Dec 29 21:29:20 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:20 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:20 2021: Total number of candidates: 1
+Wed Dec 29 21:29:20 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:20 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.199935]
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:20 2021: Starting the clustering process...
+Wed Dec 29 21:29:20 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:20 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:20 2021: Total number of candidates: 1
+Wed Dec 29 21:29:20 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:20 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.178246]
+Used memory
+92.21875
+Dataset BGL size 4 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:21 2021: Starting the clustering process...
+Wed Dec 29 21:29:21 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:21 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:21 2021: Total number of candidates: 1
+Wed Dec 29 21:29:21 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:21 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.201943]
+Used memory
+91.02734375
+Dataset BGL size 4 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:22 2021: Starting the clustering process...
+Wed Dec 29 21:29:22 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:22 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:22 2021: Total number of candidates: 1
+Wed Dec 29 21:29:22 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:22 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.202240]
+Used memory
+91.10546875
+Dataset BGL size 4 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:22 2021: Starting the clustering process...
+Wed Dec 29 21:29:23 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:23 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:23 2021: Total number of candidates: 1
+Wed Dec 29 21:29:23 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:23 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.200341]
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:23 2021: Starting the clustering process...
+Wed Dec 29 21:29:23 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:23 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:23 2021: Total number of candidates: 1
+Wed Dec 29 21:29:23 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:23 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.184104]
+Used memory
+92.28125
+Dataset BGL size 4 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_4k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:23 2021: Starting the clustering process...
+Wed Dec 29 21:29:24 2021: Total 4000 lines read from input sources, using absolute support 80 (relative support 2 percent)
+Wed Dec 29 21:29:24 2021: Total number of frequent words: 5
+Wed Dec 29 21:29:24 2021: Total number of candidates: 1
+Wed Dec 29 21:29:24 2021: Total number of frequent candidates: 1
+Wed Dec 29 21:29:24 2021: Total number of clusters: 1
+Parsing done. [Time taken: 0:00:00.203211]
+Used memory
+91.125
+Dataset BGL size 10 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:24 2021: Starting the clustering process...
+Wed Dec 29 21:29:24 2021: Total 10000 lines read from input sources, using absolute support 200 (relative support 2 percent)
+Wed Dec 29 21:29:24 2021: Total number of frequent words: 17
+Wed Dec 29 21:29:24 2021: Total number of candidates: 12
+Wed Dec 29 21:29:24 2021: Total number of frequent candidates: 11
+Wed Dec 29 21:29:24 2021: Total number of clusters: 11
+Parsing done. [Time taken: 0:00:00.408396]
+Used memory
+97.34375
+Dataset BGL size 10 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:25 2021: Starting the clustering process...
+Wed Dec 29 21:29:25 2021: Total 10000 lines read from input sources, using absolute support 200 (relative support 2 percent)
+Wed Dec 29 21:29:25 2021: Total number of frequent words: 17
+Wed Dec 29 21:29:25 2021: Total number of candidates: 12
+Wed Dec 29 21:29:25 2021: Total number of frequent candidates: 11
+Wed Dec 29 21:29:25 2021: Total number of clusters: 11
+Parsing done. [Time taken: 0:00:00.427562]
+Used memory
+97.328125
+Dataset BGL size 10 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:26 2021: Starting the clustering process...
+Wed Dec 29 21:29:27 2021: Total 10000 lines read from input sources, using absolute support 200 (relative support 2 percent)
+Wed Dec 29 21:29:27 2021: Total number of frequent words: 17
+Wed Dec 29 21:29:27 2021: Total number of candidates: 12
+Wed Dec 29 21:29:27 2021: Total number of frequent candidates: 11
+Wed Dec 29 21:29:27 2021: Total number of clusters: 11
+Parsing done. [Time taken: 0:00:00.407813]
+Used memory
+97.6796875
+Dataset BGL size 10 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:27 2021: Starting the clustering process...
+Wed Dec 29 21:29:28 2021: Total 10000 lines read from input sources, using absolute support 200 (relative support 2 percent)
+Wed Dec 29 21:29:28 2021: Total number of frequent words: 17
+Wed Dec 29 21:29:28 2021: Total number of candidates: 12
+Wed Dec 29 21:29:28 2021: Total number of frequent candidates: 11
+Wed Dec 29 21:29:28 2021: Total number of clusters: 11
+Parsing done. [Time taken: 0:00:00.407929]
+Used memory
+97.71875
+Dataset BGL size 10 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:28 2021: Starting the clustering process...
+Wed Dec 29 21:29:29 2021: Total 10000 lines read from input sources, using absolute support 200 (relative support 2 percent)
+Wed Dec 29 21:29:29 2021: Total number of frequent words: 17
+Wed Dec 29 21:29:29 2021: Total number of candidates: 12
+Wed Dec 29 21:29:29 2021: Total number of frequent candidates: 11
+Wed Dec 29 21:29:29 2021: Total number of clusters: 11
+Parsing done. [Time taken: 0:00:00.413052]
+Used memory
+97.48046875
+Dataset BGL size 10 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:30 2021: Starting the clustering process...
+Wed Dec 29 21:29:30 2021: Total 10000 lines read from input sources, using absolute support 200 (relative support 2 percent)
+Wed Dec 29 21:29:30 2021: Total number of frequent words: 17
+Wed Dec 29 21:29:30 2021: Total number of candidates: 12
+Wed Dec 29 21:29:30 2021: Total number of frequent candidates: 11
+Wed Dec 29 21:29:30 2021: Total number of clusters: 11
+Parsing done. [Time taken: 0:00:00.410714]
+Used memory
+97.5546875
+Dataset BGL size 10 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:31 2021: Starting the clustering process...
+Wed Dec 29 21:29:31 2021: Total 10000 lines read from input sources, using absolute support 200 (relative support 2 percent)
+Wed Dec 29 21:29:31 2021: Total number of frequent words: 17
+Wed Dec 29 21:29:31 2021: Total number of candidates: 12
+Wed Dec 29 21:29:31 2021: Total number of frequent candidates: 11
+Wed Dec 29 21:29:31 2021: Total number of clusters: 11
+Parsing done. [Time taken: 0:00:00.416221]
+Used memory
+97.28515625
+Dataset BGL size 10 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:32 2021: Starting the clustering process...
+Wed Dec 29 21:29:32 2021: Total 10000 lines read from input sources, using absolute support 200 (relative support 2 percent)
+Wed Dec 29 21:29:32 2021: Total number of frequent words: 17
+Wed Dec 29 21:29:32 2021: Total number of candidates: 12
+Wed Dec 29 21:29:32 2021: Total number of frequent candidates: 11
+Wed Dec 29 21:29:32 2021: Total number of clusters: 11
+Parsing done. [Time taken: 0:00:00.409990]
+Used memory
+97.328125
+Dataset BGL size 10 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:33 2021: Starting the clustering process...
+Wed Dec 29 21:29:33 2021: Total 10000 lines read from input sources, using absolute support 200 (relative support 2 percent)
+Wed Dec 29 21:29:33 2021: Total number of frequent words: 17
+Wed Dec 29 21:29:33 2021: Total number of candidates: 12
+Wed Dec 29 21:29:33 2021: Total number of frequent candidates: 11
+Wed Dec 29 21:29:33 2021: Total number of clusters: 11
+Parsing done. [Time taken: 0:00:00.412344]
+Used memory
+97.69921875
+Dataset BGL size 10 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:34 2021: Starting the clustering process...
+Wed Dec 29 21:29:34 2021: Total 10000 lines read from input sources, using absolute support 200 (relative support 2 percent)
+Wed Dec 29 21:29:34 2021: Total number of frequent words: 17
+Wed Dec 29 21:29:34 2021: Total number of candidates: 12
+Wed Dec 29 21:29:34 2021: Total number of frequent candidates: 11
+Wed Dec 29 21:29:34 2021: Total number of clusters: 11
+Parsing done. [Time taken: 0:00:00.405269]
+Used memory
+97.3125
+Dataset BGL size 20 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:35 2021: Starting the clustering process...
+Wed Dec 29 21:29:35 2021: Total 20000 lines read from input sources, using absolute support 400 (relative support 2 percent)
+Wed Dec 29 21:29:35 2021: Total number of frequent words: 28
+Wed Dec 29 21:29:35 2021: Total number of candidates: 15
+Wed Dec 29 21:29:35 2021: Total number of frequent candidates: 9
+Wed Dec 29 21:29:35 2021: Total number of clusters: 9
+Parsing done. [Time taken: 0:00:00.692765]
+Used memory
+105.6875
+Dataset BGL size 20 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:36 2021: Starting the clustering process...
+Wed Dec 29 21:29:36 2021: Total 20000 lines read from input sources, using absolute support 400 (relative support 2 percent)
+Wed Dec 29 21:29:36 2021: Total number of frequent words: 28
+Wed Dec 29 21:29:36 2021: Total number of candidates: 15
+Wed Dec 29 21:29:36 2021: Total number of frequent candidates: 9
+Wed Dec 29 21:29:36 2021: Total number of clusters: 9
+Parsing done. [Time taken: 0:00:00.697157]
+Used memory
+105.8828125
+Dataset BGL size 20 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:37 2021: Starting the clustering process...
+Wed Dec 29 21:29:38 2021: Total 20000 lines read from input sources, using absolute support 400 (relative support 2 percent)
+Wed Dec 29 21:29:38 2021: Total number of frequent words: 28
+Wed Dec 29 21:29:38 2021: Total number of candidates: 15
+Wed Dec 29 21:29:38 2021: Total number of frequent candidates: 9
+Wed Dec 29 21:29:38 2021: Total number of clusters: 9
+Parsing done. [Time taken: 0:00:00.694633]
+Used memory
+105.65234375
+Dataset BGL size 20 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:39 2021: Starting the clustering process...
+Wed Dec 29 21:29:39 2021: Total 20000 lines read from input sources, using absolute support 400 (relative support 2 percent)
+Wed Dec 29 21:29:39 2021: Total number of frequent words: 28
+Wed Dec 29 21:29:39 2021: Total number of candidates: 15
+Wed Dec 29 21:29:39 2021: Total number of frequent candidates: 9
+Wed Dec 29 21:29:39 2021: Total number of clusters: 9
+Parsing done. [Time taken: 0:00:00.694139]
+Used memory
+105.65234375
+Dataset BGL size 20 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:40 2021: Starting the clustering process...
+Wed Dec 29 21:29:40 2021: Total 20000 lines read from input sources, using absolute support 400 (relative support 2 percent)
+Wed Dec 29 21:29:40 2021: Total number of frequent words: 28
+Wed Dec 29 21:29:40 2021: Total number of candidates: 15
+Wed Dec 29 21:29:40 2021: Total number of frequent candidates: 9
+Wed Dec 29 21:29:40 2021: Total number of clusters: 9
+Parsing done. [Time taken: 0:00:00.694984]
+Used memory
+105.78125
+Dataset BGL size 20 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:41 2021: Starting the clustering process...
+Wed Dec 29 21:29:41 2021: Total 20000 lines read from input sources, using absolute support 400 (relative support 2 percent)
+Wed Dec 29 21:29:41 2021: Total number of frequent words: 28
+Wed Dec 29 21:29:42 2021: Total number of candidates: 15
+Wed Dec 29 21:29:42 2021: Total number of frequent candidates: 9
+Wed Dec 29 21:29:42 2021: Total number of clusters: 9
+Parsing done. [Time taken: 0:00:00.694679]
+Used memory
+105.04296875
+Dataset BGL size 20 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:43 2021: Starting the clustering process...
+Wed Dec 29 21:29:43 2021: Total 20000 lines read from input sources, using absolute support 400 (relative support 2 percent)
+Wed Dec 29 21:29:43 2021: Total number of frequent words: 28
+Wed Dec 29 21:29:43 2021: Total number of candidates: 15
+Wed Dec 29 21:29:43 2021: Total number of frequent candidates: 9
+Wed Dec 29 21:29:43 2021: Total number of clusters: 9
+Parsing done. [Time taken: 0:00:00.702779]
+Used memory
+104.93359375
+Dataset BGL size 20 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:44 2021: Starting the clustering process...
+Wed Dec 29 21:29:44 2021: Total 20000 lines read from input sources, using absolute support 400 (relative support 2 percent)
+Wed Dec 29 21:29:44 2021: Total number of frequent words: 28
+Wed Dec 29 21:29:44 2021: Total number of candidates: 15
+Wed Dec 29 21:29:44 2021: Total number of frequent candidates: 9
+Wed Dec 29 21:29:44 2021: Total number of clusters: 9
+Parsing done. [Time taken: 0:00:00.688882]
+Used memory
+105.47265625
+Dataset BGL size 20 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:45 2021: Starting the clustering process...
+Wed Dec 29 21:29:45 2021: Total 20000 lines read from input sources, using absolute support 400 (relative support 2 percent)
+Wed Dec 29 21:29:45 2021: Total number of frequent words: 28
+Wed Dec 29 21:29:45 2021: Total number of candidates: 15
+Wed Dec 29 21:29:45 2021: Total number of frequent candidates: 9
+Wed Dec 29 21:29:45 2021: Total number of clusters: 9
+Parsing done. [Time taken: 0:00:00.689526]
+Used memory
+105.74609375
+Dataset BGL size 20 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_20k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:47 2021: Starting the clustering process...
+Wed Dec 29 21:29:47 2021: Total 20000 lines read from input sources, using absolute support 400 (relative support 2 percent)
+Wed Dec 29 21:29:47 2021: Total number of frequent words: 28
+Wed Dec 29 21:29:47 2021: Total number of candidates: 15
+Wed Dec 29 21:29:47 2021: Total number of frequent candidates: 9
+Wed Dec 29 21:29:47 2021: Total number of clusters: 9
+Parsing done. [Time taken: 0:00:00.689040]
+Used memory
+105.5
+Dataset BGL size 50 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:48 2021: Starting the clustering process...
+Wed Dec 29 21:29:48 2021: Total 50000 lines read from input sources, using absolute support 1000 (relative support 2 percent)
+Wed Dec 29 21:29:48 2021: Total number of frequent words: 24
+Wed Dec 29 21:29:49 2021: Total number of candidates: 15
+Wed Dec 29 21:29:49 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:29:49 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:01.472252]
+Used memory
+131.09375
+Dataset BGL size 50 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:50 2021: Starting the clustering process...
+Wed Dec 29 21:29:50 2021: Total 50000 lines read from input sources, using absolute support 1000 (relative support 2 percent)
+Wed Dec 29 21:29:50 2021: Total number of frequent words: 24
+Wed Dec 29 21:29:51 2021: Total number of candidates: 15
+Wed Dec 29 21:29:51 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:29:51 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:01.474069]
+Used memory
+130.75
+Dataset BGL size 50 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:52 2021: Starting the clustering process...
+Wed Dec 29 21:29:53 2021: Total 50000 lines read from input sources, using absolute support 1000 (relative support 2 percent)
+Wed Dec 29 21:29:53 2021: Total number of frequent words: 24
+Wed Dec 29 21:29:53 2021: Total number of candidates: 15
+Wed Dec 29 21:29:53 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:29:53 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:01.475986]
+Used memory
+131.109375
+Dataset BGL size 50 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:54 2021: Starting the clustering process...
+Wed Dec 29 21:29:55 2021: Total 50000 lines read from input sources, using absolute support 1000 (relative support 2 percent)
+Wed Dec 29 21:29:55 2021: Total number of frequent words: 24
+Wed Dec 29 21:29:55 2021: Total number of candidates: 15
+Wed Dec 29 21:29:55 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:29:55 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:01.477956]
+Used memory
+130.80078125
+Dataset BGL size 50 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:56 2021: Starting the clustering process...
+Wed Dec 29 21:29:57 2021: Total 50000 lines read from input sources, using absolute support 1000 (relative support 2 percent)
+Wed Dec 29 21:29:57 2021: Total number of frequent words: 24
+Wed Dec 29 21:29:57 2021: Total number of candidates: 15
+Wed Dec 29 21:29:57 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:29:57 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:01.480237]
+Used memory
+130.71875
+Dataset BGL size 50 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:29:59 2021: Starting the clustering process...
+Wed Dec 29 21:29:59 2021: Total 50000 lines read from input sources, using absolute support 1000 (relative support 2 percent)
+Wed Dec 29 21:29:59 2021: Total number of frequent words: 24
+Wed Dec 29 21:29:59 2021: Total number of candidates: 15
+Wed Dec 29 21:29:59 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:29:59 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:01.478051]
+Used memory
+131.078125
+Dataset BGL size 50 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:01 2021: Starting the clustering process...
+Wed Dec 29 21:30:01 2021: Total 50000 lines read from input sources, using absolute support 1000 (relative support 2 percent)
+Wed Dec 29 21:30:01 2021: Total number of frequent words: 24
+Wed Dec 29 21:30:01 2021: Total number of candidates: 15
+Wed Dec 29 21:30:01 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:30:01 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:01.479871]
+Used memory
+130.75390625
+Dataset BGL size 50 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:03 2021: Starting the clustering process...
+Wed Dec 29 21:30:03 2021: Total 50000 lines read from input sources, using absolute support 1000 (relative support 2 percent)
+Wed Dec 29 21:30:03 2021: Total number of frequent words: 24
+Wed Dec 29 21:30:03 2021: Total number of candidates: 15
+Wed Dec 29 21:30:03 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:30:03 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:01.478912]
+Used memory
+131.03125
+Dataset BGL size 50 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:05 2021: Starting the clustering process...
+Wed Dec 29 21:30:05 2021: Total 50000 lines read from input sources, using absolute support 1000 (relative support 2 percent)
+Wed Dec 29 21:30:05 2021: Total number of frequent words: 24
+Wed Dec 29 21:30:05 2021: Total number of candidates: 15
+Wed Dec 29 21:30:05 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:30:05 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:01.471650]
+Used memory
+131.16015625
+Dataset BGL size 50 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_50k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:07 2021: Starting the clustering process...
+Wed Dec 29 21:30:07 2021: Total 50000 lines read from input sources, using absolute support 1000 (relative support 2 percent)
+Wed Dec 29 21:30:07 2021: Total number of frequent words: 24
+Wed Dec 29 21:30:07 2021: Total number of candidates: 15
+Wed Dec 29 21:30:07 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:30:07 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:01.505071]
+Used memory
+130.90234375
+Dataset BGL size 100 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:10 2021: Starting the clustering process...
+Wed Dec 29 21:30:10 2021: Total 100000 lines read from input sources, using absolute support 2000 (relative support 2 percent)
+Wed Dec 29 21:30:10 2021: Total number of frequent words: 20
+Wed Dec 29 21:30:10 2021: Total number of candidates: 14
+Wed Dec 29 21:30:10 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:30:10 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:03.075895]
+Used memory
+172.80859375
+Dataset BGL size 100 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:13 2021: Starting the clustering process...
+Wed Dec 29 21:30:14 2021: Total 100000 lines read from input sources, using absolute support 2000 (relative support 2 percent)
+Wed Dec 29 21:30:14 2021: Total number of frequent words: 20
+Wed Dec 29 21:30:14 2021: Total number of candidates: 14
+Wed Dec 29 21:30:14 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:30:14 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:03.054460]
+Used memory
+172.6640625
+Dataset BGL size 100 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:17 2021: Starting the clustering process...
+Wed Dec 29 21:30:17 2021: Total 100000 lines read from input sources, using absolute support 2000 (relative support 2 percent)
+Wed Dec 29 21:30:17 2021: Total number of frequent words: 20
+Wed Dec 29 21:30:18 2021: Total number of candidates: 14
+Wed Dec 29 21:30:18 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:30:18 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:03.056640]
+Used memory
+172.95703125
+Dataset BGL size 100 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:21 2021: Starting the clustering process...
+Wed Dec 29 21:30:21 2021: Total 100000 lines read from input sources, using absolute support 2000 (relative support 2 percent)
+Wed Dec 29 21:30:21 2021: Total number of frequent words: 20
+Wed Dec 29 21:30:21 2021: Total number of candidates: 14
+Wed Dec 29 21:30:21 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:30:21 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:03.063492]
+Used memory
+172.69140625
+Dataset BGL size 100 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:24 2021: Starting the clustering process...
+Wed Dec 29 21:30:25 2021: Total 100000 lines read from input sources, using absolute support 2000 (relative support 2 percent)
+Wed Dec 29 21:30:25 2021: Total number of frequent words: 20
+Wed Dec 29 21:30:25 2021: Total number of candidates: 14
+Wed Dec 29 21:30:25 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:30:25 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:03.061900]
+Used memory
+172.50390625
+Dataset BGL size 100 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:28 2021: Starting the clustering process...
+Wed Dec 29 21:30:28 2021: Total 100000 lines read from input sources, using absolute support 2000 (relative support 2 percent)
+Wed Dec 29 21:30:28 2021: Total number of frequent words: 20
+Wed Dec 29 21:30:29 2021: Total number of candidates: 14
+Wed Dec 29 21:30:29 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:30:29 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:03.066955]
+Used memory
+172.88671875
+Dataset BGL size 100 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:32 2021: Starting the clustering process...
+Wed Dec 29 21:30:32 2021: Total 100000 lines read from input sources, using absolute support 2000 (relative support 2 percent)
+Wed Dec 29 21:30:32 2021: Total number of frequent words: 20
+Wed Dec 29 21:30:32 2021: Total number of candidates: 14
+Wed Dec 29 21:30:32 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:30:32 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:03.060939]
+Used memory
+172.77734375
+Dataset BGL size 100 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:35 2021: Starting the clustering process...
+Wed Dec 29 21:30:36 2021: Total 100000 lines read from input sources, using absolute support 2000 (relative support 2 percent)
+Wed Dec 29 21:30:36 2021: Total number of frequent words: 20
+Wed Dec 29 21:30:36 2021: Total number of candidates: 14
+Wed Dec 29 21:30:36 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:30:36 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:03.053627]
+Used memory
+172.92578125
+Dataset BGL size 100 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:39 2021: Starting the clustering process...
+Wed Dec 29 21:30:39 2021: Total 100000 lines read from input sources, using absolute support 2000 (relative support 2 percent)
+Wed Dec 29 21:30:39 2021: Total number of frequent words: 20
+Wed Dec 29 21:30:40 2021: Total number of candidates: 14
+Wed Dec 29 21:30:40 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:30:40 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:03.064638]
+Used memory
+172.66015625
+Dataset BGL size 100 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:43 2021: Starting the clustering process...
+Wed Dec 29 21:30:43 2021: Total 100000 lines read from input sources, using absolute support 2000 (relative support 2 percent)
+Wed Dec 29 21:30:43 2021: Total number of frequent words: 20
+Wed Dec 29 21:30:43 2021: Total number of candidates: 14
+Wed Dec 29 21:30:43 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:30:43 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:03.060636]
+Used memory
+172.95703125
+Dataset BGL size 200 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:47 2021: Starting the clustering process...
+Wed Dec 29 21:30:48 2021: Total 200000 lines read from input sources, using absolute support 4000 (relative support 2 percent)
+Wed Dec 29 21:30:48 2021: Total number of frequent words: 17
+Wed Dec 29 21:30:49 2021: Total number of candidates: 21
+Wed Dec 29 21:30:49 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:30:49 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:06.618710]
+Used memory
+258.7734375
+Dataset BGL size 200 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:30:55 2021: Starting the clustering process...
+Wed Dec 29 21:30:55 2021: Total 200000 lines read from input sources, using absolute support 4000 (relative support 2 percent)
+Wed Dec 29 21:30:55 2021: Total number of frequent words: 17
+Wed Dec 29 21:30:56 2021: Total number of candidates: 21
+Wed Dec 29 21:30:56 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:30:56 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:06.751086]
+Used memory
+260.33203125
+Dataset BGL size 200 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:31:02 2021: Starting the clustering process...
+Wed Dec 29 21:31:03 2021: Total 200000 lines read from input sources, using absolute support 4000 (relative support 2 percent)
+Wed Dec 29 21:31:03 2021: Total number of frequent words: 17
+Wed Dec 29 21:31:04 2021: Total number of candidates: 21
+Wed Dec 29 21:31:04 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:31:04 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:06.608520]
+Used memory
+258.89453125
+Dataset BGL size 200 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:31:09 2021: Starting the clustering process...
+Wed Dec 29 21:31:10 2021: Total 200000 lines read from input sources, using absolute support 4000 (relative support 2 percent)
+Wed Dec 29 21:31:10 2021: Total number of frequent words: 17
+Wed Dec 29 21:31:11 2021: Total number of candidates: 21
+Wed Dec 29 21:31:11 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:31:11 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:06.701371]
+Used memory
+258.8203125
+Dataset BGL size 200 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:31:17 2021: Starting the clustering process...
+Wed Dec 29 21:31:17 2021: Total 200000 lines read from input sources, using absolute support 4000 (relative support 2 percent)
+Wed Dec 29 21:31:17 2021: Total number of frequent words: 17
+Wed Dec 29 21:31:18 2021: Total number of candidates: 21
+Wed Dec 29 21:31:18 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:31:18 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:06.620703]
+Used memory
+259.83203125
+Dataset BGL size 200 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:31:24 2021: Starting the clustering process...
+Wed Dec 29 21:31:25 2021: Total 200000 lines read from input sources, using absolute support 4000 (relative support 2 percent)
+Wed Dec 29 21:31:25 2021: Total number of frequent words: 17
+Wed Dec 29 21:31:25 2021: Total number of candidates: 21
+Wed Dec 29 21:31:25 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:31:26 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:06.600065]
+Used memory
+258.9140625
+Dataset BGL size 200 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:31:31 2021: Starting the clustering process...
+Wed Dec 29 21:31:32 2021: Total 200000 lines read from input sources, using absolute support 4000 (relative support 2 percent)
+Wed Dec 29 21:31:32 2021: Total number of frequent words: 17
+Wed Dec 29 21:31:33 2021: Total number of candidates: 21
+Wed Dec 29 21:31:33 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:31:33 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:06.592904]
+Used memory
+258.50390625
+Dataset BGL size 200 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:31:38 2021: Starting the clustering process...
+Wed Dec 29 21:31:39 2021: Total 200000 lines read from input sources, using absolute support 4000 (relative support 2 percent)
+Wed Dec 29 21:31:39 2021: Total number of frequent words: 17
+Wed Dec 29 21:31:40 2021: Total number of candidates: 21
+Wed Dec 29 21:31:40 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:31:40 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:06.638082]
+Used memory
+258.515625
+Dataset BGL size 200 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:31:46 2021: Starting the clustering process...
+Wed Dec 29 21:31:46 2021: Total 200000 lines read from input sources, using absolute support 4000 (relative support 2 percent)
+Wed Dec 29 21:31:46 2021: Total number of frequent words: 17
+Wed Dec 29 21:31:47 2021: Total number of candidates: 21
+Wed Dec 29 21:31:47 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:31:47 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:06.614585]
+Used memory
+258.65234375
+Dataset BGL size 200 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_200k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:31:53 2021: Starting the clustering process...
+Wed Dec 29 21:31:54 2021: Total 200000 lines read from input sources, using absolute support 4000 (relative support 2 percent)
+Wed Dec 29 21:31:54 2021: Total number of frequent words: 17
+Wed Dec 29 21:31:54 2021: Total number of candidates: 21
+Wed Dec 29 21:31:54 2021: Total number of frequent candidates: 4
+Wed Dec 29 21:31:55 2021: Total number of clusters: 4
+Parsing done. [Time taken: 0:00:06.601205]
+Used memory
+258.90625
+Dataset BGL size 300 run no 1
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:32:01 2021: Starting the clustering process...
+Wed Dec 29 21:32:02 2021: Total 300000 lines read from input sources, using absolute support 6000 (relative support 2 percent)
+Wed Dec 29 21:32:02 2021: Total number of frequent words: 14
+Wed Dec 29 21:32:04 2021: Total number of candidates: 19
+Wed Dec 29 21:32:04 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:32:04 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:08.936905]
+Used memory
+351.484375
+Dataset BGL size 300 run no 2
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:32:11 2021: Starting the clustering process...
+Wed Dec 29 21:32:12 2021: Total 300000 lines read from input sources, using absolute support 6000 (relative support 2 percent)
+Wed Dec 29 21:32:12 2021: Total number of frequent words: 14
+Wed Dec 29 21:32:13 2021: Total number of candidates: 19
+Wed Dec 29 21:32:13 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:32:13 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:08.914930]
+Used memory
+351.515625
+Dataset BGL size 300 run no 3
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:32:20 2021: Starting the clustering process...
+Wed Dec 29 21:32:22 2021: Total 300000 lines read from input sources, using absolute support 6000 (relative support 2 percent)
+Wed Dec 29 21:32:22 2021: Total number of frequent words: 14
+Wed Dec 29 21:32:23 2021: Total number of candidates: 19
+Wed Dec 29 21:32:23 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:32:23 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:08.894785]
+Used memory
+351.4921875
+Dataset BGL size 300 run no 4
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:32:30 2021: Starting the clustering process...
+Wed Dec 29 21:32:31 2021: Total 300000 lines read from input sources, using absolute support 6000 (relative support 2 percent)
+Wed Dec 29 21:32:31 2021: Total number of frequent words: 14
+Wed Dec 29 21:32:32 2021: Total number of candidates: 19
+Wed Dec 29 21:32:32 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:32:33 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:08.917540]
+Used memory
+351.44921875
+Dataset BGL size 300 run no 5
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:32:40 2021: Starting the clustering process...
+Wed Dec 29 21:32:41 2021: Total 300000 lines read from input sources, using absolute support 6000 (relative support 2 percent)
+Wed Dec 29 21:32:41 2021: Total number of frequent words: 14
+Wed Dec 29 21:32:42 2021: Total number of candidates: 19
+Wed Dec 29 21:32:42 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:32:42 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:08.881508]
+Used memory
+351.2734375
+Dataset BGL size 300 run no 6
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:32:49 2021: Starting the clustering process...
+Wed Dec 29 21:32:50 2021: Total 300000 lines read from input sources, using absolute support 6000 (relative support 2 percent)
+Wed Dec 29 21:32:50 2021: Total number of frequent words: 14
+Wed Dec 29 21:32:52 2021: Total number of candidates: 19
+Wed Dec 29 21:32:52 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:32:52 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:08.910056]
+Used memory
+351.796875
+Dataset BGL size 300 run no 7
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:32:59 2021: Starting the clustering process...
+Wed Dec 29 21:33:00 2021: Total 300000 lines read from input sources, using absolute support 6000 (relative support 2 percent)
+Wed Dec 29 21:33:00 2021: Total number of frequent words: 14
+Wed Dec 29 21:33:01 2021: Total number of candidates: 19
+Wed Dec 29 21:33:01 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:33:01 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:08.943611]
+Used memory
+351.55859375
+Dataset BGL size 300 run no 8
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:33:08 2021: Starting the clustering process...
+Wed Dec 29 21:33:09 2021: Total 300000 lines read from input sources, using absolute support 6000 (relative support 2 percent)
+Wed Dec 29 21:33:09 2021: Total number of frequent words: 14
+Wed Dec 29 21:33:11 2021: Total number of candidates: 19
+Wed Dec 29 21:33:11 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:33:11 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:08.874958]
+Used memory
+351.68359375
+Dataset BGL size 300 run no 9
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:33:18 2021: Starting the clustering process...
+Wed Dec 29 21:33:19 2021: Total 300000 lines read from input sources, using absolute support 6000 (relative support 2 percent)
+Wed Dec 29 21:33:19 2021: Total number of frequent words: 14
+Wed Dec 29 21:33:20 2021: Total number of candidates: 19
+Wed Dec 29 21:33:20 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:33:20 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:08.919712]
+Used memory
+351.13671875
+Dataset BGL size 300 run no 10
+
+=== Evaluation on BGL ===
+Parsing file: ../logs/BGL/BGL_300k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Wed Dec 29 21:33:28 2021: Starting the clustering process...
+Wed Dec 29 21:33:29 2021: Total 300000 lines read from input sources, using absolute support 6000 (relative support 2 percent)
+Wed Dec 29 21:33:29 2021: Total number of frequent words: 14
+Wed Dec 29 21:33:30 2021: Total number of candidates: 19
+Wed Dec 29 21:33:30 2021: Total number of frequent candidates: 5
+Wed Dec 29 21:33:30 2021: Total number of clusters: 5
+Parsing done. [Time taken: 0:00:08.850189]
+Used memory
+351.12890625

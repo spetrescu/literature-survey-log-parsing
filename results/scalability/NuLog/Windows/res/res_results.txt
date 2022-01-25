@@ -1,0 +1,308 @@
+Dataset Windows size 1 run no 1
+
+Parsing done. [Time taken: 0:00:29.805884]
+3327.37109375
+Dataset Windows size 1 run no 2
+
+Parsing done. [Time taken: 0:00:29.844648]
+3332.484375
+Dataset Windows size 1 run no 3
+
+Parsing done. [Time taken: 0:00:29.237487]
+3309.33203125
+Dataset Windows size 1 run no 4
+
+Parsing done. [Time taken: 0:00:29.285301]
+3336.71875
+Dataset Windows size 1 run no 5
+
+Parsing done. [Time taken: 0:00:29.151350]
+3306.48828125
+Dataset Windows size 1 run no 6
+
+Parsing done. [Time taken: 0:00:28.497413]
+3308.59765625
+Dataset Windows size 1 run no 7
+
+Parsing done. [Time taken: 0:00:29.053527]
+3303.53515625
+Dataset Windows size 1 run no 8
+
+Parsing done. [Time taken: 0:00:29.504158]
+3321.4375
+Dataset Windows size 1 run no 9
+
+Parsing done. [Time taken: 0:00:29.190387]
+3321.47265625
+Dataset Windows size 1 run no 10
+
+Parsing done. [Time taken: 0:00:29.132475]
+3299.27734375
+Dataset Windows size 2 run no 1
+
+Parsing done. [Time taken: 0:00:53.710339]
+3340.046875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+Dataset
+Windows         1.0       1.0
+Dataset Windows size 2 run no 2
+
+Parsing done. [Time taken: 0:00:53.842242]
+3363.84765625
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9990
+
+Dataset
+Windows    0.999999     0.999
+Dataset Windows size 2 run no 3
+
+Parsing done. [Time taken: 0:00:54.560691]
+3337.41796875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+Dataset
+Windows         1.0       1.0
+Dataset Windows size 2 run no 4
+
+Parsing done. [Time taken: 0:00:53.658567]
+3338.54296875
+Precision: 1.0000, Recall: 0.9986, F1_measure: 0.9993, Parsing_Accuracy: 0.6940
+
+Dataset
+Windows     0.99929     0.694
+Dataset Windows size 2 run no 5
+
+Parsing done. [Time taken: 0:00:54.246034]
+3336.9375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9960
+
+Dataset
+Windows    0.999985     0.996
+Dataset Windows size 2 run no 6
+
+Parsing done. [Time taken: 0:00:54.679082]
+3337.875
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9980
+
+Dataset
+Windows    0.999998     0.998
+Dataset Windows size 2 run no 7
+
+Parsing done. [Time taken: 0:00:54.323280]
+3341.6484375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+Dataset
+Windows         1.0       1.0
+Dataset Windows size 2 run no 8
+
+Parsing done. [Time taken: 0:00:54.274049]
+3341.98828125
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9985
+
+Dataset
+Windows    0.999998    0.9985
+Dataset Windows size 2 run no 9
+
+Parsing done. [Time taken: 0:00:54.025419]
+3338.12109375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9935
+
+Dataset
+Windows    0.999981    0.9935
+Dataset Windows size 2 run no 10
+
+Parsing done. [Time taken: 0:00:54.559837]
+3340.2109375
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+Dataset
+Windows         1.0       1.0
+Dataset Windows size 4 run no 1
+
+Parsing done. [Time taken: 0:01:48.430777]
+3337.7265625
+Dataset Windows size 4 run no 2
+
+Parsing done. [Time taken: 0:01:48.614934]
+3353.88671875
+Dataset Windows size 4 run no 3
+
+Parsing done. [Time taken: 0:01:49.469796]
+3330.2890625
+Dataset Windows size 4 run no 4
+
+Parsing done. [Time taken: 0:01:48.445188]
+3323.1875
+Dataset Windows size 4 run no 5
+
+Parsing done. [Time taken: 0:01:49.473702]
+3332.3984375
+Dataset Windows size 4 run no 6
+
+Parsing done. [Time taken: 0:01:48.094171]
+3335.56640625
+Dataset Windows size 4 run no 7
+
+Parsing done. [Time taken: 0:01:47.998014]
+3341.26171875
+Dataset Windows size 4 run no 8
+
+Parsing done. [Time taken: 0:01:49.702015]
+3331.796875
+Dataset Windows size 4 run no 9
+
+Parsing done. [Time taken: 0:01:50.070769]
+3337.84375
+Dataset Windows size 4 run no 10
+
+Parsing done. [Time taken: 0:01:49.925813]
+3340.84765625
+Dataset Windows size 10 run no 1
+
+Parsing done. [Time taken: 0:04:48.883946]
+3365.68359375
+Dataset Windows size 10 run no 2
+
+Parsing done. [Time taken: 0:04:51.364686]
+3360.50390625
+Dataset Windows size 10 run no 3
+
+Parsing done. [Time taken: 0:04:47.034228]
+3364.671875
+Dataset Windows size 10 run no 4
+
+Parsing done. [Time taken: 0:04:44.442530]
+3361.44140625
+Dataset Windows size 10 run no 5
+
+Parsing done. [Time taken: 0:04:44.163914]
+3373.12109375
+Dataset Windows size 10 run no 6
+
+Parsing done. [Time taken: 0:04:47.848728]
+3365.15625
+Dataset Windows size 10 run no 7
+
+Parsing done. [Time taken: 0:04:46.001569]
+3367.5546875
+Dataset Windows size 10 run no 8
+
+Parsing done. [Time taken: 0:04:46.537849]
+3343.0078125
+Dataset Windows size 10 run no 9
+
+Parsing done. [Time taken: 0:04:44.044001]
+3350.71875
+Dataset Windows size 10 run no 10
+
+Parsing done. [Time taken: 0:04:45.682036]
+3370.5859375
+Dataset Windows size 20 run no 1
+
+Parsing done. [Time taken: 0:10:55.349146]
+3409.89453125
+Dataset Windows size 20 run no 2
+
+Parsing done. [Time taken: 0:10:54.103224]
+3419.53125
+Dataset Windows size 20 run no 3
+
+Parsing done. [Time taken: 0:10:49.969523]
+3400.57421875
+Dataset Windows size 20 run no 4
+
+Parsing done. [Time taken: 0:10:54.612546]
+3427.65625
+Dataset Windows size 20 run no 5
+
+Parsing done. [Time taken: 0:10:59.243622]
+3413.96484375
+Dataset Windows size 20 run no 6
+
+Parsing done. [Time taken: 0:10:57.467595]
+3403.0625
+Dataset Windows size 20 run no 7
+
+Parsing done. [Time taken: 0:11:01.075889]
+3405.109375
+Dataset Windows size 20 run no 8
+
+Parsing done. [Time taken: 0:10:49.510648]
+3408.7890625
+Dataset Windows size 20 run no 9
+
+Parsing done. [Time taken: 0:10:56.933975]
+3429.9453125
+Dataset Windows size 20 run no 10
+
+Parsing done. [Time taken: 0:10:56.628790]
+3425.5
+Dataset Windows size 50 run no 1
+
+Parsing done. [Time taken: 0:33:34.903939]
+3598.9921875
+Dataset Windows size 50 run no 2
+
+Parsing done. [Time taken: 0:33:44.371128]
+3572.140625
+Dataset Windows size 50 run no 3
+
+Parsing done. [Time taken: 0:33:48.363481]
+3578.3203125
+Dataset Windows size 50 run no 4
+
+Parsing done. [Time taken: 0:33:44.114122]
+3579.33984375
+Dataset Windows size 50 run no 5
+
+Parsing done. [Time taken: 0:33:47.539214]
+3585.2734375
+Dataset Windows size 50 run no 6
+
+Parsing done. [Time taken: 0:33:42.308723]
+3595.921875
+Dataset Windows size 50 run no 7
+
+Parsing done. [Time taken: 0:33:30.106019]
+3603.66015625
+Dataset Windows size 100 run no 1
+
+Parsing done. [Time taken: 1:11:56.207427]
+3865.484375
+Dataset Windows size 100 run no 2
+
+Parsing done. [Time taken: 1:12:05.648266]
+3848.43359375
+Dataset Windows size 100 run no 3
+
+Parsing done. [Time taken: 1:11:10.231808]
+3863.84375
+Dataset Windows size 100 run no 4
+
+Parsing done. [Time taken: 1:11:53.771996]
+3857.921875
+Dataset Windows size 100 run no 5
+
+Parsing done. [Time taken: 1:11:20.373072]
+3849.07421875
+Dataset Windows size 100 run no 6
+
+Parsing done. [Time taken: 1:11:09.980981]
+3832.12890625
+Dataset Windows size 100 run no 7
+
+Parsing done. [Time taken: 1:11:35.416372]
+3854.47265625
+Dataset Windows size 100 run no 8
+
+Parsing done. [Time taken: 1:11:34.611841]
+3859.87109375
+Dataset Windows size 100 run no 9
+
+Parsing done. [Time taken: 1:11:19.694094]
+3840.78515625
+Dataset Windows size 100 run no 10
+
+Parsing done. [Time taken: 1:11:26.179994]
+3831.76171875

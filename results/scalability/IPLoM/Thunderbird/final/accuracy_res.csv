@@ -1,0 +1,11 @@
+method,dataset,log_size,precision,recall,F1_measure,parsing_accuracy,iteration_no
+IPLoM,Thunderbird,2,0.9998,0.9976,0.9987,0.6630,1
+IPLoM,Thunderbird,2,0.9998,0.9976,0.9987,0.6630,2
+IPLoM,Thunderbird,2,0.9998,0.9976,0.9987,0.6630,3
+IPLoM,Thunderbird,2,0.9998,0.9976,0.9987,0.6630,4
+IPLoM,Thunderbird,2,0.9998,0.9976,0.9987,0.6630,5
+IPLoM,Thunderbird,2,0.9998,0.9976,0.9987,0.6630,6
+IPLoM,Thunderbird,2,0.9998,0.9976,0.9987,0.6630,7
+IPLoM,Thunderbird,2,0.9998,0.9976,0.9987,0.6630,8
+IPLoM,Thunderbird,2,0.9998,0.9976,0.9987,0.6630,9
+IPLoM,Thunderbird,2,0.9998,0.9976,0.9987,0.6630,10

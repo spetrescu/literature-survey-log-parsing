@@ -1,0 +1,310 @@
+Dataset BGL size 1 run no 1
+
+Parsing done. [Time: 0:00:00.479682]
+Used memory
+89.7578125
+Dataset BGL size 1 run no 2
+
+Parsing done. [Time: 0:00:00.486913]
+Used memory
+89.8203125
+Dataset BGL size 1 run no 3
+
+Parsing done. [Time: 0:00:00.481914]
+Used memory
+90.015625
+Dataset BGL size 1 run no 4
+
+Parsing done. [Time: 0:00:00.481994]
+Used memory
+89.7578125
+Dataset BGL size 1 run no 5
+
+Parsing done. [Time: 0:00:00.489335]
+Used memory
+90.20703125
+Dataset BGL size 1 run no 6
+
+Parsing done. [Time: 0:00:00.476169]
+Used memory
+89.82421875
+Dataset BGL size 1 run no 7
+
+Parsing done. [Time: 0:00:00.485387]
+Used memory
+90.13671875
+Dataset BGL size 1 run no 8
+
+Parsing done. [Time: 0:00:00.483676]
+Used memory
+89.82421875
+Dataset BGL size 1 run no 9
+
+Parsing done. [Time: 0:00:00.480179]
+Used memory
+90.1015625
+Dataset BGL size 1 run no 10
+
+Parsing done. [Time: 0:00:00.478041]
+Used memory
+89.87890625
+Dataset BGL size 2 run no 1
+
+Parsing done. [Time: 0:00:01.163777]
+Used memory
+92.07421875
+Precision: 0.9931, Recall: 0.9202, F1_measure: 0.9552, Parsing_Accuracy: 0.5725
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.955247    0.5725
+Dataset BGL size 2 run no 2
+
+Parsing done. [Time: 0:00:01.188401]
+Used memory
+91.7109375
+Precision: 0.9931, Recall: 0.9202, F1_measure: 0.9552, Parsing_Accuracy: 0.5725
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.955247    0.5725
+Dataset BGL size 2 run no 3
+
+Parsing done. [Time: 0:00:01.173417]
+Used memory
+91.82421875
+Precision: 0.9931, Recall: 0.9202, F1_measure: 0.9552, Parsing_Accuracy: 0.5725
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.955247    0.5725
+Dataset BGL size 2 run no 4
+
+Parsing done. [Time: 0:00:01.196276]
+Used memory
+91.6640625
+Precision: 0.9931, Recall: 0.9202, F1_measure: 0.9552, Parsing_Accuracy: 0.5725
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.955247    0.5725
+Dataset BGL size 2 run no 5
+
+Parsing done. [Time: 0:00:01.178728]
+Used memory
+92.0625
+Precision: 0.9931, Recall: 0.9202, F1_measure: 0.9552, Parsing_Accuracy: 0.5725
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.955247    0.5725
+Dataset BGL size 2 run no 6
+
+Parsing done. [Time: 0:00:01.185323]
+Used memory
+91.984375
+Precision: 0.9931, Recall: 0.9202, F1_measure: 0.9552, Parsing_Accuracy: 0.5725
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.955247    0.5725
+Dataset BGL size 2 run no 7
+
+Parsing done. [Time: 0:00:01.188978]
+Used memory
+92.05078125
+Precision: 0.9931, Recall: 0.9202, F1_measure: 0.9552, Parsing_Accuracy: 0.5725
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.955247    0.5725
+Dataset BGL size 2 run no 8
+
+Parsing done. [Time: 0:00:01.182019]
+Used memory
+92.0390625
+Precision: 0.9931, Recall: 0.9202, F1_measure: 0.9552, Parsing_Accuracy: 0.5725
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.955247    0.5725
+Dataset BGL size 2 run no 9
+
+Parsing done. [Time: 0:00:01.176822]
+Used memory
+92.09765625
+Precision: 0.9931, Recall: 0.9202, F1_measure: 0.9552, Parsing_Accuracy: 0.5725
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.955247    0.5725
+Dataset BGL size 2 run no 10
+
+Parsing done. [Time: 0:00:01.176426]
+Used memory
+91.703125
+Precision: 0.9931, Recall: 0.9202, F1_measure: 0.9552, Parsing_Accuracy: 0.5725
+
+=== Overall evaluation results ===
+         F1_measure  Accuracy
+Dataset
+BGL        0.955247    0.5725
+Dataset BGL size 4 run no 1
+
+Parsing done. [Time: 0:00:00.893081]
+Used memory
+96.1328125
+Dataset BGL size 4 run no 2
+
+Parsing done. [Time: 0:00:00.909177]
+Used memory
+96.2890625
+Dataset BGL size 4 run no 3
+
+Parsing done. [Time: 0:00:00.892963]
+Used memory
+96.1015625
+Dataset BGL size 4 run no 4
+
+Parsing done. [Time: 0:00:00.915956]
+Used memory
+96.10546875
+Dataset BGL size 4 run no 5
+
+Parsing done. [Time: 0:00:00.892531]
+Used memory
+96.30078125
+Dataset BGL size 4 run no 6
+
+Parsing done. [Time: 0:00:00.892068]
+Used memory
+96.2421875
+Dataset BGL size 4 run no 7
+
+Parsing done. [Time: 0:00:00.890004]
+Used memory
+96.0234375
+Dataset BGL size 4 run no 8
+
+Parsing done. [Time: 0:00:00.895194]
+Used memory
+96.51953125
+Dataset BGL size 4 run no 9
+
+Parsing done. [Time: 0:00:00.918953]
+Used memory
+96.28515625
+Dataset BGL size 4 run no 10
+
+Parsing done. [Time: 0:00:00.911609]
+Used memory
+96.4609375
+Dataset BGL size 20 run no 1
+
+Parsing done. [Time: 0:02:21.480473]
+Used memory
+125.87890625
+Dataset BGL size 20 run no 2
+
+Parsing done. [Time: 0:02:20.760889]
+Used memory
+125.91015625
+Dataset BGL size 20 run no 3
+
+Parsing done. [Time: 0:02:21.119640]
+Used memory
+125.48046875
+Dataset BGL size 20 run no 4
+
+Parsing done. [Time: 0:02:22.325194]
+Used memory
+125.609375
+Dataset BGL size 20 run no 5
+
+Parsing done. [Time: 0:02:21.636499]
+Used memory
+125.37109375
+Dataset BGL size 20 run no 6
+
+Parsing done. [Time: 0:02:20.549540]
+Used memory
+125.87890625
+Dataset BGL size 20 run no 7
+
+Parsing done. [Time: 0:02:21.678066]
+Used memory
+125.5
+Dataset BGL size 20 run no 8
+
+Parsing done. [Time: 0:02:20.650459]
+Used memory
+125.578125
+Dataset BGL size 20 run no 9
+
+Parsing done. [Time: 0:02:20.891870]
+Used memory
+125.515625
+Dataset BGL size 20 run no 10
+
+Parsing done. [Time: 0:02:21.561216]
+Used memory
+125.40625
+Dataset BGL size 50 run no 1
+
+Parsing done. [Time: 0:17:19.483029]
+Used memory
+174.484375
+Dataset BGL size 50 run no 2
+
+Parsing done. [Time: 0:17:26.812810]
+Used memory
+174.16796875
+Dataset BGL size 50 run no 3
+
+Parsing done. [Time: 0:17:15.681758]
+Used memory
+174.125
+Dataset BGL size 50 run no 4
+
+Parsing done. [Time: 0:17:14.824603]
+Used memory
+174.34765625
+Dataset BGL size 50 run no 5
+
+Parsing done. [Time: 0:17:17.961215]
+Used memory
+174.46484375
+Dataset BGL size 50 run no 6
+
+Parsing done. [Time: 0:17:29.395039]
+Used memory
+174.05859375
+Dataset BGL size 50 run no 7
+
+Parsing done. [Time: 0:17:24.479184]
+Used memory
+174.1796875
+Dataset BGL size 50 run no 8
+
+Parsing done. [Time: 0:17:22.517317]
+Used memory
+174.2265625
+Dataset BGL size 50 run no 9
+
+Parsing done. [Time: 0:17:17.206720]
+Used memory
+174.53125
+Dataset BGL size 50 run no 10
+
+Parsing done. [Time: 0:17:15.096057]
+Used memory
+174.2265625
