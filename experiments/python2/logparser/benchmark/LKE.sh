@@ -1,31 +1,12 @@
-for d in Andriod HDFS Thunderbird Windows
+for d in HDFS Thunderbird Windows OpenSSH BGL
 do
-  for s in 1
+  for s in 2
   do
     for r in 1
     do
         echo "Dataset $d size $s run no $r"
         python LKE_benchmark.py $d $s
     done
-  done
-done
-
-
-for s in 1
-do
-  for r in 1
-  do
-      echo "Dataset OpenSSH size $s run no $r"
-      python LKE_benchmark.py OpenSSH $s
-  done
-done
-
-for s in 1
-do
-  for r in 1
-  do
-      echo "Dataset BGL size $s run no $r"
-      python LKE_benchmark.py BGL $s
   done
 done
 
