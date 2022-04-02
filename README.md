@@ -482,14 +482,13 @@ Each method below has been run 10 times for each of the dataset sizes.
 - [X] IPLoM
 - [X] LenMa
 - [X] LFA
-- [X] LKE (prblms w Android & BGL)
-- [X] LogCluster (prblms w Android)
+- [X] LKE
+- [X] LogCluster
 - [X] LogMine
 - [X] LogSig
-- [ ] MoLFI
 - [X] SHISO
-- [X] SLCT (no Android)
-- [X] Spell ✅ (no Windows >= 50k; no Android >= 50k)
+- [X] SLCT
+- [X] Spell
   
 Although implemented, methods with * are not scalable.
 </details>
@@ -497,7 +496,8 @@ Although implemented, methods with * are not scalable.
 <details>
   <summary><code>Python 3 methods</code></summary>
   
-- [ ] MoLFI
+- [X] MoLFI
+- [X] NuLog
 </details>
 
 ## <a name="method"> Method
