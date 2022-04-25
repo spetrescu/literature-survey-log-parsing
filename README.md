@@ -1,9 +1,9 @@
 # literature-survey-log-parsing
 This repository contains all the relevant information referenced in [Log Parsing Literature Survey](https://github.com/spetrescu/literature-survey-log-parsing/blob/main/pdf/Log_Parsing_Literature_Survey.pdf). <br>
-To run the experiments, please navigate to [Experiments](#experiments) <br>
-To understand more about the search method of the survey, please navigate to [Method](#method) <br>
+To run the experiments, please navigate to [Experiments](#experiments). <br>
+To understand more about the search method of the survey, please navigate to [Method](#method). <br>
 ## <a name="experiments"> Experiments
-This section contains detalied information regarding the Experiments section of [Log Parsing Literature Survey](). <br>
+This section contains detalied information regarding the Experiments section of [Log Parsing Literature Survey](https://github.com/spetrescu/literature-survey-log-parsing/blob/main/pdf/Log_Parsing_Literature_Survey.pdf). <br>
 There are two environments available for running the experiments, namely Python 2 and Python 3. 
 Based on the method that you would like to experiment with, please follow the appropriate setup.
 
